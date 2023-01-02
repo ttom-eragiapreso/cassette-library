@@ -3,6 +3,7 @@
 const begin = document.getElementById('start');
 const end = document.getElementById('stop');
 
+
 const config = 
 {
   inputStream : {
@@ -10,13 +11,13 @@ const config =
     type : "LiveStream",
     target: document.querySelector('#test'),  // Or '#yourElement' (optional)
     constraints: {
-      width: 300,
-      height: 300,
+      width: 1920,
+      height: 1080,
     },
     facingMode : "environment"   
   },
   locator : {
-    halfSample: true,
+    halfSample: false,
     patchSize: "small", // x-small, small, medium, large, x-large
     debug: {
       showCanvas: true,
@@ -51,7 +52,13 @@ onOpen(config);
 begin.addEventListener("click", startStream)
 end.addEventListener("click", stopStream)
 
-Quagga.onDetected((data) => console.log(data));
+Quagga.onDetected(function(data){
+  const input = document.getElementById('input_barcode');
+  console.log('letto')
+  input.value = ''
+  const result = data.codeResult.code
+  input.value = result
+});
 
 // Funzione che lo inizializza se terminato
 function startStream(){

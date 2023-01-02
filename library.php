@@ -8,7 +8,11 @@
 <html lang="en">
 <?php require 'partials/head.php' ?>
 <body>
-  
+
+<a class="btn btn-info" href="index.php">Torna</a>
+
+
+
 <div class="container">
   <div class="row row-cols-6">
 

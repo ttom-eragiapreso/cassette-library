@@ -21,5 +21,16 @@
             "Electronic"
         ],
         "release_year": "1988"
+    },
+    {
+        "id": 8028900,
+        "title": "I Am [...]",
+        "author": "K\u00e9",
+        "thumb": "https:\/\/i.discogs.com\/GvSgRFDpxwCcwcRbin1AZkS8iIITXh9s9CakdonHKLg\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTgwMjg5\/MDAtMTQ1Mzc1ODc1\/OS05MzYxLmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/Ddq4Vcxz49JvSJ-GtXr1eKqumO76JW3g6ZEhgl4PLhc\/rs:fit\/g:sm\/q:90\/h:300\/w:190\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTgwMjg5\/MDAtMTQ1Mzc1ODc1\/OS05MzYxLmpwZWc.jpeg",
+        "genres": [
+            "Pop"
+        ],
+        "release_year": "1996"
     }
 ]

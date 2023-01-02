@@ -1,7 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
-<?php require 'partials/head.php'?>
+  <head>
+    <?php require 'partials/head.php'?>
+    <link rel="stylesheet" href="styles/styles_index.css">
+  </head>
 <body class="d-flex flex-column py-5">
+
+
+<header>
+  <?php require 'components/navbar.php' ?>
+</header>
 
 <div class="container">
   <h1 class="text-center mb-4">Benvenuto Nella Mia Collezione di Cassette</h1>
@@ -11,12 +19,13 @@
 
 <div class="container text-center my-3">
   <form action="server.php" method="GET">
-  <input name="barcode" type="text" placeholder="Insert the barcode" class="form-control w-25 mx-auto">
+  <input id="input_barcode" name="barcode" type="text" placeholder="Insert the barcode" class="form-control w-25 mx-auto">
   <button type="submit" class="btn btn-primary mt-3">Search</button>
 </form>
 </div>
 
 <h2 class="text-center">Oppure usa la telecamera per scannerizzarlo</h2>
+
 <div class="container">
   <div id="test"></div>
   <div class="container text-center mt-4">

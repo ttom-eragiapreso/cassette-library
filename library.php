@@ -20,14 +20,14 @@
 
       <?php foreach($db as $record) :?>
         <div class="col">
-            <div class="card">
-          <img src="<?php echo $record['cover_img']?>" class="card-img-top" alt="<?php echo $record['title']?>">
-          <div class="card-body">
-            <h5 class="card-title"><?php echo $record['title']?></h5>
-            <h6 class="card-subtitle"><?php echo $record['author']?></h6>
-            <a href="#" class="btn btn-primary">Scopri di più</a>
+          <div class="card">
+            <img src="<?php echo $record['cover_img']?>" class="card-img-top" alt="<?php echo $record['title']?>">
+            <div class="card-body">
+              <h5 class="card-title"><?php echo $record['title']?></h5>
+              <h6 class="card-subtitle"><?php echo $record['author']?></h6>
+              <a href="details.php?cassette_id=<?php echo $record['id'] ?>" class="btn btn-primary">Scopri di più</a>
+            </div>
           </div>
-        </div>
         </div>
       <?php endforeach ;?>
       

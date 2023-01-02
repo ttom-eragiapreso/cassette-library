@@ -1,5 +1,5 @@
-[
-    {
+{
+    "8028900": {
         "id": 8028900,
         "title": "I Am [...]",
         "author": "K\u00e9",
@@ -11,7 +11,7 @@
         "release_year": "1996",
         "barcode": "743213525846"
     },
-    {
+    "14974418": {
         "id": 14974418,
         "title": "When In Rome...",
         "author": "Penguin Cafe Orchestra",
@@ -23,7 +23,7 @@
         "release_year": "1988",
         "barcode": "5012985405645"
     },
-    {
+    "16317315": {
         "id": 16317315,
         "title": "Hand On The Torch",
         "author": "Us3",
@@ -36,7 +36,7 @@
         "release_year": "1993",
         "barcode": "0777-7-80883-4-9"
     },
-    {
+    "12615588": {
         "id": 12615588,
         "title": "Loved",
         "author": "Cranes",
@@ -48,7 +48,7 @@
         "release_year": "1994",
         "barcode": "0 743212 283747"
     },
-    {
+    "14031597": {
         "id": 14031597,
         "title": "The Gospel Collection",
         "author": "Various",
@@ -60,7 +60,7 @@
         "release_year": "1997",
         "barcode": "4 009880 373842"
     },
-    {
+    "13145363": {
         "id": 13145363,
         "title": "Small Victories",
         "author": "The Parachute Club",
@@ -73,7 +73,7 @@
         "release_year": "1986",
         "barcode": "0035627118647"
     },
-    {
+    "19991125": {
         "id": 19991125,
         "title": "Come A Little Closer",
         "author": "Etta James",
@@ -85,7 +85,7 @@
         "release_year": "1988",
         "barcode": "08481500964"
     },
-    {
+    "16602402": {
         "id": 16602402,
         "title": "Reading, Writing And Arithmetic",
         "author": "The Sundays",
@@ -97,7 +97,7 @@
         "release_year": "1990",
         "barcode": "5014644401487"
     },
-    {
+    "12705156": {
         "id": 12705156,
         "title": "Rendezvous",
         "author": "Christopher Cross",
@@ -109,7 +109,7 @@
         "release_year": "1992",
         "barcode": "7 43211 02914 8"
     },
-    {
+    "18281842": {
         "id": 18281842,
         "title": "Copeland",
         "author": "Beverly Glenn",
@@ -122,7 +122,7 @@
         "release_year": "2021",
         "barcode": "5 400863 043193"
     },
-    {
+    "8278831": {
         "id": 8278831,
         "title": "Timeless Funk",
         "author": "Rufus Thomas",
@@ -134,7 +134,7 @@
         "release_year": "1992",
         "barcode": "S.I.A.E."
     },
-    {
+    "2625865": {
         "id": 2625865,
         "title": "Sign",
         "author": "CLOCKDVA*",
@@ -146,7 +146,7 @@
         "release_year": "1993",
         "barcode": "8 001719 202251"
     },
-    {
+    "9862334": {
         "id": 9862334,
         "title": "Below The Waste",
         "author": "Art Of Noise*",
@@ -158,7 +158,7 @@
         "release_year": "1989",
         "barcode": "0 42283 94044 4 97"
     },
-    {
+    "15961155": {
         "id": 15961155,
         "title": "ACR Loco",
         "author": "A Certain Ratio",
@@ -170,7 +170,7 @@
         "release_year": "2020",
         "barcode": "5 400863 033545"
     },
-    {
+    "11381322": {
         "id": 11381322,
         "title": "#1",
         "author": "Felix",
@@ -182,7 +182,7 @@
         "release_year": "1993",
         "barcode": "7 43211 37004 2"
     },
-    {
+    "13503270": {
         "id": 13503270,
         "title": "Definitely Maybe",
         "author": "Oasis (2)",
@@ -194,7 +194,7 @@
         "release_year": "1994",
         "barcode": "5 099747 731846"
     },
-    {
+    "3833165": {
         "id": 3833165,
         "title": "Feelings",
         "author": "David Byrne",
@@ -206,7 +206,7 @@
         "release_year": "1997",
         "barcode": "0 9362 46605 4 5"
     },
-    {
+    "12110850": {
         "id": 12110850,
         "title": "Tutto L'Amore Che Ti Manca",
         "author": "Julio Iglesias",
@@ -218,7 +218,7 @@
         "release_year": null,
         "barcode": "5 099746 878047"
     },
-    {
+    "25263673": {
         "id": 25263673,
         "title": "Momenti",
         "author": "Julio Iglesias",
@@ -230,7 +230,7 @@
         "release_year": "1982",
         "barcode": "5099746877941"
     },
-    {
+    "14661313": {
         "id": 14661313,
         "title": "Banana Boat And Other Famous Folk Songs",
         "author": "Harry Belafonte",
@@ -242,7 +242,7 @@
         "release_year": "1987",
         "barcode": "0 035629 005242"
     },
-    {
+    "12159057": {
         "id": 12159057,
         "title": "Clandestino",
         "author": "Manu Chao",
@@ -255,7 +255,7 @@
         "release_year": "1998",
         "barcode": "724384578343"
     },
-    {
+    "9836504": {
         "id": 9836504,
         "title": "Hit The Highway",
         "author": "The Proclaimers",
@@ -267,7 +267,7 @@
         "release_year": "1994",
         "barcode": "724382884347"
     },
-    {
+    "7232600": {
         "id": 7232600,
         "title": "King Of Bongo",
         "author": "Mano Negra",
@@ -279,7 +279,7 @@
         "release_year": "1991",
         "barcode": "3268440508402"
     },
-    {
+    "18558049": {
         "id": 18558049,
         "title": "Toto IV",
         "author": "Toto",
@@ -291,7 +291,7 @@
         "release_year": "1991",
         "barcode": "5 099746 831240"
     },
-    {
+    "10298739": {
         "id": 10298739,
         "title": "Off The Ground",
         "author": "Paul McCartney",
@@ -303,7 +303,7 @@
         "release_year": "1993",
         "barcode": "0 7777-80362-4 1"
     },
-    {
+    "10197014": {
         "id": 10197014,
         "title": "Made In Japan",
         "author": "Elio E Le Storie Tese",
@@ -316,7 +316,7 @@
         "release_year": "2001",
         "barcode": "0 743218 560545"
     },
-    {
+    "24821486": {
         "id": 24821486,
         "title": "Return Of The Dream Canteen",
         "author": "Red Hot Chili Peppers",
@@ -329,7 +329,7 @@
         "release_year": "2022",
         "barcode": "0 93624 86818 7"
     },
-    {
+    "22713947": {
         "id": 22713947,
         "title": "Unlimited Love",
         "author": "Red Hot Chili Peppers",
@@ -342,7 +342,7 @@
         "release_year": "2022",
         "barcode": "0 93624 87370 9"
     },
-    {
+    "5002756": {
         "id": 5002756,
         "title": "Stadium Arcadium",
         "author": "Red Hot Chili Peppers",
@@ -354,7 +354,7 @@
         "release_year": "2006",
         "barcode": "0 9362-49996-4 5"
     },
-    {
+    "8079003": {
         "id": 8079003,
         "title": "By The Way",
         "author": "Red Hot Chili Peppers",
@@ -366,7 +366,7 @@
         "release_year": "2002",
         "barcode": "093624814047"
     },
-    {
+    "13514121": {
         "id": 13514121,
         "title": "Californication",
         "author": "Red Hot Chili Peppers",
@@ -378,7 +378,7 @@
         "release_year": "1999",
         "barcode": "0 9362 47386 40"
     },
-    {
+    "9388579": {
         "id": 9388579,
         "title": "Blood Sugar Sex Magik",
         "author": "Red Hot Chili Peppers",
@@ -390,7 +390,7 @@
         "release_year": "1991",
         "barcode": " 0 7599-26681-4 9"
     },
-    {
+    "8539673": {
         "id": 8539673,
         "title": "One Hot Minute",
         "author": "Red Hot Chili Peppers",
@@ -402,4 +402,4 @@
         "release_year": "1995",
         "barcode": "0 9362-45733-4 0"
     }
-]
+}

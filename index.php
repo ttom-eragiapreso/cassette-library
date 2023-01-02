@@ -3,16 +3,15 @@
   <head>
     <?php require 'partials/head.php'?>
     <link rel="stylesheet" href="styles/styles_index.css">
+    <script src="main.js" defer></script>
   </head>
-<body class="d-flex flex-column py-5">
+<body>
 
-
-<header>
-  <?php require 'components/navbar.php' ?>
-</header>
+<!-- Innesto la navbar -->
+<?php require 'components/navbar.php' ?>
 
 <div class="container">
-  <h1 class="text-center mb-4">Benvenuto Nella Mia Collezione di Cassette</h1>
+  <h1 class="text-center my-3">Benvenuto Nella Mia Collezione di Cassette</h1>
 </div>
 
 <h2 class="text-center">Inserisci il codice a barre</h2>

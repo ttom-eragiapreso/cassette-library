@@ -1,9 +1,8 @@
-//Appena apro faccio partire lo stream
-
+// Mi prendo gli elementi del DOM che mi servono
 const begin = document.getElementById('start');
 const end = document.getElementById('stop');
 
-
+// Configurazioni d'inizio di Quagga
 const config = 
 {
   inputStream : {
@@ -19,30 +18,9 @@ const config =
   locator : {
     halfSample: false,
     patchSize: "small", // x-small, small, medium, large, x-large
-    debug: {
-      showCanvas: true,
-      showPatches: true,
-      showFoundPatches: true,
-      showSkeleton: true,
-      showLabels: true,
-      showPatchLabels: true,
-      showRemainingPatchLabels: true,
-      boxFromPatches: {
-        showTransformed: true,
-        showTransformedBox: true,
-        showBB: true
-      }
-    }
   },
   decoder : {
-    readers : ["upc_reader"]
-  },
-  debug : true,
-  debug: {
-    drawBoundingBox: true,
-    showFrequency: true,
-    drawScanline: true,
-    showPattern: true
+    readers : ["upc_reader", "ean_reader"]
   }
 }
 
@@ -52,6 +30,9 @@ onOpen(config);
 begin.addEventListener("click", startStream)
 end.addEventListener("click", stopStream)
 
+
+
+// Quando interpreta un codice a barre svuoto il campo di input e lo riempo con quello che ha trovato lui
 Quagga.onDetected(function(data){
   const input = document.getElementById('input_barcode');
   console.log('letto')
@@ -64,6 +45,7 @@ Quagga.onDetected(function(data){
 function startStream(){
   console.log("Stream iniziato")
   onOpen(config)
+  Quagga.start();
 }
 
 // Funzione per terminare lo stream
@@ -81,7 +63,7 @@ function onOpen(config){
           return
       }
       console.log("Initialization finished. Ready to start");
-      Quagga.start();
+      //Quagga.start();
   });
   
 }

@@ -1,18 +1,20 @@
-<?php 
-
-  $db = json_decode(file_get_contents('db.json'), true);
-
-?>
+<!-- Mi prendo il db -->
+<?php $db = json_decode(file_get_contents('db.json'), true);?>
 
 <!DOCTYPE html>
 <html lang="en">
-<?php require 'partials/head.php' ?>
+  <head>
+    <?php require 'partials/head.php' ?>
+    <link rel="stylesheet" href="styles/styles_library.css">
+  </head>
 <body>
 
-<a class="btn btn-info" href="index.php">Torna</a>
+<!-- Innesto la navbar -->
+<?php require 'components/navbar.php' ?>
 
-
-
+<!-- Faccio un foreach dei records nel db se non è vuoto -->
+<?php if(!empty($db)): ?>
+<main>
 <div class="container">
   <div class="row row-cols-6">
 
@@ -23,7 +25,7 @@
           <div class="card-body">
             <h5 class="card-title"><?php echo $record['title']?></h5>
             <h6 class="card-subtitle"><?php echo $record['author']?></h6>
-            <a href="#" class="btn btn-primary">Go somewhere</a>
+            <a href="#" class="btn btn-primary">Scopri di più</a>
           </div>
         </div>
         </div>
@@ -31,7 +33,13 @@
       
     </div>
   </div>
-</div>
+</main>
+<!-- Altrimenti messaggio triste -->
+<?php else : ?>
+  <main>
+    <h1>Non hai nessuna cassetta :(</h1>
+  </main>
+<?php endif; ?>
 
 
 

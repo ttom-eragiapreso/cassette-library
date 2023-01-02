@@ -6,6 +6,12 @@ img {
 
 body {
   height: 100vh;
+  background-color: darkgray;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(255, 103, 86);
 }
 
 /* Aggiustamento della risoluzione e posizionamento */
@@ -28,3 +34,14 @@ canvas.drawingBuffer {
 }
 
 /* Navbar */
+
+.em-nav {
+  height: 70px;
+  display: flex;
+  align-items: center;
+  background-color: bisque;
+}
+
+.em-nav a:hover {
+  color: brown;
+}

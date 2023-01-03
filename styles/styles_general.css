@@ -3,13 +3,6 @@ a {
   color: rgb(255, 103, 86);
 }
 
-.em-nav {
-  height: 70px;
-  display: flex;
-  align-items: center;
-  background-color: bisque;
-}
-
 main {
   min-height: calc(100vh - 70px);
   padding-top: 2.5rem;

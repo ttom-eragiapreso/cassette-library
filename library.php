@@ -14,23 +14,23 @@
 
 <!-- Faccio un foreach dei records nel db se non è vuoto -->
 <?php if(!empty($db)): ?>
-<main class="bg-space-500">
+<main class="bg-space-300">
 <div class="container md:gap-x-4 mx-auto flex flex-wrap justify-around px-5 columns-2 md:columns-4 lg:columns-6">
 
 
 <?php foreach($db as $record) :?>
 
 
-    <div class="flex flex-col justify-between min-h-72 mb-28 p-3 bg-slate-300 shadow-2xl rounded-xl">
+    <div class="flex flex-col justify-between min-h-72 mb-28 p-3 bg-slate-300 shadow-lg shadow-space-700/80 rounded-xl">
 
-    <div>
+    <div class="shadow-md">
       <img src="<?php echo $record['cover_img']?>" 
       class="shrink-0 w-48 object-cover h-full max-h-full max-w-full rounded-lg" 
       alt="<?php echo $record['title']?>">
     </div>
       
 
-      <div class=" py-3 w-48 rounded-b-xl h-auto">
+      <div class="py-3 w-48 rounded-b-xl h-auto">
         <h5 class="text-black-500"><?php echo $record['title']?></h5>
         <h6 class="text-slate-600 mb-3"><?php echo $record['author']?></h6>
         <a href="details.php?cassette_id=<?php echo $record['id'] ?>" 

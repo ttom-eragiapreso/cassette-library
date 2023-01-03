@@ -15,7 +15,8 @@
 <!-- Faccio un foreach dei records nel db se non è vuoto -->
 <?php if(!empty($db)): ?>
 <main class="bg-space-300">
-<div class="container md:gap-x-4 mx-auto flex flex-wrap justify-around px-5 columns-2 md:columns-4 lg:columns-6">
+
+  <div class="container md:gap-x-4 mx-auto flex flex-wrap justify-around px-5 columns-2 md:columns-4 lg:columns-6">
 
 
 <?php foreach($db as $record) :?>

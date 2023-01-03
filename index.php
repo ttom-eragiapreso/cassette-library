@@ -10,7 +10,7 @@
 <!-- Innesto la navbar -->
 <?php require 'components/navbar.php' ?>
 
-<main class="bg-space-100 font-mono subpixel-antialiased">
+<main class="bg-space-100 subpixel-antialiased">
   <h1 class="text-center text-2xl font-bold my-3">Benvenuto Nella Mia Collezione di Cassette</h1>
 
 

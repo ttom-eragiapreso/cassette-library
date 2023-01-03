@@ -1,12 +1,11 @@
 a {
   text-decoration: none;
   color: rgb(255, 103, 86);
-}
+} 
 
 main {
   min-height: calc(100vh - 70px);
   padding-top: 2.5rem;
-  background-color: white;
 }
 
 img {
@@ -14,8 +13,6 @@ img {
   max-height: 100%;
 }
 
-
 body {
   height: 100vh;
-  background-color: white;
-}
+} 

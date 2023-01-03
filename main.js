@@ -1,7 +1,10 @@
 // Mi prendo gli elementi del DOM che mi servono
 const begin = document.getElementById('start');
 const end = document.getElementById('stop');
+const video = document.querySelector('.container #test video');
 
+video.style.borderRadius = "10px";
+console.log('ciao')
 // Configurazioni d'inizio di Quagga
 const config = 
 {

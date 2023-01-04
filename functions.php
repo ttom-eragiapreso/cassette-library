@@ -19,7 +19,7 @@ function getTitleAuthor($src, $switch){
   }
   
   function getYear($src){
-    return $src['year'];
+    return $src['year'] ?? '';
   }
   function getId($src){
     return $src['id'];
@@ -76,7 +76,6 @@ function getTitleAuthor($src, $switch){
     $polished_results = array_map('createRecord', $results);
     // Scrivo i file all'interno di un altro json che contiene tutti i risultati di una ricerca
     file_put_contents('results.json', json_encode($polished_results));
-    return $polished_results;
       
     };
   

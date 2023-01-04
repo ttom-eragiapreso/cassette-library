@@ -19,13 +19,12 @@
 
 <main class="h-full bg-space-300 flex items-start">
 
-<div class="container-md mx-auto">
+<div class="container-md mx-auto h-full">
 
-<div class="">
-
-    <div class="shadow-md shadow-space-400 rounded-lg overflow-hidden flex bg-slate-300">
-      <img src="<?php echo $the_one['cover_img'] ?>" class="" alt="<?php echo $the_one['title'] ?>">
-
+    <div class="shadow-md shadow-space-400 rounded-lg overflow-hidden flex bg-slate-300 max-h-[80%]">
+      <div>
+        <img src="<?php echo $the_one['cover_img'] ?>" class="max-h-full object-contain" alt="<?php echo $the_one['title'] ?>">
+      </div>
 
       <div class="card-details p-3">
 
@@ -40,15 +39,7 @@
       </div>
       
 
-
-
-
     </div>
-
-
-
-
-</div>
 
 </div>
 

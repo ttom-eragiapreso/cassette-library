@@ -2,42 +2,61 @@
 
 // Utilities per prendermi i valori dalla risposta API
 function getTitleAuthor($src, $switch){
-    $output = ($switch == true) ?  trim(explode('-', $src[0]['title'])[1]) :  trim(explode('-', $src[0]['title'])[0]);
+    $output = ($switch == true) ?  trim(explode('-', $src['title'])[1]) :  trim(explode('-', $src['title'])[0]);
     return $output;  
   }
 
   function getThumb($src){
-    return $src[0]['thumb'];
+    return $src['thumb'];
   }
 
   function getCover($src){
-    return $src[0]['cover_image'];
+    return $src['cover_image'];
   }
   
   function getGenres($src){
-    return $src[0]['genre'];
+    return $src['genre'];
   }
   
   function getYear($src){
-    return $src[0]['year'];
+    return $src['year'];
   }
   function getId($src){
-    return $src[0]['id'];
+    return $src['id'];
   }
   
   function getBarcode($src){
-    return $src[0]['barcode'][0];
+    return $src['barcode'];
   }
 
-  // Funzione principale che fa la ricerca e l'aggiunta al database
+  function createRecord($record){
+    $newRecord = [
+      "id" => getId($record),
+      "title" => getTitleAuthor($record, true),
+      "author" => getTitleAuthor($record, false),
+      "thumb" => getThumb($record),
+      "cover_img" => getCover($record),
+      "genres" => getGenres($record),
+      "release_year" => getYear($record),
+      "barcode" => getBarcode($record)
+    ];
+    return $newRecord;
+  }
 
-  function apiCall($barcode){
+  // Utility che aggiunge un item al db
+  function addToDb($db, $item){
+    $db[] = $item;
+    file_put_contents('db.json', json_encode($db, JSON_PRETTY_PRINT));
+  }
+  // Funzione principale che fa la ricerca 
+
+  function apiCall(String $barcode = null, String $artist = '', String $release_title = ''){
   
-  
+    // Prendo il base Url e il mio token per le chiamate
     $baseUrl = 'https://api.discogs.com/database/search?';
     $token = 'HWiFdStcHwaqgBqEAoEjjvCFhQUNnZHqZFuelXuZ';
-    $db = json_decode(file_get_contents('db.json'), true);
     
+    // Creo le options necessarie per fare la chiamata
     $opts = array(
       'http'=>array(
         'method'=>"GET",
@@ -45,30 +64,19 @@ function getTitleAuthor($src, $switch){
         'user_agent' => 'My Library test app - localhost'
         )
       );
+    
+    // Le racchiudo in uno stream context da mandare con la chiamata
+    $context = stream_context_create($opts);
+
+    // Mi salvo il risultato della chiamata nella variabile reponse, e in results ci metto i risultati. 
+    $response = json_decode(file_get_contents("$baseUrl" . "token=$token" . "&barcode=$barcode" . "&artist=$artist" . "&release_title=$release_title",false, $context), true);
+    $results = $response['results'];
+    
+    // Mi creo i miei array da tutto quello che mi arriva da discogs e lo ritorno.
+    $polished_results = array_map('createRecord', $results);
+    // Scrivo i file all'interno di un altro json che contiene tutti i risultati di una ricerca
+    file_put_contents('results.json', json_encode($polished_results));
+    return $polished_results;
       
-      $context = stream_context_create($opts);
-      
-      $response = json_decode(file_get_contents("$baseUrl" . "token=$token" . "&barcode=$barcode",false, $context), true);
-      $results = $response['results'];
-      
-      $newRecord = [
-        "id" => getId($results),
-        "title" => getTitleAuthor($results, true),
-        "author" => getTitleAuthor($results, false),
-        "thumb" => getThumb($results),
-        "cover_img" => getCover($results),
-        "genres" => getGenres($results),
-        "release_year" => getYear($results),
-        "barcode" => getBarcode($results)
-      ];
-      
-      if(isset($newRecord['id'])){
-        $db[] = $newRecord;
-      }else {
-        return;
-      }
-      
-      file_put_contents('db.json', json_encode($db, JSON_PRETTY_PRINT));
-      return $db;
     };
   

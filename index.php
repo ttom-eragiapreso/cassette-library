@@ -19,6 +19,8 @@
 <div class="container text-center my-3">
   <form action="server.php" method="GET">
   <input id="input_barcode" name="barcode" type="text" placeholder="Insert the barcode" class="rounded mx-auto py-1 px-2">
+  <input name="artist" type="text" placeholder="Search by artist name" class="rounded mx-auto py-1 px-2">
+  <input name="release_title" type="text" placeholder="Search by release title" class="rounded mx-auto py-1 px-2">
   <button type="submit" class="btn-primary mt-3">Search</button>
 </form>
 </div>

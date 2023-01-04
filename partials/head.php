@@ -17,4 +17,3 @@
 }
 
   </style>
-  <title>My Cassette Library</title>

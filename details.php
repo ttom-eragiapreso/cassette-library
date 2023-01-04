@@ -11,7 +11,6 @@
 <html lang="en">
 <head>
   <?php require 'partials/head.php' ?>
-  <link rel="stylesheet" href="styles/styles_details.css">
 </head>
 <body>
   

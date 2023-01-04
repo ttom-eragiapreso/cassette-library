@@ -17,7 +17,7 @@
 <h2 class="text-center text-xl">Inserisci il codice a barre</h2>
 
 <div class="container text-center my-3">
-  <form action="server.php" method="GET">
+  <form action="server.php?navigation=false" method="GET">
   <input id="input_barcode" name="barcode" type="text" placeholder="Insert the barcode" class="rounded mx-auto py-1 px-2">
   <input name="artist" type="text" placeholder="Search by artist name" class="rounded mx-auto py-1 px-2">
   <input name="release_title" type="text" placeholder="Search by release title" class="rounded mx-auto py-1 px-2">

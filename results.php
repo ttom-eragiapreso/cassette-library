@@ -1,4 +1,8 @@
-<?php $results = json_decode(file_get_contents('results.json'), true) ?>
+<?php 
+
+  $results = json_decode(file_get_contents('results.json'), true);
+  $currentPagination = json_decode(file_get_contents('pagination.json'), true);
+  ?>
 
 <!DOCTYPE html>
 <html lang="en">
@@ -11,13 +15,15 @@
 <?php require 'components/navbar.php' ?>
 <main class="bg-space-300">
 
-  <div class="container md:gap-x-4 mx-auto flex flex-wrap justify-around px-5 columns-2 md:columns-4 lg:columns-6">
-
-
+<div class="container mx-auto px-5">
+  <h2 class="text-bisque-200 text-2xl">Results found: <?php echo $currentPagination['items'] ?></h2>
+  <h2 class="text-bisque-200 text-2xl mb-7">Page: <?php echo $currentPagination['page'] ?> of <?php echo $currentPagination['pages'] ?></h2>
+</div>
+  
+<div class="container md:gap-x-4 mx-auto flex flex-wrap justify-around px-5 columns-2 md:columns-4 lg:columns-6">
 <?php foreach($results as $record) :?>
 
-
-    <div class="flex flex-col justify-between min-h-72 mb-28 p-3 bg-slate-300 shadow-lg shadow-space-700/80 rounded-xl">
+  <div class="flex flex-col justify-between min-h-72 mb-28 p-3 bg-slate-300 shadow-lg shadow-space-700/80 rounded-xl">
 
     <div class="shadow-md shadow-slate-400 rounded-lg overflow-hidden">
       <img src="<?php echo $record['cover_img']?>" 
@@ -26,27 +32,36 @@
     </div>
       
 
-      <div class="w-48 rounded-b-xl h-auto text-center">
-        <h5 class="text-black-500 mb-3"><?php echo $record['title']?></h5>
-        <h6 class="text-slate-600 mb-4"><?php echo $record['author']?></h6>
-        <div class="flex content-center">
-          <a href="#" 
-        class="
-        mx-auto
-         bg-mint-500 p-2 text-bisque-50
-         rounded-xl 
-         hover:bg-mint-700">Aggiungi alla libreria</a>
-        </div>
-        
+    <div class="w-48 rounded-b-xl h-auto text-center">
+      <h5 class="text-black-500 mb-3"><?php echo $record['title']?></h5>
+      <h6 class="text-slate-600 mb-4"><?php echo $record['author']?></h6>
+      <div class="flex content-center">
+        <a href="#" 
+      class="
+        bg-mint-500 p-2 text-bisque-50
+        rounded-xl 
+        hover:bg-mint-700">Aggiungi alla libreria</a>
       </div>
-
+      
     </div>
+
+  </div>
 
 
 <?php endforeach ;?>
 
 
   </div>
+
+
+  <a href="server.php?navigation=true&destination=next">Next Page</a>
+
+  <a href="server.php?navigation=true&destination=prev">Prev Page</a>
+  
+  <a href="server.php?navigation=true&destination=first">First Page</a>
+
+  <a href="server.php?navigation=true&destination=last">Last Page</a>
+
 </main>
 
 </body>

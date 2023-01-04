@@ -50,7 +50,7 @@ function getTitleAuthor($src, $switch){
   }
   // Funzione principale che fa la ricerca 
 
-  function apiCall(String $barcode = null, String $artist = '', String $release_title = ''){
+  function apiCall(String $barcode = '', String $artist = '', String $release_title = ''){
   
     // Prendo il base Url e il mio token per le chiamate
     $baseUrl = 'https://api.discogs.com/database/search?';
@@ -70,12 +70,48 @@ function getTitleAuthor($src, $switch){
 
     // Mi salvo il risultato della chiamata nella variabile reponse, e in results ci metto i risultati. 
     $response = json_decode(file_get_contents("$baseUrl" . "token=$token" . "&barcode=$barcode" . "&artist=$artist" . "&release_title=$release_title",false, $context), true);
+    $pagination = $response['pagination'];
     $results = $response['results'];
     
     // Mi creo i miei array da tutto quello che mi arriva da discogs e lo ritorno.
     $polished_results = array_map('createRecord', $results);
+    $allIds = [];
+    foreach($polished_results as $record){
+      $allIds[] = $record['id'];
+    }
+    $assocPolishedResults = array_combine($allIds, $polished_results);
+
     // Scrivo i file all'interno di un altro json che contiene tutti i risultati di una ricerca
-    file_put_contents('results.json', json_encode($polished_results));
-      
+    file_put_contents('results.json', json_encode($assocPolishedResults,  JSON_PRETTY_PRINT));
+    file_put_contents('pagination.json', json_encode($pagination, JSON_PRETTY_PRINT));
     };
   
+function pageNavigation($url){
+
+    // Creo le options necessarie per fare la chiamata
+    $opts = array(
+      'http'=>array(
+        'method'=>"GET",
+        'header'=>"Accept-language: en",
+        'user_agent' => 'My Library test app - localhost'
+        )
+      );
+    
+    // Le racchiudo in uno stream context da mandare con la chiamata
+    $context = stream_context_create($opts);
+
+    $response = json_decode(file_get_contents($url, false, $context), true);
+    $results = $response['results'];
+    $pagination = $response['pagination'];
+
+    $polished_results = array_map('createRecord', $results);
+    $allIds = [];
+    foreach($polished_results as $record){
+      $allIds[] = $record['id'];
+    }
+    $assocPolishedResults = array_combine($allIds, $polished_results);
+
+    // Scrivo i file all'interno di un altro json che contiene tutti i risultati di una ricerca
+    file_put_contents('results.json', json_encode($assocPolishedResults,  JSON_PRETTY_PRINT));
+    file_put_contents('pagination.json', json_encode($pagination, JSON_PRETTY_PRINT));
+}

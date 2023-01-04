@@ -1,0 +1,10 @@
+{
+    "page": 1,
+    "pages": 116,
+    "per_page": 50,
+    "items": 5784,
+    "urls": {
+        "last": "https:\/\/api.discogs.com\/database\/search?token=HWiFdStcHwaqgBqEAoEjjvCFhQUNnZHqZFuelXuZ&barcode=&artist=nirvana&release_title=&page=116&per_page=50",
+        "next": "https:\/\/api.discogs.com\/database\/search?token=HWiFdStcHwaqgBqEAoEjjvCFhQUNnZHqZFuelXuZ&barcode=&artist=nirvana&release_title=&page=2&per_page=50"
+    }
+}

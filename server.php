@@ -20,13 +20,13 @@ $currentPagination = json_decode(file_get_contents('pagination.json'), true);
 
 if(isset($result_id)){
   addToDb($db, $resultsStored[$result_id]);
-  header('Location: library.php');
+  header('Location: index.php');
   return;
 }
 
 if(isset($cassette_id)){
   deleteFromDb($db, $cassette_id);
-  header('Location: library.php');
+  header('Location: index.php');
   return;
 }
   

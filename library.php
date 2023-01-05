@@ -5,6 +5,7 @@
 <html lang="en">
   <head>
     <?php require 'partials/head.php' ?>
+    <title>My Library</title>
   </head>
 <body>
 
@@ -14,6 +15,8 @@
 <!-- Faccio un foreach dei records nel db se non è vuoto -->
 <?php if(!empty($db)): ?>
 <main class="bg-space-300">
+<h1 class="text-center text-pastel-200 text-3xl font-bold mb-7">Benvenuto Nella Mia Collezione Musicale!</h1>
+
 
   <div class="container md:gap-x-4 mx-auto flex flex-wrap justify-around px-5 columns-2 md:columns-4 lg:columns-6">
 

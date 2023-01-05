@@ -133,3 +133,12 @@ function pageNavigation($url){
     file_put_contents('results.json', json_encode($assocPolishedResults,  JSON_PRETTY_PRINT));
     file_put_contents('pagination.json', json_encode($pagination, JSON_PRETTY_PRINT));
 }
+
+// FUNZIONI PER LOGIN E AUTENTICAZIONE 
+
+
+
+function addUser($db, $user){
+  $db[$user['id']] = $user;
+  file_put_contents('users.json', json_encode($db, JSON_PRETTY_PRINT));
+}

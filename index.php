@@ -1,13 +1,14 @@
-<!-- Mi prendo il db -->
 <?php 
 session_start();
 
-$user = $_SESSION['username'] ?? null;
+$user = $_SESSION['user'] ?? null;
 
-$db = json_decode(file_get_contents('db.json'), true);
 
 if(!isset($user)){header('Location: login.php');};
 
+
+
+$db = json_decode(file_get_contents('db.json'), true);
 ?>
 
 <!DOCTYPE html>

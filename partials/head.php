@@ -9,10 +9,10 @@
   <style type="text/tailwindcss">
   @layer base {
   .btn-primary {
-    @apply bg-mint-500 p-2 text-bisque-50 rounded-lg hover:bg-mint-600
+    @apply bg-mint-500 px-2 py-1 text-bisque-50 rounded-lg hover:bg-mint-600
   }
   .btn-danger {
-    @apply bg-pastel-500 p-2 text-bisque-50 rounded-lg hover:bg-pastel-600
+    @apply bg-pastel-500 px-2 py-1 text-bisque-50 rounded-lg hover:bg-pastel-600
   }
 }
 

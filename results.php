@@ -1,5 +1,8 @@
 <?php 
 
+  session_start();
+  if(!isset($user)){header('Location: login.php');};
+
   $results = json_decode(file_get_contents('results.json'), true);
   $currentPagination = json_decode(file_get_contents('pagination.json'), true);
   ?>

@@ -1,744 +1,868 @@
 {
-    "23859962": {
-        "id": 23859962,
-        "title": "The Great Walk",
-        "author": "Autre, Two Thou, MarcoAntonio Spaventi, Enrico Demuro",
-        "thumb": "https:\/\/i.discogs.com\/gwkIsyeduU2mBRDanq-DW6c_7R3L-XEqzWnimzwRrI8\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTIzODU5\/OTYyLTE2NTc2MTQ2\/NDgtMjc0Ny5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/4VKs4SB4ZiprMg9oG9KBLWS6Zo9v5kNTjnGpob00_Lw\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTIzODU5\/OTYyLTE2NTc2MTQ2\/NDgtMjc0Ny5qcGVn.jpeg",
-        "genres": [
-            "Electronic",
-            "Funk \/ Soul"
-        ],
-        "release_year": "2022",
-        "barcode": []
-    },
-    "4604354": {
-        "id": 4604354,
-        "title": "The Great Walk",
-        "author": "Trigger B",
-        "thumb": "https:\/\/i.discogs.com\/jeGW6G5pvhZqSP9-7lqTzmhz2BJGc5mP8phWqilHxW0\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQ2MDQz\/NTQtMTM2OTY4NjYw\/MS03Mjk0LmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/ls9v1Tzn8QiBAR2WZlLQuw9FREyr19-gZOSGtmFV6Hg\/rs:fit\/g:sm\/q:90\/h:578\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQ2MDQz\/NTQtMTM2OTY4NjYw\/MS03Mjk0LmpwZWc.jpeg",
-        "genres": [
-            "Electronic"
-        ],
-        "release_year": "",
-        "barcode": []
-    },
-    "8489693": {
-        "id": 8489693,
-        "title": "The Great Walk",
-        "author": "Another Option",
-        "thumb": "https:\/\/i.discogs.com\/G6l5Gf2E3ni7P5_nRRNcvsMzEQwVONbypeeL_HT4HuQ\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTg0ODk2\/OTMtMTQ2MjYzMjE4\/NC05MTMzLmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/dcxPO5pUaLhl9l5IQqh8EcMZeNS0EW0uZleqJxCbHvs\/rs:fit\/g:sm\/q:90\/h:431\/w:429\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTg0ODk2\/OTMtMTQ2MjYzMjE4\/NC05MTMzLmpwZWc.jpeg",
+    "255406": {
+        "id": 255406,
+        "title": "The Plasma Shaft",
+        "author": "Red Hot Chili Peppers",
+        "thumb": "https:\/\/i.discogs.com\/rngRvS_O3PAkjLOREFLJy-lV56MnTrjLFMONeUoW5RY\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTIzMjM0\/MzgtMTI3NjkzMzcw\/Mi5qcGVn.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/r56oNg5IYNKCQBsfYSQHjF7dMOOMcyCfpV-OQDnbSd4\/rs:fit\/g:sm\/q:90\/h:522\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTIzMjM0\/MzgtMTI3NjkzMzcw\/Mi5qcGVn.jpeg",
         "genres": [
             "Rock"
         ],
-        "release_year": "2010",
-        "barcode": []
+        "release_year": "1994",
+        "barcode": "Nessun codice a barre disponibile"
     },
-    "9000673": {
-        "id": 9000673,
-        "title": "The Great Walk",
-        "author": "Yaqui Yeti",
-        "thumb": "https:\/\/i.discogs.com\/zITQHqxxxLOvUezkGHjD-rYiX3R3jFcT_gDJ7nQMTdk\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTkwMDA2\/NzMtMTQ3MzA0NDU3\/NC04OTkyLmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/WKFRh_-UUu-piC9gTPwEy7XOryJ-njo4_1lDTthhDRQ\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTkwMDA2\/NzMtMTQ3MzA0NDU3\/NC04OTkyLmpwZWc.jpeg",
-        "genres": [
-            "Rock",
-            "Blues"
-        ],
-        "release_year": "2016",
-        "barcode": [
-            "ZE4950A 19881992 CDALTRON ",
-            "ZE4950B 19921988 CDALTRON"
-        ]
-    },
-    "15992506": {
-        "id": 15992506,
-        "title": "The Great Walk",
-        "author": "Yaqui Yeti",
-        "thumb": "https:\/\/i.discogs.com\/ZgQrOyHdDb5pYeK4tStketmyxBF6--OB0rP8lL0xLEw\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1OTky\/NTA2LTE2MDE1MTUz\/OTItMjgwNy5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/0sTO3P1dqDfVdf78Rgiiz4x6DWpSYJfQC1gygjhW36c\/rs:fit\/g:sm\/q:90\/h:543\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1OTky\/NTA2LTE2MDE1MTUz\/OTItMjgwNy5qcGVn.jpeg",
+    "603192": {
+        "id": 603192,
+        "title": "Under The Covers",
+        "author": "Red Hot Chili Peppers",
+        "thumb": "https:\/\/i.discogs.com\/L9fXAQ81Yzy46yceDO2yu2hyIY5wxXN1tU5KeRvi4Dg\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTg2MDk3\/OC0xNDMzMDM5MjE0\/LTYxNDAuanBlZw.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/4PoKMirTIR1djqAoy8uknwoNtfBgia0E0yw8j8ShCgc\/rs:fit\/g:sm\/q:90\/h:477\/w:547\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTg2MDk3\/OC0xNDMzMDM5MjE0\/LTYxNDAuanBlZw.jpeg",
         "genres": [
             "Rock"
         ],
-        "release_year": "",
+        "release_year": "1998",
         "barcode": [
-            "8 88295 38497 1"
+            "7 2434 94139 2 4",
+            "724349413924 1-1-1 MASTERED BY EMI MFG.",
+            "724349413924 1-1-5 MASTERED BY EMI MFG.",
+            "IFPI L043",
+            "ifpi 1624",
+            "ifpi 1674"
         ]
     },
-    "10345194": {
-        "id": 10345194,
-        "title": "Walk The Great Divide",
-        "author": "Jim Fisher",
-        "thumb": "https:\/\/i.discogs.com\/X-CYUij10cuOW95F2jxWtXS63OTl1_OR6rX6ItDsDGA\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEwMzQ1\/MTk0LTE0OTU3MTQz\/MTMtNTY4NS5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/5lVv59AGRj-SxrceD2GmMQo1pYo9bW_afkrJNL6q8KI\/rs:fit\/g:sm\/q:90\/h:545\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEwMzQ1\/MTk0LTE0OTU3MTQz\/MTMtNTY4NS5qcGVn.jpeg",
+    "42527": {
+        "id": 42527,
+        "title": "Breaking The Girl",
+        "author": "Red Hot Chili Peppers",
+        "thumb": "https:\/\/i.discogs.com\/-qxo9o-wBDdulcxCXsnJXlPjBUxhOZAJEHopQUKFFyQ\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI3MjY5\/NzgtMTI5ODI4OTAx\/My5qcGVn.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/OEEyCAPf085H-JTULUYkZvVu_8izdjMJYbuYKU8lgxA\/rs:fit\/g:sm\/q:90\/h:599\/w:598\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI3MjY5\/NzgtMTI5ODI4OTAx\/My5qcGVn.jpeg",
         "genres": [
             "Rock"
         ],
-        "release_year": "",
-        "barcode": []
-    },
-    "14669692": {
-        "id": 14669692,
-        "title": "I Walk The Line (14 Great Hits)",
-        "author": "Johnny Cash",
-        "thumb": "https:\/\/i.discogs.com\/xu7IYvBT9rArQu7cToyuxXepmyLgXfqHoxhlKXTavA8\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE0NjY5\/NjkyLTE1NzkyOTQw\/MTctMjAwMS5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/g8b3bUaf4hHOV-BxTXbdLCURt4PzwBupTZm1zgqwNiY\/rs:fit\/g:sm\/q:90\/h:602\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE0NjY5\/NjkyLTE1NzkyOTQw\/MTctMjAwMS5qcGVn.jpeg",
-        "genres": [
-            "Rock",
-            "Folk, World, & Country"
-        ],
-        "release_year": "1990",
+        "release_year": "1992",
         "barcode": [
-            "8711539003128",
-            "8 711539 003128",
-            "BIEM\/STEMRA",
-            "DURECO NORGE [01] WMCD 5538"
+            "0 9362-40516-0 2",
+            "WO126 TW-A1 W6014",
+            "WO126 TW-B1 W6014",
+            "W 0126 (TW) A",
+            "W 0126 (TW) B"
         ]
     },
-    "5061643": {
-        "id": 5061643,
-        "title": "I Walk The Line (12 Great Hits)",
-        "author": "Johnny Cash",
-        "thumb": "",
-        "cover_img": "https:\/\/st.discogs.com\/bd341e0cef36281185fb519da6aaae0489c5b36c\/images\/spacer.gif",
+    "219884": {
+        "id": 219884,
+        "title": "Hump De Bump",
+        "author": "Red Hot Chili Peppers",
+        "thumb": "https:\/\/i.discogs.com\/khoOhyCUxsv_w6xHANeePh2ng9HXVv2aYgGNiLKit-0\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTk4MzE2\/MC0xMjYyMzY3Nzgy\/LmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/Sn_ALmJtiLX8rzQuY-L45GjQLFqVxay9Ny5mNjN4bGs\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTk4MzE2\/MC0xMjYyMzY3Nzgy\/LmpwZWc.jpeg",
         "genres": [
-            "Folk, World, & Country"
-        ],
-        "release_year": "1990",
-        "barcode": [
-            "8711539210342",
-            "BIEM \/ STEMRA"
-        ]
-    },
-    "1443728": {
-        "id": 1443728,
-        "title": "Turkey Walk \/ I'm The Great Lover",
-        "author": "Barry Jones (2)",
-        "thumb": "https:\/\/i.discogs.com\/t80AOupOtMH8ILB7DK4mHVyDgh63BfRyDk8ykvCrZbw\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQwMzEw\/OTktMTM1MjkzMjY0\/OC0yMDI5LmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/BYhkGnZjp01VV1D6awcfuZX8McqpZOTEoUZta-ImNQQ\/rs:fit\/g:sm\/q:90\/h:596\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQwMzEw\/OTktMTM1MjkzMjY0\/OC0yMDI5LmpwZWc.jpeg",
-        "genres": [
-            "Funk \/ Soul"
-        ],
-        "release_year": "1970",
-        "barcode": []
-    },
-    "18889759": {
-        "id": 18889759,
-        "title": "Turkey Walk \/ I'm The Great Lover",
-        "author": "Barry Jones (2)",
-        "thumb": "https:\/\/i.discogs.com\/YY4AecFORy2JA3R4rhlTYS57YbAteMeuSk9Tv-0emq0\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE4ODg5\/NzU5LTE2MjIwMzIw\/NDQtMjI3OS5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/u7e7RzOlkrur5UFrcwX_5aD5W1QNcUTvs8Fcqrz_FyQ\/rs:fit\/g:sm\/q:90\/h:337\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE4ODg5\/NzU5LTE2MjIwMzIw\/NDQtMjI3OS5qcGVn.jpeg",
-        "genres": [
-            "Funk \/ Soul"
-        ],
-        "release_year": "1970",
-        "barcode": []
-    },
-    "4031099": {
-        "id": 4031099,
-        "title": "Turkey Walk \/ I'm The Great Lover",
-        "author": "Barry Jones (2)",
-        "thumb": "https:\/\/i.discogs.com\/t80AOupOtMH8ILB7DK4mHVyDgh63BfRyDk8ykvCrZbw\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQwMzEw\/OTktMTM1MjkzMjY0\/OC0yMDI5LmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/BYhkGnZjp01VV1D6awcfuZX8McqpZOTEoUZta-ImNQQ\/rs:fit\/g:sm\/q:90\/h:596\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQwMzEw\/OTktMTM1MjkzMjY0\/OC0yMDI5LmpwZWc.jpeg",
-        "genres": [
-            "Funk \/ Soul"
-        ],
-        "release_year": "1970",
-        "barcode": []
-    },
-    "1061528": {
-        "id": 1061528,
-        "title": "The Great Pretender \/ If You Walk Away",
-        "author": "Linda Hopkins",
-        "thumb": "https:\/\/i.discogs.com\/6GvaZf2Npc-DeN6yxfOHpaJLx5RYa7jLS1M0WN1sIMA\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTg0Nzgz\/NTQtMTQ2MjM5Nzgz\/My02MjI0LmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/6bk3FSGAEwC3FdWBH5Qcy39AR_7CP6Zb7MLksymLl2c\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTg0Nzgz\/NTQtMTQ2MjM5Nzgz\/My02MjI0LmpwZWc.jpeg",
-        "genres": [
-            "Funk \/ Soul"
-        ],
-        "release_year": "1965",
-        "barcode": [
-            "116,642",
-            "116,643"
-        ]
-    },
-    "13055536": {
-        "id": 13055536,
-        "title": "The Great Pretender \/ If You Walk Away",
-        "author": "Linda Hopkins",
-        "thumb": "https:\/\/i.discogs.com\/VJON4v6nxxIYxMPsu-iTiSaqRx9yP79I3MQjq8XeOhU\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEzMDU1\/NTM2LTE1NDcyNTcw\/MTAtMTI0Ni5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/Vm_DdnLiMlI6Wx9d8eacA2k30wi7UUr8uzCICQ8V4F4\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEzMDU1\/NTM2LTE1NDcyNTcw\/MTAtMTI0Ni5qcGVn.jpeg",
-        "genres": [
-            "Funk \/ Soul"
-        ],
-        "release_year": "1965",
-        "barcode": [
-            "116,642",
-            "116,643"
-        ]
-    },
-    "5796733": {
-        "id": 5796733,
-        "title": "The Great Pretender \/ If You Walk Away",
-        "author": "Linda Hopkins",
-        "thumb": "https:\/\/i.discogs.com\/NtxMYx6DvC0BwTuHoz4qwS__XtyVucvQxMJQILV278k\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU3OTY3\/MzMtMTU1NTA5MDA3\/My05MDM1LmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/dsG0lUtkR_6QZjeTPxt-c6xRG25yuAu60lAYUNK6XwM\/rs:fit\/g:sm\/q:90\/h:597\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU3OTY3\/MzMtMTU1NTA5MDA3\/My05MDM1LmpwZWc.jpeg",
-        "genres": [
-            "Funk \/ Soul",
-            "Pop"
-        ],
-        "release_year": "",
-        "barcode": [
-            "(116,642)\u2724",
-            "(116,643)",
-            "45 116642 2",
-            "45 116643 3"
-        ]
-    },
-    "21725698": {
-        "id": 21725698,
-        "title": "The Great Pretender \/ If You Walk Away",
-        "author": "Linda Hopkins",
-        "thumb": "https:\/\/i.discogs.com\/4l4rAZcexzFBphQa3Rw2k2pS3NeBHBdK4LSp5vXcJ0Y\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTIxNzI1\/Njk4LTE2NDIxMTE0\/NTktNjk0NS5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/_Size2ZjEl96HNGB5rkOdRCgw32cOn4d5kMaWHcSRgk\/rs:fit\/g:sm\/q:90\/h:603\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTIxNzI1\/Njk4LTE2NDIxMTE0\/NTktNjk0NS5qcGVn.jpeg",
-        "genres": [
-            "Funk \/ Soul"
-        ],
-        "release_year": "1965",
-        "barcode": [
-            "45 116642 7",
-            "45 116643 7"
-        ]
-    },
-    "8478354": {
-        "id": 8478354,
-        "title": "The Great Pretender \/ If You Walk Away",
-        "author": "Linda Hopkins",
-        "thumb": "https:\/\/i.discogs.com\/6GvaZf2Npc-DeN6yxfOHpaJLx5RYa7jLS1M0WN1sIMA\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTg0Nzgz\/NTQtMTQ2MjM5Nzgz\/My02MjI0LmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/6bk3FSGAEwC3FdWBH5Qcy39AR_7CP6Zb7MLksymLl2c\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTg0Nzgz\/NTQtMTQ2MjM5Nzgz\/My02MjI0LmpwZWc.jpeg",
-        "genres": [
-            "Funk \/ Soul"
-        ],
-        "release_year": "1965",
-        "barcode": [
-            "116,642",
-            "116,643"
-        ]
-    },
-    "1343575": {
-        "id": 1343575,
-        "title": "The Great Mel Tillis Sings Walk On, Boy & Other Great Country Hits",
-        "author": "Mel Tillis",
-        "thumb": "https:\/\/i.discogs.com\/Hnp0aKwbuQqGAdEXDngqsL-8RHJ5O9cqTP7IdDd8bp4\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTc4NjI3\/ODgtMTQ1MDQwNDEx\/MS02Mzg2LmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/uXdHhkwb-xPkCDttSLo7OJuBxEoEvMnY-2eK3Cb1zGY\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTc4NjI3\/ODgtMTQ1MDQwNDEx\/MS02Mzg2LmpwZWc.jpeg",
-        "genres": [
-            "Folk, World, & Country"
-        ],
-        "release_year": "1966",
-        "barcode": []
-    },
-    "15318997": {
-        "id": 15318997,
-        "title": "The Great Mel Tillis Sings Walk On, Boy & Other Great Country Hits",
-        "author": "Mel Tillis",
-        "thumb": "https:\/\/i.discogs.com\/bnFwGzNRPT0sWwnFtt1hpK3C9OayFMknD7iZDabpdJs\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1MzE4\/OTk3LTE1ODk2NjA5\/NjEtOTk1Ny5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/F_Kl1-2Put0TsDE_I_2HUggBqmBDudHFkmUkdz7fyFo\/rs:fit\/g:sm\/q:90\/h:450\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1MzE4\/OTk3LTE1ODk2NjA5\/NjEtOTk1Ny5qcGVn.jpeg",
-        "genres": [
-            "Folk, World, & Country"
-        ],
-        "release_year": "1966",
-        "barcode": []
-    },
-    "11386740": {
-        "id": 11386740,
-        "title": "The Great Mel Tillis Sings Walk On, Boy & Other Great Country Hits",
-        "author": "Mel Tillis",
-        "thumb": "https:\/\/i.discogs.com\/4POEOYSs912DBMuannV9F26Gtb1H5L0NDVBtSJ57QIc\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTExMzg2\/NzQwLTE1MTU1NzEw\/NzctNDYyMC5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/B4ynZVHUmvpT3jHm-d3eaTu1TZr35b_nkdKsYqe5v4E\/rs:fit\/g:sm\/q:90\/h:553\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTExMzg2\/NzQwLTE1MTU1NzEw\/NzctNDYyMC5qcGVn.jpeg",
-        "genres": [
-            "Folk, World, & Country"
-        ],
-        "release_year": "",
-        "barcode": []
-    },
-    "7862788": {
-        "id": 7862788,
-        "title": "The Great Mel Tillis Sings Walk On, Boy & Other Great Country Hits",
-        "author": "Mel Tillis",
-        "thumb": "https:\/\/i.discogs.com\/Hnp0aKwbuQqGAdEXDngqsL-8RHJ5O9cqTP7IdDd8bp4\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTc4NjI3\/ODgtMTQ1MDQwNDEx\/MS02Mzg2LmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/uXdHhkwb-xPkCDttSLo7OJuBxEoEvMnY-2eK3Cb1zGY\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTc4NjI3\/ODgtMTQ1MDQwNDEx\/MS02Mzg2LmpwZWc.jpeg",
-        "genres": [
-            "Folk, World, & Country"
-        ],
-        "release_year": "1966",
-        "barcode": []
-    },
-    "813899": {
-        "id": 813899,
-        "title": "Walk The Line",
-        "author": "Johnny Cash",
-        "thumb": "https:\/\/i.discogs.com\/iLBKQ9W6TRFNLVyHuY98MrYEpx2JDaKPZLCp66uFw1o\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTM1ODc1\/NjgtMTU1MDk2ODcz\/My0zODgxLmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/LsvyiDSFpBu-HAT_Ns4QIBxN1f3__E_1lCRehwiVfQ4\/rs:fit\/g:sm\/q:90\/h:597\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTM1ODc1\/NjgtMTU1MDk2ODcz\/My0zODgxLmpwZWc.jpeg",
-        "genres": [
-            "Rock",
-            "Folk, World, & Country"
+            "Rock"
         ],
         "release_year": "2007",
         "barcode": [
-            "8 717423 046196",
-            "MCPS",
-            "GREATS323A",
-            "GREATS323B",
-            "GREATS323C",
-            "NEA-Media S.A. www.nea-media.gr P11-074808-1",
-            "NEA-Media S.A. www.nea-media.gr P11-074812-1",
-            "NEA-Media S.A. www.nea-media.gr P11-074816-1"
+            "0 54391 99829 3",
+            "054391998293"
         ]
     },
-    "3587568": {
-        "id": 3587568,
-        "title": "Walk The Line",
-        "author": "Johnny Cash",
-        "thumb": "https:\/\/i.discogs.com\/iLBKQ9W6TRFNLVyHuY98MrYEpx2JDaKPZLCp66uFw1o\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTM1ODc1\/NjgtMTU1MDk2ODcz\/My0zODgxLmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/LsvyiDSFpBu-HAT_Ns4QIBxN1f3__E_1lCRehwiVfQ4\/rs:fit\/g:sm\/q:90\/h:597\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTM1ODc1\/NjgtMTU1MDk2ODcz\/My0zODgxLmpwZWc.jpeg",
-        "genres": [
-            "Rock",
-            "Folk, World, & Country"
-        ],
-        "release_year": "2007",
-        "barcode": [
-            "8 717423 046196",
-            "MCPS",
-            "GREATS323A",
-            "GREATS323B",
-            "GREATS323C",
-            "NEA-Media S.A. www.nea-media.gr P11-074808-1",
-            "NEA-Media S.A. www.nea-media.gr P11-074812-1",
-            "NEA-Media S.A. www.nea-media.gr P11-074816-1"
-        ]
-    },
-    "6017976": {
-        "id": 6017976,
-        "title": "Walk On By (The Greatest Hits)",
-        "author": "Dusty Springfield",
-        "thumb": "https:\/\/i.discogs.com\/Jn9tu7ZXyMd-VPgzurv1Fb62PEyg_lel5iixMWpSU24\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTYwMTc5\/NzYtMTU3NzU3OTUz\/OS00NTg3LmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/ogtU3gOZM6Vc9TaWe2RCP0NwHAL_YejLSYBEate1YBY\/rs:fit\/g:sm\/q:90\/h:591\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTYwMTc5\/NzYtMTU3NzU3OTUz\/OS00NTg3LmpwZWc.jpeg",
-        "genres": [
-            "Pop"
-        ],
-        "release_year": "2008",
-        "barcode": [
-            "600753088562",
-            "6 00753 08856 2",
-            "LC 01846",
-            "[4x 'Universal' logo] 06007 530 885-8 01 + 52231280",
-            "[4x 'Universal' logo] 06007 530 885-7 01 + 52231278",
-            "IFPI LV27",
-            "IFPI 0124",
-            "IFPI 0135",
-            "BIEM\/n\u00a9b"
-        ]
-    },
-    "1551752": {
-        "id": 1551752,
-        "title": "A Tribute To The Late, Great, Lawrence Walker",
-        "author": "Lawrence Walker",
-        "thumb": "https:\/\/i.discogs.com\/2EO36kkW54RB29MQ_60oxMIUM4N57irLlGoSY1ZUmcM\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQ0NTQ0\/MjItMTM2NTMzODEw\/Ni0xMDA2LmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/dzVJV3QSWe87Eh7vpuvTAFued0svVPIG1U_bxniUHe8\/rs:fit\/g:sm\/q:90\/h:400\/w:400\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQ0NTQ0\/MjItMTM2NTMzODEw\/Ni0xMDA2LmpwZWc.jpeg",
-        "genres": [
-            "Folk, World, & Country"
-        ],
-        "release_year": "",
-        "barcode": [
-            "VPAG-LL-126 A   {AS}",
-            "VPAG-LL-126 B   {AS}"
-        ]
-    },
-    "13780292": {
-        "id": 13780292,
-        "title": "I Walk The Line 14 Greatest Hits",
-        "author": "Johnny Cash",
-        "thumb": "https:\/\/i.discogs.com\/NB1fNDgV2C_p1bvJcScgOG0Kd8zS-6UIGH-gCPu6HwI\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEzNzgw\/MjkyLTE1NjA5NjE2\/NjUtNTM0NS5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/veplbRdHx7aetuAbYFF3gA7gyFZvk338nruvQcKMfpY\/rs:fit\/g:sm\/q:90\/h:450\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEzNzgw\/MjkyLTE1NjA5NjE2\/NjUtNTM0NS5qcGVn.jpeg",
-        "genres": [
-            "Rock",
-            "Folk, World, & Country"
-        ],
-        "release_year": "1990",
-        "barcode": [
-            "8 711539 200343"
-        ]
-    },
-    "1669947": {
-        "id": 1669947,
-        "title": "I Walk The Line 14 Greatest Hits",
-        "author": "Johnny Cash",
-        "thumb": "https:\/\/i.discogs.com\/NB1fNDgV2C_p1bvJcScgOG0Kd8zS-6UIGH-gCPu6HwI\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEzNzgw\/MjkyLTE1NjA5NjE2\/NjUtNTM0NS5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/veplbRdHx7aetuAbYFF3gA7gyFZvk338nruvQcKMfpY\/rs:fit\/g:sm\/q:90\/h:450\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEzNzgw\/MjkyLTE1NjA5NjE2\/NjUtNTM0NS5qcGVn.jpeg",
-        "genres": [
-            "Rock",
-            "Folk, World, & Country"
-        ],
-        "release_year": "1990",
-        "barcode": [
-            "8 711539 200343"
-        ]
-    },
-    "4454422": {
-        "id": 4454422,
-        "title": "A Tribute To The Late, Great, Lawrence Walker",
-        "author": "Lawrence Walker",
-        "thumb": "https:\/\/i.discogs.com\/2EO36kkW54RB29MQ_60oxMIUM4N57irLlGoSY1ZUmcM\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQ0NTQ0\/MjItMTM2NTMzODEw\/Ni0xMDA2LmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/dzVJV3QSWe87Eh7vpuvTAFued0svVPIG1U_bxniUHe8\/rs:fit\/g:sm\/q:90\/h:400\/w:400\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQ0NTQ0\/MjItMTM2NTMzODEw\/Ni0xMDA2LmpwZWc.jpeg",
-        "genres": [
-            "Folk, World, & Country"
-        ],
-        "release_year": "",
-        "barcode": [
-            "VPAG-LL-126 A   {AS}",
-            "VPAG-LL-126 B   {AS}"
-        ]
-    },
-    "1514533": {
-        "id": 1514533,
-        "title": "Walking On The Water \/ The Great Reunion",
-        "author": "The Silver Bells",
-        "thumb": "https:\/\/i.discogs.com\/i0nmhMtb-c3Pj_h9pg2Gr1JFIG0q3XPmwqAZ0VS90Nk\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1MTQ1\/MzMtMTM5NDU3MTIw\/NS02Mjk1LmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/I1EJoonMxNrUuvbHqm39YubAQ5vzOkXOvKCIbA6waDs\/rs:fit\/g:sm\/q:90\/h:450\/w:450\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1MTQ1\/MzMtMTM5NDU3MTIw\/NS02Mjk1LmpwZWc.jpeg",
-        "genres": [
-            "Funk \/ Soul"
-        ],
-        "release_year": "1964",
-        "barcode": []
-    },
-    "12624524": {
-        "id": 12624524,
-        "title": "I Walk The Line",
-        "author": "Johnny Cash",
-        "thumb": "https:\/\/i.discogs.com\/o1ZgXqJYuvF5yYOuMqSXefkkC_RlUl30t4OTtOHEIMQ\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEyNjI0\/NTI0LTE1Mzg4MzI1\/NTQtMzYwNy5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/ao64DGeBFQalQd5Dt10JRW_j9IuR1MAtKuf68dqfzmM\/rs:fit\/g:sm\/q:90\/h:596\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEyNjI0\/NTI0LTE1Mzg4MzI1\/NTQtMzYwNy5qcGVn.jpeg",
-        "genres": [
-            "Pop",
-            "Folk, World, & Country"
-        ],
-        "release_year": "2005",
-        "barcode": [
-            "8712177004331"
-        ]
-    },
-    "10531702": {
-        "id": 10531702,
-        "title": "How Great Thou Art \/ Just A Closer Walk With Thee",
-        "author": "Jimmy Jenson",
-        "thumb": "https:\/\/i.discogs.com\/LEoyJHTuD9Jxs1X0w2p9CvaW-wWQ7zqgLjxHfJEl4f4\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEwNTMx\/NzAyLTE0OTkzNTQz\/ODYtMTY0Mi5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/-vDXBmVcXZh0Uo_L9SAI7yEIEFrpqv8QRw4Nw3tHeYE\/rs:fit\/g:sm\/q:90\/h:576\/w:576\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEwNTMx\/NzAyLTE0OTkzNTQz\/ODYtMTY0Mi5qcGVn.jpeg",
-        "genres": [
-            "Folk, World, & Country"
-        ],
-        "release_year": "",
-        "barcode": [
-            "J-456-A  64954",
-            "J-456-B  64955"
-        ]
-    },
-    "25458952": {
-        "id": 25458952,
-        "title": "Just A Closer Walk With Thee \/ How Great Thou Art",
-        "author": "Charlie (Hedberg) And The Hardtymes",
-        "thumb": "",
-        "cover_img": "https:\/\/st.discogs.com\/bd341e0cef36281185fb519da6aaae0489c5b36c\/images\/spacer.gif",
-        "genres": [
-            "Folk, World, & Country"
-        ],
-        "release_year": "",
-        "barcode": []
-    },
-    "15175260": {
-        "id": 15175260,
-        "title": "How Great Thou Art  \/ Just A Closer Walk With Thee",
-        "author": "Gladys Knight And The Pips",
-        "thumb": "https:\/\/i.discogs.com\/FhoHw2vUIij7miBhw8CyzHY3WVPI8odU9RQmzUgiXIw\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1MTc1\/MjYwLTE1ODc2NzA3\/NjAtODc3OC5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/UPFjzCmQ4SBKPy5z_YtgMPbwhOnF2hzC-AvLoItwAgA\/rs:fit\/g:sm\/q:90\/h:469\/w:458\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1MTc1\/MjYwLTE1ODc2NzA3\/NjAtODc3OC5qcGVn.jpeg",
-        "genres": [
-            "Funk \/ Soul"
-        ],
-        "release_year": "1968",
-        "barcode": [
-            "DSR 6163-A-10T",
-            "DSR 6164-B-AT"
-        ]
-    },
-    "8635602": {
-        "id": 8635602,
-        "title": "Walk\u2014Don't Run (The Ventures All",
-        "author": "The Ventures",
-        "thumb": "https:\/\/i.discogs.com\/O_n7Aq1svqNLwXK9B52UB16c_L0WyoQ-l4qBoR7ThvM\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTg2MzU2\/MDItMTQ2NTYyMTQx\/NS01NzY4LmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/o5qsxQGfv2ptCD7AvF3XmiOjZ66-y1JJje3UKOd4W84\/rs:fit\/g:sm\/q:90\/h:602\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTg2MzU2\/MDItMTQ2NTYyMTQx\/NS01NzY4LmpwZWc.jpeg",
-        "genres": [
-            "Rock"
-        ],
-        "release_year": "2003",
-        "barcode": [
-            "0 90431 93172 1"
-        ]
-    },
-    "13375313": {
-        "id": 13375313,
-        "title": "Walk",
-        "author": "The Ventures",
-        "thumb": "https:\/\/i.discogs.com\/pWB8CwKBgVxe80In9DlFvh9va2Le2KpEyxw5Mk4xuXc\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEzMzc1\/MzEzLTE1NTMyMDg4\/MzEtOTAwOC5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/9W8W_ZaXoKxkF6HgShpYmwXziwXqCCyRJWmITYieEUU\/rs:fit\/g:sm\/q:90\/h:429\/w:441\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEzMzc1\/MzEzLTE1NTMyMDg4\/MzEtOTAwOC5qcGVn.jpeg",
-        "genres": [
-            "Rock"
-        ],
-        "release_year": "",
-        "barcode": [
-            "7 24385 59062 7",
-            "MASTERED BY EMI MFG 57253 1-1-4",
-            "IFPI L043",
-            "ifpi 1605",
-            "MASTERED BY EMI MFG 57253 1-1-8",
-            "IFPI L043",
-            "IFPI 6100"
-        ]
-    },
-    "6562488": {
-        "id": 6562488,
-        "title": "Walk\u2014Don't Run (The Ventures All",
-        "author": "The Ventures",
-        "thumb": "https:\/\/i.discogs.com\/2a_R18WwYW7TNbGS_4EmT6TDNn8vQI_Lem-OHKi6pgc\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTY1NjI0\/ODgtMTQyMjA1NDM2\/Mi02MTA1LmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/2SHQcqQWLgl7gckF-OZWDX3qp1JB85opWKzZdlVI8sA\/rs:fit\/g:sm\/q:90\/h:598\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTY1NjI0\/ODgtMTQyMjA1NDM2\/Mi02MTA1LmpwZWc.jpeg",
-        "genres": [
-            "Rock"
-        ],
-        "release_year": "",
-        "barcode": [
-            "077775725322",
-            "IFPI L043",
-            "IFPI 163F"
-        ]
-    },
-    "6784738": {
-        "id": 6784738,
-        "title": "Walk",
-        "author": "The Ventures",
-        "thumb": "https:\/\/i.discogs.com\/eP16R-UZADpgUAAlxKQn68JY2uhMmx_s5SYb0uP2siE\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTY3ODQ3\/MzgtMTQyNjU1ODIx\/MS04NDM3LmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/--lvKGOq6GnNVtB-aFqkBaOkKDD7gDj_x5Ttd38PLMk\/rs:fit\/g:sm\/q:90\/h:596\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTY3ODQ3\/MzgtMTQyNjU1ODIx\/MS04NDM3LmpwZWc.jpeg",
-        "genres": [
-            "Rock"
-        ],
-        "release_year": "1989",
-        "barcode": [
-            "724385590627",
-            "57253"
-        ]
-    },
-    "13811924": {
-        "id": 13811924,
-        "title": "Great Big You & Little Bitty Me \/ The Walk Of Fame",
-        "author": "Nanine",
-        "thumb": "https:\/\/i.discogs.com\/OEmNAiyfpFGSlOpPkQwdTVIZYq_Tek4j9N3gleaNW48\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEzODEx\/OTI0LTE1NjE2NjAx\/NTMtOTk2MS5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/BtLNWKciJ1FDZqSyp5dKH28uzExs0QzEG6Yc8Q9cgRc\/rs:fit\/g:sm\/q:90\/h:591\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEzODEx\/OTI0LTE1NjE2NjAx\/NTMtOTk2MS5qcGVn.jpeg",
-        "genres": [
-            "Rock",
-            "Pop",
-            "Folk, World, & Country"
-        ],
-        "release_year": "1964",
-        "barcode": []
-    },
-    "13652756": {
-        "id": 13652756,
-        "title": "A Tribute To The Late, Great Lawrence Walker",
-        "author": "Lawrence Walker",
-        "thumb": "https:\/\/i.discogs.com\/HRo8cpqT0IFdl6k5pJ8k8TStBIDzYNuF_p9DraqtTvQ\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEzNjUy\/NzU2LTE1NTgzMTY0\/NDgtODgxNS5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/nqVrIVXQ5TesFCnMZXSfsL9_yugKmPzi3HNIDuwbTVo\/rs:fit\/g:sm\/q:90\/h:891\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEzNjUy\/NzU2LTE1NTgzMTY0\/NDgtODgxNS5qcGVn.jpeg",
-        "genres": [
-            "Folk, World, & Country"
-        ],
-        "release_year": "",
-        "barcode": []
-    },
-    "6374024": {
-        "id": 6374024,
-        "title": "How Great Thou Art \/ I'll Walk With God \/ The Holy City",
-        "author": "Harold Blair With The Choir Of The Dutch Choral Society",
-        "thumb": "https:\/\/i.discogs.com\/G7iMs09DAnHc1JHc7A6i4Edk1oC6t77cZk8uH2IAHN4\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTYzNzQw\/MjQtMTQxNzY1Njg2\/MS0zMjM5LmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/qjiSZvRSt2cTirSs3JyON5ph--NqCIoXoX-aUNPQMxI\/rs:fit\/g:sm\/q:90\/h:598\/w:593\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTYzNzQw\/MjQtMTQxNzY1Njg2\/MS0zMjM5LmpwZWc.jpeg",
-        "genres": [
-            "Folk, World, & Country"
-        ],
-        "release_year": "1964",
-        "barcode": []
-    },
-    "533959": {
-        "id": 533959,
-        "title": "Great Days In The Blitz \/ They Walked In Line",
-        "author": "7er Jungs",
-        "thumb": "https:\/\/i.discogs.com\/kGkY8Hzek0Wff9xBeeAo4LGncd5B2LYdMwmW0EVjSUs\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQzODY3\/MzktMTM2MzU1MTAz\/OC0zMDcwLmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/ZGS2aNUI908Ask2-JhTwxdy9YKtmOKUzjLQoy9TIm54\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQzODY3\/MzktMTM2MzU1MTAz\/OC0zMDcwLmpwZWc.jpeg",
-        "genres": [
-            "Rock"
-        ],
-        "release_year": "2013",
-        "barcode": [
-            "Pirates Press - RR070 A",
-            "Pirates Press - RR070 B"
-        ]
-    },
-    "4386744": {
-        "id": 4386744,
-        "title": "Great Days In The Blitz \/ They Walked In Line",
-        "author": "7er Jungs",
-        "thumb": "https:\/\/i.discogs.com\/CXy0gQXy3FC7NDGliKx2Ylz_xXnNOZ0lkETbHGmwv5o\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQzODY3\/NDQtMTM2MzU1MTA2\/OC03MDUxLmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/gncq3HMP323PF66TooE3WvtJkDbnLRSVPCCMJMCztsM\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQzODY3\/NDQtMTM2MzU1MTA2\/OC03MDUxLmpwZWc.jpeg",
-        "genres": [
-            "Rock"
-        ],
-        "release_year": "2013",
-        "barcode": [
-            "Pirates Press - RR070 A",
-            "Pirates Press - RR070 B"
-        ]
-    },
-    "4386741": {
-        "id": 4386741,
-        "title": "Great Days In The Blitz \/ They Walked In Line",
-        "author": "7er Jungs",
-        "thumb": "https:\/\/i.discogs.com\/0f9tYoujz8UweXuosSIrYvaxkDZq0fxR1fRIdxPF5PE\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQzODY3\/NDEtMTM2MzU1MTA5\/Ni04ODI0LmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/jkdapjgfZWn-A1JwoVOpe3SCng4nQ50IcukzDPF_nSA\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQzODY3\/NDEtMTM2MzU1MTA5\/Ni04ODI0LmpwZWc.jpeg",
-        "genres": [
-            "Rock"
-        ],
-        "release_year": "2013",
-        "barcode": [
-            "Pirates Press - RR070 A",
-            "Pirates Press - RR070 B"
-        ]
-    },
-    "4386739": {
-        "id": 4386739,
-        "title": "Great Days In The Blitz \/ They Walked In Line",
-        "author": "7er Jungs",
-        "thumb": "https:\/\/i.discogs.com\/kGkY8Hzek0Wff9xBeeAo4LGncd5B2LYdMwmW0EVjSUs\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQzODY3\/MzktMTM2MzU1MTAz\/OC0zMDcwLmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/ZGS2aNUI908Ask2-JhTwxdy9YKtmOKUzjLQoy9TIm54\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQzODY3\/MzktMTM2MzU1MTAz\/OC0zMDcwLmpwZWc.jpeg",
-        "genres": [
-            "Rock"
-        ],
-        "release_year": "2013",
-        "barcode": [
-            "Pirates Press - RR070 A",
-            "Pirates Press - RR070 B"
-        ]
-    },
-    "4386746": {
-        "id": 4386746,
-        "title": "Great Days In The Blitz \/ They Walked In Line",
-        "author": "7er Jungs",
-        "thumb": "https:\/\/i.discogs.com\/bhshD9Ekc5rQjdn5mnD2GBsiOe2QlclIv3uyxxy8rWo\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQzODY3\/NDYtMTQ3MjYzMDM5\/MC03NDQ3LmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/YYaEgfqjkUTu0f24x9DIfK3P3izgGzzJmeku2741Wmc\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQzODY3\/NDYtMTQ3MjYzMDM5\/MC03NDQ3LmpwZWc.jpeg",
-        "genres": [
-            "Rock"
-        ],
-        "release_year": "2013",
-        "barcode": [
-            "Pirates Press - RR070 A",
-            "Pirates Press - RR070 B"
-        ]
-    },
-    "12132673": {
-        "id": 12132673,
-        "title": "Lawrence Welk's Baby Elephant Walk And Theme From The Brothers Grimm Plus Ten Great Hits",
-        "author": "Lawrence Welk And His Orchestra",
-        "thumb": "",
-        "cover_img": "https:\/\/st.discogs.com\/bd341e0cef36281185fb519da6aaae0489c5b36c\/images\/spacer.gif",
-        "genres": [
-            "Jazz",
-            "Pop",
-            "Stage & Screen"
-        ],
-        "release_year": "",
-        "barcode": [
-            "LPM. 55807",
-            "LPM. 55808"
-        ]
-    },
-    "23083427": {
-        "id": 23083427,
-        "title": "Walk Don't Run: The Ventures All Time Greatest Hits",
-        "author": "The Ventures",
-        "thumb": "",
-        "cover_img": "https:\/\/st.discogs.com\/bd341e0cef36281185fb519da6aaae0489c5b36c\/images\/spacer.gif",
-        "genres": [
-            "Rock"
-        ],
-        "release_year": "1989",
-        "barcode": [
-            "0 7777-57253-2 2"
-        ]
-    },
-    "2500710": {
-        "id": 2500710,
-        "title": "Walk",
-        "author": "The Ventures",
-        "thumb": "https:\/\/i.discogs.com\/ele4UADM1BXeVaKI6teKgDeOgwyyQv2Eqmelzb8XqtQ\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI1MDA3\/MTAtMTI4NzQyNzk2\/OS5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/J3E2_weH0P_6Dmm8f5oYNi9i5BwXAVhQ1j4MFijMIiE\/rs:fit\/g:sm\/q:90\/h:592\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI1MDA3\/MTAtMTI4NzQyNzk2\/OS5qcGVn.jpeg",
-        "genres": [
-            "Rock"
-        ],
-        "release_year": "1989",
-        "barcode": [
-            "0 7777-57253-2 2"
-        ]
-    },
-    "5354672": {
-        "id": 5354672,
-        "title": "Walk",
-        "author": "The Ventures",
-        "thumb": "",
-        "cover_img": "https:\/\/st.discogs.com\/bd341e0cef36281185fb519da6aaae0489c5b36c\/images\/spacer.gif",
-        "genres": [
-            "Rock"
-        ],
-        "release_year": "1989",
-        "barcode": [
-            "0 7777-57253-2 2",
-            "TRV5<011>CDL57253"
-        ]
-    },
-    "1482042": {
-        "id": 1482042,
-        "title": "Las",
-        "author": "The Shangri",
-        "thumb": "https:\/\/i.discogs.com\/s2y5viXu38N9ouWzZ3pUwccqDae_Qs6g72DIZ-3hHg4\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEwMzgy\/MjYwLTE0OTYzNjM2\/MjQtNjg3OS5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/-t7q4t5S6yw5rTjkYiy8e9A_B9LVVbx9anRJ-fd-YkE\/rs:fit\/g:sm\/q:90\/h:598\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEwMzgy\/MjYwLTE0OTYzNjM2\/MjQtNjg3OS5qcGVn.jpeg",
-        "genres": [
-            "Rock",
-            "Pop"
-        ],
-        "release_year": "",
-        "barcode": []
-    },
-    "355635": {
-        "id": 355635,
-        "title": "Walking In The Air (The Greatest Ballads)",
-        "author": "Nightwish",
-        "thumb": "https:\/\/i.discogs.com\/h6IupSNtHuc90d98R9pqRhUo3FrwSt8MkkaghUdp1mA\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTM1MDEy\/MTMtMTMzMjkyMDEz\/MS5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/CFfwbziH28nEFkAxqXf5ibwA9WVAcvuwYKP_DS7FqXg\/rs:fit\/g:sm\/q:90\/h:200\/w:200\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTM1MDEy\/MTMtMTMzMjkyMDEz\/MS5qcGVn.jpeg",
+    "1532577": {
+        "id": 1532577,
+        "title": "Live In Milan, Italy 2006",
+        "author": "Red Hot Chili Peppers",
+        "thumb": "https:\/\/i.discogs.com\/BZi9t7uFMzjI73vx9V3ntKKpopGLpoetiJq5tYqi1js\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE5NTc1\/OTk3LTE2MjY4OTUz\/MzMtOTM4My5qcGVn.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/OVfa64k--XxUt9tsOTLU-NIqm9rhXjQV_bqJNdiSS5A\/rs:fit\/g:sm\/q:90\/h:500\/w:367\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE5NTc1\/OTk3LTE2MjY4OTUz\/MzMtOTM4My5qcGVn.jpeg",
         "genres": [
             "Rock"
         ],
         "release_year": "2011",
         "barcode": [
-            "0602527870700",
-            "[Universal logo] x4",
-            "06025 278 707-0 01 \u2733 52828203",
-            "Made in Germany by EDC B",
-            "Made in Germany by EDC A",
-            "IFPI LV26",
-            "IFPI 0114",
-            "IFPI 0120",
-            "BIEM\/SDRM"
+            "7898939134384"
+        ]
+    },
+    "358655": {
+        "id": 358655,
+        "title": "Coffee Shop",
+        "author": "Red Hot Chili Peppers",
+        "thumb": "https:\/\/i.discogs.com\/AiG0YoR7fDdOprJ-VIue5D1GLVMWop_8-UwbkmAU9fA\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTMwMzE3\/NTUtMTUxNzQ3NDgx\/OC0xNDQ2LmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/r8U5YeEq02scUPuYVFxgzeb7t5C9tsr6Md6e2-hlAZA\/rs:fit\/g:sm\/q:90\/h:605\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTMwMzE3\/NTUtMTUxNzQ3NDgx\/OC0xNDQ2LmpwZWc.jpeg",
+        "genres": [
+            "Rock"
+        ],
+        "release_year": "1996",
+        "barcode": [
+            "0 9362437489 3",
+            "LC 0392",
+            "WEC 795",
+            "936243748-9 WME",
+            "IFPI L012",
+            "IFPI 0531"
+        ]
+    },
+    "518372": {
+        "id": 518372,
+        "title": "Brendan's Death Song",
+        "author": "Red Hot Chili Peppers",
+        "thumb": "https:\/\/i.discogs.com\/_AebFkPFy7JrKbI3ldhV2DqzuKQU83f0V5BOd4bFb1s\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTM4NzM3\/MzItMTU0NDkxMjkz\/NC00MjU2LmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/yzmz3LAoW3UpxLs09OjVMor9duDe4a2k_brJlFUY_jk\/rs:fit\/g:sm\/q:90\/h:521\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTM4NzM3\/MzItMTU0NDkxMjkz\/NC00MjU2LmpwZWc.jpeg",
+        "genres": [
+            "Rock"
+        ],
+        "release_year": "2012",
+        "barcode": [
+            "0 54391 97615 4",
+            "543919761-5.2 V01 OEO",
+            "IFPI L016",
+            "GEMA\/BIEM",
+            "LC00392"
+        ]
+    },
+    "942309": {
+        "id": 942309,
+        "title": "Greatest Hits'99 \"Scar Tissue\". Platinum Collection'99",
+        "author": "Red Hot Chili Peppers",
+        "thumb": "https:\/\/i.discogs.com\/_vNlVA8473iGEUdzfRzQz4A4poiwULGh7w-gDdPe5sA\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTc5Njc5\/NjAtMTQ1MjYxNTYx\/MC0xMzExLmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/4MJkIqfCv-xMEmbNyaRLv0ZWnRmk3Ip9WgTIUaJpzpY\/rs:fit\/g:sm\/q:90\/h:465\/w:464\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTc5Njc5\/NjAtMTQ1MjYxNTYx\/MC0xMzExLmpwZWc.jpeg",
+        "genres": [
+            "Rock",
+            "Funk \/ Soul"
+        ],
+        "release_year": "1999",
+        "barcode": [
+            "none",
+            "ND-104"
+        ]
+    },
+    "876697": {
+        "id": 876697,
+        "title": "Live At Budokan",
+        "author": "Red Hot Chili Peppers",
+        "thumb": "https:\/\/i.discogs.com\/yVss5zDk5BBPtMXUNxuq8AMLwy4sF7liu-X3N04tIdA\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTcyOTU5\/NzgtMTQzODI1Mjg5\/MC04NTkxLmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/8LDrf9WoOix7IZSqRpdZknfwiyWiMEjMaZLDe79GXs4\/rs:fit\/g:sm\/q:90\/h:850\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTcyOTU5\/NzgtMTQzODI1Mjg5\/MC04NTkxLmpwZWc.jpeg",
+        "genres": [
+            "Rock"
+        ],
+        "release_year": "2009",
+        "barcode": [
+            "4250079732098"
+        ]
+    },
+    "745718": {
+        "id": 745718,
+        "title": "10 Great Songs",
+        "author": "Red Hot Chili Peppers",
+        "thumb": "https:\/\/i.discogs.com\/S_VlcvwSR3NS_EY2q5ZghEXkmNHBOsreFPg9M3huICo\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTYxOTY4\/OTktMTQxMzQ3NDY1\/NC0zOTU4LmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/J26XoPDivCk0uLkcelONd6BzKjMrbjfWnMPNDw6Frpo\/rs:fit\/g:sm\/q:90\/h:491\/w:500\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTYxOTY4\/OTktMTQxMzQ3NDY1\/NC0zOTU4LmpwZWc.jpeg",
+        "genres": [
+            "Rock"
+        ],
+        "release_year": "2009",
+        "barcode": [
+            "5 099930 944626"
+        ]
+    },
+    "999786": {
+        "id": 999786,
+        "title": "Look Around",
+        "author": "Red Hot Chili Peppers",
+        "thumb": "https:\/\/i.discogs.com\/0zDeRGi6fPPKJYGlzR3NT9w239_KZB363EjD4tna7pM\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTM2ODc5\/NDgtMTM0MjE5NTYw\/NC03OTA2LmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/auV-CBq-KsAPVpzmp84Up2zR3AQp9USJxioGFwLWGYY\/rs:fit\/g:sm\/q:90\/h:500\/w:500\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTM2ODc5\/NDgtMTM0MjE5NTYw\/NC03OTA2LmpwZWc.jpeg",
+        "genres": [
+            "Rock"
+        ],
+        "release_year": "2011",
+        "barcode": [
+            "LC 00392"
+        ]
+    },
+    "250687": {
+        "id": 250687,
+        "title": "The Jalapeno Sessions",
+        "author": "Red Hot Chili Peppers",
+        "thumb": "https:\/\/i.discogs.com\/kpAWIegQ40HMH61HxPiRnuhrL04b9gGlwk-Q-98pNrI\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1MTI3\/MzMtMTIyNTIwMjU2\/OS5qcGVn.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/62t-S1bcqUnAcevF0FAFr1bTN0q-FpNn40vyHiL8124\/rs:fit\/g:sm\/q:90\/h:597\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1MTI3\/MzMtMTIyNTIwMjU2\/OS5qcGVn.jpeg",
+        "genres": [
+            "Rock",
+            "Funk \/ Soul"
+        ],
+        "release_year": "1990",
+        "barcode": "Nessun codice a barre disponibile"
+    },
+    "2032210": {
+        "id": 2032210,
+        "title": "The Hits",
+        "author": "Red Hot Chili Peppers",
+        "thumb": "https:\/\/i.discogs.com\/mmgC4UPZvlruO1Btk2ii0BHET0MvKIBibMdI2bd77yM\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE5MTU0\/NzMtMTU3ODQ4MjY5\/NC03OTIyLmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/7WXmlX9sWcuIXlH-trNUPmewzVSnJ5MafFKLro-Swg4\/rs:fit\/g:sm\/q:90\/h:607\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE5MTU0\/NzMtMTU3ODQ4MjY5\/NC03OTIyLmpwZWc.jpeg",
+        "genres": [
+            "Rock"
+        ],
+        "release_year": "2002",
+        "barcode": [
+            "LC00392",
+            "GEMA\/BIEM",
+            "PR03185",
+            "IFPI L012",
+            "IFPI 0594"
+        ]
+    },
+    "364526": {
+        "id": 364526,
+        "title": "Holland 1991",
+        "author": "Red Hot Chili Peppers",
+        "thumb": "https:\/\/i.discogs.com\/W_iOkxj27VOKTSzjZrTGoRmD606Xq7kqJMOhMdZPeHA\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1Mzc4\/OTUtMTQ4ODM0NTQz\/MC02MTk0LmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/TqEH4qB6FP-xK9fxJqwrf3_bkgKHSZuA1BP8QBqWS6c\/rs:fit\/g:sm\/q:90\/h:596\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1Mzc4\/OTUtMTQ4ODM0NTQz\/MC02MTk0LmpwZWc.jpeg",
+        "genres": [
+            "Rock"
+        ],
+        "release_year": "1992",
+        "barcode": [
+            "RFCD1184 PHC",
+            "S.I.A.E."
+        ]
+    },
+    "584771": {
+        "id": 584771,
+        "title": "Rock Out With Your Cock Out",
+        "author": "Red Hot Chili Peppers",
+        "thumb": "https:\/\/i.discogs.com\/l0dOCv-bQIweRVQw1lDqhzfQeA8L8yxoxAXTK1flWU0\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1MDY5\/ODYtMTIyNDgxNzg4\/NS5qcGVn.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/L7bS77nuoA3UQbYGSHiq3NlBGN-Iq-VSzRDNG1aujBw\/rs:fit\/g:sm\/q:90\/h:600\/w:598\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1MDY5\/ODYtMTIyNDgxNzg4\/NS5qcGVn.jpeg",
+        "genres": [
+            "Rock",
+            "Funk \/ Soul"
+        ],
+        "release_year": "1992",
+        "barcode": "Nessun codice a barre disponibile"
+    },
+    "42536": {
+        "id": 42536,
+        "title": "Out In L.A.",
+        "author": "Red Hot Chili Peppers",
+        "thumb": "https:\/\/i.discogs.com\/Gi0jkHvPaBzQXsA7HUi2dR20SHXhjVOR9IYGcSVNON0\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEzMjM4\/MjctMTU5ODA1MDAx\/Ny03MzU4LmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/zQWFiR_Xz5bPq-2Wp9Yb3gqXW3NWmL0awngrp5atNnw\/rs:fit\/g:sm\/q:90\/h:606\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEzMjM4\/MjctMTU5ODA1MDAx\/Ny03MzU4LmpwZWc.jpeg",
+        "genres": [
+            "Rock"
+        ],
+        "release_year": "1994",
+        "barcode": [
+            "7 2438-29665-2 4",
+            "724382966524",
+            "29665-2 MO L4923H Y 1-1-7 EMI JAX",
+            "29665-2 MO L4923H Y 1-1-2 EMI JAX",
+            "29665-2 MO L4923H Y 1-1-3 EMI JAX",
+            "29665-2 MO L4923H Y 1-1-5 EMI JAX",
+            "29665-2 MO L4923H Y 1-1-10 EMI JAX"
+        ]
+    },
+    "2856646": {
+        "id": 2856646,
+        "title": "Stadium Arcadium 2006 Sizzle Reel",
+        "author": "Red Hot Chili Peppers",
+        "thumb": "https:\/\/i.discogs.com\/K0GlM9cMcv3hZu6V2-5ewFvZzbdAkbZbVNCpGTcaBus\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI1MDkx\/OTg5LTE2Njc4Njkx\/NTctNjA0NC5qcGVn.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/NXs04nXWXMP1oWTCF7n2nIeQQsX6wek1Jq5M_ygKg6M\/rs:fit\/g:sm\/q:90\/h:480\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI1MDkx\/OTg5LTE2Njc4Njkx\/NTctNjA0NC5qcGVn.jpeg",
+        "genres": [
+            "Rock",
+            "Pop"
+        ],
+        "release_year": "2006",
+        "barcode": "Nessun codice a barre disponibile"
+    },
+    "38645": {
+        "id": 38645,
+        "title": "Stadium Arcadium",
+        "author": "Red Hot Chili Peppers",
+        "thumb": "https:\/\/i.discogs.com\/ZbOTxViCTxLHEvArJ0EitIKFBU5w_vFEUgmtlgklc_4\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTY4MTcy\/MS0xMTQ5NDc2NTI1\/LmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/Hr5IoUOewqhza4fmZGib-CJyXam5BVT_4tM6yswbYuk\/rs:fit\/g:sm\/q:90\/h:532\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTY4MTcy\/MS0xMTQ5NDc2NTI1\/LmpwZWc.jpeg",
+        "genres": [
+            "Rock"
+        ],
+        "release_year": "2006",
+        "barcode": [
+            "0 9362-49996-2 1",
+            "093624999621",
+            "Z52146 M1S10 149996-2.1 01",
+            "Z52146 M2S17 149996-2.1 01",
+            "Z52146 M2S9 1 49996-2.1 01",
+            "Z52146 M2S1 1 49996-2.1 01",
+            "Z52146 M1S12 149996-2.1 01",
+            "Z52146 M2S6 1 49996-2.1 01",
+            "Z52146 M2S21 1 49996-2.1 01",
+            "Z52146 M1S2 1 49996-2.1 01",
+            "Z52146 M1S9 1 49996-2.1 01",
+            "Z52147 M1S9 149996-2.2 01",
+            "Z52147 M2S12 149996-2.2 01",
+            "Z52147 M2S9 1 49996-2.2 01",
+            "Z52147 M1S1 1 49996-2.2 01",
+            "Z52147 M1S9 1 49996-2.2 01",
+            "Z52147 M1S17 1 49996-2.2 01",
+            "Z52147 M2S17 1 49996-2.2 01",
+            "Z52147 M1S12 1 49996-2.2 01",
+            "IFPI L909",
+            "ifpi L909 (2x)",
+            "IFPI 2U8E",
+            "IFPI 2U4G",
+            "IFPI 2U3X",
+            "IFPI 2U7J",
+            "IFPI 2U8C",
+            "IFPI 2UA2",
+            "IFPI 2U8E",
+            "IFPI 2U7M",
+            "IFPI 2U4J",
+            "IFPI 2U8K",
+            "IFPI 2U8B",
+            "IFPI 2U3Z",
+            "IFPI 2U2O"
+        ]
+    },
+    "25536": {
+        "id": 25536,
+        "title": "The Uplift Mofo Party Plan",
+        "author": "Red Hot Chili Peppers",
+        "thumb": "https:\/\/i.discogs.com\/5d3kycDYlndj84OZDkGhAB39MoayECd81x3nZSmwErA\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTY4OTcz\/OS0xMzQ4NDY4MjMz\/LTcwNzEuanBlZw.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/dyGUsTno_cqZXmO-qFkpz382mDfVxaeTvKvR8ekog4Q\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTY4OTcz\/OS0xMzQ4NDY4MjMz\/LTcwNzEuanBlZw.jpeg",
+        "genres": [
+            "Rock"
+        ],
+        "release_year": "1987",
+        "barcode": [
+            "BMI",
+            "0 7777-48036-1 8",
+            "D11G-1-48036-Z1 DMM MASTERDISK DMM",
+            "D11G-2-48036-Z1 DMM MASTERDISK DMM",
+            "ELT-1-48036-Z1 DMM MASTERDISK DMM SP1-3",
+            "ELT-2-48036-Z1 DMM MASTERDISK DMM SP1-1"
+        ]
+    },
+    "42535": {
+        "id": 42535,
+        "title": "Soul To Squeeze",
+        "author": "Red Hot Chili Peppers",
+        "thumb": "https:\/\/i.discogs.com\/R2s_5_iHLWL2GwyFFdExr29Uz0aC1nrkPMWAQjjmejg\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEwNDYy\/OTYtMTM4MTk1ODQ4\/My05OTcwLmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/6wCMdmqm_rRPWhU2KBNl-FTkvDJRXqAp_6tQHrDRejs\/rs:fit\/g:sm\/q:90\/h:590\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEwNDYy\/OTYtMTM4MTk1ODQ4\/My05OTcwLmpwZWc.jpeg",
+        "genres": [
+            "Rock"
+        ],
+        "release_year": "1993",
+        "barcode": [
+            "0 5439-18401-2 7",
+            "054391840127",
+            "\u24c8 1 18401-2 SRC##01 M1S4"
+        ]
+    },
+    "2897143": {
+        "id": 2897143,
+        "title": "Greatest Hits Collection",
+        "author": "The Red Hot Chili Peppers*",
+        "thumb": "https:\/\/i.discogs.com\/CsYYUkpuZ12Xi5G38VfC_uyvCDlwMY3PIVNBx3hCcQI\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE4MDEz\/ODQzLTE2MTY3NDUz\/MzgtNzY0Ni5qcGVn.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/xj-heuac8g0dKjYe9OBp1HAVDSD_ySbn40r-6jvFSXM\/rs:fit\/g:sm\/q:90\/h:520\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE4MDEz\/ODQzLTE2MTY3NDUz\/MzgtNzY0Ni5qcGVn.jpeg",
+        "genres": [
+            "Funk \/ Soul"
+        ],
+        "release_year": "1999",
+        "barcode": [
+            "3800190243440"
+        ]
+    },
+    "257794": {
+        "id": 257794,
+        "title": "Woodstock 1994",
+        "author": "Red Hot Chili Peppers",
+        "thumb": "https:\/\/i.discogs.com\/wYK_kVeEi9F6Ug-v-rwdDiEtL_kwNWWry_50D75FAyg\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTIzMzY0\/NDktMTM5Mzk4NDc2\/Ny03MTQ5LmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/3QIzOdRYw4WjRLNPLMnySOU9JLnqOIj40Wzo2vvUixI\/rs:fit\/g:sm\/q:90\/h:500\/w:496\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTIzMzY0\/NDktMTM5Mzk4NDc2\/Ny03MTQ5LmpwZWc.jpeg",
+        "genres": [
+            "Rock",
+            "Funk \/ Soul"
+        ],
+        "release_year": "1994",
+        "barcode": [
+            "8 013133 001723",
+            "OCTO 038 PHC 02 @",
+            "S.I.A.E."
+        ]
+    },
+    "42505": {
+        "id": 42505,
+        "title": "The Abbey Road E.P.",
+        "author": "Red Hot Chili Peppers",
+        "thumb": "https:\/\/i.discogs.com\/t59dpeoCIY6uq4AkMR5TgjHNl8XKjOiLFkfY6JpZl7k\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI3MjY5\/NjUtMTI5ODI4ODQ2\/NC5qcGVn.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/u-gAdRVZ5kPf0_f3mvylROTvRUuEJ_h6nITjEROi8pk\/rs:fit\/g:sm\/q:90\/h:593\/w:599\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI3MjY5\/NjUtMTI5ODI4ODQ2\/NC5qcGVn.jpeg",
+        "genres": [
+            "Rock"
+        ],
+        "release_year": "1988",
+        "barcode": [
+            "5 099920 263362",
+            "5099920263362",
+            "12MT 41A",
+            "12MT 41B",
+            "12 MT 41 A-2C-1-1 D",
+            "12 MT 41 B-1-1-1- D",
+            "12 MT 41 A-1-1-1-1-  D",
+            "12 MT 41 B-2C-1-1  D"
+        ]
+    },
+    "4353494": {
+        "id": 4353494,
+        "title": "By The Way = \u30d0\u30a4\u30fb\u30b6\u30fb\u30a6\u30a7\u30a4",
+        "author": "Red Hot Chili Peppers = \u30ec\u30c3\u30c9\u30fb\u30db\u30c3\u30c8\u30fb\u30c1\u30ea\u30fb\u30da\u30c3\u30d1\u30fc\u30ba*",
+        "thumb": "https:\/\/i.discogs.com\/YpPaj1TEsfDh7NNPBrFMbY7z-HPrwFveZtqRjePLfO0\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQzNTM0\/OTQtMTQzMDAxMjE3\/Mi03MTc4LmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/3BJ-p-f2HAkkbNgXic5cdDR6_91J35cTO0iXSpLCVHg\/rs:fit\/g:sm\/q:90\/h:516\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQzNTM0\/OTQtMTQzMDAxMjE3\/Mi03MTc4LmpwZWc.jpeg",
+        "genres": [
+            "Rock"
+        ],
+        "release_year": "2002",
+        "barcode": [
+            "4 943674 033157",
+            "4943674033157",
+            "IFPI L277",
+            "IFPI  4564",
+            "IFPI  4577",
+            "WPCR-11300   1",
+            "JP: B000065EMR",
+            "JASRAC",
+            "BMI",
+            "\u2605[ 02. 7. 10 (02. 7) ] \u24ce\u24cd",
+            "\u5b9a\u4fa1\u00a52,520"
+        ]
+    },
+    "664723": {
+        "id": 664723,
+        "title": "Waiting For",
+        "author": "Red Hot Chilli Peppers*",
+        "thumb": "https:\/\/i.discogs.com\/1dKIORln0sRp5e2rmdrheY4b-ycftvMhgwSOQ-F4M4A\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTkxODE3\/Mi0xMTgzNzI1NDIx\/LmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/P00MCoWkDLBQJmkPUAsAM5g5lBpKKLsOFTde1kZftJI\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTkxODE3\/Mi0xMTgzNzI1NDIx\/LmpwZWc.jpeg",
+        "genres": [
+            "Electronic"
+        ],
+        "release_year": "2007",
+        "barcode": "Nessun codice a barre disponibile"
+    },
+    "1606131": {
+        "id": 1606131,
+        "title": "Hamburg",
+        "author": "Red Hot Chili Peppers",
+        "thumb": "https:\/\/i.discogs.com\/RzTrsOjA9kDCbUyII_n7ODiqQXxORuV7QYKu9lGZMws\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTY0NDQx\/NDktMTQxOTYxNjE4\/NS01NzU1LmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/H0h5hmmRoU93VYViCg993SHJ6lewSSWkhXYCBgeGHDo\/rs:fit\/g:sm\/q:90\/h:336\/w:351\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTY0NDQx\/NDktMTQxOTYxNjE4\/NS01NzU1LmpwZWc.jpeg",
+        "genres": [
+            "Rock"
+        ],
+        "release_year": "1992",
+        "barcode": [
+            "WF 003 A -13-",
+            "WF 003 B -13-"
+        ]
+    },
+    "19629": {
+        "id": 19629,
+        "title": "Freaky Styley",
+        "author": "The Red Hot Chili Peppers*",
+        "thumb": "https:\/\/i.discogs.com\/q0mpvNA_cK2Z6i0h_4ivrJ_CVdqQoJhXsC_G6sUe2CE\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTY4NzE2\/OS0xNDk3Njc4NDQ3\/LTUzODIuanBlZw.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/DjfJL1uJ7AZU3TtguSHYAjileTh6bqt-E_JZ9PYiJ50\/rs:fit\/g:sm\/q:90\/h:602\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTY4NzE2\/OS0xNDk3Njc4NDQ3\/LTUzODIuanBlZw.jpeg",
+        "genres": [
+            "Rock"
+        ],
+        "release_year": "1985",
+        "barcode": [
+            "BMI",
+            "07777171681",
+            "077771716812",
+            "ST-1-17168-P-2 \"FOR SLY WITH LOVE\" M\u1d9cM MASTERED BY EMI\/A 0",
+            "ST-2-17168-P2 M\u1d9cM MASTERED BY EMI\/A 0",
+            "ST-1-17168-P-1 #1 \"FOR SLY WITH LOVE\" M\u1d9cM MASTERED BY EMI\/A 0",
+            "ST-2-17168-P-2 #1 M\u1d9cM MASTERED BY EMI\/A 0",
+            "ST-1-17168-P-2  #1 \"FOR SLY WITH LOVE\" M\u1d9cM MASTERED BY EMI\/A 0",
+            "ST-2-17168-P-1 #1 M\u1d9cM MASTERED BY EMI\/A 0"
+        ]
+    },
+    "42503": {
+        "id": 42503,
+        "title": "Fight Like A Brave",
+        "author": "Red Hot Chili Peppers",
+        "thumb": "https:\/\/i.discogs.com\/SbslWnZPPTal6zCcU7Cv9N7SRTy0ME7F2frVYWO96Tc\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTg4OTEz\/MC0xMjI1ODgxNjYx\/LmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/srDB_5C37KzVj3K8JfG7jbMebUag8X9Tle-mh-8cayI\/rs:fit\/g:sm\/q:90\/h:597\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTg4OTEz\/MC0xMjI1ODgxNjYx\/LmpwZWc.jpeg",
+        "genres": [
+            "Rock"
+        ],
+        "release_year": "1987",
+        "barcode": [
+            "5 099920 217174",
+            "5099920217174",
+            "LC 5717",
+            "GEMA\/STEMRA"
+        ]
+    },
+    "462661": {
+        "id": 462661,
+        "title": "Greatest Hits",
+        "author": "Red Hot Chili Peppers",
+        "thumb": "https:\/\/i.discogs.com\/3uLyOW35rdrz03hC1cW_e-eMDdz3kjFLhrQksPdbyy8\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI3Mzgx\/MjUtMTI5ODg4MTM3\/Ny5qcGVn.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/PnuoedF-ukrDN3HFH6zLpyssqmmSMiMuhmw8WljB1nw\/rs:fit\/g:sm\/q:90\/h:599\/w:596\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI3Mzgx\/MjUtMTI5ODg4MTM3\/Ny5qcGVn.jpeg",
+        "genres": [
+            "Rock",
+            "Funk \/ Soul"
+        ],
+        "release_year": "1994",
+        "barcode": [
+            "7243-8-17719-2-1",
+            "0CE02<011>S217719 DISQUE AMERIC"
+        ]
+    },
+    "237438": {
+        "id": 237438,
+        "title": "Greatest Videos",
+        "author": "Red Hot Chili Peppers",
+        "thumb": "https:\/\/i.discogs.com\/XRQQKiJZVsxUywb-GskFAwVCCwSt8Vrn31QLsc5IJlQ\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE3NDc2\/MDgtMTQyODMxNjY2\/Ni0yNjY0LmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/xl74wnlTf58YBoFjKZ_3xKyThpt0pW6mCMUznSkZJpE\/rs:fit\/g:sm\/q:90\/h:537\/w:374\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE3NDc2\/MDgtMTQyODMxNjY2\/Ni0yNjY0LmpwZWc.jpeg",
+        "genres": [
+            "Rock"
+        ],
+        "release_year": "2003",
+        "barcode": [
+            "0 75993 86112 9",
+            "[Warner logo] DVD9 L1 759938611-2\/2.4 V02",
+            "[Warner logo] 759938611-2\/1.3 05\/04 V02",
+            "IFPI L014",
+            "IFPI 055Y",
+            "[Warner logo] 759938611-2\/2.3 05\/04 V02",
+            "[Warner logo] 759938611-2\/1.2 04\/04 V02",
+            "IFPI L014",
+            "IFPI 053W",
+            "[Warner logo] 759938611-2\/2.3 05\/04 V02",
+            "[Warner logo] 759938611-2\/1.2 04\/04 V02",
+            "IFPI L014",
+            "ifpi 055C",
+            "[Warner logo] DVD9 L1 759938611-2\/2.4 V02",
+            "[Warner logo] 759938611-2\/1.3 05\/04 V02",
+            "IFPI L014",
+            "IFPI 057H"
+        ]
+    },
+    "783809": {
+        "id": 783809,
+        "title": "The Red Hot Chili Peppers \/ The Uplift Mofo Party Plan",
+        "author": "The Red Hot Chili Peppers*",
+        "thumb": "https:\/\/i.discogs.com\/lkh3zVRVokuzyewUnuPNbfwgS_hVcyrWH3Td4Ibh7Ps\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTMxMzcy\/NDctMTYyNTQ2MTAw\/My05MjQ4LmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/bKS5dLa0SYCCOAI_JGCmATfMdtnk3I2UIfHYe7kYHRg\/rs:fit\/g:sm\/q:90\/h:592\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTMxMzcy\/NDctMTYyNTQ2MTAw\/My05MjQ4LmpwZWc.jpeg",
+        "genres": [
+            "Hip Hop",
+            "Rock",
+            "Funk \/ Soul"
+        ],
+        "release_year": "2003",
+        "barcode": [
+            "5 099909 528321",
+            "5099909528321",
+            "SDRM BIEM",
+            "BEL BIEM",
+            "LC0542",
+            "LC0148",
+            "7906162 AB31802-01 manufactured by optimal media production",
+            "5403792 AB31802-02 manufactured by optimal media production",
+            "IFPI L574",
+            "IFPI 9710",
+            "IFPI L574",
+            "IFPI 9710",
+            "0077779061624",
+            "72435-40379-2-4"
+        ]
+    },
+    "2497480": {
+        "id": 2497480,
+        "title": "Black Summer",
+        "author": "Red Hot Chili Peppers",
+        "thumb": "https:\/\/i.discogs.com\/Q31lljbQMbJQFkAMLSJs65-kakwlEdhOg723mssAyeI\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTIyMDI4\/ODAzLTE2NDQwMTgw\/MTMtODI1OS5qcGVn.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/e-uBrzOhbgGRPK4nMElwKjPhm78RDi7e_e5F9ORA2jc\/rs:fit\/g:sm\/q:90\/h:500\/w:500\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTIyMDI4\/ODAzLTE2NDQwMTgw\/MTMtODI1OS5qcGVn.jpeg",
+        "genres": [
+            "Rock"
+        ],
+        "release_year": "2022",
+        "barcode": "Nessun codice a barre disponibile"
+    },
+    "649842": {
+        "id": 649842,
+        "title": "I'm Beside You",
+        "author": "Red Hot Chili Peppers",
+        "thumb": "https:\/\/i.discogs.com\/8-fwtDVzshF6mAFQOwNKRexFU1BsW_7fdQjIqfzxd9o\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTUzNjIz\/NjktMTUyNDA5Mzcz\/OS00NDQ2LmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/F9Ikm5kZ7mDhapom1G82JBiRxDEUAz8YWph6iYER0h0\/rs:fit\/g:sm\/q:90\/h:595\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTUzNjIz\/NjktMTUyNDA5Mzcz\/OS00NDQ2LmpwZWc.jpeg",
+        "genres": [
+            "Rock"
+        ],
+        "release_year": "2013",
+        "barcode": [
+            "0 93624 94095 1",
+            "22403.1(3)..   1-537400-A CB",
+            "22403.2(3)..   1-537400-B CB",
+            "22403.3(3)..   1-537400-C CB",
+            "22403.4(3)..   1-537400-D CB"
+        ]
+    },
+    "42541": {
+        "id": 42541,
+        "title": "Around The World",
+        "author": "Red Hot Chili Peppers",
+        "thumb": "https:\/\/i.discogs.com\/_PqaIEjyZlyu3_tgkHnSSCIx4LjNZZLMW0qTU2VTIVc\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTMzODgz\/MDMtMTY1MTM0ODg1\/OC00NTAwLmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/K37d5vlojCHQmmIzxCHC8vhwLWWMdxl7OT7b7Ouplsg\/rs:fit\/g:sm\/q:90\/h:531\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTMzODgz\/MDMtMTY1MTM0ODg1\/OC00NTAwLmpwZWc.jpeg",
+        "genres": [
+            "Rock"
+        ],
+        "release_year": "1999",
+        "barcode": [
+            "0 93624 47482 1",
+            "936244748-2 08\/99",
+            "LC 0392",
+            "WE739"
+        ]
+    },
+    "42570": {
+        "id": 42570,
+        "title": "Desecration Smile",
+        "author": "Red Hot Chili Peppers",
+        "thumb": "https:\/\/i.discogs.com\/Rm6nXl_VYNyB68I8V72SsEk4UhKI90Sq4FfWqkgwYwc\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTM4OTY3\/MjYtMTM0ODQ0NDAx\/OC00NzYxLmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/IIb2WQR0-R649PMXj1hZ16kGvdF4DzzTOsZqD62ldi8\/rs:fit\/g:sm\/q:90\/h:350\/w:400\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTM4OTY3\/MjYtMTM0ODQ0NDAx\/OC00NzYxLmpwZWc.jpeg",
+        "genres": [
+            "Rock"
+        ],
+        "release_year": "2007",
+        "barcode": [
+            "0 93624 99919 5",
+            "EDC Blackburn Ltd W756CD2 01",
+            "IFPI L136",
+            "IFPI 0445 MADE IN THE UK",
+            "IFPI 04AT"
+        ]
+    },
+    "42540": {
+        "id": 42540,
+        "title": "Aeroplane",
+        "author": "Red Hot Chili Peppers",
+        "thumb": "https:\/\/i.discogs.com\/CPd5q8SUUhUR4zdX29zebAuQX7c_0gKJcw3pnTW6v6U\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQ3MTU4\/NS0xNjA5NzQ2MTc5\/LTY5NTMuanBlZw.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/7YYXM2uvcef-m4G6QFkKLigGmcAKM-3ODP7a44ZVkoA\/rs:fit\/g:sm\/q:90\/h:522\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQ3MTU4\/NS0xNjA5NzQ2MTc5\/LTY5NTMuanBlZw.jpeg",
+        "genres": [
+            "Rock"
+        ],
+        "release_year": "1996",
+        "barcode": [
+            "0 9362-43663-2 4",
+            "093624366324",
+            "LC 0392",
+            "GEMA\/BIEM",
+            "936243663-2 WME",
+            "IFPI L013",
+            "IFPI 0598",
+            "WE739"
+        ]
+    },
+    "1606119": {
+        "id": 1606119,
+        "title": "Tattoo Attack",
+        "author": "Red Hot Chili Peppers",
+        "thumb": "https:\/\/i.discogs.com\/4mYyn0Gtea7e_CBcoDSKM10UKvCS1DSZInMFBjjQ1wc\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTUwMzg5\/NjYtMTM4MjgzMjg2\/OC0zNDg2LmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/WNBty0Lze28uHXR1hxFacXj5GH3sWWzWK9DzEAYCKkc\/rs:fit\/g:sm\/q:90\/h:340\/w:342\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTUwMzg5\/NjYtMTM4MjgzMjg2\/OC0zNDg2LmpwZWc.jpeg",
+        "genres": [
+            "Rock",
+            "Funk \/ Soul"
+        ],
+        "release_year": "1992",
+        "barcode": "Nessun codice a barre disponibile"
+    },
+    "364559": {
+        "id": 364559,
+        "title": "Show Me Your Soul",
+        "author": "Red Hot Chili Peppers",
+        "thumb": "https:\/\/i.discogs.com\/uOEF-qPbVAkawzIp1ykMTV_m5wwr6fAwjvu-0DjhMps\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTMwMzE4\/MDItMTMxMjU1MTEw\/NS5qcGVn.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/f8VO1lJVYPcpb2MUmCUccZBhlqqLPAKAahB_orzt6pk\/rs:fit\/g:sm\/q:90\/h:500\/w:500\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTMwMzE4\/MDItMTMxMjU1MTEw\/NS5qcGVn.jpeg",
+        "genres": [
+            "Rock"
+        ],
+        "release_year": "1990",
+        "barcode": [
+            "DPRO 04513 L0215C 1-1-2 CAPITOL JAX 2 C"
+        ]
+    },
+    "1343660": {
+        "id": 1343660,
+        "title": "Gold 2000",
+        "author": "Red Hot Chili Peppers",
+        "thumb": "https:\/\/i.discogs.com\/X6jylkZMeCUh_D9IG8dhmye63Nb6dC7LA0RqQRj-EVg\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTMyOTA4\/MTYtMTQzODgyMjM2\/OC0zNTQ2LmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/_e2923kU0HqHiNGJeeRv8wXryBRRaOow5rLdjhYaMsY\/rs:fit\/g:sm\/q:90\/h:597\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTMyOTA4\/MTYtMTQzODgyMjM2\/OC0zNTQ2LmpwZWc.jpeg",
+        "genres": [
+            "Rock"
+        ],
+        "release_year": "2000",
+        "barcode": [
+            "7 24382 89873 3",
+            "LC 02052"
+        ]
+    },
+    "1155617": {
+        "id": 1155617,
+        "title": "Music Box",
+        "author": "Red Hot Chili Peppers",
+        "thumb": "https:\/\/i.discogs.com\/ZMK5ULCrI1HKOpHuXIezahqomT8TRRcqHtweZvZXfS0\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTY0MTcz\/MDUtMTQxODY4NDQ3\/MS03MzE5LmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/jFje3X0KuZWvZnN7mZTNRFef_jkF0xE8JX-AKd8JQ4c\/rs:fit\/g:sm\/q:90\/h:594\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTY0MTcz\/MDUtMTQxODY4NDQ3\/MS03MzE5LmpwZWc.jpeg",
+        "genres": [
+            "Rock"
+        ],
+        "release_year": "2002",
+        "barcode": [
+            "4 692003 747479",
+            "Z 747"
+        ]
+    },
+    "823609": {
+        "id": 823609,
+        "title": "Ultimate Collection",
+        "author": "Red Hot Chili Peppers",
+        "thumb": "https:\/\/i.discogs.com\/FtEXwd7ODbjj6140isuLgouhAnZyMIABCL3w6IF2Ulg\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTYyMDg1\/NzctMTQxMzc1MjU5\/Ny0yOTA2LmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/QoFLcklh7YVYmthqQaI1L2SISC-fMPDPt8mgZj-h0Qo\/rs:fit\/g:sm\/q:90\/h:591\/w:591\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTYyMDg1\/NzctMTQxMzc1MjU5\/Ny0yOTA2LmpwZWc.jpeg",
+        "genres": [
+            "Rock",
+            "Funk \/ Soul"
+        ],
+        "release_year": "2001",
+        "barcode": [
+            "RHCP 181"
+        ]
+    },
+    "196923": {
+        "id": 196923,
+        "title": "Love Rollercoaster",
+        "author": "Red Hot Chili Peppers",
+        "thumb": "https:\/\/i.discogs.com\/kAdfT6cF0jdggiYRgKIldnVY2OJyxyOVu6bzEvIZw3Y\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTY0NDgy\/NC0xMTQyNjc4MjQ0\/LmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/rUM4otURHvrOkNCDOuXfejo5O9q-rVwardXAGjwgFEs\/rs:fit\/g:sm\/q:90\/h:465\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTY0NDgy\/NC0xMTQyNjc4MjQ0\/LmpwZWc.jpeg",
+        "genres": [
+            "Rock"
+        ],
+        "release_year": "1996",
+        "barcode": "Nessun codice a barre disponibile"
+    },
+    "42559": {
+        "id": 42559,
+        "title": "By The Way",
+        "author": "Red Hot Chili Peppers",
+        "thumb": "https:\/\/i.discogs.com\/s410Di-aIL7DltIADFT9WWWFGXM_NFBydbVPrb20MBI\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTgzOTc2\/My0xMjMzNTQxMTQx\/LmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/EXfvbZnrTUgJIiFg89m9L6ox3QRUFcBSiqL_ezuHnEU\/rs:fit\/g:sm\/q:90\/h:478\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTgzOTc2\/My0xMjMzNTQxMTQx\/LmpwZWc.jpeg",
+        "genres": [
+            "Rock"
+        ],
+        "release_year": "2002",
+        "barcode": [
+            "0 93624 24582 7",
+            "093624245827",
+            "[Warner logo] 936242458-2 06\/02",
+            "IFPI L011",
+            "IFPI 05N7",
+            "LC00392"
+        ]
+    },
+    "2865868": {
+        "id": 2865868,
+        "title": "Under The Bridge \/ Give it Away",
+        "author": "Red Hot Chili Peppers",
+        "thumb": "https:\/\/i.discogs.com\/nncKtuoMT0CEJO6YPI0Q30u2NP5KfNNd1wNg7eKqXvY\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTIyNjQ1\/MTE1LTE2NDgyNDY0\/NTctNDc1Ni5qcGVn.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/OfQqYlpCDSQqljDHcL6uyz3uYn62hb4dsi5TE2gBLIk\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTIyNjQ1\/MTE1LTE2NDgyNDY0\/NTctNDc1Ni5qcGVn.jpeg",
+        "genres": [
+            "Rock"
+        ],
+        "release_year": "1991",
+        "barcode": [
+            "715993A"
+        ]
+    },
+    "356376": {
+        "id": 356376,
+        "title": "The Adventures Of Rain Dance Maggie",
+        "author": "Red Hot Chili Peppers",
+        "thumb": "https:\/\/i.discogs.com\/bSsWPCWTzwUaPadqP7B7z7aNKtOwpT44EKyy8mM10MU\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTMwMDU2\/MjctMTMxMTM2NDk2\/Ni5qcGVn.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/s-RTVNjwBApbvANiJyg2Qov57WraYl0szyYEuOVroog\/rs:fit\/g:sm\/q:90\/h:523\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTMwMDU2\/MjctMTMxMTM2NDk2\/Ni5qcGVn.jpeg",
+        "genres": [
+            "Rock"
+        ],
+        "release_year": "2011",
+        "barcode": [
+            "0 54391 97932 2",
+            "543919793-2 V01 IZB",
+            "IFPI L016",
+            "LC 00392"
+        ]
+    },
+    "1231607": {
+        "id": 1231607,
+        "title": "Christmas Party '91",
+        "author": "Red Hot Chili Peppers",
+        "thumb": "https:\/\/i.discogs.com\/lmgjtf_7i47wXS1ufgBqM0uMmeDK0sLUE3jTXO0M9u0\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEzMTA0\/ODEtMTUyMzE4ODEw\/NS05NjM2LmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/W9o1MlXhNJPcq3AfkedYTegv-mebNgqgtzL4cuntYRU\/rs:fit\/g:sm\/q:90\/h:594\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEzMTA0\/ODEtMTUyMzE4ODEw\/NS05NjM2LmpwZWc.jpeg",
+        "genres": [
+            "Rock"
+        ],
+        "release_year": "1992",
+        "barcode": [
+            "8 013780 011045",
+            "KTS104 PHC",
+            "ADD",
+            "S.I.A.E."
+        ]
+    },
+    "2573243": {
+        "id": 2573243,
+        "title": "Unlimited Love",
+        "author": "Red Hot Chili Peppers",
+        "thumb": "https:\/\/i.discogs.com\/vKgcTa3T1_5x3MnAZEiuH9OGGF_-8GYSETqFd9jCffg\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTIyNjk0\/NjQyLTE2NDg2MTU4\/MjctMTM4OC5qcGVn.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/L_uG3cZgM3uBM8ZtmVv5zM5MsbGqMoy2Zs3lpjNNFMY\/rs:fit\/g:sm\/q:90\/h:598\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTIyNjk0\/NjQyLTE2NDg2MTU4\/MjctMTM4OC5qcGVn.jpeg",
+        "genres": [
+            "Rock",
+            "Funk \/ Soul"
+        ],
+        "release_year": "2022",
+        "barcode": [
+            "0 93624 87349 5",
+            "093624873495",
+            "0093624880653-A lV\u039b BL58894-01 A1 BG",
+            "0093624880653-B +I3 BL58894-01 B1 BG",
+            "0093624880653-C X=F BL58894-02 C2 BG",
+            "0093624880653-D +- BL58894-02 D2 BGM",
+            "BMI"
+        ]
+    },
+    "212519": {
+        "id": 212519,
+        "title": "Live At Slane Castle",
+        "author": "Red Hot Chili Peppers",
+        "thumb": "https:\/\/i.discogs.com\/RN2kZ1f0xaFzJMBCGbFzQJRF6Z7IRdwrVdU8qZYceYY\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTY2MTc1\/OS0xNDY4NzYyNTMz\/LTMwNzkuanBlZw.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/neaWQV0gV0TEHWJAFG08SIZ6NC4AzqQ0g9c_gUEWyW4\/rs:fit\/g:sm\/q:90\/h:846\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTY2MTc1\/OS0xNDY4NzYyNTMz\/LTMwNzkuanBlZw.jpeg",
+        "genres": [
+            "Rock",
+            "Funk \/ Soul"
+        ],
+        "release_year": "2003",
+        "barcode": [
+            "0 7599-38601-2 2",
+            "[Mastered by WAMO] 1 38601.1.A VB01",
+            "[Mastered by WAMO] 1 38601.1.B VA02",
+            "IFPI L906",
+            "IFPI L907",
+            "IFPI 2UDL",
+            "2-38601 (#1)"
+        ]
+    },
+    "42524": {
+        "id": 42524,
+        "title": "Give It Away",
+        "author": "Red Hot Chili Peppers",
+        "thumb": "https:\/\/i.discogs.com\/sOeTxXDpLgBZrAymGRij3pd9tRd-SzthwBf4o75qjF4\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQ2NjI5\/Ny0xMzc3MjMxNjc4\/LTg2NzkuanBlZw.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/45kzHcvtc8MEn6qc9L1TNYK40HcQsd2bSf4VNyoah38\/rs:fit\/g:sm\/q:90\/h:529\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQ2NjI5\/Ny0xMzc3MjMxNjc4\/LTg2NzkuanBlZw.jpeg",
+        "genres": [
+            "Rock"
+        ],
+        "release_year": "1991",
+        "barcode": [
+            "0 9362-40261-2 9",
+            "093624026129",
+            "BMI",
+            "1 40261-2 SRC+01 M1S2",
+            "1 40261-2 SRC+01 M1S8",
+            "1 40261-2 SRC+01 M1S3",
+            "1 40261-2 SRC+01 M1S6",
+            "1 40261-2 SRC+01 M2S1",
+            "1 40261-2 SRC+01 M1S5",
+            "1 40261-2 SRC+01 M2S8"
         ]
     }
 }

@@ -30,13 +30,19 @@
     </div>
       
 
-      <div class="w-48 rounded-b-xl h-auto whitespace-pre-line">
-        <h5 class="text-black-500"><?php echo $record['title']?></h5>
-        <h6 class="text-slate-600"><?php echo $record['author']?></h6>
-        <a href="details.php?cassette_id=<?php echo $record['id'] ?>" 
-        class="bg-mint-500 p-2 text-bisque-50
-         rounded-xl 
-         hover:bg-mint-700">Scopri di più</a>
+      <div class="w-48 rounded-b-xl h-auto">
+        <h5 class="text-black-500 mt-2"><?php echo $record['title']?></h5>
+        <h6 class="text-slate-600 mb-2"><?php echo $record['author']?></h6>
+        <div class="flex justify-between mb-0">
+          <a href="details.php?cassette_id=<?php echo $record['id'] ?>" 
+           class="bg-mint-500 p-2 text-bisque-50
+           rounded-xl 
+           hover:bg-mint-700">Scopri di più</a>
+          <a href="server.php?cassette_id=<?php echo $record['id'] ?>" 
+           class="bg-pastel-500 p-2 text-bisque-50
+           rounded-xl 
+           hover:bg-pastel-700">Elimina</a>
+        </div>
       </div>
 
     </div>

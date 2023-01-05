@@ -15,7 +15,8 @@ function getTitleAuthor($src, $switch){
   }
   
   function getGenres($src){
-    return $src['genre'];
+    $output = $src['genre'] ?? '';
+    return $output;
   }
   
   function getYear($src){
@@ -26,7 +27,8 @@ function getTitleAuthor($src, $switch){
   }
   
   function getBarcode($src){
-    return $src['barcode'];
+    empty($src['barcode']) ? $output = 'Nessun codice a barre disponibile' : $output = $src['barcode'];
+    return $output;
   }
 
   function createRecord($record){
@@ -45,9 +47,19 @@ function getTitleAuthor($src, $switch){
 
   // Utility che aggiunge un item al db
   function addToDb($db, $item){
-    $db[] = $item;
+    $db[$item['id']] = $item;
     file_put_contents('db.json', json_encode($db, JSON_PRETTY_PRINT));
   }
+
+  // Utility che rimuove un elemento dal db
+
+  function deleteFromDb($db, $id){
+
+    $db = array_filter($db, fn($record) => $record['id'] != $id);
+    file_put_contents('db.json', json_encode($db, JSON_PRETTY_PRINT));
+  }
+
+
   // Funzione principale che fa la ricerca 
 
   function apiCall(String $barcode = '', String $artist = '', String $release_title = ''){
@@ -70,6 +82,7 @@ function getTitleAuthor($src, $switch){
 
     // Mi salvo il risultato della chiamata nella variabile reponse, e in results ci metto i risultati. 
     $response = json_decode(file_get_contents("$baseUrl" . "token=$token" . "&barcode=$barcode" . "&artist=$artist" . "&release_title=$release_title",false, $context), true);
+
     $pagination = $response['pagination'];
     $results = $response['results'];
     

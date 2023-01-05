@@ -22,7 +22,7 @@
 </div>
   
 <div class="container md:gap-x-4 mx-auto flex flex-wrap justify-around px-5 columns-2 md:columns-4 lg:columns-6">
-<?php foreach($results as $key => $record) :?>
+<?php foreach($results as $record) :?>
 
   <div class="flex flex-col justify-between min-h-72 mb-28 p-3 bg-slate-300 shadow-lg shadow-space-700/80 rounded-xl">
 
@@ -37,7 +37,7 @@
       <h5 class="text-black-500 mb-3"><?php echo $record['title']?></h5>
       <h6 class="text-slate-600 mb-4"><?php echo $record['author']?></h6>
       <div class="flex justify-center">
-        <a href="server.php?result_id=<?php echo $key ?>" 
+        <a href="server.php?result_id=<?php echo $record['id'] ?>" 
       class="
         bg-mint-500 p-2 text-bisque-50
         rounded-xl 

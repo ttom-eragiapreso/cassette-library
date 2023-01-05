@@ -28,13 +28,15 @@
       <div class="card-details p-3">
 
         <h5 class="text-2xl mb-3"><?php echo $the_one['title'] ?> <span class="text-slate-600">by</span>  <?php echo $the_one['author'] ?></h5>
-        <p class="mb-3">Questa cassetta è uscita nel <?php echo $the_one['release_year'] ?>, col codice a barre <?php echo $the_one['barcode'] ?></p>
+        <p class="mb-3">Questa cassetta è uscita nel <?php echo $the_one['release_year'] ?>, col codice a barre: <?php echo $the_one['barcode']?></p>
+        <?php if(isset($the_one['genres'])): ?>
         <h4>Generi:</h4>
         <ul class="list-disc list-inside">
           <?php foreach($the_one['genres'] as $genre): ?>
             <li><?php echo $genre ?></li>
           <?php endforeach; ?>
         </ul>
+        <?php endif;?>
       </div>
       
 

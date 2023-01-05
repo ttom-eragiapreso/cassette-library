@@ -9,6 +9,9 @@ $newArtist = $_GET['artist'] ?? null;
 $isNavigation = $_GET['navigation'] ?? null;
 $destination = $_GET['destination'] ?? null;
 $result_id = $_GET['result_id'] ?? null;
+$cassette_id = $_GET['cassette_id'] ?? null;
+
+
 
 $db = json_decode(file_get_contents('db.json'), true);
 $resultsStored = json_decode(file_get_contents('results.json'), true);
@@ -17,6 +20,12 @@ $currentPagination = json_decode(file_get_contents('pagination.json'), true);
 
 if(isset($result_id)){
   addToDb($db, $resultsStored[$result_id]);
+  header('Location: library.php');
+  return;
+}
+
+if(isset($cassette_id)){
+  deleteFromDb($db, $cassette_id);
   header('Location: library.php');
   return;
 }

@@ -24,7 +24,7 @@
 <div class="container md:gap-x-4 mx-auto flex flex-wrap justify-around px-5 columns-2 md:columns-4 lg:columns-6">
 <?php foreach($results as $record) :?>
 
-  <div class="flex flex-col justify-between min-h-72 mb-28 p-3 bg-slate-300 shadow-lg shadow-space-700/80 rounded-xl">
+  <div class="flex flex-col justify-between min-h-72 mb-28 p-3 bg-slate-300 shadow-lg shadow-space-700/80 rounded-xl transition ease-in-out delay-50 duration-300 hover:scale-110 hover:shadow-xl hover:shadow-space-700/90">
 
     <div class="shadow-md shadow-slate-400 rounded-lg overflow-hidden">
       <img src="<?php echo $record['cover_img']?>" 

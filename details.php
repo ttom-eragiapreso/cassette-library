@@ -51,6 +51,7 @@
           <?php endforeach; ?>
         </ul>
         <?php endif;?>
+        <h4 class="mt-2">L'hai aggiunta in data: <span class="text-bold italic"><?php echo $the_one['timestamp'] ?></span></h4>
       </div>
       
 

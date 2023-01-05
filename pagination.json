@@ -1,10 +1,12 @@
 {
-    "page": 1,
-    "pages": 53,
+    "page": 2,
+    "pages": 36,
     "per_page": 50,
-    "items": 2638,
+    "items": 1782,
     "urls": {
-        "last": "https:\/\/api.discogs.com\/database\/search?token=HWiFdStcHwaqgBqEAoEjjvCFhQUNnZHqZFuelXuZ&barcode=&artist=red+hot+chili+peppers&release_title=&page=53&per_page=50",
-        "next": "https:\/\/api.discogs.com\/database\/search?token=HWiFdStcHwaqgBqEAoEjjvCFhQUNnZHqZFuelXuZ&barcode=&artist=red+hot+chili+peppers&release_title=&page=2&per_page=50"
+        "first": "https:\/\/api.discogs.com\/database\/search?token=HWiFdStcHwaqgBqEAoEjjvCFhQUNnZHqZFuelXuZ&barcode=&artist=celia+cruz&release_title=&page=1&per_page=50",
+        "last": "https:\/\/api.discogs.com\/database\/search?token=HWiFdStcHwaqgBqEAoEjjvCFhQUNnZHqZFuelXuZ&barcode=&artist=celia+cruz&release_title=&page=36&per_page=50",
+        "prev": "https:\/\/api.discogs.com\/database\/search?token=HWiFdStcHwaqgBqEAoEjjvCFhQUNnZHqZFuelXuZ&barcode=&artist=celia+cruz&release_title=&page=1&per_page=50",
+        "next": "https:\/\/api.discogs.com\/database\/search?token=HWiFdStcHwaqgBqEAoEjjvCFhQUNnZHqZFuelXuZ&barcode=&artist=celia+cruz&release_title=&page=3&per_page=50"
     }
 }

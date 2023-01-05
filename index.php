@@ -24,7 +24,7 @@
 <?php foreach($db as $record) :?>
 
 
-    <div class="flex flex-col justify-between min-h-72 mb-28 p-3 bg-slate-300 shadow-lg shadow-space-700/80 rounded-xl">
+    <div class="flex flex-col justify-between min-h-72 mb-28 p-3 bg-slate-300 shadow-lg shadow-space-600/80 rounded-xl transition ease-in-out delay-50 duration-300 hover:scale-110 hover:shadow-xl hover:shadow-space-700/90">
 
     <div class="shadow-md shadow-slate-400 rounded-lg overflow-hidden">
       <img src="<?php echo $record['cover_img']?>" 
@@ -54,15 +54,16 @@
 <?php endforeach ;?>
 
 
-  </div>
+</div>
 </main>
 <!-- Altrimenti messaggio triste -->
+
 <?php else : ?>
-  <main>
-    <h1>Non hai nessuna cassetta :(</h1>
+  <main class="bg-space-300 px-5">
+    <h1 class="text-2xl ">Non hai ancora nessuna cassetta :(</h1>
+    <h2 class="text-2xl my-3"><a href="search.php" class="text-pastel-100 hover:text-pastel-400">Clicca qui</a> per cercare il tuo album preferito e aggiungerlo alla tua libreria!</h2>
   </main>
 <?php endif; ?>
-
 
 
 

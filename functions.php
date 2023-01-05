@@ -31,6 +31,10 @@ function getTitleAuthor($src, $switch){
     return $output;
   }
 
+  function getTimestamp(){
+    return substr(date('r'), 0, -6) ;
+  }
+
   function createRecord($record){
     $newRecord = [
       "id" => getId($record),
@@ -40,7 +44,8 @@ function getTitleAuthor($src, $switch){
       "cover_img" => getCover($record),
       "genres" => getGenres($record),
       "release_year" => getYear($record),
-      "barcode" => getBarcode($record)
+      "barcode" => getBarcode($record),
+      "timestamp" => getTimestamp()
     ];
     return $newRecord;
   }

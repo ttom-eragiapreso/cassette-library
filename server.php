@@ -26,7 +26,7 @@ if(!$isNavigation){
 }else {
 
   $resultsStored = [];
-  //$currentPagination = [];
+  
   if($destination === 'next'){
     pageNavigation($currentPagination['urls']['next']);
   }

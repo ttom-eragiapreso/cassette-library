@@ -5,7 +5,6 @@
 <html lang="en">
   <head>
     <?php require 'partials/head.php' ?>
-    <link rel="stylesheet" href="styles/styles_library.css">
   </head>
 <body>
 

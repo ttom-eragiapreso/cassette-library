@@ -13,9 +13,10 @@
 <body>
   
 <?php require 'components/navbar.php' ?>
+
 <main class="bg-space-300">
 
-<div class="container mx-auto px-5">
+<div class="container mx-auto px-5 flex justify-between">
   <h2 class="text-bisque-200 text-2xl">Results found: <?php echo $currentPagination['items'] ?></h2>
   <h2 class="text-bisque-200 text-2xl mb-7">Page: <?php echo $currentPagination['page'] ?> of <?php echo $currentPagination['pages'] ?></h2>
 </div>
@@ -35,7 +36,7 @@
     <div class="w-48 rounded-b-xl h-auto text-center">
       <h5 class="text-black-500 mb-3"><?php echo $record['title']?></h5>
       <h6 class="text-slate-600 mb-4"><?php echo $record['author']?></h6>
-      <div class="flex content-center">
+      <div class="flex justify-center">
         <a href="#" 
       class="
         bg-mint-500 p-2 text-bisque-50
@@ -53,14 +54,26 @@
 
   </div>
 
+<div class="container mx-auto px-5 pb-5 text-bisque-200 text-2xl flex justify-between">
 
-  <a href="server.php?navigation=true&destination=next">Next Page</a>
+  <div>
+      <a class="hover:text-slate-200 mr-4" href="server.php?navigation=true&destination=next">Next Page</a>
+      <?php if(isset($currentPagination['urls']['prev'])): ?>
+      <a class="hover:text-slate-200" href="server.php?navigation=true&destination=prev">Prev Page</a>
+      <?php endif; ?>
+  </div>
+ 
 
-  <a href="server.php?navigation=true&destination=prev">Prev Page</a>
+  <div>
+    <?php if(isset($currentPagination['urls']['first'])): ?>
+    <a class="hover:text-slate-200" href="server.php?navigation=true&destination=first">First Page</a>
+    <?php endif; ?>
+
+    <a class="hover:text-slate-200 ml-4" href="server.php?navigation=true&destination=last">Last Page</a>
+  </div>
   
-  <a href="server.php?navigation=true&destination=first">First Page</a>
-
-  <a href="server.php?navigation=true&destination=last">Last Page</a>
+</div>
+  
 
 </main>
 

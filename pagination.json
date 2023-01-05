@@ -1,10 +1,12 @@
 {
-    "page": 1,
-    "pages": 116,
+    "page": 2,
+    "pages": 15,
     "per_page": 50,
-    "items": 5784,
+    "items": 717,
     "urls": {
-        "last": "https:\/\/api.discogs.com\/database\/search?token=HWiFdStcHwaqgBqEAoEjjvCFhQUNnZHqZFuelXuZ&barcode=&artist=nirvana&release_title=&page=116&per_page=50",
-        "next": "https:\/\/api.discogs.com\/database\/search?token=HWiFdStcHwaqgBqEAoEjjvCFhQUNnZHqZFuelXuZ&barcode=&artist=nirvana&release_title=&page=2&per_page=50"
+        "first": "https:\/\/api.discogs.com\/database\/search?token=HWiFdStcHwaqgBqEAoEjjvCFhQUNnZHqZFuelXuZ&barcode=&artist=arctic+monkeys&release_title=&page=1&per_page=50",
+        "last": "https:\/\/api.discogs.com\/database\/search?token=HWiFdStcHwaqgBqEAoEjjvCFhQUNnZHqZFuelXuZ&barcode=&artist=arctic+monkeys&release_title=&page=15&per_page=50",
+        "prev": "https:\/\/api.discogs.com\/database\/search?token=HWiFdStcHwaqgBqEAoEjjvCFhQUNnZHqZFuelXuZ&barcode=&artist=arctic+monkeys&release_title=&page=1&per_page=50",
+        "next": "https:\/\/api.discogs.com\/database\/search?token=HWiFdStcHwaqgBqEAoEjjvCFhQUNnZHqZFuelXuZ&barcode=&artist=arctic+monkeys&release_title=&page=3&per_page=50"
     }
 }

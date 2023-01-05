@@ -1,6 +1,5 @@
-<div class="h-16 flex items-center bg-bisque-50 tracking-tight font-medium">
-  <div class="container px-4 text-stone-800 ">
-    <a href="index.php" class="hover:text-stone-600 hover:underline underline-offset-8">Home</a>
-    <a href="library.php" class="hover:text-stone-600 hover:underline underline-offset-8">Visualizza la libreria</a>
-    </div>
+
+<div class="container max-w-full mx-auto px-5 h-20 flex items-center bg-bisque-100 text-2xl font-medium">
+  <a href="index.php" class="hover:text-stone-600 hover:underline underline-offset-8">Home</a>
+  <a href="library.php" class="hover:text-stone-600 hover:underline underline-offset-8">Visualizza la libreria</a>
 </div>

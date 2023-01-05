@@ -1,786 +1,744 @@
 {
-    "4085477": {
-        "id": 4085477,
-        "title": "Teddy Picker",
-        "author": "Arctic Monkeys",
-        "thumb": "https:\/\/i.discogs.com\/vIDuoryP6kPwTL9LXsdgqhoBiyWQiwsJBwgPjn2Az2I\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQwODU0\/NzctMTU0Nzk0NDY5\/Ni05ODg0LmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/7dS7T-2_kCieEKrrsowX6zIZ0S3Q-RrCpgFjNhsBHD4\/rs:fit\/g:sm\/q:90\/h:603\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQwODU0\/NzctMTU0Nzk0NDY5\/Ni05ODg0LmpwZWc.jpeg",
+    "23859962": {
+        "id": 23859962,
+        "title": "The Great Walk",
+        "author": "Autre, Two Thou, MarcoAntonio Spaventi, Enrico Demuro",
+        "thumb": "https:\/\/i.discogs.com\/gwkIsyeduU2mBRDanq-DW6c_7R3L-XEqzWnimzwRrI8\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTIzODU5\/OTYyLTE2NTc2MTQ2\/NDgtMjc0Ny5qcGVn.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/4VKs4SB4ZiprMg9oG9KBLWS6Zo9v5kNTjnGpob00_Lw\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTIzODU5\/OTYyLTE2NTc2MTQ2\/NDgtMjc0Ny5qcGVn.jpeg",
         "genres": [
-            "Rock"
-        ],
-        "release_year": "2007",
-        "barcode": [
-            "5034202127987"
-        ]
-    },
-    "10172279": {
-        "id": 10172279,
-        "title": "Astoria 2007",
-        "author": "Arctic Monkeys",
-        "thumb": "",
-        "cover_img": "https:\/\/st.discogs.com\/bd341e0cef36281185fb519da6aaae0489c5b36c\/images\/spacer.gif",
-        "genres": [
-            "Rock"
-        ],
-        "release_year": "2016",
-        "barcode": []
-    },
-    "2544886": {
-        "id": 2544886,
-        "title": "At The Apollo",
-        "author": "Arctic Monkeys",
-        "thumb": "https:\/\/i.discogs.com\/YSdmtxVSUZBf-ffvVyNBKQ0B2NVeC83m6evANSc9TaA\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI1NDQ4\/ODYtMTI4OTc1MjY3\/OS5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/6XwjvmVstGaixL_c0kUvk746GMZjqV6eEvUtyuz3OEk\/rs:fit\/g:sm\/q:90\/h:600\/w:594\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI1NDQ4\/ODYtMTI4OTc1MjY3\/OS5qcGVn.jpeg",
-        "genres": [
-            "Rock"
-        ],
-        "release_year": "2008",
-        "barcode": [
-            "GH000169"
-        ]
-    },
-    "2544734": {
-        "id": 2544734,
-        "title": "Brianstorm",
-        "author": "Arctic Monkeys",
-        "thumb": "https:\/\/i.discogs.com\/D6_kkb0gFvg6UGhrtpvwbGFMQLxUUM1OSywH80j39LM\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI1NDQ3\/MzQtMTMwMDkwMjA4\/OC5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/RILXftPhzu_22bm9dWmsPvVxDLnjwb3INAXlqX2moQU\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI1NDQ3\/MzQtMTMwMDkwMjA4\/OC5qcGVn.jpeg",
-        "genres": [
-            "Rock"
-        ],
-        "release_year": "2007",
-        "barcode": [
-            "MAP642J220135717",
-            "ZD4079-DVR-J47C1"
-        ]
-    },
-    "25043605": {
-        "id": 25043605,
-        "title": "Suck It And See",
-        "author": "Arctic Monkeys",
-        "thumb": "https:\/\/i.discogs.com\/x8tUu2D2hrfANNE75I5nowSz-BbXUG1DlkQs_g7mVIM\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI1MDQz\/NjA1LTE2Njc1MTUx\/NjItNzM4MC5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/fvoCntK9U3GaBSaCr1J_HP4yXk36kvWZoNWRnkME8IE\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI1MDQz\/NjA1LTE2Njc1MTUx\/NjItNzM4MC5qcGVn.jpeg",
-        "genres": [
-            "Rock"
-        ],
-        "release_year": "",
-        "barcode": []
-    },
-    "24669293": {
-        "id": 24669293,
-        "title": "Body Paint",
-        "author": "Arctic Monkeys",
-        "thumb": "https:\/\/i.discogs.com\/nkRDLL8Cw8Ic9nZJg05l64PVkzNkkm5fn50yXCBEfWI\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI0NjY5\/MjkzLTE2NjQ0NzM3\/MDgtNTYzMi5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/UMAE5pO-LtzKGNnAY3MwNMBXl0iI-qL6Ix8S82NifWE\/rs:fit\/g:sm\/q:90\/h:342\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI0NjY5\/MjkzLTE2NjQ0NzM3\/MDgtNTYzMi5qcGVn.jpeg",
-        "genres": [
-            "Rock"
-        ],
-        "release_year": "2022",
-        "barcode": []
-    },
-    "11770711": {
-        "id": 11770711,
-        "title": "Whatever People Say I Am, That's What I'm Not",
-        "author": "Arctic Monkeys",
-        "thumb": "",
-        "cover_img": "https:\/\/st.discogs.com\/bd341e0cef36281185fb519da6aaae0489c5b36c\/images\/spacer.gif",
-        "genres": [
-            "Rock"
-        ],
-        "release_year": "2006",
-        "barcode": [
-            "5034202016212",
-            "LC10192",
-            "WIGLP 162 A-1",
-            "WIGLP 162 B-1"
-        ]
-    },
-    "1919748": {
-        "id": 1919748,
-        "title": "Humbug",
-        "author": "Arctic Monkeys",
-        "thumb": "https:\/\/i.discogs.com\/jdPv_FK35bfvqNqysuIIu5NVzE1V14SIce2B3s-d5SM\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE5MTk3\/NDgtMTM3ODM5NDg5\/OC04MTMzLmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/nNil_Vfs9CeesEhrVT5pEk1XDFpKWy-mcVkHlQoftLg\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE5MTk3\/NDgtMTM3ODM5NDg5\/OC04MTMzLmpwZWc.jpeg",
-        "genres": [
-            "Rock"
-        ],
-        "release_year": "2009",
-        "barcode": [
-            "5099968623227",
-            "REGENCY MEDIA 121600.1 WIGCD220OZ P62942",
-            "ifpi LN96",
-            "IFPI 6Z07"
-        ]
-    },
-    "2545166": {
-        "id": 2545166,
-        "title": "Who The Fuck Are Arctic Monkeys?",
-        "author": "Arctic Monkeys",
-        "thumb": "https:\/\/i.discogs.com\/NP4oxJKYncQvo_zB_qTi2C8Axd0WUh8k8oRxT7MgmuI\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI1NDUx\/NjYtMTI4OTc2MjA4\/MS5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/fGgmZoYYKuJAT6tLGtKCw5jLNNtoIeuJ9y1htcBwFs8\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI1NDUx\/NjYtMTI4OTc2MjA4\/MS5qcGVn.jpeg",
-        "genres": [
-            "Rock"
-        ],
-        "release_year": "2006",
-        "barcode": [
-            "1EF11545032807"
-        ]
-    },
-    "1284332": {
-        "id": 1284332,
-        "title": "Favourite Worst Nightmare",
-        "author": "Arctic Monkeys",
-        "thumb": "https:\/\/i.discogs.com\/M5nnFEXpiLdP0WFDyUSIHCV_s6aV1j9ibZSrglVgCKg\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEyODQz\/MzItMTYwMTU1MTYz\/NS0xNTg5LmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/qr3UFD8rdAaTpxpAuXKf2f4SN_P3tuYRnnXSKJ8vq9s\/rs:fit\/g:sm\/q:90\/h:616\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEyODQz\/MzItMTYwMTU1MTYz\/NS0xNTg5LmpwZWc.jpeg",
-        "genres": [
-            "Rock"
-        ],
-        "release_year": "2007",
-        "barcode": [
-            "4601250346311",
-            "4 601250 346311",
-            "WIGCD188S DOMINO RECORDS \/ \u041a\u043e\u043d\u0446\u0435\u0440\u043d \"\u0413\u0440\u0443\u043f\u043f\u0430 \u0421\u041e\u042e\u0417\" ",
-            "IFPI LW80",
-            "IFPI ACH02",
-            "\u041b\u0418\u0426\u0415\u041d\u0417\u0418\u042f \u0420\u041e\u0421\u041e\u0425\u0420\u0410\u041d\u041a\u0423\u041b\u042c\u0422\u0423\u0420\u042b \u0421\u0415\u0420\u0418\u042f \u0412\u0410\u0424 \u2116 77-216 OOO \"\u0421\u0418 \u0414\u0418 \u041a\u041b\u0423\u0411\" \u0421\u0414\u0415\u041b\u0410\u041d\u041e \u0412 \u0420\u041e\u0421\u0421\u0418\u0418"
-        ]
-    },
-    "25531723": {
-        "id": 25531723,
-        "title": "The Car (Amazon Exclusive Photo Cards Version)",
-        "author": "Arctic Monkeys",
-        "thumb": "",
-        "cover_img": "https:\/\/st.discogs.com\/bd341e0cef36281185fb519da6aaae0489c5b36c\/images\/spacer.gif",
-        "genres": [
-            "Rock",
-            "Funk \/ Soul",
-            "Pop"
-        ],
-        "release_year": "2022",
-        "barcode": []
-    },
-    "25565581": {
-        "id": 25565581,
-        "title": "Favourite Worst Nightmare",
-        "author": "Arctic Monkeys",
-        "thumb": "https:\/\/i.discogs.com\/9eSwjUNPXNUa3Cqki8acKlsHKgAF9HJqPQzMW2m7S5Y\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI1NTY1\/NTgxLTE2NzE5ODc2\/NDMtODEwNC5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/gu28RfZvmxaNnF0rC8rnOEFHsKoGWSPEs2S9N5r4l5U\/rs:fit\/g:sm\/q:90\/h:610\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI1NTY1\/NTgxLTE2NzE5ODc2\/NDMtODEwNC5qcGVn.jpeg",
-        "genres": [
-            "Rock"
-        ],
-        "release_year": "2022",
-        "barcode": [
-            "887828018826",
-            "10192"
-        ]
-    },
-    "612972": {
-        "id": 612972,
-        "title": "Whatever People Say I Am, That's What I'm Not",
-        "author": "Arctic Monkeys",
-        "thumb": "https:\/\/i.discogs.com\/P-dGTjhMh5-tL-T7vrhnr1DdVUKwLbOrKPSXhKyLdXI\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTYxMjk3\/Mi0xNDAxMTgyOTYz\/LTczMjIuanBlZw.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/uw3c5_-IkZmWLUINbENQ6eO5lpMpxaWJQ-wqDWP7WPw\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTYxMjk3\/Mi0xNDAxMTgyOTYz\/LTczMjIuanBlZw.jpeg",
-        "genres": [
-            "Rock"
-        ],
-        "release_year": "2006",
-        "barcode": [
-            "5034202016212",
-            "LC10192",
-            "WIGLP 162 A-1",
-            "WIGLP 162 B-1"
-        ]
-    },
-    "4329406": {
-        "id": 4329406,
-        "title": "Favourite Worst Nightmare",
-        "author": "Arctic Monkeys",
-        "thumb": "https:\/\/i.discogs.com\/Q7mxkwG-YSudnCLiOXUGwxVcGHWekV3LSKC54JpN1hU\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQzMjk0\/MDYtMTQwODQ2NzU4\/OC00OTc5LmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/O0Axawoa5MwOD1jcV0tnlGa6PUQJDuQ8WvZILCtd_gM\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQzMjk0\/MDYtMTQwODQ2NzU4\/OC00OTc5LmpwZWc.jpeg",
-        "genres": [
-            "Rock"
-        ],
-        "release_year": "2013",
-        "barcode": [
-            "0 93624 94579 6",
-            "1-534467-A",
-            "1-534467-B"
-        ]
-    },
-    "4885699": {
-        "id": 4885699,
-        "title": "AM",
-        "author": "Arctic Monkeys",
-        "thumb": "https:\/\/i.discogs.com\/LGjhBTwYjUWzRigqdCOFkmkH2E1ZD8zIaKDH0C8ih08\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQ4ODU2\/OTktMTM3ODk5MzQ2\/OS05NjkxLmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/QAmYEGato79sJrTLCzyI50IsziPHFAVhDZ2F2RZRbj0\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQ4ODU2\/OTktMTM3ODk5MzQ2\/OS05NjkxLmpwZWc.jpeg",
-        "genres": [
-            "Rock"
-        ],
-        "release_year": "2013",
-        "barcode": [
-            "887828031733",
-            "WIGLP-317-A CB BD18237-01 A1",
-            "WIGLP317-B-RE1 2 BD18237-01 B2",
-            "WIGLP317X-7-A CB BD18633-01 A1",
-            "WIGLP317X-7-B CB BD18633-01 B1",
-            "LC 10192"
-        ]
-    },
-    "6985823": {
-        "id": 6985823,
-        "title": "Favourite Worst Nightmare",
-        "author": "Arctic Monkeys",
-        "thumb": "https:\/\/i.discogs.com\/tRNuBiUVxHmoluvCdz_rpuOBj803aZT6hRCPFuI6Ou4\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTY5ODU4\/MjMtMTYxOTM4MTA2\/Ni0xOTYxLmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/csnTjerrtgmVJ0mT7QeiUQNku05ipEy6jvRT8mRuICE\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTY5ODU4\/MjMtMTYxOTM4MTA2\/Ni0xOTYxLmpwZWc.jpeg",
-        "genres": [
-            "Rock"
-        ],
-        "release_year": "2013",
-        "barcode": [
-            "5 034202018810",
-            "5034202018810",
-            "WIGLP188 BD33961-01 A1",
-            "WIGLP188 BD33961-01 B1"
-        ]
-    },
-    "9503660": {
-        "id": 9503660,
-        "title": "Favourite Worst Nightmare",
-        "author": "Arctic Monkeys",
-        "thumb": "https:\/\/i.discogs.com\/XELJviHVLIVU_F6iGVilo89JL-1AswRmCRD1MU0Yg6c\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTk1MDM2\/NjAtMTQ4MTcxNjg4\/OC0xNzE5LmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/PnXcb7UgJOE4j-Tvu-W02e7-i18ERsmD8SPuoK2Ux5s\/rs:fit\/g:sm\/q:90\/h:531\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTk1MDM2\/NjAtMTQ4MTcxNjg4\/OC0xNzE5LmpwZWc.jpeg",
-        "genres": [
-            "Rock"
-        ],
-        "release_year": "2007",
-        "barcode": [
-            "094639402922",
-            "ARCTIC MONKEYS - FAVOURITE WORST NIGHT MARE 394029 2 2",
-            "IFPI LK06"
-        ]
-    },
-    "12859543": {
-        "id": 12859543,
-        "title": "Tranquility Base Hotel + Casino",
-        "author": "Arctic Monkeys",
-        "thumb": "https:\/\/i.discogs.com\/iAUbPzFYjuWDp6sJbttbHEJwIwv7aEqh-3XoPBrfY1Q\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEyODU5\/NTQzLTE1NDM1MTc4\/MDgtNjMyOS5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/81stkbi9UxHZfvePKk4gKTxrIFhGOVUut_cSPK7kcvQ\/rs:fit\/g:sm\/q:90\/h:513\/w:522\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEyODU5\/NTQzLTE1NDM1MTc4\/MDgtNjMyOS5qcGVn.jpeg",
-        "genres": [
-            "Rock",
-            "Pop"
-        ],
-        "release_year": "2018",
-        "barcode": [
-            "887829097073",
-            "BI42626-01 A1 = MATT @ ALCHEMY = RUG970 A1",
-            "BI42626-01 B1 RUG970 B1",
-            "LC 10192"
-        ]
-    },
-    "12127980": {
-        "id": 12127980,
-        "title": "Suck It And See",
-        "author": "Arctic Monkeys",
-        "thumb": "https:\/\/i.discogs.com\/TSQJJadgugKslNKsYFHCXNu0PFzw8YwZBwRhh7iSmyY\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEyMTI3\/OTgwLTE1Mzk3MzUw\/NzMtOTA4Ni5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/csJ7SKYX1PmEyfkrBCUxoNHbFZEgQ22SOfSzwKpJXQU\/rs:fit\/g:sm\/q:90\/h:588\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEyMTI3\/OTgwLTE1Mzk3MzUw\/NzMtOTA4Ni5qcGVn.jpeg",
-        "genres": [
-            "Rock"
-        ],
-        "release_year": "2011",
-        "barcode": [
-            "8 01390 03001 7",
-            "801390030017"
-        ]
-    },
-    "13183829": {
-        "id": 13183829,
-        "title": "Brianstorm",
-        "author": "Arctic Monkeys",
-        "thumb": "https:\/\/i.discogs.com\/i2xsEMtVu8H1TT9B6JOsDAFnDNAbGSfqf2huU0UKALU\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEzMTgz\/ODI5LTE1NTIwNTU3\/OTItMTk3NC5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/_dZIfWQ-9yo0mIfNf_t_2EzF6_HpwWSr54WHKsDrLYY\/rs:fit\/g:sm\/q:90\/h:300\/w:300\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEzMTgz\/ODI5LTE1NTIwNTU3\/OTItMTk3NC5qcGVn.jpeg",
-        "genres": [
-            "Rock"
-        ],
-        "release_year": "2019",
-        "barcode": [
-            "8 87829 02547 2",
-            "LC10192",
-            "RUG 254 PEACHY ABBEY RD. B154234-01 A1 I^",
-            "RUG254 B150110-01 B1 CLEA SBX"
-        ]
-    },
-    "17040393": {
-        "id": 17040393,
-        "title": "AM",
-        "author": "Arctic Monkeys",
-        "thumb": "https:\/\/i.discogs.com\/Hnl8y1aLIXodtBJgbaYm0yVnlIyT3gtoryasBxFqVw0\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE3MDQw\/MzkzLTE2MTEyODM0\/MTEtMjY4My5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/sQiANeHVIXLZhdj_k2BvdpC65fUGefDMEpuob3T5l6c\/rs:fit\/g:sm\/q:90\/h:588\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE3MDQw\/MzkzLTE2MTEyODM0\/MTEtMjY4My5qcGVn.jpeg",
-        "genres": [
-            "Rock"
-        ],
-        "release_year": "2020",
-        "barcode": [
-            "887828031719",
-            "WIGLP-317-A CB BD18237-01 A1",
-            "BD18237-B II `|\u00b4 25967.2(3)\u2022\u2022\u2022",
-            "WIGLP-317-A CB BD18237-01 A1",
-            "WIGLP317-B-RE1 2 BD18237-01 B2",
-            "WIGLP-317-A 2 CB BD18237-01-A1",
-            "WIGLP317-B-RE1 3 BD18237-01-B2"
-        ]
-    },
-    "24866465": {
-        "id": 24866465,
-        "title": "I Ain't Quite Where I Think I Am",
-        "author": "Arctic Monkeys",
-        "thumb": "https:\/\/i.discogs.com\/JLb-a3XXyT66eDnC7fGA-R3ZgjN9R99Bb6rU2Oe9ZBI\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI0ODY2\/NDY1LTE2NjYxMTc3\/NjgtNTk0NC5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/YeFsq4ZjaxxAZkF53yj9wDG3kntAgr5RoteELiv-k6U\/rs:fit\/g:sm\/q:90\/h:500\/w:500\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI0ODY2\/NDY1LTE2NjYxMTc3\/NjgtNTk0NC5qcGVn.jpeg",
-        "genres": [
-            "Rock",
+            "Electronic",
             "Funk \/ Soul"
         ],
         "release_year": "2022",
-        "barcode": [
-            "B0BBVB4PZ9"
-        ]
+        "barcode": []
     },
-    "2626523": {
-        "id": 2626523,
-        "title": "Fluorescent Adolescent (Jakob Rocks! Vol. 6)",
-        "author": "Arctic Monkeys",
-        "thumb": "https:\/\/i.discogs.com\/UjbEYQS-lI3ySfrv6zxsb9RHklJ-rJYrU3tHd1jd-cs\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTMwMzkz\/ODUtMTYxNTU4NDE3\/OC0zMTk3LmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/23rK_MnZTLdhR7I8qO2WP9CuZk5-Pe6dyOfXsKMdkMY\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTMwMzkz\/ODUtMTYxNTU4NDE3\/OC0zMTk3LmpwZWc.jpeg",
+    "4604354": {
+        "id": 4604354,
+        "title": "The Great Walk",
+        "author": "Trigger B",
+        "thumb": "https:\/\/i.discogs.com\/jeGW6G5pvhZqSP9-7lqTzmhz2BJGc5mP8phWqilHxW0\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQ2MDQz\/NTQtMTM2OTY4NjYw\/MS03Mjk0LmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/ls9v1Tzn8QiBAR2WZlLQuw9FREyr19-gZOSGtmFV6Hg\/rs:fit\/g:sm\/q:90\/h:578\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQ2MDQz\/NTQtMTM2OTY4NjYw\/MS03Mjk0LmpwZWc.jpeg",
         "genres": [
             "Electronic"
         ],
         "release_year": "",
         "barcode": []
     },
-    "588117": {
-        "id": 588117,
-        "title": "Why'd You Only Call Me When You're High?",
-        "author": "Arctic Monkeys",
-        "thumb": "https:\/\/i.discogs.com\/lFgI-KTaoBpvSYUHj3o1DjB0W_UiRl5JQVSHWpt_1Dk\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQ4NjQ0\/MTktMTYxNzM1Mzg4\/Ni04MTU1LmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/jexKzZ0Q4C6Nv2lQ-vJr5AaYqCIBdvr04zwKykp-GOM\/rs:fit\/g:sm\/q:90\/h:611\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQ4NjQ0\/MTktMTYxNzM1Mzg4\/Ni04MTU1LmpwZWc.jpeg",
-        "genres": [
-            "Rock"
-        ],
-        "release_year": "2013",
-        "barcode": [
-            "887828054779",
-            "RUG547-A BD21009-01 A1",
-            "RUG547-B BD21009-01 B1",
-            "LC10192",
-            "B00EB09UMY"
-        ]
-    },
-    "93220": {
-        "id": 93220,
-        "title": "Who The Fuck Are Arctic Monkeys?",
-        "author": "Arctic Monkeys",
-        "thumb": "https:\/\/i.discogs.com\/Z0vOxYCl306mG5jD5_CT1L-TFozZBFCRTF6_9FIwdiw\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTY5NTk1\/Ny0xNTA2MDY2Nzk5\/LTMxMzAuanBlZw.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/jmUXfqHb-6rc49oRLqgCnE5svoF0vil3CtJX35Vt-tI\/rs:fit\/g:sm\/q:90\/h:584\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTY5NTk1\/Ny0xNTA2MDY2Nzk5\/LTMxMzAuanBlZw.jpeg",
-        "genres": [
-            "Rock"
-        ],
-        "release_year": "2006",
-        "barcode": [
-            "5034202122661",
-            "RUG 226 A-3-1",
-            "RUG 226 B-1"
-        ]
-    },
-    "407318": {
-        "id": 407318,
-        "title": "Black Treacle",
-        "author": "Arctic Monkeys",
-        "thumb": "https:\/\/i.discogs.com\/7YUpAp63aovIRP9HeFu1YT2BqH8ACyZjkYrk32T4pIs\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTMzNTc3\/OTMtMTMyNzc2MjE3\/My5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/KyCRjuuXO2IV-1_n7CIXl6o8EgjE9sK_mklLFQitcb4\/rs:fit\/g:sm\/q:90\/h:614\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTMzNTc3\/OTMtMTMyNzc2MjE3\/My5qcGVn.jpeg",
-        "genres": [
-            "Rock",
-            "Pop"
-        ],
-        "release_year": "2012",
-        "barcode": [
-            "5 034202 144977",
-            "8 01390 09037 0",
-            "RUG449 A-1",
-            "RUG449 B-1",
-            "LC 10192"
-        ]
-    },
-    "69774": {
-        "id": 69774,
-        "title": "Favourite Worst Nightmare",
-        "author": "Arctic Monkeys",
-        "thumb": "https:\/\/i.discogs.com\/utvFBspdVrQxUtqNhh24GEc8YvZ98rKtKShvokPVaDs\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTk1NjEz\/NC0xMTc3ODQ5MzEw\/LmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/399afSYJF0qSjkXSTQ-xwdKEV0v6gUNITk2LZz336Y0\/rs:fit\/g:sm\/q:90\/h:513\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTk1NjEz\/NC0xMTc3ODQ5MzEw\/LmpwZWc.jpeg",
-        "genres": [
-            "Rock"
-        ],
-        "release_year": "2007",
-        "barcode": [
-            "5 034202 018827",
-            "5034202018827",
-            "LC10192",
-            "WIGCD 188 - SP",
-            "IFPI LK46",
-            "IFPI 5M10",
-            "IFPI 5M02",
-            "IFPI 5M03",
-            "IFPI 5M09",
-            "IFPI 5M08",
-            "IFPI 5M05",
-            "IFPI 5M01"
-        ]
-    },
-    "593987": {
-        "id": 593987,
-        "title": "AM",
-        "author": "Arctic Monkeys",
-        "thumb": "https:\/\/i.discogs.com\/-WYv-8-UoeSHAAC0qq5vPWDE2uoH1arFPatzP_voph8\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQ4ODM1\/MDUtMTYxNjkyNTU1\/OC0xMTY2LmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/-5VP_faWPuZm-_4156UfRx0a_Wh8c5YKFS-GYgmeN_Y\/rs:fit\/g:sm\/q:90\/h:566\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQ4ODM1\/MDUtMTYxNjkyNTU1\/OC0xMTY2LmpwZWc.jpeg",
-        "genres": [
-            "Rock"
-        ],
-        "release_year": "2013",
-        "barcode": [
-            "887828031719",
-            "8 87828 03171 9",
-            "LC 10192",
-            "WIGLP-317-A CB BD18231-01 A1",
-            "WIGLP317-B-RE1 2 BD18231-01 B2"
-        ]
-    },
-    "76285": {
-        "id": 76285,
-        "title": "Brianstorm",
-        "author": "Arctic Monkeys",
-        "thumb": "https:\/\/i.discogs.com\/9aDtwD1fbe3GG6VxAXjHKbdgfW0vx8ytiqgdVE2Dpxk\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTk1OTEw\/Mi0xNTU1MzUwOTQz\/LTI1MzIuanBlZw.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/hQwbVbwtkH4SAu6EIhzjruze3YL_sz5Unm8ZehA5VBQ\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTk1OTEw\/Mi0xNTU1MzUwOTQz\/LTI1MzIuanBlZw.jpeg",
-        "genres": [
-            "Rock"
-        ],
-        "release_year": "2007",
-        "barcode": [
-            "5 034202 125471",
-            "LC10192",
-            "PEACHY ABBEY RD, ASHTON, RUG254 A-1",
-            "RUG254 B-2 CLEASBY"
-        ]
-    },
-    "93234": {
-        "id": 93234,
-        "title": "Fluorescent Adolescent",
-        "author": "Arctic Monkeys",
-        "thumb": "https:\/\/i.discogs.com\/JGe6G4Pz1nX272U9F7W4x5tzON1dV6UXACb-enRImS4\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEwMTAz\/MTQtMTU1NTM0OTQ3\/OC02NTgxLmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/M-Nrwq5rYxy1HgdF_FtjfuVljhY6XFowwdodsmuHuBc\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEwMTAz\/MTQtMTU1NTM0OTQ3\/OC02NTgxLmpwZWc.jpeg",
-        "genres": [
-            "Rock"
-        ],
-        "release_year": "2007",
-        "barcode": [
-            "5 034202 126171",
-            "LC10192",
-            "RUG261 A-1",
-            "RUG261 B-1"
-        ]
-    },
-    "339433": {
-        "id": 339433,
-        "title": "Don't Sit Down 'Cause I've Moved Your Chair",
-        "author": "Arctic Monkeys",
-        "thumb": "https:\/\/i.discogs.com\/NPd_sTJRgL4_U-uivgUOqk9x0TRk27IhmiMKooyPj2o\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI5MDMy\/MTctMTMwNjg0NzEz\/My5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/QSJgfMjaGEgsYNc4FUP_M8f2s21bfy4HsWt4D7KxXag\/rs:fit\/g:sm\/q:90\/h:596\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI5MDMy\/MTctMTMwNjg0NzEz\/My5qcGVn.jpeg",
-        "genres": [
-            "Rock"
-        ],
-        "release_year": "2011",
-        "barcode": [
-            "5 034202 140689",
-            "LC10192",
-            "RUG 406 S A-1 Guy's ELECTRIC",
-            "RUG 406 S B-1"
-        ]
-    },
-    "93235": {
-        "id": 93235,
-        "title": "Teddy Picker",
-        "author": "Arctic Monkeys",
-        "thumb": "https:\/\/i.discogs.com\/bcNRawGyCAecZicvWb9C59iKZK8hvh3MCtzYjbwRIAo\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTExNjA3\/MTAtMTI4OTc3MDY4\/Mi5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/x4Ht1li24TovOD9kvkeafIgOx_J0uc1xpj5C75VKWec\/rs:fit\/g:sm\/q:90\/h:600\/w:594\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTExNjA3\/MTAtMTI4OTc3MDY4\/Mi5qcGVn.jpeg",
-        "genres": [
-            "Rock"
-        ],
-        "release_year": "2007",
-        "barcode": [
-            "5 034202 127970",
-            "5034202127970",
-            "RUG 279 A-2",
-            "RUG 279 B-2",
-            "LC10192"
-        ]
-    },
-    "1783869": {
-        "id": 1783869,
-        "title": "At The Apollo",
-        "author": "Arctic Monkeys",
-        "thumb": "https:\/\/i.discogs.com\/bK2JlSrEDfU1EOWaajIq-zvarT-rlekJwhezzfmSZLI\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE3ODM4\/NjktMTI0MzA4NjYw\/OS5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/9QACqqW6rEjcjtL-j2qDRule3h7bXBaGY2JD8NHdyq4\/rs:fit\/g:sm\/q:90\/h:544\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE3ODM4\/NjktMTI0MzA4NjYw\/OS5qcGVn.jpeg",
-        "genres": [
-            "Rock"
-        ],
-        "release_year": "2009",
-        "barcode": [
-            "0 9362-49777-4 2"
-        ]
-    },
-    "2942297": {
-        "id": 2942297,
-        "title": "Humbug",
-        "author": "Arctic Monkeys",
-        "thumb": "https:\/\/i.discogs.com\/petzHhHgpjbv1byXveb9h37DHok24QpSNQp9vLlxUOw\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI5NDIy\/OTctMTMwODM5NzA0\/NC5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/VEr4czFRKNfqVkWYyf7Dp1QB4SFI75ZoQ6ZKnEniAis\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI5NDIy\/OTctMTMwODM5NzA0\/NC5qcGVn.jpeg",
-        "genres": [
-            "Rock"
-        ],
-        "release_year": "2009",
-        "barcode": []
-    },
-    "3381026": {
-        "id": 3381026,
-        "title": "Leave Before The Lights Come On",
-        "author": "Arctic Monkeys",
-        "thumb": "https:\/\/i.discogs.com\/hwmxypuhZ67q72fnTnx18Yp3WU157LTP_y7fsQabdFc\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTMzODEw\/MjYtMTMyODE1NzAw\/Ni5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/VmXQAGlwST5GYE6EqzJIWF6SQSb-aWo8sG_xolMJQq8\/rs:fit\/g:sm\/q:90\/h:490\/w:494\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTMzODEw\/MjYtMTMyODE1NzAw\/Ni5qcGVn.jpeg",
-        "genres": [
-            "Rock"
-        ],
-        "release_year": "2006",
-        "barcode": [
-            "0 94637 66902 0",
-            "[SM logo] 6109103646 3766902",
-            "ifpi LR11",
-            "ifpi 2661"
-        ]
-    },
-    "12033455": {
-        "id": 12033455,
-        "title": "Tranquility Base Hotel + Casino",
-        "author": "Arctic Monkeys",
-        "thumb": "https:\/\/i.discogs.com\/2z_eMovrr5KDa6COQBSNNHrbuByLAoq1PUUE6x80wLI\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEyMDMz\/NDU1LTE2MzgxMjk0\/ODgtNTIzNS5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/rNeVG0giceLzrfEVWHyVwvKs1BuIWCRo3iee-OJheq4\/rs:fit\/g:sm\/q:90\/h:602\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEyMDMz\/NDU1LTE2MzgxMjk0\/ODgtNTIzNS5qcGVn.jpeg",
-        "genres": [
-            "Rock"
-        ],
-        "release_year": "2018",
-        "barcode": []
-    },
-    "6338537": {
-        "id": 6338537,
-        "title": "Favourite Worst Nightmare",
-        "author": "Arctic Monkeys",
-        "thumb": "https:\/\/i.discogs.com\/lvZ00wvGfSKZAWXNIIkzVjwAIpyMpDvF460Dyx1Sk2g\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTYzMzg1\/MzctMTQxNjgxNjA3\/NS02MzYyLmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/By8PX1ebfUhJ3POQvWgXaAiJuWurudq-eMG3rOC4yJA\/rs:fit\/g:sm\/q:90\/h:179\/w:200\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTYzMzg1\/MzctMTQxNjgxNjA3\/NS02MzYyLmpwZWc.jpeg",
-        "genres": [
-            "Rock"
-        ],
-        "release_year": "2007",
-        "barcode": [
-            "8 858305 007024"
-        ]
-    },
-    "7256829": {
-        "id": 7256829,
-        "title": "At The Apollo",
-        "author": "Arctic Monkeys",
-        "thumb": "https:\/\/i.discogs.com\/qIq8bRvvTp43a68J95ec0H0G51uSeELZETe10SBm0go\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTcyNTY4\/MjktMTQzNzMyNzAw\/OC0zMjk1LmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/V4IPaIX77l-ddaVA9zXo-ZiAy-T7M7GfZd7meMwAbTs\/rs:fit\/g:sm\/q:90\/h:815\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTcyNTY4\/MjktMTQzNzMyNzAw\/OC0zMjk1LmpwZWc.jpeg",
-        "genres": [
-            "Rock"
-        ],
-        "release_year": "2008",
-        "barcode": [
-            "50999 2674779 8",
-            "5099926747798",
-            "TELTRON DVD MOD 5010 POS 24313 2644779 L0 INDUSTRIA ARGENTINA",
-            "TELTRON DVD MOD 5010 POS 24313 2644779 L1 INDUSTRIA ARGENTINA",
-            "IFPI LL02",
-            "IFPI 6C12",
-            "LC10192",
-            "BIEM\/MCPS\/CAPIF"
-        ]
-    },
-    "8502514": {
-        "id": 8502514,
-        "title": "The Arctic Monkeys Phenomenon Behind The Music",
-        "author": "Arctic Monkeys",
-        "thumb": "https:\/\/i.discogs.com\/SPb0WwqmAjCK8Tu0yCnTDvJjArGM1h-yh652CveQUds\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTg1MDI1\/MTQtMTQ2MjkwMTg0\/MC02MDY5LmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/NpU2DtGLbDKj2Y0voGtJn9p7xFnMNNf1TQzybosE38U\/rs:fit\/g:sm\/q:90\/h:827\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTg1MDI1\/MTQtMTQ2MjkwMTg0\/MC02MDY5LmpwZWc.jpeg",
-        "genres": [
-            "Rock"
-        ],
-        "release_year": "2007",
-        "barcode": [
-            "8 23880 02476 4"
-        ]
-    },
-    "8947665": {
-        "id": 8947665,
-        "title": "Favourite Worst Nightmare",
-        "author": "Arctic Monkeys",
-        "thumb": "https:\/\/i.discogs.com\/LgljXn5xRXUDSO_Ud9UlT8o1KUyZfb1t3u0zTkRBk4s\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTg5NDc2\/NjUtMTQ3MjAzNTgz\/Ny05ODgxLmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/-sokx8tJCd2vaSDDD_YaIFi1flH4UH-RR97B8vOZqPY\/rs:fit\/g:sm\/q:90\/h:300\/w:300\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTg5NDc2\/NjUtMTQ3MjAzNTgz\/Ny05ODgxLmpwZWc.jpeg",
-        "genres": [
-            "Rock"
-        ],
-        "release_year": "2007",
-        "barcode": [
-            "5 08563 48926 8",
-            "508563489268",
-            "DOMINO RECORDS WIGCD188S",
-            "IFPI LW03"
-        ]
-    },
-    "3450785": {
-        "id": 3450785,
-        "title": "At The Apollo",
-        "author": "Arctic Monkeys",
-        "thumb": "https:\/\/i.discogs.com\/rsa1kQXde7EZ4C1e-JeTae8JYzKHQ212OR9YqG84VcU\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTM0NTA3\/ODUtMTMzMDg3Mzgx\/My5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/ba0B67g8B1i_B3QpvzKCMriiT0gNFNEfTNqqBCO7AqY\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTM0NTA3\/ODUtMTMzMDg3Mzgx\/My5qcGVn.jpeg",
-        "genres": [
-            "Rock"
-        ],
-        "release_year": "2008",
-        "barcode": [
-            "LC 10192",
-            "BIEM \/ MCPS"
-        ]
-    },
-    "15835194": {
-        "id": 15835194,
-        "title": "Demo Compilation",
-        "author": "Arctic Monkeys",
-        "thumb": "https:\/\/i.discogs.com\/023mQxsE1p9Vzi_sI4KTxRhk9k-VAgRUTEtrygDEJ6I\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1ODM1\/MTk0LTE1OTg2Njg1\/MDMtNjg4Ny5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/solrE2hxGfCwX4RelD8JY4BEbdvuOoSiV0eyJfBO-zc\/rs:fit\/g:sm\/q:90\/h:581\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1ODM1\/MTk0LTE1OTg2Njg1\/MDMtNjg4Ny5qcGVn.jpeg",
-        "genres": [
-            "Rock",
-            "Pop"
-        ],
-        "release_year": "2005",
-        "barcode": []
-    },
-    "6200064": {
-        "id": 6200064,
-        "title": "The Hellcat Spangled Shalalala",
-        "author": "Arctic Monkeys",
-        "thumb": "https:\/\/i.discogs.com\/gJShkM2E4VT5cyensfyWJO0Lcf8CbGUNpvJVQyRVKMc\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTYyMDAw\/NjQtMTQxMzU1ODAw\/OS02NzMyLmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/ZUtMUltp8Lkj_zdYyvgo9Jwyszr_KTqrVIGzPpJ00Us\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTYyMDAw\/NjQtMTQxMzU1ODAw\/OS02NzMyLmpwZWc.jpeg",
-        "genres": [
-            "Rock"
-        ],
-        "release_year": "2011",
-        "barcode": []
-    },
-    "8486856": {
-        "id": 8486856,
-        "title": "AM",
-        "author": "Arctic Monkeys",
-        "thumb": "https:\/\/i.discogs.com\/8V6SHstqgK0K9OnmK0AXCU-du5m9W3Tw2mkb9x3hGGw\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTg0ODY4\/NTYtMTQ2MjU2NzIw\/MS0yODIyLmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/RYINkp7jkXai8r7V1xPLUZGlSASkA7GUT3C5J9RAWy4\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTg0ODY4\/NTYtMTQ2MjU2NzIw\/MS0yODIyLmpwZWc.jpeg",
-        "genres": [
-            "Rock"
-        ],
-        "release_year": "2013",
-        "barcode": [
-            "HSE-10137 OP1382A"
-        ]
-    },
-    "20842153": {
-        "id": 20842153,
-        "title": "Favourite Worst Nightmare",
-        "author": "Arctic Monkeys",
-        "thumb": "https:\/\/i.discogs.com\/NXI-ItyH3Nop7CZdoohk87_xFEJUU-97JP5aYRtJCnQ\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTIwODQy\/MTUzLTE2MzU5NzQw\/OTAtMTI3MC5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/A5QCcBDExtR9pxveI-SlhR5WH5iRCl4puW4vLx5BjdA\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTIwODQy\/MTUzLTE2MzU5NzQw\/OTAtMTI3MC5qcGVn.jpeg",
-        "genres": [
-            "Rock"
-        ],
-        "release_year": "",
-        "barcode": []
-    },
-    "25399381": {
-        "id": 25399381,
-        "title": "My Propeller",
-        "author": "Arctic Monkeys",
-        "thumb": "https:\/\/i.discogs.com\/JQae_0YiJ9hlTmkZRfSNPwAHu_2HjFn2daeEHW8pyUk\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI1Mzk5\/MzgxLTE2NzA0NDc3\/MzgtNjIzMC5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/8VMSt59OEmQ5-RZ0Hmr_qKeNag7ihAp6-gnubz0pYPo\/rs:fit\/g:sm\/q:90\/h:593\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI1Mzk5\/MzgxLTE2NzA0NDc3\/MzgtNjIzMC5qcGVn.jpeg",
+    "8489693": {
+        "id": 8489693,
+        "title": "The Great Walk",
+        "author": "Another Option",
+        "thumb": "https:\/\/i.discogs.com\/G6l5Gf2E3ni7P5_nRRNcvsMzEQwVONbypeeL_HT4HuQ\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTg0ODk2\/OTMtMTQ2MjYzMjE4\/NC05MTMzLmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/dcxPO5pUaLhl9l5IQqh8EcMZeNS0EW0uZleqJxCbHvs\/rs:fit\/g:sm\/q:90\/h:431\/w:429\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTg0ODk2\/OTMtMTQ2MjYzMjE4\/NC05MTMzLmpwZWc.jpeg",
         "genres": [
             "Rock"
         ],
         "release_year": "2010",
         "barcode": []
     },
-    "25224646": {
-        "id": 25224646,
-        "title": "Whatever People Say I Am, That's What I'm Not \/ Favourite Worst Nightmare",
-        "author": "Arctic Monkeys",
-        "thumb": "https:\/\/i.discogs.com\/zMcMmrS32t2Zkp4qfcOd1WO2Z6m6WkFnBkSPxZpdo_I\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI1MjI0\/NjQ2LTE2Njg5NDUw\/NzYtNDc0MS5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/yFICe8GQZx_Q3qVWLrh-SNOUTGWR5kt3auYUZw_PrrY\/rs:fit\/g:sm\/q:90\/h:527\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI1MjI0\/NjQ2LTE2Njg5NDUw\/NzYtNDc0MS5qcGVn.jpeg",
+    "9000673": {
+        "id": 9000673,
+        "title": "The Great Walk",
+        "author": "Yaqui Yeti",
+        "thumb": "https:\/\/i.discogs.com\/zITQHqxxxLOvUezkGHjD-rYiX3R3jFcT_gDJ7nQMTdk\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTkwMDA2\/NzMtMTQ3MzA0NDU3\/NC04OTkyLmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/WKFRh_-UUu-piC9gTPwEy7XOryJ-njo4_1lDTthhDRQ\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTkwMDA2\/NzMtMTQ3MzA0NDU3\/NC04OTkyLmpwZWc.jpeg",
         "genres": [
             "Rock",
-            "Pop"
+            "Blues"
         ],
-        "release_year": "2012",
+        "release_year": "2016",
         "barcode": [
-            "5034202016274"
+            "ZE4950A 19881992 CDALTRON ",
+            "ZE4950B 19921988 CDALTRON"
         ]
     },
-    "17709277": {
-        "id": 17709277,
-        "title": "EPK",
-        "author": "Arctic Monkeys",
-        "thumb": "https:\/\/i.discogs.com\/t9ffUffdVKGezaxI06NPP1Iu7v8QYyYMNHD2itYzMlQ\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE3NzA5\/Mjc3LTE2MTQ5ODEz\/MDUtMTgwMS5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/T-05Bc3n4FOJ4iUB4m25iOFHYFFlMHFAG9c8kUmBWbM\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE3NzA5\/Mjc3LTE2MTQ5ODEz\/MDUtMTgwMS5qcGVn.jpeg",
-        "genres": [
-            "Non-Music"
-        ],
-        "release_year": "2006",
-        "barcode": [
-            "CL520A305060GJ"
-        ]
-    },
-    "24987445": {
-        "id": 24987445,
-        "title": "There\u2019d Better Be A Mirrorball",
-        "author": "Arctic Monkeys",
-        "thumb": "https:\/\/i.discogs.com\/xjQsEAh_Hg18wXlSvIzNqQFSZF3c-ibzK-68w-RrDGY\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI0OTg3\/NDQ1LTE2NjcwNjYz\/MDMtNzk3Ni5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/Ri8X-yRDFXjkJ2ClaGY0iqZOOEjIN_MNmeg35pNaY64\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI0OTg3\/NDQ1LTE2NjcwNjYz\/MDMtNzk3Ni5qcGVn.jpeg",
-        "genres": [
-            "Rock",
-            "Pop"
-        ],
-        "release_year": "2022",
-        "barcode": []
-    },
-    "1162583": {
-        "id": 1162583,
-        "title": "Teddy Picker",
-        "author": "Arctic Monkeys",
-        "thumb": "https:\/\/i.discogs.com\/-y3gLpFuP7BPXeyJPENkPFaqMSd2JDgJe4ZuSeXJVqk\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTExNjI1\/ODMtMTYwMjM5NjAx\/OS0xNDMzLmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/5z62VrxwF08fSTkiEJJGahfzmzCevKCZgWlmaASHctA\/rs:fit\/g:sm\/q:90\/h:531\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTExNjI1\/ODMtMTYwMjM5NjAx\/OS0xNDMzLmpwZWc.jpeg",
+    "15992506": {
+        "id": 15992506,
+        "title": "The Great Walk",
+        "author": "Yaqui Yeti",
+        "thumb": "https:\/\/i.discogs.com\/ZgQrOyHdDb5pYeK4tStketmyxBF6--OB0rP8lL0xLEw\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1OTky\/NTA2LTE2MDE1MTUz\/OTItMjgwNy5qcGVn.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/0sTO3P1dqDfVdf78Rgiiz4x6DWpSYJfQC1gygjhW36c\/rs:fit\/g:sm\/q:90\/h:543\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1OTky\/NTA2LTE2MDE1MTUz\/OTItMjgwNy5qcGVn.jpeg",
         "genres": [
             "Rock"
         ],
+        "release_year": "",
+        "barcode": [
+            "8 88295 38497 1"
+        ]
+    },
+    "10345194": {
+        "id": 10345194,
+        "title": "Walk The Great Divide",
+        "author": "Jim Fisher",
+        "thumb": "https:\/\/i.discogs.com\/X-CYUij10cuOW95F2jxWtXS63OTl1_OR6rX6ItDsDGA\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEwMzQ1\/MTk0LTE0OTU3MTQz\/MTMtNTY4NS5qcGVn.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/5lVv59AGRj-SxrceD2GmMQo1pYo9bW_afkrJNL6q8KI\/rs:fit\/g:sm\/q:90\/h:545\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEwMzQ1\/MTk0LTE0OTU3MTQz\/MTMtNTY4NS5qcGVn.jpeg",
+        "genres": [
+            "Rock"
+        ],
+        "release_year": "",
+        "barcode": []
+    },
+    "14669692": {
+        "id": 14669692,
+        "title": "I Walk The Line (14 Great Hits)",
+        "author": "Johnny Cash",
+        "thumb": "https:\/\/i.discogs.com\/xu7IYvBT9rArQu7cToyuxXepmyLgXfqHoxhlKXTavA8\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE0NjY5\/NjkyLTE1NzkyOTQw\/MTctMjAwMS5qcGVn.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/g8b3bUaf4hHOV-BxTXbdLCURt4PzwBupTZm1zgqwNiY\/rs:fit\/g:sm\/q:90\/h:602\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE0NjY5\/NjkyLTE1NzkyOTQw\/MTctMjAwMS5qcGVn.jpeg",
+        "genres": [
+            "Rock",
+            "Folk, World, & Country"
+        ],
+        "release_year": "1990",
+        "barcode": [
+            "8711539003128",
+            "8 711539 003128",
+            "BIEM\/STEMRA",
+            "DURECO NORGE [01] WMCD 5538"
+        ]
+    },
+    "5061643": {
+        "id": 5061643,
+        "title": "I Walk The Line (12 Great Hits)",
+        "author": "Johnny Cash",
+        "thumb": "",
+        "cover_img": "https:\/\/st.discogs.com\/bd341e0cef36281185fb519da6aaae0489c5b36c\/images\/spacer.gif",
+        "genres": [
+            "Folk, World, & Country"
+        ],
+        "release_year": "1990",
+        "barcode": [
+            "8711539210342",
+            "BIEM \/ STEMRA"
+        ]
+    },
+    "1443728": {
+        "id": 1443728,
+        "title": "Turkey Walk \/ I'm The Great Lover",
+        "author": "Barry Jones (2)",
+        "thumb": "https:\/\/i.discogs.com\/t80AOupOtMH8ILB7DK4mHVyDgh63BfRyDk8ykvCrZbw\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQwMzEw\/OTktMTM1MjkzMjY0\/OC0yMDI5LmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/BYhkGnZjp01VV1D6awcfuZX8McqpZOTEoUZta-ImNQQ\/rs:fit\/g:sm\/q:90\/h:596\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQwMzEw\/OTktMTM1MjkzMjY0\/OC0yMDI5LmpwZWc.jpeg",
+        "genres": [
+            "Funk \/ Soul"
+        ],
+        "release_year": "1970",
+        "barcode": []
+    },
+    "18889759": {
+        "id": 18889759,
+        "title": "Turkey Walk \/ I'm The Great Lover",
+        "author": "Barry Jones (2)",
+        "thumb": "https:\/\/i.discogs.com\/YY4AecFORy2JA3R4rhlTYS57YbAteMeuSk9Tv-0emq0\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE4ODg5\/NzU5LTE2MjIwMzIw\/NDQtMjI3OS5qcGVn.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/u7e7RzOlkrur5UFrcwX_5aD5W1QNcUTvs8Fcqrz_FyQ\/rs:fit\/g:sm\/q:90\/h:337\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE4ODg5\/NzU5LTE2MjIwMzIw\/NDQtMjI3OS5qcGVn.jpeg",
+        "genres": [
+            "Funk \/ Soul"
+        ],
+        "release_year": "1970",
+        "barcode": []
+    },
+    "4031099": {
+        "id": 4031099,
+        "title": "Turkey Walk \/ I'm The Great Lover",
+        "author": "Barry Jones (2)",
+        "thumb": "https:\/\/i.discogs.com\/t80AOupOtMH8ILB7DK4mHVyDgh63BfRyDk8ykvCrZbw\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQwMzEw\/OTktMTM1MjkzMjY0\/OC0yMDI5LmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/BYhkGnZjp01VV1D6awcfuZX8McqpZOTEoUZta-ImNQQ\/rs:fit\/g:sm\/q:90\/h:596\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQwMzEw\/OTktMTM1MjkzMjY0\/OC0yMDI5LmpwZWc.jpeg",
+        "genres": [
+            "Funk \/ Soul"
+        ],
+        "release_year": "1970",
+        "barcode": []
+    },
+    "1061528": {
+        "id": 1061528,
+        "title": "The Great Pretender \/ If You Walk Away",
+        "author": "Linda Hopkins",
+        "thumb": "https:\/\/i.discogs.com\/6GvaZf2Npc-DeN6yxfOHpaJLx5RYa7jLS1M0WN1sIMA\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTg0Nzgz\/NTQtMTQ2MjM5Nzgz\/My02MjI0LmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/6bk3FSGAEwC3FdWBH5Qcy39AR_7CP6Zb7MLksymLl2c\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTg0Nzgz\/NTQtMTQ2MjM5Nzgz\/My02MjI0LmpwZWc.jpeg",
+        "genres": [
+            "Funk \/ Soul"
+        ],
+        "release_year": "1965",
+        "barcode": [
+            "116,642",
+            "116,643"
+        ]
+    },
+    "13055536": {
+        "id": 13055536,
+        "title": "The Great Pretender \/ If You Walk Away",
+        "author": "Linda Hopkins",
+        "thumb": "https:\/\/i.discogs.com\/VJON4v6nxxIYxMPsu-iTiSaqRx9yP79I3MQjq8XeOhU\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEzMDU1\/NTM2LTE1NDcyNTcw\/MTAtMTI0Ni5qcGVn.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/Vm_DdnLiMlI6Wx9d8eacA2k30wi7UUr8uzCICQ8V4F4\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEzMDU1\/NTM2LTE1NDcyNTcw\/MTAtMTI0Ni5qcGVn.jpeg",
+        "genres": [
+            "Funk \/ Soul"
+        ],
+        "release_year": "1965",
+        "barcode": [
+            "116,642",
+            "116,643"
+        ]
+    },
+    "5796733": {
+        "id": 5796733,
+        "title": "The Great Pretender \/ If You Walk Away",
+        "author": "Linda Hopkins",
+        "thumb": "https:\/\/i.discogs.com\/NtxMYx6DvC0BwTuHoz4qwS__XtyVucvQxMJQILV278k\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU3OTY3\/MzMtMTU1NTA5MDA3\/My05MDM1LmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/dsG0lUtkR_6QZjeTPxt-c6xRG25yuAu60lAYUNK6XwM\/rs:fit\/g:sm\/q:90\/h:597\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU3OTY3\/MzMtMTU1NTA5MDA3\/My05MDM1LmpwZWc.jpeg",
+        "genres": [
+            "Funk \/ Soul",
+            "Pop"
+        ],
+        "release_year": "",
+        "barcode": [
+            "(116,642)\u2724",
+            "(116,643)",
+            "45 116642 2",
+            "45 116643 3"
+        ]
+    },
+    "21725698": {
+        "id": 21725698,
+        "title": "The Great Pretender \/ If You Walk Away",
+        "author": "Linda Hopkins",
+        "thumb": "https:\/\/i.discogs.com\/4l4rAZcexzFBphQa3Rw2k2pS3NeBHBdK4LSp5vXcJ0Y\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTIxNzI1\/Njk4LTE2NDIxMTE0\/NTktNjk0NS5qcGVn.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/_Size2ZjEl96HNGB5rkOdRCgw32cOn4d5kMaWHcSRgk\/rs:fit\/g:sm\/q:90\/h:603\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTIxNzI1\/Njk4LTE2NDIxMTE0\/NTktNjk0NS5qcGVn.jpeg",
+        "genres": [
+            "Funk \/ Soul"
+        ],
+        "release_year": "1965",
+        "barcode": [
+            "45 116642 7",
+            "45 116643 7"
+        ]
+    },
+    "8478354": {
+        "id": 8478354,
+        "title": "The Great Pretender \/ If You Walk Away",
+        "author": "Linda Hopkins",
+        "thumb": "https:\/\/i.discogs.com\/6GvaZf2Npc-DeN6yxfOHpaJLx5RYa7jLS1M0WN1sIMA\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTg0Nzgz\/NTQtMTQ2MjM5Nzgz\/My02MjI0LmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/6bk3FSGAEwC3FdWBH5Qcy39AR_7CP6Zb7MLksymLl2c\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTg0Nzgz\/NTQtMTQ2MjM5Nzgz\/My02MjI0LmpwZWc.jpeg",
+        "genres": [
+            "Funk \/ Soul"
+        ],
+        "release_year": "1965",
+        "barcode": [
+            "116,642",
+            "116,643"
+        ]
+    },
+    "1343575": {
+        "id": 1343575,
+        "title": "The Great Mel Tillis Sings Walk On, Boy & Other Great Country Hits",
+        "author": "Mel Tillis",
+        "thumb": "https:\/\/i.discogs.com\/Hnp0aKwbuQqGAdEXDngqsL-8RHJ5O9cqTP7IdDd8bp4\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTc4NjI3\/ODgtMTQ1MDQwNDEx\/MS02Mzg2LmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/uXdHhkwb-xPkCDttSLo7OJuBxEoEvMnY-2eK3Cb1zGY\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTc4NjI3\/ODgtMTQ1MDQwNDEx\/MS02Mzg2LmpwZWc.jpeg",
+        "genres": [
+            "Folk, World, & Country"
+        ],
+        "release_year": "1966",
+        "barcode": []
+    },
+    "15318997": {
+        "id": 15318997,
+        "title": "The Great Mel Tillis Sings Walk On, Boy & Other Great Country Hits",
+        "author": "Mel Tillis",
+        "thumb": "https:\/\/i.discogs.com\/bnFwGzNRPT0sWwnFtt1hpK3C9OayFMknD7iZDabpdJs\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1MzE4\/OTk3LTE1ODk2NjA5\/NjEtOTk1Ny5qcGVn.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/F_Kl1-2Put0TsDE_I_2HUggBqmBDudHFkmUkdz7fyFo\/rs:fit\/g:sm\/q:90\/h:450\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1MzE4\/OTk3LTE1ODk2NjA5\/NjEtOTk1Ny5qcGVn.jpeg",
+        "genres": [
+            "Folk, World, & Country"
+        ],
+        "release_year": "1966",
+        "barcode": []
+    },
+    "11386740": {
+        "id": 11386740,
+        "title": "The Great Mel Tillis Sings Walk On, Boy & Other Great Country Hits",
+        "author": "Mel Tillis",
+        "thumb": "https:\/\/i.discogs.com\/4POEOYSs912DBMuannV9F26Gtb1H5L0NDVBtSJ57QIc\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTExMzg2\/NzQwLTE1MTU1NzEw\/NzctNDYyMC5qcGVn.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/B4ynZVHUmvpT3jHm-d3eaTu1TZr35b_nkdKsYqe5v4E\/rs:fit\/g:sm\/q:90\/h:553\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTExMzg2\/NzQwLTE1MTU1NzEw\/NzctNDYyMC5qcGVn.jpeg",
+        "genres": [
+            "Folk, World, & Country"
+        ],
+        "release_year": "",
+        "barcode": []
+    },
+    "7862788": {
+        "id": 7862788,
+        "title": "The Great Mel Tillis Sings Walk On, Boy & Other Great Country Hits",
+        "author": "Mel Tillis",
+        "thumb": "https:\/\/i.discogs.com\/Hnp0aKwbuQqGAdEXDngqsL-8RHJ5O9cqTP7IdDd8bp4\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTc4NjI3\/ODgtMTQ1MDQwNDEx\/MS02Mzg2LmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/uXdHhkwb-xPkCDttSLo7OJuBxEoEvMnY-2eK3Cb1zGY\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTc4NjI3\/ODgtMTQ1MDQwNDEx\/MS02Mzg2LmpwZWc.jpeg",
+        "genres": [
+            "Folk, World, & Country"
+        ],
+        "release_year": "1966",
+        "barcode": []
+    },
+    "813899": {
+        "id": 813899,
+        "title": "Walk The Line",
+        "author": "Johnny Cash",
+        "thumb": "https:\/\/i.discogs.com\/iLBKQ9W6TRFNLVyHuY98MrYEpx2JDaKPZLCp66uFw1o\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTM1ODc1\/NjgtMTU1MDk2ODcz\/My0zODgxLmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/LsvyiDSFpBu-HAT_Ns4QIBxN1f3__E_1lCRehwiVfQ4\/rs:fit\/g:sm\/q:90\/h:597\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTM1ODc1\/NjgtMTU1MDk2ODcz\/My0zODgxLmpwZWc.jpeg",
+        "genres": [
+            "Rock",
+            "Folk, World, & Country"
+        ],
         "release_year": "2007",
         "barcode": [
-            "5034202127925",
-            "LC10192",
-            "[2x Sound Performance logo] RUG279CD 01",
-            "IFPI L135",
-            "IFPI 04AP",
-            "IFPI 0416",
-            "IFPI 04BB",
-            "IFPI 0439"
+            "8 717423 046196",
+            "MCPS",
+            "GREATS323A",
+            "GREATS323B",
+            "GREATS323C",
+            "NEA-Media S.A. www.nea-media.gr P11-074808-1",
+            "NEA-Media S.A. www.nea-media.gr P11-074812-1",
+            "NEA-Media S.A. www.nea-media.gr P11-074816-1"
+        ]
+    },
+    "3587568": {
+        "id": 3587568,
+        "title": "Walk The Line",
+        "author": "Johnny Cash",
+        "thumb": "https:\/\/i.discogs.com\/iLBKQ9W6TRFNLVyHuY98MrYEpx2JDaKPZLCp66uFw1o\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTM1ODc1\/NjgtMTU1MDk2ODcz\/My0zODgxLmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/LsvyiDSFpBu-HAT_Ns4QIBxN1f3__E_1lCRehwiVfQ4\/rs:fit\/g:sm\/q:90\/h:597\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTM1ODc1\/NjgtMTU1MDk2ODcz\/My0zODgxLmpwZWc.jpeg",
+        "genres": [
+            "Rock",
+            "Folk, World, & Country"
+        ],
+        "release_year": "2007",
+        "barcode": [
+            "8 717423 046196",
+            "MCPS",
+            "GREATS323A",
+            "GREATS323B",
+            "GREATS323C",
+            "NEA-Media S.A. www.nea-media.gr P11-074808-1",
+            "NEA-Media S.A. www.nea-media.gr P11-074812-1",
+            "NEA-Media S.A. www.nea-media.gr P11-074816-1"
+        ]
+    },
+    "6017976": {
+        "id": 6017976,
+        "title": "Walk On By (The Greatest Hits)",
+        "author": "Dusty Springfield",
+        "thumb": "https:\/\/i.discogs.com\/Jn9tu7ZXyMd-VPgzurv1Fb62PEyg_lel5iixMWpSU24\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTYwMTc5\/NzYtMTU3NzU3OTUz\/OS00NTg3LmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/ogtU3gOZM6Vc9TaWe2RCP0NwHAL_YejLSYBEate1YBY\/rs:fit\/g:sm\/q:90\/h:591\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTYwMTc5\/NzYtMTU3NzU3OTUz\/OS00NTg3LmpwZWc.jpeg",
+        "genres": [
+            "Pop"
+        ],
+        "release_year": "2008",
+        "barcode": [
+            "600753088562",
+            "6 00753 08856 2",
+            "LC 01846",
+            "[4x 'Universal' logo] 06007 530 885-8 01 + 52231280",
+            "[4x 'Universal' logo] 06007 530 885-7 01 + 52231278",
+            "IFPI LV27",
+            "IFPI 0124",
+            "IFPI 0135",
+            "BIEM\/n\u00a9b"
+        ]
+    },
+    "1551752": {
+        "id": 1551752,
+        "title": "A Tribute To The Late, Great, Lawrence Walker",
+        "author": "Lawrence Walker",
+        "thumb": "https:\/\/i.discogs.com\/2EO36kkW54RB29MQ_60oxMIUM4N57irLlGoSY1ZUmcM\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQ0NTQ0\/MjItMTM2NTMzODEw\/Ni0xMDA2LmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/dzVJV3QSWe87Eh7vpuvTAFued0svVPIG1U_bxniUHe8\/rs:fit\/g:sm\/q:90\/h:400\/w:400\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQ0NTQ0\/MjItMTM2NTMzODEw\/Ni0xMDA2LmpwZWc.jpeg",
+        "genres": [
+            "Folk, World, & Country"
+        ],
+        "release_year": "",
+        "barcode": [
+            "VPAG-LL-126 A   {AS}",
+            "VPAG-LL-126 B   {AS}"
+        ]
+    },
+    "13780292": {
+        "id": 13780292,
+        "title": "I Walk The Line 14 Greatest Hits",
+        "author": "Johnny Cash",
+        "thumb": "https:\/\/i.discogs.com\/NB1fNDgV2C_p1bvJcScgOG0Kd8zS-6UIGH-gCPu6HwI\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEzNzgw\/MjkyLTE1NjA5NjE2\/NjUtNTM0NS5qcGVn.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/veplbRdHx7aetuAbYFF3gA7gyFZvk338nruvQcKMfpY\/rs:fit\/g:sm\/q:90\/h:450\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEzNzgw\/MjkyLTE1NjA5NjE2\/NjUtNTM0NS5qcGVn.jpeg",
+        "genres": [
+            "Rock",
+            "Folk, World, & Country"
+        ],
+        "release_year": "1990",
+        "barcode": [
+            "8 711539 200343"
+        ]
+    },
+    "1669947": {
+        "id": 1669947,
+        "title": "I Walk The Line 14 Greatest Hits",
+        "author": "Johnny Cash",
+        "thumb": "https:\/\/i.discogs.com\/NB1fNDgV2C_p1bvJcScgOG0Kd8zS-6UIGH-gCPu6HwI\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEzNzgw\/MjkyLTE1NjA5NjE2\/NjUtNTM0NS5qcGVn.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/veplbRdHx7aetuAbYFF3gA7gyFZvk338nruvQcKMfpY\/rs:fit\/g:sm\/q:90\/h:450\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEzNzgw\/MjkyLTE1NjA5NjE2\/NjUtNTM0NS5qcGVn.jpeg",
+        "genres": [
+            "Rock",
+            "Folk, World, & Country"
+        ],
+        "release_year": "1990",
+        "barcode": [
+            "8 711539 200343"
+        ]
+    },
+    "4454422": {
+        "id": 4454422,
+        "title": "A Tribute To The Late, Great, Lawrence Walker",
+        "author": "Lawrence Walker",
+        "thumb": "https:\/\/i.discogs.com\/2EO36kkW54RB29MQ_60oxMIUM4N57irLlGoSY1ZUmcM\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQ0NTQ0\/MjItMTM2NTMzODEw\/Ni0xMDA2LmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/dzVJV3QSWe87Eh7vpuvTAFued0svVPIG1U_bxniUHe8\/rs:fit\/g:sm\/q:90\/h:400\/w:400\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQ0NTQ0\/MjItMTM2NTMzODEw\/Ni0xMDA2LmpwZWc.jpeg",
+        "genres": [
+            "Folk, World, & Country"
+        ],
+        "release_year": "",
+        "barcode": [
+            "VPAG-LL-126 A   {AS}",
+            "VPAG-LL-126 B   {AS}"
+        ]
+    },
+    "1514533": {
+        "id": 1514533,
+        "title": "Walking On The Water \/ The Great Reunion",
+        "author": "The Silver Bells",
+        "thumb": "https:\/\/i.discogs.com\/i0nmhMtb-c3Pj_h9pg2Gr1JFIG0q3XPmwqAZ0VS90Nk\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1MTQ1\/MzMtMTM5NDU3MTIw\/NS02Mjk1LmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/I1EJoonMxNrUuvbHqm39YubAQ5vzOkXOvKCIbA6waDs\/rs:fit\/g:sm\/q:90\/h:450\/w:450\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1MTQ1\/MzMtMTM5NDU3MTIw\/NS02Mjk1LmpwZWc.jpeg",
+        "genres": [
+            "Funk \/ Soul"
+        ],
+        "release_year": "1964",
+        "barcode": []
+    },
+    "12624524": {
+        "id": 12624524,
+        "title": "I Walk The Line",
+        "author": "Johnny Cash",
+        "thumb": "https:\/\/i.discogs.com\/o1ZgXqJYuvF5yYOuMqSXefkkC_RlUl30t4OTtOHEIMQ\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEyNjI0\/NTI0LTE1Mzg4MzI1\/NTQtMzYwNy5qcGVn.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/ao64DGeBFQalQd5Dt10JRW_j9IuR1MAtKuf68dqfzmM\/rs:fit\/g:sm\/q:90\/h:596\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEyNjI0\/NTI0LTE1Mzg4MzI1\/NTQtMzYwNy5qcGVn.jpeg",
+        "genres": [
+            "Pop",
+            "Folk, World, & Country"
+        ],
+        "release_year": "2005",
+        "barcode": [
+            "8712177004331"
+        ]
+    },
+    "10531702": {
+        "id": 10531702,
+        "title": "How Great Thou Art \/ Just A Closer Walk With Thee",
+        "author": "Jimmy Jenson",
+        "thumb": "https:\/\/i.discogs.com\/LEoyJHTuD9Jxs1X0w2p9CvaW-wWQ7zqgLjxHfJEl4f4\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEwNTMx\/NzAyLTE0OTkzNTQz\/ODYtMTY0Mi5qcGVn.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/-vDXBmVcXZh0Uo_L9SAI7yEIEFrpqv8QRw4Nw3tHeYE\/rs:fit\/g:sm\/q:90\/h:576\/w:576\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEwNTMx\/NzAyLTE0OTkzNTQz\/ODYtMTY0Mi5qcGVn.jpeg",
+        "genres": [
+            "Folk, World, & Country"
+        ],
+        "release_year": "",
+        "barcode": [
+            "J-456-A  64954",
+            "J-456-B  64955"
+        ]
+    },
+    "25458952": {
+        "id": 25458952,
+        "title": "Just A Closer Walk With Thee \/ How Great Thou Art",
+        "author": "Charlie (Hedberg) And The Hardtymes",
+        "thumb": "",
+        "cover_img": "https:\/\/st.discogs.com\/bd341e0cef36281185fb519da6aaae0489c5b36c\/images\/spacer.gif",
+        "genres": [
+            "Folk, World, & Country"
+        ],
+        "release_year": "",
+        "barcode": []
+    },
+    "15175260": {
+        "id": 15175260,
+        "title": "How Great Thou Art  \/ Just A Closer Walk With Thee",
+        "author": "Gladys Knight And The Pips",
+        "thumb": "https:\/\/i.discogs.com\/FhoHw2vUIij7miBhw8CyzHY3WVPI8odU9RQmzUgiXIw\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1MTc1\/MjYwLTE1ODc2NzA3\/NjAtODc3OC5qcGVn.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/UPFjzCmQ4SBKPy5z_YtgMPbwhOnF2hzC-AvLoItwAgA\/rs:fit\/g:sm\/q:90\/h:469\/w:458\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1MTc1\/MjYwLTE1ODc2NzA3\/NjAtODc3OC5qcGVn.jpeg",
+        "genres": [
+            "Funk \/ Soul"
+        ],
+        "release_year": "1968",
+        "barcode": [
+            "DSR 6163-A-10T",
+            "DSR 6164-B-AT"
+        ]
+    },
+    "8635602": {
+        "id": 8635602,
+        "title": "Walk\u2014Don't Run (The Ventures All",
+        "author": "The Ventures",
+        "thumb": "https:\/\/i.discogs.com\/O_n7Aq1svqNLwXK9B52UB16c_L0WyoQ-l4qBoR7ThvM\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTg2MzU2\/MDItMTQ2NTYyMTQx\/NS01NzY4LmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/o5qsxQGfv2ptCD7AvF3XmiOjZ66-y1JJje3UKOd4W84\/rs:fit\/g:sm\/q:90\/h:602\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTg2MzU2\/MDItMTQ2NTYyMTQx\/NS01NzY4LmpwZWc.jpeg",
+        "genres": [
+            "Rock"
+        ],
+        "release_year": "2003",
+        "barcode": [
+            "0 90431 93172 1"
+        ]
+    },
+    "13375313": {
+        "id": 13375313,
+        "title": "Walk",
+        "author": "The Ventures",
+        "thumb": "https:\/\/i.discogs.com\/pWB8CwKBgVxe80In9DlFvh9va2Le2KpEyxw5Mk4xuXc\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEzMzc1\/MzEzLTE1NTMyMDg4\/MzEtOTAwOC5qcGVn.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/9W8W_ZaXoKxkF6HgShpYmwXziwXqCCyRJWmITYieEUU\/rs:fit\/g:sm\/q:90\/h:429\/w:441\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEzMzc1\/MzEzLTE1NTMyMDg4\/MzEtOTAwOC5qcGVn.jpeg",
+        "genres": [
+            "Rock"
+        ],
+        "release_year": "",
+        "barcode": [
+            "7 24385 59062 7",
+            "MASTERED BY EMI MFG 57253 1-1-4",
+            "IFPI L043",
+            "ifpi 1605",
+            "MASTERED BY EMI MFG 57253 1-1-8",
+            "IFPI L043",
+            "IFPI 6100"
+        ]
+    },
+    "6562488": {
+        "id": 6562488,
+        "title": "Walk\u2014Don't Run (The Ventures All",
+        "author": "The Ventures",
+        "thumb": "https:\/\/i.discogs.com\/2a_R18WwYW7TNbGS_4EmT6TDNn8vQI_Lem-OHKi6pgc\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTY1NjI0\/ODgtMTQyMjA1NDM2\/Mi02MTA1LmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/2SHQcqQWLgl7gckF-OZWDX3qp1JB85opWKzZdlVI8sA\/rs:fit\/g:sm\/q:90\/h:598\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTY1NjI0\/ODgtMTQyMjA1NDM2\/Mi02MTA1LmpwZWc.jpeg",
+        "genres": [
+            "Rock"
+        ],
+        "release_year": "",
+        "barcode": [
+            "077775725322",
+            "IFPI L043",
+            "IFPI 163F"
+        ]
+    },
+    "6784738": {
+        "id": 6784738,
+        "title": "Walk",
+        "author": "The Ventures",
+        "thumb": "https:\/\/i.discogs.com\/eP16R-UZADpgUAAlxKQn68JY2uhMmx_s5SYb0uP2siE\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTY3ODQ3\/MzgtMTQyNjU1ODIx\/MS04NDM3LmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/--lvKGOq6GnNVtB-aFqkBaOkKDD7gDj_x5Ttd38PLMk\/rs:fit\/g:sm\/q:90\/h:596\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTY3ODQ3\/MzgtMTQyNjU1ODIx\/MS04NDM3LmpwZWc.jpeg",
+        "genres": [
+            "Rock"
+        ],
+        "release_year": "1989",
+        "barcode": [
+            "724385590627",
+            "57253"
+        ]
+    },
+    "13811924": {
+        "id": 13811924,
+        "title": "Great Big You & Little Bitty Me \/ The Walk Of Fame",
+        "author": "Nanine",
+        "thumb": "https:\/\/i.discogs.com\/OEmNAiyfpFGSlOpPkQwdTVIZYq_Tek4j9N3gleaNW48\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEzODEx\/OTI0LTE1NjE2NjAx\/NTMtOTk2MS5qcGVn.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/BtLNWKciJ1FDZqSyp5dKH28uzExs0QzEG6Yc8Q9cgRc\/rs:fit\/g:sm\/q:90\/h:591\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEzODEx\/OTI0LTE1NjE2NjAx\/NTMtOTk2MS5qcGVn.jpeg",
+        "genres": [
+            "Rock",
+            "Pop",
+            "Folk, World, & Country"
+        ],
+        "release_year": "1964",
+        "barcode": []
+    },
+    "13652756": {
+        "id": 13652756,
+        "title": "A Tribute To The Late, Great Lawrence Walker",
+        "author": "Lawrence Walker",
+        "thumb": "https:\/\/i.discogs.com\/HRo8cpqT0IFdl6k5pJ8k8TStBIDzYNuF_p9DraqtTvQ\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEzNjUy\/NzU2LTE1NTgzMTY0\/NDgtODgxNS5qcGVn.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/nqVrIVXQ5TesFCnMZXSfsL9_yugKmPzi3HNIDuwbTVo\/rs:fit\/g:sm\/q:90\/h:891\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEzNjUy\/NzU2LTE1NTgzMTY0\/NDgtODgxNS5qcGVn.jpeg",
+        "genres": [
+            "Folk, World, & Country"
+        ],
+        "release_year": "",
+        "barcode": []
+    },
+    "6374024": {
+        "id": 6374024,
+        "title": "How Great Thou Art \/ I'll Walk With God \/ The Holy City",
+        "author": "Harold Blair With The Choir Of The Dutch Choral Society",
+        "thumb": "https:\/\/i.discogs.com\/G7iMs09DAnHc1JHc7A6i4Edk1oC6t77cZk8uH2IAHN4\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTYzNzQw\/MjQtMTQxNzY1Njg2\/MS0zMjM5LmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/qjiSZvRSt2cTirSs3JyON5ph--NqCIoXoX-aUNPQMxI\/rs:fit\/g:sm\/q:90\/h:598\/w:593\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTYzNzQw\/MjQtMTQxNzY1Njg2\/MS0zMjM5LmpwZWc.jpeg",
+        "genres": [
+            "Folk, World, & Country"
+        ],
+        "release_year": "1964",
+        "barcode": []
+    },
+    "533959": {
+        "id": 533959,
+        "title": "Great Days In The Blitz \/ They Walked In Line",
+        "author": "7er Jungs",
+        "thumb": "https:\/\/i.discogs.com\/kGkY8Hzek0Wff9xBeeAo4LGncd5B2LYdMwmW0EVjSUs\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQzODY3\/MzktMTM2MzU1MTAz\/OC0zMDcwLmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/ZGS2aNUI908Ask2-JhTwxdy9YKtmOKUzjLQoy9TIm54\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQzODY3\/MzktMTM2MzU1MTAz\/OC0zMDcwLmpwZWc.jpeg",
+        "genres": [
+            "Rock"
+        ],
+        "release_year": "2013",
+        "barcode": [
+            "Pirates Press - RR070 A",
+            "Pirates Press - RR070 B"
+        ]
+    },
+    "4386744": {
+        "id": 4386744,
+        "title": "Great Days In The Blitz \/ They Walked In Line",
+        "author": "7er Jungs",
+        "thumb": "https:\/\/i.discogs.com\/CXy0gQXy3FC7NDGliKx2Ylz_xXnNOZ0lkETbHGmwv5o\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQzODY3\/NDQtMTM2MzU1MTA2\/OC03MDUxLmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/gncq3HMP323PF66TooE3WvtJkDbnLRSVPCCMJMCztsM\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQzODY3\/NDQtMTM2MzU1MTA2\/OC03MDUxLmpwZWc.jpeg",
+        "genres": [
+            "Rock"
+        ],
+        "release_year": "2013",
+        "barcode": [
+            "Pirates Press - RR070 A",
+            "Pirates Press - RR070 B"
+        ]
+    },
+    "4386741": {
+        "id": 4386741,
+        "title": "Great Days In The Blitz \/ They Walked In Line",
+        "author": "7er Jungs",
+        "thumb": "https:\/\/i.discogs.com\/0f9tYoujz8UweXuosSIrYvaxkDZq0fxR1fRIdxPF5PE\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQzODY3\/NDEtMTM2MzU1MTA5\/Ni04ODI0LmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/jkdapjgfZWn-A1JwoVOpe3SCng4nQ50IcukzDPF_nSA\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQzODY3\/NDEtMTM2MzU1MTA5\/Ni04ODI0LmpwZWc.jpeg",
+        "genres": [
+            "Rock"
+        ],
+        "release_year": "2013",
+        "barcode": [
+            "Pirates Press - RR070 A",
+            "Pirates Press - RR070 B"
+        ]
+    },
+    "4386739": {
+        "id": 4386739,
+        "title": "Great Days In The Blitz \/ They Walked In Line",
+        "author": "7er Jungs",
+        "thumb": "https:\/\/i.discogs.com\/kGkY8Hzek0Wff9xBeeAo4LGncd5B2LYdMwmW0EVjSUs\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQzODY3\/MzktMTM2MzU1MTAz\/OC0zMDcwLmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/ZGS2aNUI908Ask2-JhTwxdy9YKtmOKUzjLQoy9TIm54\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQzODY3\/MzktMTM2MzU1MTAz\/OC0zMDcwLmpwZWc.jpeg",
+        "genres": [
+            "Rock"
+        ],
+        "release_year": "2013",
+        "barcode": [
+            "Pirates Press - RR070 A",
+            "Pirates Press - RR070 B"
+        ]
+    },
+    "4386746": {
+        "id": 4386746,
+        "title": "Great Days In The Blitz \/ They Walked In Line",
+        "author": "7er Jungs",
+        "thumb": "https:\/\/i.discogs.com\/bhshD9Ekc5rQjdn5mnD2GBsiOe2QlclIv3uyxxy8rWo\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQzODY3\/NDYtMTQ3MjYzMDM5\/MC03NDQ3LmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/YYaEgfqjkUTu0f24x9DIfK3P3izgGzzJmeku2741Wmc\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQzODY3\/NDYtMTQ3MjYzMDM5\/MC03NDQ3LmpwZWc.jpeg",
+        "genres": [
+            "Rock"
+        ],
+        "release_year": "2013",
+        "barcode": [
+            "Pirates Press - RR070 A",
+            "Pirates Press - RR070 B"
+        ]
+    },
+    "12132673": {
+        "id": 12132673,
+        "title": "Lawrence Welk's Baby Elephant Walk And Theme From The Brothers Grimm Plus Ten Great Hits",
+        "author": "Lawrence Welk And His Orchestra",
+        "thumb": "",
+        "cover_img": "https:\/\/st.discogs.com\/bd341e0cef36281185fb519da6aaae0489c5b36c\/images\/spacer.gif",
+        "genres": [
+            "Jazz",
+            "Pop",
+            "Stage & Screen"
+        ],
+        "release_year": "",
+        "barcode": [
+            "LPM. 55807",
+            "LPM. 55808"
+        ]
+    },
+    "23083427": {
+        "id": 23083427,
+        "title": "Walk Don't Run: The Ventures All Time Greatest Hits",
+        "author": "The Ventures",
+        "thumb": "",
+        "cover_img": "https:\/\/st.discogs.com\/bd341e0cef36281185fb519da6aaae0489c5b36c\/images\/spacer.gif",
+        "genres": [
+            "Rock"
+        ],
+        "release_year": "1989",
+        "barcode": [
+            "0 7777-57253-2 2"
+        ]
+    },
+    "2500710": {
+        "id": 2500710,
+        "title": "Walk",
+        "author": "The Ventures",
+        "thumb": "https:\/\/i.discogs.com\/ele4UADM1BXeVaKI6teKgDeOgwyyQv2Eqmelzb8XqtQ\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI1MDA3\/MTAtMTI4NzQyNzk2\/OS5qcGVn.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/J3E2_weH0P_6Dmm8f5oYNi9i5BwXAVhQ1j4MFijMIiE\/rs:fit\/g:sm\/q:90\/h:592\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI1MDA3\/MTAtMTI4NzQyNzk2\/OS5qcGVn.jpeg",
+        "genres": [
+            "Rock"
+        ],
+        "release_year": "1989",
+        "barcode": [
+            "0 7777-57253-2 2"
+        ]
+    },
+    "5354672": {
+        "id": 5354672,
+        "title": "Walk",
+        "author": "The Ventures",
+        "thumb": "",
+        "cover_img": "https:\/\/st.discogs.com\/bd341e0cef36281185fb519da6aaae0489c5b36c\/images\/spacer.gif",
+        "genres": [
+            "Rock"
+        ],
+        "release_year": "1989",
+        "barcode": [
+            "0 7777-57253-2 2",
+            "TRV5<011>CDL57253"
+        ]
+    },
+    "1482042": {
+        "id": 1482042,
+        "title": "Las",
+        "author": "The Shangri",
+        "thumb": "https:\/\/i.discogs.com\/s2y5viXu38N9ouWzZ3pUwccqDae_Qs6g72DIZ-3hHg4\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEwMzgy\/MjYwLTE0OTYzNjM2\/MjQtNjg3OS5qcGVn.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/-t7q4t5S6yw5rTjkYiy8e9A_B9LVVbx9anRJ-fd-YkE\/rs:fit\/g:sm\/q:90\/h:598\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEwMzgy\/MjYwLTE0OTYzNjM2\/MjQtNjg3OS5qcGVn.jpeg",
+        "genres": [
+            "Rock",
+            "Pop"
+        ],
+        "release_year": "",
+        "barcode": []
+    },
+    "355635": {
+        "id": 355635,
+        "title": "Walking In The Air (The Greatest Ballads)",
+        "author": "Nightwish",
+        "thumb": "https:\/\/i.discogs.com\/h6IupSNtHuc90d98R9pqRhUo3FrwSt8MkkaghUdp1mA\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTM1MDEy\/MTMtMTMzMjkyMDEz\/MS5qcGVn.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/CFfwbziH28nEFkAxqXf5ibwA9WVAcvuwYKP_DS7FqXg\/rs:fit\/g:sm\/q:90\/h:200\/w:200\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTM1MDEy\/MTMtMTMzMjkyMDEz\/MS5qcGVn.jpeg",
+        "genres": [
+            "Rock"
+        ],
+        "release_year": "2011",
+        "barcode": [
+            "0602527870700",
+            "[Universal logo] x4",
+            "06025 278 707-0 01 \u2733 52828203",
+            "Made in Germany by EDC B",
+            "Made in Germany by EDC A",
+            "IFPI LV26",
+            "IFPI 0114",
+            "IFPI 0120",
+            "BIEM\/SDRM"
         ]
     }
 }

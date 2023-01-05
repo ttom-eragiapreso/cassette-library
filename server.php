@@ -6,14 +6,25 @@ require 'functions.php';
 $newBarcode = $_GET['barcode'] ?? null;
 $newRelease_title = $_GET['release_title'] ?? null;
 $newArtist = $_GET['artist'] ?? null;
-//$paginationEndPoint = $_GET['endpoint'] ?? null;
-$isNavigation = $_GET['navigation'];
-
-$destination = $_GET['destination'];
+$isNavigation = $_GET['navigation'] ?? null;
+$destination = $_GET['destination'] ?? null;
+$result_id = $_GET['result_id'] ?? null;
 
 $db = json_decode(file_get_contents('db.json'), true);
 $resultsStored = json_decode(file_get_contents('results.json'), true);
 $currentPagination = json_decode(file_get_contents('pagination.json'), true);
+
+
+if(isset($result_id)){
+  addToDb($db, $resultsStored[$result_id]);
+  header('Location: library.php');
+  return;
+}
+  
+
+
+
+
 
 if(!$isNavigation){
 
@@ -23,10 +34,10 @@ if(!$isNavigation){
   header('Content-type: application/json');
   header('Location: results.php');
   
-}else {
+}else if($isNavigation) {
 
   $resultsStored = [];
-  
+
   if($destination === 'next'){
     pageNavigation($currentPagination['urls']['next']);
   }

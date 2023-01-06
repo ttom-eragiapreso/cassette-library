@@ -19,16 +19,17 @@ if($action === 'login' && verifyPsw($password) && verifyUsername($username)){
 
   $user_id = '';
 
-  foreach($users as $key => $user){
-   $result_username = array_search($username, $user);
-   $result_password = array_search($password, $user);
-   if(!empty($result_username) && !empty($result_password)){
-    $user_id = $key;
-    $_SESSION['user'] = $users[$user_id];
-    header('Location: index.php');
-   }else {
-    header('Location: login.php?user-found=false');
-   }
+
+  $filter = array_filter($users, fn($user) => $user['username'] === $username);
+  
+  
+  if(!empty($filter)){
+
+  $key = array_key_first($filter);
+  $_SESSION['user'] = $filter[$key];
+  header('Location: index.php');
+  }else {
+  header('Location: login.php?user-found=false');
   }
 
 

@@ -1,10 +1,10 @@
 {
     "page": 1,
-    "pages": 53,
+    "pages": 41,
     "per_page": 50,
-    "items": 2638,
+    "items": 2037,
     "urls": {
-        "last": "https:\/\/api.discogs.com\/database\/search?token=HWiFdStcHwaqgBqEAoEjjvCFhQUNnZHqZFuelXuZ&barcode=&artist=red+hot+chili+peppers&release_title=&page=53&per_page=50",
-        "next": "https:\/\/api.discogs.com\/database\/search?token=HWiFdStcHwaqgBqEAoEjjvCFhQUNnZHqZFuelXuZ&barcode=&artist=red+hot+chili+peppers&release_title=&page=2&per_page=50"
+        "last": "https:\/\/api.discogs.com\/database\/search?token=HWiFdStcHwaqgBqEAoEjjvCFhQUNnZHqZFuelXuZ&barcode=&artist=muse&release_title=&page=41&per_page=50",
+        "next": "https:\/\/api.discogs.com\/database\/search?token=HWiFdStcHwaqgBqEAoEjjvCFhQUNnZHqZFuelXuZ&barcode=&artist=muse&release_title=&page=2&per_page=50"
     }
 }

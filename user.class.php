@@ -24,6 +24,10 @@ class User {
     return $this->last_login;
   }
 
+  public function getUsername(){
+    return $this->username;
+  }
+
   public function getRegistrationDate(){
     return $this->registration_timestamp;
   }

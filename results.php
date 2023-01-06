@@ -1,6 +1,8 @@
 <?php 
 
   session_start();
+  $user = $_SESSION['user'] ?? null;
+
   if(!isset($user)){header('Location: login.php');};
 
   $results = json_decode(file_get_contents('results.json'), true);

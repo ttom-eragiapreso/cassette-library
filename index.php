@@ -1,14 +1,18 @@
 <?php 
+
+require 'user.class.php';
 session_start();
 
 $user = $_SESSION['user'] ?? null;
+
+$username = $user['username'] ?? null;
 
 
 if(!isset($user)){header('Location: login.php');};
 
 
 
-$db = json_decode(file_get_contents('db.json'), true);
+$db = json_decode(file_get_contents("db-$username.json"), true) ?? null;
 ?>
 
 <!DOCTYPE html>
@@ -25,7 +29,7 @@ $db = json_decode(file_get_contents('db.json'), true);
 <!-- Faccio un foreach dei records nel db se non è vuoto -->
 <?php if(!empty($db)): ?>
 <main class="bg-space-300">
-<h1 class="text-center text-pastel-200 text-3xl font-bold mb-7">Benvenuto Nella Mia Collezione Musicale!</h1>
+<h1 class="text-center text-pastel-200 text-3xl font-bold mb-7">Benvenuto Nella Tua Collezione Musicale!</h1>
 
 
   <div class="container md:gap-x-4 mx-auto flex flex-wrap justify-around px-5 columns-2 md:columns-4 lg:columns-6">

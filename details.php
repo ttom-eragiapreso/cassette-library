@@ -1,8 +1,15 @@
 <?php 
+  require 'user.class.php';
+  session_start();
+  $user = $_SESSION['user'];
+  $username = '';
+
+  gettype($user) === 'object' ? $username = $user->getUsername() : $username = $user['username'];
 
   // Mi prendo l'id della cassetta sulla quale ho cliccato e il db
   $cassette_id = $_GET['cassette_id']; 
-  $db = json_decode(file_get_contents('db.json'), true);
+
+  $db = json_decode(file_get_contents("db-$username.json"), true);
   // La cassetta sulla quale ho cliccato corrispondere al db all'indice dell'id della cassetta stessa.
   $the_one = $db[$cassette_id];
 

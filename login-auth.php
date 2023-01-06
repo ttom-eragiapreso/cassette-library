@@ -23,7 +23,8 @@ if($action == 'login'){
    $result = array_search($username, $user);
    if(!empty($result)){
     $user_id = $key;
-    echo "Login successful - Welcome back " . $users[$user_id]['username'] . ", ti sei registrato in data " . $users[$user_id]['registration_timestamp'];
+    $_SESSION['user'] = $users[$user_id];
+    header('Location: index.php');
    }else {
     echo "Le credenziali non esistono";
    }
@@ -39,10 +40,10 @@ if($action == 'login'){
 
 
 if($action == 'register'){
+  $_SESSION['user'] = new User($username, $password);
 
 }
 
-$_SESSION['user'] = new User($username, $password);
 
 // Una volta fatto il login o la registrazione dovrò tornare su index.php con l'informazione di login e mostrare il db corretto.
 

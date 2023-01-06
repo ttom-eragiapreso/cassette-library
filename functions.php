@@ -51,17 +51,18 @@ function getTitleAuthor($src, $switch){
   }
 
   // Utility che aggiunge un item al db
-  function addToDb($db, $item){
+  function addToDb($db, $item, $user){
     $db[$item['id']] = $item;
-    file_put_contents('db.json', json_encode($db, JSON_PRETTY_PRINT));
+    file_put_contents("db-$user.json", json_encode($db, JSON_PRETTY_PRINT));
   }
 
   // Utility che rimuove un elemento dal db
 
-  function deleteFromDb($db, $id){
+  function deleteFromDb($db, $id, $user){
 
     $db = array_filter($db, fn($record) => $record['id'] != $id);
-    file_put_contents('db.json', json_encode($db, JSON_PRETTY_PRINT));
+    file_put_contents("db-$user.json", json_encode($db, JSON_PRETTY_PRINT));
+
   }
 
 
@@ -133,6 +134,9 @@ function pageNavigation($url){
     file_put_contents('results.json', json_encode($assocPolishedResults,  JSON_PRETTY_PRINT));
     file_put_contents('pagination.json', json_encode($pagination, JSON_PRETTY_PRINT));
 }
+
+
+
 
 // FUNZIONI PER LOGIN E AUTENTICAZIONE 
 

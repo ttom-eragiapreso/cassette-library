@@ -5,7 +5,13 @@ session_start();
 
 $user = $_SESSION['user'] ?? null;
 
-$username = $user['username'] ?? null;
+$username = '';
+$registration_timestamp = '';
+$last_login = '';
+
+gettype($user) === 'object' ? $username = $user->getUsername() : $username = $user['username'];
+gettype($user) === 'object' ? $registration_timestamp = $user->getRegistrationDate() : $registration_timestamp = $user['registration_timestamp'];
+gettype($user) === 'object' ? $last_login = $user->getLastLogin() : $last_login = $user['last_login'];
 
 
 if(!isset($user)){header('Location: login.php');};
@@ -29,8 +35,9 @@ $db = json_decode(file_get_contents("db-$username.json"), true) ?? null;
 <!-- Faccio un foreach dei records nel db se non è vuoto -->
 <?php if(!empty($db)): ?>
 <main class="bg-space-300">
+  <span class="text-sm">Utente registrato il <?php echo $registration_timestamp ?></span>
+  <span class="text-sm">Ultimo Login: <?php echo $last_login ?></span>
 <h1 class="text-center text-pastel-200 text-3xl font-bold mb-7">Benvenuto Nella Tua Collezione Musicale!</h1>
-
 
   <div class="container md:gap-x-4 mx-auto flex flex-wrap justify-around px-5 columns-2 md:columns-4 lg:columns-6">
 

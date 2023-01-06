@@ -1,46 +1,22 @@
 {
-    "1580051": {
-        "id": 1580051,
-        "title": "Cigarette Burns",
-        "author": "Nirvana",
-        "thumb": "https:\/\/i.discogs.com\/iTnW-qmG3kVEjlBMgSM69YUm-0sjPrzA70aJcz7ridE\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTc2ODM2\/MjktMTU4MzY2Mzgz\/NS0xMzU5LmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/o2ykpMBh0v9ZkUybPDoK6Iv3U18GOyyTPvDfrhMuhYU\/rs:fit\/g:sm\/q:90\/h:599\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTc2ODM2\/MjktMTU4MzY2Mzgz\/NS0xMzU5LmpwZWc.jpeg",
-        "genres": [
-            "Rock"
-        ],
-        "release_year": "2015",
-        "barcode": "Nessun codice a barre disponibile",
-        "timestamp": "Fri, 06 Jan 2023 00:32:37"
-    },
-    "1281529": {
-        "id": 1281529,
-        "title": "The Triple J Broadcast... And More Rare And Unreleased Tracks",
-        "author": "Nirvana",
-        "thumb": "https:\/\/i.discogs.com\/O_nXpiFv50xJo69NALsM5GyHFrcSQIoxfUhOChapT9A\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTExMjM3\/Mzc0LTE1MTI5OTM1\/MDQtNjkwMi5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/_pJ04HAi3-o524rasqfDZqmfrkoRfq1esIGjOLV5FYk\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTExMjM3\/Mzc0LTE1MTI5OTM1\/MDQtNjkwMi5qcGVn.jpeg",
-        "genres": [
-            "Rock"
-        ],
-        "release_year": "2017",
-        "barcode": [
-            "9 700000 159845",
-            "9700000159845"
-        ],
-        "timestamp": "Fri, 06 Jan 2023 00:32:37"
-    },
-    "999786": {
-        "id": 999786,
-        "title": "Look Around",
+    "358655": {
+        "id": 358655,
+        "title": "Coffee Shop",
         "author": "Red Hot Chili Peppers",
-        "thumb": "https:\/\/i.discogs.com\/0zDeRGi6fPPKJYGlzR3NT9w239_KZB363EjD4tna7pM\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTM2ODc5\/NDgtMTM0MjE5NTYw\/NC03OTA2LmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/auV-CBq-KsAPVpzmp84Up2zR3AQp9USJxioGFwLWGYY\/rs:fit\/g:sm\/q:90\/h:500\/w:500\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTM2ODc5\/NDgtMTM0MjE5NTYw\/NC03OTA2LmpwZWc.jpeg",
+        "thumb": "https:\/\/i.discogs.com\/AiG0YoR7fDdOprJ-VIue5D1GLVMWop_8-UwbkmAU9fA\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTMwMzE3\/NTUtMTUxNzQ3NDgx\/OC0xNDQ2LmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/r8U5YeEq02scUPuYVFxgzeb7t5C9tsr6Md6e2-hlAZA\/rs:fit\/g:sm\/q:90\/h:605\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTMwMzE3\/NTUtMTUxNzQ3NDgx\/OC0xNDQ2LmpwZWc.jpeg",
         "genres": [
             "Rock"
         ],
-        "release_year": "2011",
+        "release_year": "1996",
         "barcode": [
-            "LC 00392"
+            "0 9362437489 3",
+            "LC 0392",
+            "WEC 795",
+            "936243748-9 WME",
+            "IFPI L012",
+            "IFPI 0531"
         ],
-        "timestamp": "Fri, 06 Jan 2023 00:34:55"
+        "timestamp": "Fri, 06 Jan 2023 15:06:17 - UK time"
     }
 }

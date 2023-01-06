@@ -15,7 +15,7 @@ class User {
     // Inizializzo le variabili dell'utente
     $this->username = $_username;
     $this->password = $_password;
-    $this->registration_timestamp = getTimestamp() . ' - UK time';
+    $this->registration_timestamp = getTimestamp();
     $this->id = uniqid('', true);
   }
 

@@ -32,7 +32,7 @@ function getTitleAuthor($src, $switch){
   }
 
   function getTimestamp(){
-    return substr(date('r'), 0, -6) ;
+    return substr(date('r'), 0, -6) . ' - UK time';
   }
 
   function createRecord($record){
@@ -145,4 +145,15 @@ function pageNavigation($url){
 function addUser($db, $user){
   $db[$user['id']] = $user;
   file_put_contents('users.json', json_encode($db, JSON_PRETTY_PRINT));
+}
+
+function verifyPsw($psw){
+  $output = null;
+  strlen($psw) > 8 ? $output = true : $output = false;
+  return $output;
+}
+function verifyUsername($username){
+  $output = null;
+  strlen($username) > 1 ? $output = true : $output = false;
+  return $output;
 }

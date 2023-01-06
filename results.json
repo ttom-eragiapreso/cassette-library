@@ -10,7 +10,7 @@
         ],
         "release_year": "1994",
         "barcode": "Nessun codice a barre disponibile",
-        "timestamp": "Fri, 06 Jan 2023 00:34:55"
+        "timestamp": "Fri, 06 Jan 2023 15:06:17 - UK time"
     },
     "603192": {
         "id": 603192,
@@ -30,7 +30,256 @@
             "ifpi 1624",
             "ifpi 1674"
         ],
-        "timestamp": "Fri, 06 Jan 2023 00:34:55"
+        "timestamp": "Fri, 06 Jan 2023 15:06:17 - UK time"
+    },
+    "42527": {
+        "id": 42527,
+        "title": "Breaking The Girl",
+        "author": "Red Hot Chili Peppers",
+        "thumb": "https:\/\/i.discogs.com\/-qxo9o-wBDdulcxCXsnJXlPjBUxhOZAJEHopQUKFFyQ\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI3MjY5\/NzgtMTI5ODI4OTAx\/My5qcGVn.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/OEEyCAPf085H-JTULUYkZvVu_8izdjMJYbuYKU8lgxA\/rs:fit\/g:sm\/q:90\/h:599\/w:598\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI3MjY5\/NzgtMTI5ODI4OTAx\/My5qcGVn.jpeg",
+        "genres": [
+            "Rock"
+        ],
+        "release_year": "1992",
+        "barcode": [
+            "0 9362-40516-0 2",
+            "WO126 TW-A1 W6014",
+            "WO126 TW-B1 W6014",
+            "W 0126 (TW) A",
+            "W 0126 (TW) B"
+        ],
+        "timestamp": "Fri, 06 Jan 2023 15:06:17 - UK time"
+    },
+    "219884": {
+        "id": 219884,
+        "title": "Hump De Bump",
+        "author": "Red Hot Chili Peppers",
+        "thumb": "https:\/\/i.discogs.com\/khoOhyCUxsv_w6xHANeePh2ng9HXVv2aYgGNiLKit-0\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTk4MzE2\/MC0xMjYyMzY3Nzgy\/LmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/Sn_ALmJtiLX8rzQuY-L45GjQLFqVxay9Ny5mNjN4bGs\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTk4MzE2\/MC0xMjYyMzY3Nzgy\/LmpwZWc.jpeg",
+        "genres": [
+            "Rock"
+        ],
+        "release_year": "2007",
+        "barcode": [
+            "0 54391 99829 3",
+            "054391998293"
+        ],
+        "timestamp": "Fri, 06 Jan 2023 15:06:17 - UK time"
+    },
+    "1532577": {
+        "id": 1532577,
+        "title": "Live In Milan, Italy 2006",
+        "author": "Red Hot Chili Peppers",
+        "thumb": "https:\/\/i.discogs.com\/BZi9t7uFMzjI73vx9V3ntKKpopGLpoetiJq5tYqi1js\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE5NTc1\/OTk3LTE2MjY4OTUz\/MzMtOTM4My5qcGVn.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/OVfa64k--XxUt9tsOTLU-NIqm9rhXjQV_bqJNdiSS5A\/rs:fit\/g:sm\/q:90\/h:500\/w:367\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE5NTc1\/OTk3LTE2MjY4OTUz\/MzMtOTM4My5qcGVn.jpeg",
+        "genres": [
+            "Rock"
+        ],
+        "release_year": "2011",
+        "barcode": [
+            "7898939134384"
+        ],
+        "timestamp": "Fri, 06 Jan 2023 15:06:17 - UK time"
+    },
+    "358655": {
+        "id": 358655,
+        "title": "Coffee Shop",
+        "author": "Red Hot Chili Peppers",
+        "thumb": "https:\/\/i.discogs.com\/AiG0YoR7fDdOprJ-VIue5D1GLVMWop_8-UwbkmAU9fA\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTMwMzE3\/NTUtMTUxNzQ3NDgx\/OC0xNDQ2LmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/r8U5YeEq02scUPuYVFxgzeb7t5C9tsr6Md6e2-hlAZA\/rs:fit\/g:sm\/q:90\/h:605\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTMwMzE3\/NTUtMTUxNzQ3NDgx\/OC0xNDQ2LmpwZWc.jpeg",
+        "genres": [
+            "Rock"
+        ],
+        "release_year": "1996",
+        "barcode": [
+            "0 9362437489 3",
+            "LC 0392",
+            "WEC 795",
+            "936243748-9 WME",
+            "IFPI L012",
+            "IFPI 0531"
+        ],
+        "timestamp": "Fri, 06 Jan 2023 15:06:17 - UK time"
+    },
+    "518372": {
+        "id": 518372,
+        "title": "Brendan's Death Song",
+        "author": "Red Hot Chili Peppers",
+        "thumb": "https:\/\/i.discogs.com\/_AebFkPFy7JrKbI3ldhV2DqzuKQU83f0V5BOd4bFb1s\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTM4NzM3\/MzItMTU0NDkxMjkz\/NC00MjU2LmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/yzmz3LAoW3UpxLs09OjVMor9duDe4a2k_brJlFUY_jk\/rs:fit\/g:sm\/q:90\/h:521\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTM4NzM3\/MzItMTU0NDkxMjkz\/NC00MjU2LmpwZWc.jpeg",
+        "genres": [
+            "Rock"
+        ],
+        "release_year": "2012",
+        "barcode": [
+            "0 54391 97615 4",
+            "543919761-5.2 V01 OEO",
+            "IFPI L016",
+            "GEMA\/BIEM",
+            "LC00392"
+        ],
+        "timestamp": "Fri, 06 Jan 2023 15:06:17 - UK time"
+    },
+    "942309": {
+        "id": 942309,
+        "title": "Greatest Hits'99 \"Scar Tissue\". Platinum Collection'99",
+        "author": "Red Hot Chili Peppers",
+        "thumb": "https:\/\/i.discogs.com\/_vNlVA8473iGEUdzfRzQz4A4poiwULGh7w-gDdPe5sA\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTc5Njc5\/NjAtMTQ1MjYxNTYx\/MC0xMzExLmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/4MJkIqfCv-xMEmbNyaRLv0ZWnRmk3Ip9WgTIUaJpzpY\/rs:fit\/g:sm\/q:90\/h:465\/w:464\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTc5Njc5\/NjAtMTQ1MjYxNTYx\/MC0xMzExLmpwZWc.jpeg",
+        "genres": [
+            "Rock",
+            "Funk \/ Soul"
+        ],
+        "release_year": "1999",
+        "barcode": [
+            "none",
+            "ND-104"
+        ],
+        "timestamp": "Fri, 06 Jan 2023 15:06:17 - UK time"
+    },
+    "876697": {
+        "id": 876697,
+        "title": "Live At Budokan",
+        "author": "Red Hot Chili Peppers",
+        "thumb": "https:\/\/i.discogs.com\/yVss5zDk5BBPtMXUNxuq8AMLwy4sF7liu-X3N04tIdA\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTcyOTU5\/NzgtMTQzODI1Mjg5\/MC04NTkxLmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/8LDrf9WoOix7IZSqRpdZknfwiyWiMEjMaZLDe79GXs4\/rs:fit\/g:sm\/q:90\/h:850\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTcyOTU5\/NzgtMTQzODI1Mjg5\/MC04NTkxLmpwZWc.jpeg",
+        "genres": [
+            "Rock"
+        ],
+        "release_year": "2009",
+        "barcode": [
+            "4250079732098"
+        ],
+        "timestamp": "Fri, 06 Jan 2023 15:06:17 - UK time"
+    },
+    "745718": {
+        "id": 745718,
+        "title": "10 Great Songs",
+        "author": "Red Hot Chili Peppers",
+        "thumb": "https:\/\/i.discogs.com\/S_VlcvwSR3NS_EY2q5ZghEXkmNHBOsreFPg9M3huICo\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTYxOTY4\/OTktMTQxMzQ3NDY1\/NC0zOTU4LmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/J26XoPDivCk0uLkcelONd6BzKjMrbjfWnMPNDw6Frpo\/rs:fit\/g:sm\/q:90\/h:491\/w:500\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTYxOTY4\/OTktMTQxMzQ3NDY1\/NC0zOTU4LmpwZWc.jpeg",
+        "genres": [
+            "Rock"
+        ],
+        "release_year": "2009",
+        "barcode": [
+            "5 099930 944626"
+        ],
+        "timestamp": "Fri, 06 Jan 2023 15:06:17 - UK time"
+    },
+    "999786": {
+        "id": 999786,
+        "title": "Look Around",
+        "author": "Red Hot Chili Peppers",
+        "thumb": "https:\/\/i.discogs.com\/0zDeRGi6fPPKJYGlzR3NT9w239_KZB363EjD4tna7pM\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTM2ODc5\/NDgtMTM0MjE5NTYw\/NC03OTA2LmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/auV-CBq-KsAPVpzmp84Up2zR3AQp9USJxioGFwLWGYY\/rs:fit\/g:sm\/q:90\/h:500\/w:500\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTM2ODc5\/NDgtMTM0MjE5NTYw\/NC03OTA2LmpwZWc.jpeg",
+        "genres": [
+            "Rock"
+        ],
+        "release_year": "2011",
+        "barcode": [
+            "LC 00392"
+        ],
+        "timestamp": "Fri, 06 Jan 2023 15:06:17 - UK time"
+    },
+    "250687": {
+        "id": 250687,
+        "title": "The Jalapeno Sessions",
+        "author": "Red Hot Chili Peppers",
+        "thumb": "https:\/\/i.discogs.com\/kpAWIegQ40HMH61HxPiRnuhrL04b9gGlwk-Q-98pNrI\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1MTI3\/MzMtMTIyNTIwMjU2\/OS5qcGVn.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/62t-S1bcqUnAcevF0FAFr1bTN0q-FpNn40vyHiL8124\/rs:fit\/g:sm\/q:90\/h:597\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1MTI3\/MzMtMTIyNTIwMjU2\/OS5qcGVn.jpeg",
+        "genres": [
+            "Rock",
+            "Funk \/ Soul"
+        ],
+        "release_year": "1990",
+        "barcode": "Nessun codice a barre disponibile",
+        "timestamp": "Fri, 06 Jan 2023 15:06:17 - UK time"
+    },
+    "2032210": {
+        "id": 2032210,
+        "title": "The Hits",
+        "author": "Red Hot Chili Peppers",
+        "thumb": "https:\/\/i.discogs.com\/mmgC4UPZvlruO1Btk2ii0BHET0MvKIBibMdI2bd77yM\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE5MTU0\/NzMtMTU3ODQ4MjY5\/NC03OTIyLmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/7WXmlX9sWcuIXlH-trNUPmewzVSnJ5MafFKLro-Swg4\/rs:fit\/g:sm\/q:90\/h:607\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE5MTU0\/NzMtMTU3ODQ4MjY5\/NC03OTIyLmpwZWc.jpeg",
+        "genres": [
+            "Rock"
+        ],
+        "release_year": "2002",
+        "barcode": [
+            "LC00392",
+            "GEMA\/BIEM",
+            "PR03185",
+            "IFPI L012",
+            "IFPI 0594"
+        ],
+        "timestamp": "Fri, 06 Jan 2023 15:06:17 - UK time"
+    },
+    "364526": {
+        "id": 364526,
+        "title": "Holland 1991",
+        "author": "Red Hot Chili Peppers",
+        "thumb": "https:\/\/i.discogs.com\/W_iOkxj27VOKTSzjZrTGoRmD606Xq7kqJMOhMdZPeHA\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1Mzc4\/OTUtMTQ4ODM0NTQz\/MC02MTk0LmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/TqEH4qB6FP-xK9fxJqwrf3_bkgKHSZuA1BP8QBqWS6c\/rs:fit\/g:sm\/q:90\/h:596\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1Mzc4\/OTUtMTQ4ODM0NTQz\/MC02MTk0LmpwZWc.jpeg",
+        "genres": [
+            "Rock"
+        ],
+        "release_year": "1992",
+        "barcode": [
+            "RFCD1184 PHC",
+            "S.I.A.E."
+        ],
+        "timestamp": "Fri, 06 Jan 2023 15:06:17 - UK time"
+    },
+    "584771": {
+        "id": 584771,
+        "title": "Rock Out With Your Cock Out",
+        "author": "Red Hot Chili Peppers",
+        "thumb": "https:\/\/i.discogs.com\/l0dOCv-bQIweRVQw1lDqhzfQeA8L8yxoxAXTK1flWU0\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1MDY5\/ODYtMTIyNDgxNzg4\/NS5qcGVn.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/L7bS77nuoA3UQbYGSHiq3NlBGN-Iq-VSzRDNG1aujBw\/rs:fit\/g:sm\/q:90\/h:600\/w:598\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1MDY5\/ODYtMTIyNDgxNzg4\/NS5qcGVn.jpeg",
+        "genres": [
+            "Rock",
+            "Funk \/ Soul"
+        ],
+        "release_year": "1992",
+        "barcode": "Nessun codice a barre disponibile",
+        "timestamp": "Fri, 06 Jan 2023 15:06:17 - UK time"
+    },
+    "42536": {
+        "id": 42536,
+        "title": "Out In L.A.",
+        "author": "Red Hot Chili Peppers",
+        "thumb": "https:\/\/i.discogs.com\/Gi0jkHvPaBzQXsA7HUi2dR20SHXhjVOR9IYGcSVNON0\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEzMjM4\/MjctMTU5ODA1MDAx\/Ny03MzU4LmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/zQWFiR_Xz5bPq-2Wp9Yb3gqXW3NWmL0awngrp5atNnw\/rs:fit\/g:sm\/q:90\/h:606\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEzMjM4\/MjctMTU5ODA1MDAx\/Ny03MzU4LmpwZWc.jpeg",
+        "genres": [
+            "Rock"
+        ],
+        "release_year": "1994",
+        "barcode": [
+            "7 2438-29665-2 4",
+            "724382966524",
+            "29665-2 MO L4923H Y 1-1-7 EMI JAX",
+            "29665-2 MO L4923H Y 1-1-2 EMI JAX",
+            "29665-2 MO L4923H Y 1-1-3 EMI JAX",
+            "29665-2 MO L4923H Y 1-1-5 EMI JAX",
+            "29665-2 MO L4923H Y 1-1-10 EMI JAX"
+        ],
+        "timestamp": "Fri, 06 Jan 2023 15:06:17 - UK time"
+    },
+    "2856646": {
+        "id": 2856646,
+        "title": "Stadium Arcadium 2006 Sizzle Reel",
+        "author": "Red Hot Chili Peppers",
+        "thumb": "https:\/\/i.discogs.com\/K0GlM9cMcv3hZu6V2-5ewFvZzbdAkbZbVNCpGTcaBus\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI1MDkx\/OTg5LTE2Njc4Njkx\/NTctNjA0NC5qcGVn.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/NXs04nXWXMP1oWTCF7n2nIeQQsX6wek1Jq5M_ygKg6M\/rs:fit\/g:sm\/q:90\/h:480\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI1MDkx\/OTg5LTE2Njc4Njkx\/NTctNjA0NC5qcGVn.jpeg",
+        "genres": [
+            "Rock",
+            "Pop"
+        ],
+        "release_year": "2006",
+        "barcode": "Nessun codice a barre disponibile",
+        "timestamp": "Fri, 06 Jan 2023 15:06:17 - UK time"
     },
     "38645": {
         "id": 38645,
@@ -78,7 +327,7 @@
             "IFPI 2U3Z",
             "IFPI 2U2O"
         ],
-        "timestamp": "Fri, 06 Jan 2023 00:34:55"
+        "timestamp": "Fri, 06 Jan 2023 15:06:17 - UK time"
     },
     "25536": {
         "id": 25536,
@@ -98,47 +347,7 @@
             "ELT-1-48036-Z1 DMM MASTERDISK DMM SP1-3",
             "ELT-2-48036-Z1 DMM MASTERDISK DMM SP1-1"
         ],
-        "timestamp": "Fri, 06 Jan 2023 00:34:55"
-    },
-    "42536": {
-        "id": 42536,
-        "title": "Out In L.A.",
-        "author": "Red Hot Chili Peppers",
-        "thumb": "https:\/\/i.discogs.com\/Gi0jkHvPaBzQXsA7HUi2dR20SHXhjVOR9IYGcSVNON0\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEzMjM4\/MjctMTU5ODA1MDAx\/Ny03MzU4LmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/zQWFiR_Xz5bPq-2Wp9Yb3gqXW3NWmL0awngrp5atNnw\/rs:fit\/g:sm\/q:90\/h:606\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEzMjM4\/MjctMTU5ODA1MDAx\/Ny03MzU4LmpwZWc.jpeg",
-        "genres": [
-            "Rock"
-        ],
-        "release_year": "1994",
-        "barcode": [
-            "7 2438-29665-2 4",
-            "724382966524",
-            "29665-2 MO L4923H Y 1-1-7 EMI JAX",
-            "29665-2 MO L4923H Y 1-1-2 EMI JAX",
-            "29665-2 MO L4923H Y 1-1-3 EMI JAX",
-            "29665-2 MO L4923H Y 1-1-5 EMI JAX",
-            "29665-2 MO L4923H Y 1-1-10 EMI JAX"
-        ],
-        "timestamp": "Fri, 06 Jan 2023 00:34:55"
-    },
-    "42527": {
-        "id": 42527,
-        "title": "Breaking The Girl",
-        "author": "Red Hot Chili Peppers",
-        "thumb": "https:\/\/i.discogs.com\/-qxo9o-wBDdulcxCXsnJXlPjBUxhOZAJEHopQUKFFyQ\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI3MjY5\/NzgtMTI5ODI4OTAx\/My5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/OEEyCAPf085H-JTULUYkZvVu_8izdjMJYbuYKU8lgxA\/rs:fit\/g:sm\/q:90\/h:599\/w:598\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI3MjY5\/NzgtMTI5ODI4OTAx\/My5qcGVn.jpeg",
-        "genres": [
-            "Rock"
-        ],
-        "release_year": "1992",
-        "barcode": [
-            "0 9362-40516-0 2",
-            "WO126 TW-A1 W6014",
-            "WO126 TW-B1 W6014",
-            "W 0126 (TW) A",
-            "W 0126 (TW) B"
-        ],
-        "timestamp": "Fri, 06 Jan 2023 00:34:55"
+        "timestamp": "Fri, 06 Jan 2023 15:06:17 - UK time"
     },
     "42535": {
         "id": 42535,
@@ -155,22 +364,7 @@
             "054391840127",
             "\u24c8 1 18401-2 SRC##01 M1S4"
         ],
-        "timestamp": "Fri, 06 Jan 2023 00:34:55"
-    },
-    "1532577": {
-        "id": 1532577,
-        "title": "Live In Milan, Italy 2006",
-        "author": "Red Hot Chili Peppers",
-        "thumb": "https:\/\/i.discogs.com\/BZi9t7uFMzjI73vx9V3ntKKpopGLpoetiJq5tYqi1js\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE5NTc1\/OTk3LTE2MjY4OTUz\/MzMtOTM4My5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/OVfa64k--XxUt9tsOTLU-NIqm9rhXjQV_bqJNdiSS5A\/rs:fit\/g:sm\/q:90\/h:500\/w:367\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE5NTc1\/OTk3LTE2MjY4OTUz\/MzMtOTM4My5qcGVn.jpeg",
-        "genres": [
-            "Rock"
-        ],
-        "release_year": "2011",
-        "barcode": [
-            "7898939134384"
-        ],
-        "timestamp": "Fri, 06 Jan 2023 00:34:55"
+        "timestamp": "Fri, 06 Jan 2023 15:06:17 - UK time"
     },
     "2897143": {
         "id": 2897143,
@@ -185,201 +379,25 @@
         "barcode": [
             "3800190243440"
         ],
-        "timestamp": "Fri, 06 Jan 2023 00:34:55"
+        "timestamp": "Fri, 06 Jan 2023 15:06:17 - UK time"
     },
-    "2856646": {
-        "id": 2856646,
-        "title": "Stadium Arcadium 2006 Sizzle Reel",
+    "257794": {
+        "id": 257794,
+        "title": "Woodstock 1994",
         "author": "Red Hot Chili Peppers",
-        "thumb": "https:\/\/i.discogs.com\/K0GlM9cMcv3hZu6V2-5ewFvZzbdAkbZbVNCpGTcaBus\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI1MDkx\/OTg5LTE2Njc4Njkx\/NTctNjA0NC5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/NXs04nXWXMP1oWTCF7n2nIeQQsX6wek1Jq5M_ygKg6M\/rs:fit\/g:sm\/q:90\/h:480\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI1MDkx\/OTg5LTE2Njc4Njkx\/NTctNjA0NC5qcGVn.jpeg",
-        "genres": [
-            "Rock",
-            "Pop"
-        ],
-        "release_year": "2006",
-        "barcode": "Nessun codice a barre disponibile",
-        "timestamp": "Fri, 06 Jan 2023 00:34:55"
-    },
-    "358655": {
-        "id": 358655,
-        "title": "Coffee Shop",
-        "author": "Red Hot Chili Peppers",
-        "thumb": "https:\/\/i.discogs.com\/AiG0YoR7fDdOprJ-VIue5D1GLVMWop_8-UwbkmAU9fA\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTMwMzE3\/NTUtMTUxNzQ3NDgx\/OC0xNDQ2LmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/r8U5YeEq02scUPuYVFxgzeb7t5C9tsr6Md6e2-hlAZA\/rs:fit\/g:sm\/q:90\/h:605\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTMwMzE3\/NTUtMTUxNzQ3NDgx\/OC0xNDQ2LmpwZWc.jpeg",
-        "genres": [
-            "Rock"
-        ],
-        "release_year": "1996",
-        "barcode": [
-            "0 9362437489 3",
-            "LC 0392",
-            "WEC 795",
-            "936243748-9 WME",
-            "IFPI L012",
-            "IFPI 0531"
-        ],
-        "timestamp": "Fri, 06 Jan 2023 00:34:55"
-    },
-    "518372": {
-        "id": 518372,
-        "title": "Brendan's Death Song",
-        "author": "Red Hot Chili Peppers",
-        "thumb": "https:\/\/i.discogs.com\/_AebFkPFy7JrKbI3ldhV2DqzuKQU83f0V5BOd4bFb1s\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTM4NzM3\/MzItMTU0NDkxMjkz\/NC00MjU2LmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/yzmz3LAoW3UpxLs09OjVMor9duDe4a2k_brJlFUY_jk\/rs:fit\/g:sm\/q:90\/h:521\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTM4NzM3\/MzItMTU0NDkxMjkz\/NC00MjU2LmpwZWc.jpeg",
-        "genres": [
-            "Rock"
-        ],
-        "release_year": "2012",
-        "barcode": [
-            "0 54391 97615 4",
-            "543919761-5.2 V01 OEO",
-            "IFPI L016",
-            "GEMA\/BIEM",
-            "LC00392"
-        ],
-        "timestamp": "Fri, 06 Jan 2023 00:34:55"
-    },
-    "942309": {
-        "id": 942309,
-        "title": "Greatest Hits'99 \"Scar Tissue\". Platinum Collection'99",
-        "author": "Red Hot Chili Peppers",
-        "thumb": "https:\/\/i.discogs.com\/_vNlVA8473iGEUdzfRzQz4A4poiwULGh7w-gDdPe5sA\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTc5Njc5\/NjAtMTQ1MjYxNTYx\/MC0xMzExLmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/4MJkIqfCv-xMEmbNyaRLv0ZWnRmk3Ip9WgTIUaJpzpY\/rs:fit\/g:sm\/q:90\/h:465\/w:464\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTc5Njc5\/NjAtMTQ1MjYxNTYx\/MC0xMzExLmpwZWc.jpeg",
+        "thumb": "https:\/\/i.discogs.com\/wYK_kVeEi9F6Ug-v-rwdDiEtL_kwNWWry_50D75FAyg\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTIzMzY0\/NDktMTM5Mzk4NDc2\/Ny03MTQ5LmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/3QIzOdRYw4WjRLNPLMnySOU9JLnqOIj40Wzo2vvUixI\/rs:fit\/g:sm\/q:90\/h:500\/w:496\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTIzMzY0\/NDktMTM5Mzk4NDc2\/Ny03MTQ5LmpwZWc.jpeg",
         "genres": [
             "Rock",
             "Funk \/ Soul"
         ],
-        "release_year": "1999",
+        "release_year": "1994",
         "barcode": [
-            "none",
-            "ND-104"
-        ],
-        "timestamp": "Fri, 06 Jan 2023 00:34:55"
-    },
-    "876697": {
-        "id": 876697,
-        "title": "Live At Budokan",
-        "author": "Red Hot Chili Peppers",
-        "thumb": "https:\/\/i.discogs.com\/yVss5zDk5BBPtMXUNxuq8AMLwy4sF7liu-X3N04tIdA\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTcyOTU5\/NzgtMTQzODI1Mjg5\/MC04NTkxLmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/8LDrf9WoOix7IZSqRpdZknfwiyWiMEjMaZLDe79GXs4\/rs:fit\/g:sm\/q:90\/h:850\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTcyOTU5\/NzgtMTQzODI1Mjg5\/MC04NTkxLmpwZWc.jpeg",
-        "genres": [
-            "Rock"
-        ],
-        "release_year": "2009",
-        "barcode": [
-            "4250079732098"
-        ],
-        "timestamp": "Fri, 06 Jan 2023 00:34:55"
-    },
-    "745718": {
-        "id": 745718,
-        "title": "10 Great Songs",
-        "author": "Red Hot Chili Peppers",
-        "thumb": "https:\/\/i.discogs.com\/S_VlcvwSR3NS_EY2q5ZghEXkmNHBOsreFPg9M3huICo\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTYxOTY4\/OTktMTQxMzQ3NDY1\/NC0zOTU4LmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/J26XoPDivCk0uLkcelONd6BzKjMrbjfWnMPNDw6Frpo\/rs:fit\/g:sm\/q:90\/h:491\/w:500\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTYxOTY4\/OTktMTQxMzQ3NDY1\/NC0zOTU4LmpwZWc.jpeg",
-        "genres": [
-            "Rock"
-        ],
-        "release_year": "2009",
-        "barcode": [
-            "5 099930 944626"
-        ],
-        "timestamp": "Fri, 06 Jan 2023 00:34:55"
-    },
-    "999786": {
-        "id": 999786,
-        "title": "Look Around",
-        "author": "Red Hot Chili Peppers",
-        "thumb": "https:\/\/i.discogs.com\/0zDeRGi6fPPKJYGlzR3NT9w239_KZB363EjD4tna7pM\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTM2ODc5\/NDgtMTM0MjE5NTYw\/NC03OTA2LmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/auV-CBq-KsAPVpzmp84Up2zR3AQp9USJxioGFwLWGYY\/rs:fit\/g:sm\/q:90\/h:500\/w:500\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTM2ODc5\/NDgtMTM0MjE5NTYw\/NC03OTA2LmpwZWc.jpeg",
-        "genres": [
-            "Rock"
-        ],
-        "release_year": "2011",
-        "barcode": [
-            "LC 00392"
-        ],
-        "timestamp": "Fri, 06 Jan 2023 00:34:55"
-    },
-    "219884": {
-        "id": 219884,
-        "title": "Hump De Bump",
-        "author": "Red Hot Chili Peppers",
-        "thumb": "https:\/\/i.discogs.com\/khoOhyCUxsv_w6xHANeePh2ng9HXVv2aYgGNiLKit-0\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTk4MzE2\/MC0xMjYyMzY3Nzgy\/LmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/Sn_ALmJtiLX8rzQuY-L45GjQLFqVxay9Ny5mNjN4bGs\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTk4MzE2\/MC0xMjYyMzY3Nzgy\/LmpwZWc.jpeg",
-        "genres": [
-            "Rock"
-        ],
-        "release_year": "2007",
-        "barcode": [
-            "0 54391 99829 3",
-            "054391998293"
-        ],
-        "timestamp": "Fri, 06 Jan 2023 00:34:55"
-    },
-    "250687": {
-        "id": 250687,
-        "title": "The Jalapeno Sessions",
-        "author": "Red Hot Chili Peppers",
-        "thumb": "https:\/\/i.discogs.com\/kpAWIegQ40HMH61HxPiRnuhrL04b9gGlwk-Q-98pNrI\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1MTI3\/MzMtMTIyNTIwMjU2\/OS5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/62t-S1bcqUnAcevF0FAFr1bTN0q-FpNn40vyHiL8124\/rs:fit\/g:sm\/q:90\/h:597\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1MTI3\/MzMtMTIyNTIwMjU2\/OS5qcGVn.jpeg",
-        "genres": [
-            "Rock",
-            "Funk \/ Soul"
-        ],
-        "release_year": "1990",
-        "barcode": "Nessun codice a barre disponibile",
-        "timestamp": "Fri, 06 Jan 2023 00:34:55"
-    },
-    "2032210": {
-        "id": 2032210,
-        "title": "The Hits",
-        "author": "Red Hot Chili Peppers",
-        "thumb": "https:\/\/i.discogs.com\/mmgC4UPZvlruO1Btk2ii0BHET0MvKIBibMdI2bd77yM\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE5MTU0\/NzMtMTU3ODQ4MjY5\/NC03OTIyLmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/7WXmlX9sWcuIXlH-trNUPmewzVSnJ5MafFKLro-Swg4\/rs:fit\/g:sm\/q:90\/h:607\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE5MTU0\/NzMtMTU3ODQ4MjY5\/NC03OTIyLmpwZWc.jpeg",
-        "genres": [
-            "Rock"
-        ],
-        "release_year": "2002",
-        "barcode": [
-            "LC00392",
-            "GEMA\/BIEM",
-            "PR03185",
-            "IFPI L012",
-            "IFPI 0594"
-        ],
-        "timestamp": "Fri, 06 Jan 2023 00:34:55"
-    },
-    "364526": {
-        "id": 364526,
-        "title": "Holland 1991",
-        "author": "Red Hot Chili Peppers",
-        "thumb": "https:\/\/i.discogs.com\/W_iOkxj27VOKTSzjZrTGoRmD606Xq7kqJMOhMdZPeHA\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1Mzc4\/OTUtMTQ4ODM0NTQz\/MC02MTk0LmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/TqEH4qB6FP-xK9fxJqwrf3_bkgKHSZuA1BP8QBqWS6c\/rs:fit\/g:sm\/q:90\/h:596\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1Mzc4\/OTUtMTQ4ODM0NTQz\/MC02MTk0LmpwZWc.jpeg",
-        "genres": [
-            "Rock"
-        ],
-        "release_year": "1992",
-        "barcode": [
-            "RFCD1184 PHC",
+            "8 013133 001723",
+            "OCTO 038 PHC 02 @",
             "S.I.A.E."
         ],
-        "timestamp": "Fri, 06 Jan 2023 00:34:55"
-    },
-    "584771": {
-        "id": 584771,
-        "title": "Rock Out With Your Cock Out",
-        "author": "Red Hot Chili Peppers",
-        "thumb": "https:\/\/i.discogs.com\/l0dOCv-bQIweRVQw1lDqhzfQeA8L8yxoxAXTK1flWU0\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1MDY5\/ODYtMTIyNDgxNzg4\/NS5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/L7bS77nuoA3UQbYGSHiq3NlBGN-Iq-VSzRDNG1aujBw\/rs:fit\/g:sm\/q:90\/h:600\/w:598\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1MDY5\/ODYtMTIyNDgxNzg4\/NS5qcGVn.jpeg",
-        "genres": [
-            "Rock",
-            "Funk \/ Soul"
-        ],
-        "release_year": "1992",
-        "barcode": "Nessun codice a barre disponibile",
-        "timestamp": "Fri, 06 Jan 2023 00:34:55"
+        "timestamp": "Fri, 06 Jan 2023 15:06:17 - UK time"
     },
     "42505": {
         "id": 42505,
@@ -401,25 +419,7 @@
             "12 MT 41 A-1-1-1-1-  D",
             "12 MT 41 B-2C-1-1  D"
         ],
-        "timestamp": "Fri, 06 Jan 2023 00:34:55"
-    },
-    "257794": {
-        "id": 257794,
-        "title": "Woodstock 1994",
-        "author": "Red Hot Chili Peppers",
-        "thumb": "https:\/\/i.discogs.com\/wYK_kVeEi9F6Ug-v-rwdDiEtL_kwNWWry_50D75FAyg\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTIzMzY0\/NDktMTM5Mzk4NDc2\/Ny03MTQ5LmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/3QIzOdRYw4WjRLNPLMnySOU9JLnqOIj40Wzo2vvUixI\/rs:fit\/g:sm\/q:90\/h:500\/w:496\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTIzMzY0\/NDktMTM5Mzk4NDc2\/Ny03MTQ5LmpwZWc.jpeg",
-        "genres": [
-            "Rock",
-            "Funk \/ Soul"
-        ],
-        "release_year": "1994",
-        "barcode": [
-            "8 013133 001723",
-            "OCTO 038 PHC 02 @",
-            "S.I.A.E."
-        ],
-        "timestamp": "Fri, 06 Jan 2023 00:34:55"
+        "timestamp": "Fri, 06 Jan 2023 15:06:17 - UK time"
     },
     "664723": {
         "id": 664723,
@@ -432,7 +432,7 @@
         ],
         "release_year": "2007",
         "barcode": "Nessun codice a barre disponibile",
-        "timestamp": "Fri, 06 Jan 2023 00:34:55"
+        "timestamp": "Fri, 06 Jan 2023 15:06:17 - UK time"
     },
     "1606131": {
         "id": 1606131,
@@ -448,29 +448,7 @@
             "WF 003 A -13-",
             "WF 003 B -13-"
         ],
-        "timestamp": "Fri, 06 Jan 2023 00:34:55"
-    },
-    "2573243": {
-        "id": 2573243,
-        "title": "Unlimited Love",
-        "author": "Red Hot Chili Peppers",
-        "thumb": "https:\/\/i.discogs.com\/vKgcTa3T1_5x3MnAZEiuH9OGGF_-8GYSETqFd9jCffg\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTIyNjk0\/NjQyLTE2NDg2MTU4\/MjctMTM4OC5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/L_uG3cZgM3uBM8ZtmVv5zM5MsbGqMoy2Zs3lpjNNFMY\/rs:fit\/g:sm\/q:90\/h:598\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTIyNjk0\/NjQyLTE2NDg2MTU4\/MjctMTM4OC5qcGVn.jpeg",
-        "genres": [
-            "Rock",
-            "Funk \/ Soul"
-        ],
-        "release_year": "2022",
-        "barcode": [
-            "0 93624 87349 5",
-            "093624873495",
-            "0093624880653-A lV\u039b BL58894-01 A1 BG",
-            "0093624880653-B +I3 BL58894-01 B1 BG",
-            "0093624880653-C X=F BL58894-02 C2 BG",
-            "0093624880653-D +- BL58894-02 D2 BGM",
-            "BMI"
-        ],
-        "timestamp": "Fri, 06 Jan 2023 00:34:55"
+        "timestamp": "Fri, 06 Jan 2023 15:06:17 - UK time"
     },
     "19629": {
         "id": 19629,
@@ -493,7 +471,7 @@
             "ST-1-17168-P-2  #1 \"FOR SLY WITH LOVE\" M\u1d9cM MASTERED BY EMI\/A 0",
             "ST-2-17168-P-1 #1 M\u1d9cM MASTERED BY EMI\/A 0"
         ],
-        "timestamp": "Fri, 06 Jan 2023 00:34:55"
+        "timestamp": "Fri, 06 Jan 2023 15:06:17 - UK time"
     },
     "42503": {
         "id": 42503,
@@ -511,7 +489,7 @@
             "LC 5717",
             "GEMA\/STEMRA"
         ],
-        "timestamp": "Fri, 06 Jan 2023 00:34:55"
+        "timestamp": "Fri, 06 Jan 2023 15:06:17 - UK time"
     },
     "462661": {
         "id": 462661,
@@ -528,7 +506,7 @@
             "7243-8-17719-2-1",
             "0CE02<011>S217719 DISQUE AMERIC"
         ],
-        "timestamp": "Fri, 06 Jan 2023 00:34:55"
+        "timestamp": "Fri, 06 Jan 2023 15:06:17 - UK time"
     },
     "237438": {
         "id": 237438,
@@ -559,7 +537,7 @@
             "IFPI L014",
             "IFPI 057H"
         ],
-        "timestamp": "Fri, 06 Jan 2023 00:34:55"
+        "timestamp": "Fri, 06 Jan 2023 15:06:17 - UK time"
     },
     "783809": {
         "id": 783809,
@@ -589,7 +567,7 @@
             "0077779061624",
             "72435-40379-2-4"
         ],
-        "timestamp": "Fri, 06 Jan 2023 00:34:55"
+        "timestamp": "Fri, 06 Jan 2023 15:06:17 - UK time"
     },
     "2497480": {
         "id": 2497480,
@@ -602,7 +580,7 @@
         ],
         "release_year": "2022",
         "barcode": "Nessun codice a barre disponibile",
-        "timestamp": "Fri, 06 Jan 2023 00:34:55"
+        "timestamp": "Fri, 06 Jan 2023 15:06:17 - UK time"
     },
     "649842": {
         "id": 649842,
@@ -621,7 +599,7 @@
             "22403.3(3)..   1-537400-C CB",
             "22403.4(3)..   1-537400-D CB"
         ],
-        "timestamp": "Fri, 06 Jan 2023 00:34:55"
+        "timestamp": "Fri, 06 Jan 2023 15:06:17 - UK time"
     },
     "42541": {
         "id": 42541,
@@ -639,7 +617,7 @@
             "LC 0392",
             "WE739"
         ],
-        "timestamp": "Fri, 06 Jan 2023 00:34:55"
+        "timestamp": "Fri, 06 Jan 2023 15:06:17 - UK time"
     },
     "42570": {
         "id": 42570,
@@ -658,7 +636,7 @@
             "IFPI 0445 MADE IN THE UK",
             "IFPI 04AT"
         ],
-        "timestamp": "Fri, 06 Jan 2023 00:34:55"
+        "timestamp": "Fri, 06 Jan 2023 15:06:17 - UK time"
     },
     "42540": {
         "id": 42540,
@@ -680,7 +658,7 @@
             "IFPI 0598",
             "WE739"
         ],
-        "timestamp": "Fri, 06 Jan 2023 00:34:55"
+        "timestamp": "Fri, 06 Jan 2023 15:06:17 - UK time"
     },
     "1606119": {
         "id": 1606119,
@@ -694,7 +672,7 @@
         ],
         "release_year": "1992",
         "barcode": "Nessun codice a barre disponibile",
-        "timestamp": "Fri, 06 Jan 2023 00:34:55"
+        "timestamp": "Fri, 06 Jan 2023 15:06:17 - UK time"
     },
     "364559": {
         "id": 364559,
@@ -709,7 +687,7 @@
         "barcode": [
             "DPRO 04513 L0215C 1-1-2 CAPITOL JAX 2 C"
         ],
-        "timestamp": "Fri, 06 Jan 2023 00:34:55"
+        "timestamp": "Fri, 06 Jan 2023 15:06:17 - UK time"
     },
     "1343660": {
         "id": 1343660,
@@ -725,7 +703,7 @@
             "7 24382 89873 3",
             "LC 02052"
         ],
-        "timestamp": "Fri, 06 Jan 2023 00:34:55"
+        "timestamp": "Fri, 06 Jan 2023 15:06:17 - UK time"
     },
     "1155617": {
         "id": 1155617,
@@ -741,7 +719,7 @@
             "4 692003 747479",
             "Z 747"
         ],
-        "timestamp": "Fri, 06 Jan 2023 00:34:55"
+        "timestamp": "Fri, 06 Jan 2023 15:06:17 - UK time"
     },
     "823609": {
         "id": 823609,
@@ -757,7 +735,7 @@
         "barcode": [
             "RHCP 181"
         ],
-        "timestamp": "Fri, 06 Jan 2023 00:34:55"
+        "timestamp": "Fri, 06 Jan 2023 15:06:17 - UK time"
     },
     "196923": {
         "id": 196923,
@@ -770,7 +748,7 @@
         ],
         "release_year": "1996",
         "barcode": "Nessun codice a barre disponibile",
-        "timestamp": "Fri, 06 Jan 2023 00:34:55"
+        "timestamp": "Fri, 06 Jan 2023 15:06:17 - UK time"
     },
     "42559": {
         "id": 42559,
@@ -790,7 +768,7 @@
             "IFPI 05N7",
             "LC00392"
         ],
-        "timestamp": "Fri, 06 Jan 2023 00:34:55"
+        "timestamp": "Fri, 06 Jan 2023 15:06:17 - UK time"
     },
     "2865868": {
         "id": 2865868,
@@ -805,7 +783,7 @@
         "barcode": [
             "715993A"
         ],
-        "timestamp": "Fri, 06 Jan 2023 00:34:55"
+        "timestamp": "Fri, 06 Jan 2023 15:06:17 - UK time"
     },
     "356376": {
         "id": 356376,
@@ -823,7 +801,7 @@
             "IFPI L016",
             "LC 00392"
         ],
-        "timestamp": "Fri, 06 Jan 2023 00:34:55"
+        "timestamp": "Fri, 06 Jan 2023 15:06:17 - UK time"
     },
     "1231607": {
         "id": 1231607,
@@ -841,7 +819,29 @@
             "ADD",
             "S.I.A.E."
         ],
-        "timestamp": "Fri, 06 Jan 2023 00:34:55"
+        "timestamp": "Fri, 06 Jan 2023 15:06:17 - UK time"
+    },
+    "2573243": {
+        "id": 2573243,
+        "title": "Unlimited Love",
+        "author": "Red Hot Chili Peppers",
+        "thumb": "https:\/\/i.discogs.com\/vKgcTa3T1_5x3MnAZEiuH9OGGF_-8GYSETqFd9jCffg\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTIyNjk0\/NjQyLTE2NDg2MTU4\/MjctMTM4OC5qcGVn.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/L_uG3cZgM3uBM8ZtmVv5zM5MsbGqMoy2Zs3lpjNNFMY\/rs:fit\/g:sm\/q:90\/h:598\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTIyNjk0\/NjQyLTE2NDg2MTU4\/MjctMTM4OC5qcGVn.jpeg",
+        "genres": [
+            "Rock",
+            "Funk \/ Soul"
+        ],
+        "release_year": "2022",
+        "barcode": [
+            "0 93624 87349 5",
+            "093624873495",
+            "0093624880653-A lV\u039b BL58894-01 A1 BG",
+            "0093624880653-B +I3 BL58894-01 B1 BG",
+            "0093624880653-C X=F BL58894-02 C2 BG",
+            "0093624880653-D +- BL58894-02 D2 BGM",
+            "BMI"
+        ],
+        "timestamp": "Fri, 06 Jan 2023 15:06:17 - UK time"
     },
     "212519": {
         "id": 212519,
@@ -863,7 +863,32 @@
             "IFPI 2UDL",
             "2-38601 (#1)"
         ],
-        "timestamp": "Fri, 06 Jan 2023 00:34:55"
+        "timestamp": "Fri, 06 Jan 2023 15:06:17 - UK time"
+    },
+    "4353494": {
+        "id": 4353494,
+        "title": "By The Way = \u30d0\u30a4\u30fb\u30b6\u30fb\u30a6\u30a7\u30a4",
+        "author": "Red Hot Chili Peppers = \u30ec\u30c3\u30c9\u30fb\u30db\u30c3\u30c8\u30fb\u30c1\u30ea\u30fb\u30da\u30c3\u30d1\u30fc\u30ba*",
+        "thumb": "https:\/\/i.discogs.com\/YpPaj1TEsfDh7NNPBrFMbY7z-HPrwFveZtqRjePLfO0\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQzNTM0\/OTQtMTQzMDAxMjE3\/Mi03MTc4LmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/3BJ-p-f2HAkkbNgXic5cdDR6_91J35cTO0iXSpLCVHg\/rs:fit\/g:sm\/q:90\/h:516\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQzNTM0\/OTQtMTQzMDAxMjE3\/Mi03MTc4LmpwZWc.jpeg",
+        "genres": [
+            "Rock"
+        ],
+        "release_year": "2002",
+        "barcode": [
+            "4 943674 033157",
+            "4943674033157",
+            "IFPI L277",
+            "IFPI  4564",
+            "IFPI  4577",
+            "WPCR-11300   1",
+            "JP: B000065EMR",
+            "JASRAC",
+            "BMI",
+            "\u2605[ 02. 7. 10 (02. 7) ] \u24ce\u24cd",
+            "\u5b9a\u4fa1\u00a52,520"
+        ],
+        "timestamp": "Fri, 06 Jan 2023 15:06:17 - UK time"
     },
     "42524": {
         "id": 42524,
@@ -887,26 +912,6 @@
             "1 40261-2 SRC+01 M1S5",
             "1 40261-2 SRC+01 M2S8"
         ],
-        "timestamp": "Fri, 06 Jan 2023 00:34:55"
-    },
-    "42515": {
-        "id": 42515,
-        "title": "Taste The Pain",
-        "author": "Red Hot Chili Peppers",
-        "thumb": "https:\/\/i.discogs.com\/WvbN5bzvFnoNzv8CLTLxkNScC6a3gXCPynbRhueZQHY\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTYxMTQ5\/NzYtMTQxMTQyMTg5\/MS05Mjc3LmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/RuCtPxfLCDQ0_GCtUhMPGyWJXDGAMUJGamajhvO29h4\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTYxMTQ5\/NzYtMTQxMTQyMTg5\/MS05Mjc3LmpwZWc.jpeg",
-        "genres": [
-            "Rock"
-        ],
-        "release_year": "1990",
-        "barcode": [
-            "5 099920 391270",
-            "5099920391270",
-            "MT 85A",
-            "MT 85B",
-            "MT 85 A-2-1-Q3 B D",
-            "MT 85 B-1-1-Q3 D"
-        ],
-        "timestamp": "Fri, 06 Jan 2023 00:34:55"
+        "timestamp": "Fri, 06 Jan 2023 15:06:17 - UK time"
     }
 }

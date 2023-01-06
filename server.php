@@ -3,12 +3,18 @@ require 'user.class.php';
 
 session_start();
 
+$users = json_decode(file_get_contents('users.json'), true);
+
+
 $user = $_SESSION['user'];
 
 $username = '';
+$registration_timestamp = '';
+$last_login = '';
 
 gettype($user) === 'object' ? $username = $user->getUsername() : $username = $user['username'];
-
+gettype($user) === 'object' ? $registration_timestamp = $user->getRegistrationDate() : $registration_timestamp = $user['registration_timestamp'];
+gettype($user) === 'object' ? $last_login = $user->getLastLogin() : $last_login = $user['last_login'];
 
 // Mi importo tutte le funzioni che ho fatto per rendere più pulito il passaggio qui
 //require 'functions.php';
@@ -46,6 +52,11 @@ if(isset($cassette_id)){
 
 
 if($action === 'logout'){
+
+  gettype($user) === 'object' ? $last_login = $user->setLastLogin(getTimestamp()) : $last_login = getTimestamp();
+
+
+  file_put_contents('users.json', json_encode($users, JSON_PRETTY_PRINT));
   session_destroy();
   header('Location: index.php');
 }

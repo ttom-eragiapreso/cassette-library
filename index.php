@@ -5,9 +5,6 @@ session_start();
 
 $user = $_SESSION['user'] ?? null;
 
-// var_dump($user);
-// die;
-
 $username = '';
 $registration_timestamp = '';
 $last_login = '';

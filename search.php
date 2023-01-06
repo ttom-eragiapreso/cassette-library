@@ -1,8 +1,15 @@
 <?php   
   session_start();
-  $user = $_SESSION['user'];
+  $user = $_SESSION['user'] ?? null;
   if(!isset($user)){header('Location: login.php');}; 
   
+  $username = '';
+  $registration_timestamp = '';
+  $last_login = '';
+
+  gettype($user) === 'object' ? $username = $user->getUsername() : $username = $user['username'];
+  gettype($user) === 'object' ? $registration_timestamp = $user->getRegistrationDate() : $registration_timestamp = $user['registration_timestamp'];
+  gettype($user) === 'object' ? $last_login = $user->getLastLogin() : $last_login = $user['last_login'];
   ?>
 
 

@@ -18,5 +18,25 @@
             "IFPI 0531"
         ],
         "timestamp": "Fri, 06 Jan 2023 15:06:17 - UK time"
+    },
+    "16313": {
+        "id": 16313,
+        "title": "Dizzy Miss Lizzy \/ Yesterday",
+        "author": "The Beatles",
+        "thumb": "https:\/\/i.discogs.com\/CCTQNwy2NL1mZCSEQ5x0XUEer-xjwuz5x5YUk4gAAgM\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQ0Mjcz\/NS0xMzU2NDkwMjAy\/LTY2MjEuanBlZw.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/AD7pSSE2keIYsTnO_oQ475cZ7MW6dHz0mVin8DyA7hs\/rs:fit\/g:sm\/q:90\/h:513\/w:500\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQ0Mjcz\/NS0xMzU2NDkwMjAy\/LTY2MjEuanBlZw.jpeg",
+        "genres": [
+            "Rock",
+            "Pop"
+        ],
+        "release_year": "1965",
+        "barcode": [
+            "BIEM",
+            "7 XCE 18739",
+            "7 XCE 18740",
+            "7XCE 18739-1 KT",
+            "7XCE 18740-1 KT"
+        ],
+        "timestamp": "Fri, 06 Jan 2023 15:20:38 - UK time"
     }
 }

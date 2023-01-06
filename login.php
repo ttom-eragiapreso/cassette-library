@@ -13,7 +13,8 @@ session_start();
 
 <main class="bg-space-500 min-h-full flex justify-center items-center">
   
-  <div class="bg-bisque-300 shadow-xl shadow-bisque-700/80 p-12 rounded-lg">
+  <div class="bg-bisque-300 shadow-2xl shadow-bisque-700/80 p-12 rounded-lg">
+
     <h2>Login</h2>
     <?php if( isset($_GET['user-found']) && $_GET['user-found'] === 'false'):?>
     <span class="text-pastel-400 mb-3">Nessun utente trovato con queste credenziali.</span>

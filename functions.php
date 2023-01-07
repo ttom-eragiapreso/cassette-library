@@ -119,6 +119,14 @@
       // Scrivo i file all'interno di un altro json che contiene tutti i risultati di una ricerca
       file_put_contents('results.json', json_encode($assocPolishedResults,  JSON_PRETTY_PRINT));
       file_put_contents('pagination.json', json_encode($pagination, JSON_PRETTY_PRINT));
+
+      $searchedString = '';
+
+      if(!empty($barcode)) $searchedString .= "Barcode: $barcode - ";
+      if(!empty($artist)) $searchedString .= "Artist: $artist - ";
+      if(!empty($release_title)) $searchedString .= "Searched Title: $release_title - ";
+
+      return substr($searchedString, 0, -3);
     }
 
 

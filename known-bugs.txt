@@ -1,0 +1,1 @@
+1- Se clicco su next quando sono arrivato all'ultima pagina crea errore.

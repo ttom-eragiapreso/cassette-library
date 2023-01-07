@@ -7,6 +7,8 @@
 
   $results = json_decode(file_get_contents('results.json'), true);
   $currentPagination = json_decode(file_get_contents('pagination.json'), true);
+
+  $search = $_GET['search'] ?? null;
   ?>
 
 <!DOCTYPE html>
@@ -22,7 +24,7 @@
 <main class="bg-space-300">
 
 <div class="container mx-auto px-5 flex justify-between">
-  <h2 class="text-bisque-200 text-2xl">Results found: <?php echo $currentPagination['items'] ?></h2>
+  <h2 class="text-bisque-200 text-2xl"><?php echo $currentPagination['items'] ?> Results found for <?php echo ucwords($search)?></h2>
   <h2 class="text-bisque-200 text-2xl mb-7">Page: <?php echo $currentPagination['page'] ?> of <?php echo $currentPagination['pages'] ?></h2>
 </div>
   
@@ -62,10 +64,14 @@
 <div class="container mx-auto px-5 pb-5 text-bisque-200 text-2xl flex justify-between">
 
   <div>
-      <a class="hover:text-slate-200 mr-4" href="server.php?navigation=true&destination=next">Next Page</a>
+
       <?php if(isset($currentPagination['urls']['prev'])): ?>
-      <a class="hover:text-slate-200" href="server.php?navigation=true&destination=prev">Prev Page</a>
+      <a class="hover:text-slate-200 mr-4" href="server.php?navigation=true&destination=prev">Prev Page</a>
       <?php endif; ?>
+
+      <?php if(isset($currentPagination['urls']['next'])) :?>
+      <a class="hover:text-slate-200 mr-4" href="server.php?navigation=true&destination=next">Next Page</a>
+      <?php endif;?>
   </div>
  
 
@@ -73,8 +79,9 @@
     <?php if(isset($currentPagination['urls']['first'])): ?>
     <a class="hover:text-slate-200" href="server.php?navigation=true&destination=first">First Page</a>
     <?php endif; ?>
-
+      <?php if(isset($currentPagination['urls']['last'])): ?>
     <a class="hover:text-slate-200 ml-4" href="server.php?navigation=true&destination=last">Last Page</a>
+    <?php endif ; ?>
   </div>
   
 </div>

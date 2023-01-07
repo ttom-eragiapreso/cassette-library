@@ -72,9 +72,9 @@ if(!$isNavigation){
 
   $resultsStored = [];
   $currentPagination = [];
-  apiCall($newBarcode, $newArtist, $newRelease_title);
+  $search = apiCall($newBarcode, $newArtist, $newRelease_title);
   header('Content-type: application/json');
-  header('Location: results.php');
+  header("Location: results.php?search=$search");
   
 }else if($isNavigation) {
 

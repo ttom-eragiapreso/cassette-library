@@ -1,4 +1,6 @@
 <?php   
+
+  require 'user.class.php';
   session_start();
   $user = $_SESSION['user'] ?? null;
   if(!isset($user)){header('Location: login.php');}; 

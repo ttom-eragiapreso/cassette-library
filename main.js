@@ -63,7 +63,7 @@ function onOpen(config){
           return
       }
       console.log("Initialization finished. Ready to start");
-      //Quagga.start();
+      Quagga.start();
   });
   
 }

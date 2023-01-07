@@ -1,854 +1,629 @@
 {
-    "185122": {
-        "id": 185122,
-        "title": "A Taste Of Honey = \u0412\u043a\u0443\u0441 \u041c\u0451\u0434\u0430",
-        "author": "The Beatles = \u0411\u0438\u0442\u043b\u0437*",
-        "thumb": "https:\/\/i.discogs.com\/Qfz1Tofy-pCUbmVHSXp4xiQUACnt39wH-du8lso8Z98\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQ1Mjc0\/MTgtMTU0ODEwNTEy\/OC04MTE0LmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/xC1fU9IP7BohJBBHBTF9iVHNx75LlWq04pipjEK6An0\/rs:fit\/g:sm\/q:90\/h:598\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQ1Mjc0\/MTgtMTU0ODEwNTEy\/OC04MTE0LmpwZWc.jpeg",
+    "2701661": {
+        "id": 2701661,
+        "title": "Boh Bonci Boh",
+        "author": "Nadine (14)",
+        "thumb": "https:\/\/i.discogs.com\/J2ZMFqNY-r44tJ6O0_f5vvsHRvnqcfU-6qD_IkjGra0\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI3MDE2\/NjEtMTU1NzkxMjM2\/MC02MDEyLmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/iCGiL8bcYtN-X7STBwhW2qMGMiDwtWjksRayZebNq68\/rs:fit\/g:sm\/q:90\/h:505\/w:494\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI3MDE2\/NjEtMTU1NzkxMjM2\/MC02MDEyLmpwZWc.jpeg",
         "genres": [
-            "Rock"
+            "Electronic"
         ],
-        "release_year": "1986",
+        "release_year": "1993",
         "barcode": [
-            "\u042160-23581\/4-2",
-            "\u042160-23582\/4-2",
-            "\u0413OCT 5289-80",
-            "\u0410\u0440\u0442. 11-5",
-            "\u0413\u0440. 3",
-            "\u0426\u0435\u043d\u0430 \u0440\u0443\u0431. 3,50",
-            "3-25"
+            "206121000910"
         ],
-        "timestamp": "Fri, 06 Jan 2023 15:20:38 - UK time"
+        "timestamp": "Sat, 07 Jan 2023 00:04:33 - UK time"
     },
-    "81044": {
-        "id": 81044,
-        "title": "Sgt. Pepper's Lonely Hearts Club Band \/ With A Little Help From My Friends",
-        "author": "The Beatles",
-        "thumb": "https:\/\/i.discogs.com\/YKi6za8p-gjVbhMqWNWhFadYxi1olZVYJqF8sT1H-UA\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTg0MzU4\/Ni0xNjA5ODQ2NzAz\/LTI2NzguanBlZw.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/h28bgXOcHR7x0TMiuVKt0EOEQcXDycJM5YZGS6J_3bs\/rs:fit\/g:sm\/q:90\/h:601\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTg0MzU4\/Ni0xNjA5ODQ2NzAz\/LTI2NzguanBlZw.jpeg",
-        "genres": [
-            "Rock"
-        ],
-        "release_year": "1978",
-        "barcode": [
-            "7YCE 21801",
-            "7YCE 21802",
-            "7YCE 21801-1U RT 2",
-            "7YCE 21802-1U RP 3"
-        ],
-        "timestamp": "Fri, 06 Jan 2023 15:20:38 - UK time"
-    },
-    "409612": {
-        "id": 409612,
-        "title": "1st Live Recordings (Volume One)",
-        "author": "The Beatles",
-        "thumb": "https:\/\/i.discogs.com\/6VAfln2Zu49mtO8fvVA5c0UJQLFZ14l6hTrspWRQXjE\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTIwMTAz\/MzEtMTI3OTk4OTk5\/OS5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/GsAH4O17s_YktbJ_IMZY9H30u2Q2oEeN9EqmtDo3RD4\/rs:fit\/g:sm\/q:90\/h:350\/w:343\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTIwMTAz\/MzEtMTI3OTk4OTk5\/OS5qcGVn.jpeg",
-        "genres": [
-            "Rock"
-        ],
-        "release_year": "1979",
-        "barcode": [
-            "BMI",
-            "ASCAP",
-            "SPC 3661-A",
-            "SPC 3661-B",
-            "A-4 \u2282\u25ef\u2283 SPC 3661A TR SR 1278",
-            "A-4 \u2282\u25ef\u2283 SPC3661B TR SR 1278",
-            "B-1 \u25c1(Stamped) SPC 3661A-1 TR MASTERED BY (Trutone symbol) TRUTONE SR(stamped) 1278",
-            "A-3 \u2282\u25ef\u2283 (US Airforce style logo rounded - Stamped) SPC3661B TR(encircled) SR 1278",
-            "A-2 \u2282\u25ef\u2283 SPC 3661A TR SR 1278",
-            "A-3 \u2282\u25ef\u2283 SPC3661B TR SR 1278",
-            "A-3 [Keel Mfg. logo] SPC 3661A (TR) SR 1278",
-            "A-3 [Keel Mfg. logo] SPC3661B (TR) SR 1278"
-        ],
-        "timestamp": "Fri, 06 Jan 2023 15:20:38 - UK time"
-    },
-    "333151": {
-        "id": 333151,
-        "title": "E.P. Collection",
-        "author": "The Beatles",
-        "thumb": "https:\/\/i.discogs.com\/cKeZ5vu75qYdY9o-4B1NIAN60GyZIO8wyqLDwOayBAY\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI0OTAy\/ODUtMTQ3OTAwNzk2\/OS04MTk3LmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/Gr_tyGECEvh6Dt4XJEEo_lMFiw3Oi-nX9lSGPunz060\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI0OTAy\/ODUtMTQ3OTAwNzk2\/OS04MTk3LmpwZWc.jpeg",
-        "genres": [
-            "Rock",
-            "Stage & Screen"
-        ],
-        "release_year": "1981",
-        "barcode": [
-            "GEP 8880",
-            "GEP 8882",
-            "GEP 8883",
-            "GEP 8891",
-            "GEP 8913",
-            "GEP 8920",
-            "GEP 8924",
-            "GEP 8931",
-            "GEP 8938",
-            "GEP 8946",
-            "GEP 8948",
-            "GEP 8952",
-            "SGE 1",
-            "MAG 1"
-        ],
-        "timestamp": "Fri, 06 Jan 2023 15:20:38 - UK time"
-    },
-    "16313": {
-        "id": 16313,
-        "title": "Dizzy Miss Lizzy \/ Yesterday",
-        "author": "The Beatles",
-        "thumb": "https:\/\/i.discogs.com\/CCTQNwy2NL1mZCSEQ5x0XUEer-xjwuz5x5YUk4gAAgM\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQ0Mjcz\/NS0xMzU2NDkwMjAy\/LTY2MjEuanBlZw.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/AD7pSSE2keIYsTnO_oQ475cZ7MW6dHz0mVin8DyA7hs\/rs:fit\/g:sm\/q:90\/h:513\/w:500\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQ0Mjcz\/NS0xMzU2NDkwMjAy\/LTY2MjEuanBlZw.jpeg",
-        "genres": [
-            "Rock",
-            "Pop"
-        ],
-        "release_year": "1965",
-        "barcode": [
-            "BIEM",
-            "7 XCE 18739",
-            "7 XCE 18740",
-            "7XCE 18739-1 KT",
-            "7XCE 18740-1 KT"
-        ],
-        "timestamp": "Fri, 06 Jan 2023 15:20:38 - UK time"
-    },
-    "279447": {
-        "id": 279447,
-        "title": "She Loves You",
-        "author": "The Beatles",
-        "thumb": "https:\/\/i.discogs.com\/sAB1g0XIE0vH4UybSXzO51MDi-QIqU_g8_bwi5HNOUY\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTM1MzQ1\/ODItMTM2NDYyODMy\/Ny0xNjQ2LmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/OKmd-BMYTA70LNpCbJob_cghFvo-U6h5UNbIjBs1I9w\/rs:fit\/g:sm\/q:90\/h:417\/w:415\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTM1MzQ1\/ODItMTM2NDYyODMy\/Ny0xNjQ2LmpwZWc.jpeg",
-        "genres": [
-            "Rock"
-        ],
-        "release_year": "1963",
-        "barcode": [
-            "7ARE 2073 21B M3 229826",
-            "7A RE 2074 21B M3 229825",
-            "BIEM"
-        ],
-        "timestamp": "Fri, 06 Jan 2023 15:20:38 - UK time"
-    },
-    "612532": {
-        "id": 612532,
-        "title": "The Beatles (Black Album)",
-        "author": "The Beatles",
-        "thumb": "https:\/\/i.discogs.com\/-25TykeIZWQqu8_pygsWI33qy5zwu-QR19tZu_vGeOc\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI4MDEx\/MTMtMTMwMTYyODg1\/OS5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/5wlvqtMkcBPEokPp3cZnUl8w0z4wlVcStqVRz9DZKuc\/rs:fit\/g:sm\/q:90\/h:345\/w:350\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI4MDEx\/MTMtMTMwMTYyODg1\/OS5qcGVn.jpeg",
-        "genres": [
-            "Rock"
-        ],
-        "release_year": "1981",
-        "barcode": [
-            "TWK 0169-A AIYH010 L-4344",
-            "TWK 0169-B AIYH010 L-4344",
-            "TWK 0169-C AIYH010 L-4344",
-            "TWK 0169-D AIYH010 L-4344",
-            "TWK 0169-E AIYH010 L-4344",
-            "TWK 0169-F AIYH010 L-4344"
-        ],
-        "timestamp": "Fri, 06 Jan 2023 15:20:38 - UK time"
-    },
-    "333216": {
-        "id": 333216,
-        "title": "Not For Sale",
-        "author": "The Beatles",
-        "thumb": "https:\/\/i.discogs.com\/jiyVtj7iCzBJQgsE9W2zaZHn7Cqru4CpDRfkIZ6X5CA\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1MTQ2\/MzYtMTI0ODY4MDA3\/OS5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/-gj5ybDvDWVB1mPucnpur5JVHRZvM0WWIk1zlwceYgw\/rs:fit\/g:sm\/q:90\/h:400\/w:400\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1MTQ2\/MzYtMTI0ODY4MDA3\/OS5qcGVn.jpeg",
-        "genres": [
-            "Rock"
-        ],
-        "release_year": "2008",
+    "592778": {
+        "id": 592778,
+        "title": "Boh Boh",
+        "author": "Boh Boh",
+        "thumb": "",
+        "cover_img": "https:\/\/st.discogs.com\/c9ad0a0c08228b865c524cda14eb218c9d34fd51\/images\/spacer.gif",
+        "genres": "",
+        "release_year": "",
         "barcode": "Nessun codice a barre disponibile",
-        "timestamp": "Fri, 06 Jan 2023 15:20:38 - UK time"
+        "timestamp": "Sat, 07 Jan 2023 00:04:33 - UK time"
     },
-    "557785": {
-        "id": 557785,
-        "title": "Live From The Sam Houston Coliseum",
-        "author": "The Beatles",
-        "thumb": "https:\/\/i.discogs.com\/lGKZIn1dZvtKPBPkQrIsDqiOZrFtrAisDhK1Qfep3jc\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQxMTA5\/NTItMTM5NTAwNDQx\/MS03NDQ2LmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/zCF33lP1TyNB-AaHiW9kdBfpkipRj7aAxj98vhSgHUY\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQxMTA5\/NTItMTM5NTAwNDQx\/MS03NDQ2LmpwZWc.jpeg",
+    "12726488": {
+        "id": 12726488,
+        "title": "BOH",
+        "author": "Elvis S.",
+        "thumb": "https:\/\/i.discogs.com\/sp9fwZXmb17B0Qsos5uIkA_AsncOjdYc-0d8JGzhNF8\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEyNzI2\/NDg4LTE1NDA3OTUx\/MTEtNjIxMi5qcGVn.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/N4ud_kzTyMTmGVQPZJDjXxWBb7RCMss-FuKPqv8Fy_k\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEyNzI2\/NDg4LTE1NDA3OTUx\/MTEtNjIxMi5qcGVn.jpeg",
         "genres": [
-            "Rock",
-            "Pop"
+            "Hip Hop"
         ],
-        "release_year": "1978",
-        "barcode": [
-            "BVP 006-A",
-            "BVP 006-B",
-            "BVP 006-C",
-            "BVP 006-D"
-        ],
-        "timestamp": "Fri, 06 Jan 2023 15:20:38 - UK time"
-    },
-    "665735": {
-        "id": 665735,
-        "title": "Sweet Apple Trax",
-        "author": "The Beatles",
-        "thumb": "https:\/\/i.discogs.com\/zlqcF88SpPnUsWmWZwFOHNVL55n9zZPMMfK1EcYUlnY\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTIxMTIx\/MDYtMTM2ODA5NDcy\/NC0xMDI3LmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/Spst_RbNYLwIi0UhLdJkeDSj8PhV0TJhN2Gdd-n9XOA\/rs:fit\/g:sm\/q:90\/h:600\/w:595\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTIxMTIx\/MDYtMTM2ODA5NDcy\/NC0xMDI3LmpwZWc.jpeg",
-        "genres": [
-            "Rock"
-        ],
-        "release_year": "1975",
-        "barcode": [
-            "909-1A",
-            "909-1B",
-            "909-1C",
-            "909-1D"
-        ],
-        "timestamp": "Fri, 06 Jan 2023 15:20:38 - UK time"
-    },
-    "1626117": {
-        "id": 1626117,
-        "title": "Can't Buy Me Love",
-        "author": "Les Beatles*",
-        "thumb": "https:\/\/i.discogs.com\/pX1su-4IcEXEeURpkq4UsZK1JAMGaXu2Qb-wapNKPJI\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE0MzEx\/Mzg2LTE1NzE5OTQx\/MjYtOTE1NS5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/rFtxfH9peV8D_VvPY0eBUMGpzpC0-fzv5CPlqE8Iaxg\/rs:fit\/g:sm\/q:90\/h:593\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE0MzEx\/Mzg2LTE1NzE5OTQx\/MjYtOTE1NS5qcGVn.jpeg",
-        "genres": [
-            "Rock",
-            "Pop"
-        ],
-        "release_year": "1964",
-        "barcode": [
-            "BIEM",
-            "7 ARE 2091",
-            "7 ARE 2092",
-            "7ARE 2 091 21 M3 233214",
-            "7ARE 2092 21 M3 233215"
-        ],
-        "timestamp": "Fri, 06 Jan 2023 15:20:38 - UK time"
-    },
-    "1783698": {
-        "id": 1783698,
-        "title": "The Beatle Interviews",
-        "author": "The Beatles",
-        "thumb": "https:\/\/i.discogs.com\/rsCSuzQVXivoAl5W7XgFC2yXohU0dfI3irHwV8CKPDk\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI1NjAy\/NzMtMTMwOTQyMzg3\/MC5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/fWDoAG5oNbKF-qaum_CMFcjFPZtYtFAxrtQqib7Xj3U\/rs:fit\/g:sm\/q:90\/h:471\/w:450\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI1NjAy\/NzMtMTMwOTQyMzg3\/MC5qcGVn.jpeg",
-        "genres": [
-            "Non-Music"
-        ],
-        "release_year": "1982",
+        "release_year": "2003",
         "barcode": "Nessun codice a barre disponibile",
-        "timestamp": "Fri, 06 Jan 2023 15:20:38 - UK time"
+        "timestamp": "Sat, 07 Jan 2023 00:04:33 - UK time"
     },
-    "442732": {
-        "id": 442732,
-        "title": "Rock And Roll Music",
-        "author": "The Beatles",
-        "thumb": "https:\/\/i.discogs.com\/l5B58pXzub4l7hMYEX1Hnwoypjh1fqv1kiNzbLrTlE4\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTM0MzQw\/ODktMTM3NzI3NjQy\/Mi02MjE2LmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/mwpC4CaO0GHMFMUj7AE_h5r7n637cqNrlyH7XuVtimo\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTM0MzQw\/ODktMTM3NzI3NjQy\/Mi02MjE2LmpwZWc.jpeg",
+    "8727356": {
+        "id": 8727356,
+        "title": "Boh",
+        "author": "D.O.D (4)",
+        "thumb": "https:\/\/i.discogs.com\/Y-xWUDIISOowICsqtzRpWICHjuWtlBMbY_V_m91jbNA\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTg3Mjcz\/NTYtMTQ2NzQ2ODY3\/Mi0xNjE2LmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/9kGwWm3YL624M6d2yx05GKsXWtzi8lSV9vYjzCypD7k\/rs:fit\/g:sm\/q:90\/h:500\/w:500\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTg3Mjcz\/NTYtMTQ2NzQ2ODY3\/Mi0xNjE2LmpwZWc.jpeg",
         "genres": [
-            "Rock",
-            "Pop"
-        ],
-        "release_year": "1964",
-        "barcode": [
-            "7TSO 1802",
-            "7TSO 1803",
-            "B.33750-1964",
-            "Permiso 126"
-        ],
-        "timestamp": "Fri, 06 Jan 2023 15:20:38 - UK time"
-    },
-    "187038": {
-        "id": 187038,
-        "title": "\u041f\u043e\u043c\u043e\u0449\u044c \u041c\u043e\u0435\u0433\u043e \u0414\u0440\u0443\u0433\u0430",
-        "author": "The Beatles",
-        "thumb": "https:\/\/i.discogs.com\/dwmZ8qOaghY_8EAIBZKl4IIuHLgMC6-_zWMKGtQ8v2s\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEzNzIx\/MTAtMTIxMzgxOTUx\/My5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/jf0N__yaJhtlRO6gVKsr7qIA-ad-JAHD4Px8paJXCYY\/rs:fit\/g:sm\/q:90\/h:500\/w:500\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEzNzIx\/MTAtMTIxMzgxOTUx\/My5qcGVn.jpeg",
-        "genres": [
-            "Rock"
-        ],
-        "release_year": "1974",
-        "barcode": [
-            "\u0413\u041e\u0421\u0422 5289-73"
-        ],
-        "timestamp": "Fri, 06 Jan 2023 15:20:38 - UK time"
-    },
-    "352505": {
-        "id": 352505,
-        "title": "From Me To You",
-        "author": "The Beatles",
-        "thumb": "https:\/\/i.discogs.com\/Rogeydh8mFq0RPnbe1ott3HNAe3ZHNmcmQRWH86b69s\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI2ODE1\/MTYtMTQ4MDIzODA0\/Mi05MTMwLmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/xnWD0ThK-84y4kFvG5QDUpDf6YMhn1duEKJzG2yNSJg\/rs:fit\/g:sm\/q:90\/h:598\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI2ODE1\/MTYtMTQ4MDIzODA0\/Mi05MTMwLmpwZWc.jpeg",
-        "genres": [
-            "Rock"
-        ],
-        "release_year": "1963",
-        "barcode": [
-            "D.R.",
-            "7 ARE 2065",
-            "7 ARE 2066"
-        ],
-        "timestamp": "Fri, 06 Jan 2023 15:20:38 - UK time"
-    },
-    "2147722": {
-        "id": 2147722,
-        "title": "Abbey Road And Beyond (Greatest Hits And Lost Sessions 1962",
-        "author": "The Beatles",
-        "thumb": "https:\/\/i.discogs.com\/V5lFduV6q43e9rgPWjINvt9Fc4qcnDY-eqpHLNGHjE4\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTk0OTk5\/MTMtMTQ4NjM3NTI5\/Ni01ODM5LmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/F_3aid5MJXrTaz6EREdo3lh0yj_MdZBXica1ds3WQog\/rs:fit\/g:sm\/q:90\/h:537\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTk0OTk5\/MTMtMTQ4NjM3NTI5\/Ni01ODM5LmpwZWc.jpeg",
-        "genres": [
-            "Rock"
+            "Electronic"
         ],
         "release_year": "2016",
-        "barcode": [
-            "5060420344622",
-            "MCPS"
-        ],
-        "timestamp": "Fri, 06 Jan 2023 15:20:38 - UK time"
-    },
-    "1930437": {
-        "id": 1930437,
-        "title": "The Beatles' Hits",
-        "author": "The Beatles",
-        "thumb": "https:\/\/i.discogs.com\/JTx5wTM4L48WgjbAOajg_Ni4GRQ-VR7AVgZrHnweV_k\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQ4OTI3\/MTAtMTQ0NzE3MTc1\/NC04MTQzLmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/i2wgHmyRZscUKqNTiYFA0HQSOYJ1k7_p_hWllmZonL8\/rs:fit\/g:sm\/q:90\/h:595\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQ4OTI3\/MTAtMTQ0NzE3MTc1\/NC04MTQzLmpwZWc.jpeg",
-        "genres": [
-            "Rock",
-            "Pop"
-        ],
-        "release_year": "1963",
-        "barcode": [
-            "7TSO 1653",
-            "7TSO 1654",
-            "B. 23779-1963",
-            "B.I.E.M.",
-            "Permiso 126"
-        ],
-        "timestamp": "Fri, 06 Jan 2023 15:20:38 - UK time"
-    },
-    "1032430": {
-        "id": 1032430,
-        "title": "Reel",
-        "author": "The Beatles",
-        "thumb": "https:\/\/i.discogs.com\/D9mr1915av14kMq0O5i5enDSZpc3i5fyEalJgxfYKzc\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTg0Mjk1\/NzItMTQ2MTQzNzc2\/MC02ODg5LmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/UgfmoXgyzVu8T1pWIb6nl1PjZwoDE0_qTybiat9vtzw\/rs:fit\/g:sm\/q:90\/h:600\/w:598\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTg0Mjk1\/NzItMTQ2MTQzNzc2\/MC02ODg5LmpwZWc.jpeg",
-        "genres": [
-            "Rock",
-            "Pop"
-        ],
-        "release_year": "2016",
-        "barcode": [
-            "5055748500799"
-        ],
-        "timestamp": "Fri, 06 Jan 2023 15:20:38 - UK time"
-    },
-    "649321": {
-        "id": 649321,
-        "title": "Here There And Everywhere",
-        "author": "The Beatles",
-        "thumb": "https:\/\/i.discogs.com\/9aiB2HvLlAtBgV6ZRuyQWLNsC-iVZyT_MTyM03we6Zg\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTUzMTIw\/NjAtMTM5MDI1NDkx\/Ni01MjMyLmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/S63urSrMLBfzftg-I_moUkznQIjCZuPqu0_-bwRa4tw\/rs:fit\/g:sm\/q:90\/h:493\/w:489\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTUzMTIw\/NjAtMTM5MDI1NDkx\/Ni01MjMyLmpwZWc.jpeg",
-        "genres": [
-            "Rock",
-            "Pop"
-        ],
-        "release_year": "1966",
         "barcode": "Nessun codice a barre disponibile",
-        "timestamp": "Fri, 06 Jan 2023 15:20:38 - UK time"
+        "timestamp": "Sat, 07 Jan 2023 00:04:33 - UK time"
     },
-    "755650": {
-        "id": 755650,
-        "title": "I Want To Hold Your Hand",
-        "author": "The Beatles",
-        "thumb": "https:\/\/i.discogs.com\/1neW3GGWykovT13YSV_LHHhLdFptgr8KRuCL5BVcD9k\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU1Njkx\/My0xNDQ1NTc3MjE5\/LTYzNDIuanBlZw.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/wOVgb5JTRtw-9vS0AsY3Z9oOFcBPWmqgZ3BJ3zUZVt8\/rs:fit\/g:sm\/q:90\/h:550\/w:550\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU1Njkx\/My0xNDQ1NTc3MjE5\/LTYzNDIuanBlZw.jpeg",
-        "genres": [
-            "Rock"
-        ],
-        "release_year": "1963",
-        "barcode": [
-            "7 TST 441",
-            "7 TST 442",
-            "7TST-441-1",
-            "7TST-442-1"
-        ],
-        "timestamp": "Fri, 06 Jan 2023 15:20:38 - UK time"
-    },
-    "375078": {
-        "id": 375078,
-        "title": "Eight Days A Week \/ I'm A Loser",
-        "author": "The Beatles",
-        "thumb": "https:\/\/i.discogs.com\/pkW2LzM01Wr1Tkw1MvRTlg6nNPlv12FMJOVUUW0zP-4\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI2NDE2\/MzMtMTQzMDMyNTk3\/MS0zNzI1LmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/0bzukyGB4xxWNi2Cr_pTO_IbA2kTzuszBFMxQytLzr4\/rs:fit\/g:sm\/q:90\/h:594\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI2NDE2\/MzMtMTQzMDMyNTk3\/MS0zNzI1LmpwZWc.jpeg",
-        "genres": [
-            "Rock"
-        ],
-        "release_year": "1964",
-        "barcode": [
-            "XEX 504-1\/T1",
-            "XEX 506-2\/T1",
-            "XEX 504\u00b71\u00b7T1  9\u00b74\u00b765",
-            "XEX 503\u00b72\u00b7T1  9\u00b74\u00b765"
-        ],
-        "timestamp": "Fri, 06 Jan 2023 15:20:38 - UK time"
-    },
-    "576364": {
-        "id": 576364,
-        "title": "The Golden Beatles",
-        "author": "The Beatles",
-        "thumb": "https:\/\/i.discogs.com\/RRWZtymMYBxvHbXxYxr7jshPszaSObd5a2AO7GA_nlw\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQ3MzYx\/MTMtMTM3Mzg1MDM0\/NS0yMTMzLmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/jBtWuHSfx_iF39jpy71623HmoofVXQAGfA36TnErud4\/rs:fit\/g:sm\/q:90\/h:251\/w:250\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQ3MzYx\/MTMtMTM3Mzg1MDM0\/NS0yMTMzLmpwZWc.jpeg",
-        "genres": [
-            "Non-Music"
-        ],
-        "release_year": "1985",
+    "740638": {
+        "id": 740638,
+        "title": "BohQun",
+        "author": "BohQun",
+        "thumb": "",
+        "cover_img": "https:\/\/st.discogs.com\/c9ad0a0c08228b865c524cda14eb218c9d34fd51\/images\/spacer.gif",
+        "genres": "",
+        "release_year": "",
         "barcode": "Nessun codice a barre disponibile",
-        "timestamp": "Fri, 06 Jan 2023 15:20:38 - UK time"
+        "timestamp": "Sat, 07 Jan 2023 00:04:33 - UK time"
     },
-    "1524463": {
-        "id": 1524463,
-        "title": "Greatest Hits Volume 1 And 2",
-        "author": "The Beatles",
-        "thumb": "https:\/\/i.discogs.com\/NeL8kuDOr6CZHttzrPL6d7kQyKjtcjn-EPgX0qFASk0\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTMwODcw\/OTMtMTQ5NDkwODI5\/OC00NTIzLmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/rj375PS1CtqjMOnWKaQNB_h8sHvBuZBC-FSsv15kmK0\/rs:fit\/g:sm\/q:90\/h:604\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTMwODcw\/OTMtMTQ5NDkwODI5\/OC00NTIzLmpwZWc.jpeg",
+    "13098376": {
+        "id": 13098376,
+        "title": "BOH",
+        "author": "Dirt Monkey + Point.Blank",
+        "thumb": "https:\/\/i.discogs.com\/wjqYBRnwNSYrJFwwz1cbW3V1kFAzRjmDHX73m-mLYrE\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEzMDk4\/Mzc2LTE1NDgwMTM5\/OTQtNjQzMS5qcGVn.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/8mSJweWgtrp3F0vjWlKFNgsdtFBc4tqFe0YJOp5fMwM\/rs:fit\/g:sm\/q:90\/h:500\/w:500\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEzMDk4\/Mzc2LTE1NDgwMTM5\/OTQtNjQzMS5qcGVn.jpeg",
         "genres": [
-            "Rock"
-        ],
-        "release_year": "1973",
-        "barcode": [
-            "YAPAX1015",
-            "YAPAX1016",
-            "YAPAX1009",
-            "YAPAX1010"
-        ],
-        "timestamp": "Fri, 06 Jan 2023 15:20:38 - UK time"
-    },
-    "557767": {
-        "id": 557767,
-        "title": "From Us To You",
-        "author": "The Beatles",
-        "thumb": "https:\/\/i.discogs.com\/-9Aa1btviDRW3McK5Toz6_m8mJTX1EyWX9V2r0a-GCo\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTIwODg3\/MzYtMTQwMDIyMTEz\/OS0xNDM2LmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/lhVPSQswLXOhAuKpmRvX3sC6iqRp2vbrY-XmXoAs9CA\/rs:fit\/g:sm\/q:90\/h:595\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTIwODg3\/MzYtMTQwMDIyMTEz\/OS0xNDM2LmpwZWc.jpeg",
-        "genres": [
-            "Rock",
-            "Pop"
-        ],
-        "release_year": "1989",
-        "barcode": [
-            "INTERPRESS TSP-CD-015\/1 1 1 2 8 6 0 6",
-            "INTERPRESS COMPACT DISC MADE IN W. GERMANY",
-            "INTERPRESS TSP-CD-015\/2 1 1 2 8 6 0 5",
-            "INTERPRESS COMPACT DISC MADE IN W. GERMANY",
-            "GEMA"
-        ],
-        "timestamp": "Fri, 06 Jan 2023 15:20:38 - UK time"
-    },
-    "442736": {
-        "id": 442736,
-        "title": "I Feel Fine",
-        "author": "The Beatles",
-        "thumb": "https:\/\/i.discogs.com\/mrY9n1MgIJ27dueTdQzFmu5SQ6NEskWp_HE07g8qYTA\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTY5MDAx\/NTctMTUwODY0OTk5\/Mi01Mjg5LmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/zkydqJyDfbwx2hiFIn1FaNeFh5N4G1qnu1z6jPWftV4\/rs:fit\/g:sm\/q:90\/h:563\/w:562\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTY5MDAx\/NTctMTUwODY0OTk5\/Mi01Mjg5LmpwZWc.jpeg",
-        "genres": [
-            "Rock"
-        ],
-        "release_year": "1964",
-        "barcode": [
-            "N.C.B.",
-            "7TST 473",
-            "7TST 474",
-            "7TST 473 1",
-            "7TST 474 1"
-        ],
-        "timestamp": "Fri, 06 Jan 2023 15:20:38 - UK time"
-    },
-    "926200": {
-        "id": 926200,
-        "title": "Que Noche La De Aquel Dia",
-        "author": "The Beatles",
-        "thumb": "https:\/\/i.discogs.com\/E8t0hPBtA_zfB1BrOu1ZDRKDjR_YpVd17Nwk-Xsem-4\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU2ODk5\/MzgtMTQxNjQyMDY2\/Ny04MzU4LmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/RWemiUbWZ_SlmZd_REOg_u9GpGITPvmQ5WkDnvfYA8U\/rs:fit\/g:sm\/q:90\/h:593\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU2ODk5\/MzgtMTQxNjQyMDY2\/Ny04MzU4LmpwZWc.jpeg",
-        "genres": [
-            "Rock"
-        ],
-        "release_year": "1964",
-        "barcode": [
-            "7TSO 1760",
-            "7TSO 1761",
-            "B.22092-1964",
-            "Permiso 126"
-        ],
-        "timestamp": "Fri, 06 Jan 2023 15:20:38 - UK time"
-    },
-    "485717": {
-        "id": 485717,
-        "title": "Tomorrow Never Knows",
-        "author": "The Beatles",
-        "thumb": "https:\/\/i.discogs.com\/L4LFmPc0-HtFnxynahzMAgktoDnzd6jw1upBSHq0cK4\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTM3NTY0\/ODctMTM0MzI4MTg2\/MC0zNjkyLmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/NhXXgm7pPUxwNb0JOAMIEH7y9L4SrVgXX9pO2y5MNIc\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTM3NTY0\/ODctMTM0MzI4MTg2\/MC0zNjkyLmpwZWc.jpeg",
-        "genres": [
-            "Rock"
+            "Electronic"
         ],
         "release_year": "2012",
         "barcode": "Nessun codice a barre disponibile",
-        "timestamp": "Fri, 06 Jan 2023 15:20:38 - UK time"
+        "timestamp": "Sat, 07 Jan 2023 00:04:33 - UK time"
     },
-    "894358": {
-        "id": 894358,
-        "title": "How Pink Is Your Panther?\/The Complete Peter Sellers Tape",
-        "author": "The Beatles",
-        "thumb": "https:\/\/i.discogs.com\/8csOh5HALCS1-0BkLbULEistzHcriAL5pDtCQfNU7ow\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTYwOTk5\/MDMtMTQxMTEzNjU4\/MS04OTc2LmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/Kbcx96YUYsKGtftM3W2Rw3eLi6dh07_GakYggz8lAdQ\/rs:fit\/g:sm\/q:90\/h:547\/w:547\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTYwOTk5\/MDMtMTQxMTEzNjU4\/MS04OTc2LmpwZWc.jpeg",
+    "2936549": {
+        "id": 2936549,
+        "title": "Boh",
+        "author": "Boh",
+        "thumb": "",
+        "cover_img": "https:\/\/st.discogs.com\/c9ad0a0c08228b865c524cda14eb218c9d34fd51\/images\/spacer.gif",
+        "genres": "",
+        "release_year": "",
+        "barcode": "Nessun codice a barre disponibile",
+        "timestamp": "Sat, 07 Jan 2023 00:04:33 - UK time"
+    },
+    "8626295": {
+        "id": 8626295,
+        "title": "Boh",
+        "author": "Tiziano (7)",
+        "thumb": "https:\/\/i.discogs.com\/hxTjTqxoKRBWFsTtmhy_VTszJa13KNNamZp0rCA1jkc\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTg2MjYy\/OTUtMTQ2NTQxMzgx\/NS0yMDUwLmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/kknSR2kBBQq2AEUynHifHUL6lFWa4ipqfLhGnoQjjNs\/rs:fit\/g:sm\/q:90\/h:430\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTg2MjYy\/OTUtMTQ2NTQxMzgx\/NS0yMDUwLmpwZWc.jpeg",
         "genres": [
-            "Rock",
             "Pop"
         ],
-        "release_year": "2014",
-        "barcode": "Nessun codice a barre disponibile",
-        "timestamp": "Fri, 06 Jan 2023 15:20:38 - UK time"
+        "release_year": "2001",
+        "barcode": [
+            "5 099767 146224"
+        ],
+        "timestamp": "Sat, 07 Jan 2023 00:04:33 - UK time"
     },
-    "896841": {
-        "id": 896841,
-        "title": "Anthology Plus",
-        "author": "The Beatles",
-        "thumb": "https:\/\/i.discogs.com\/O1fnVu2W5KcO8gHTNLfPBHCGs0X1FEPTLs0pkRChJaw\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTIzNDg5\/MjctMTQwMzE2ODE2\/OC0yMTA2LmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/J_cLro71O5D6El4yEF-dtcNglK3b5r1d0VYyQJgv9hc\/rs:fit\/g:sm\/q:90\/h:469\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTIzNDg5\/MjctMTQwMzE2ODE2\/OC0yMTA2LmpwZWc.jpeg",
+    "13165396": {
+        "id": 13165396,
+        "title": "Lim Boh",
+        "author": "Gabriel Pereira Spurr",
+        "thumb": "https:\/\/i.discogs.com\/CoGTaBr211aiD-9CwJqClJ3PVDqjfJR4GV98WE8jhAA\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEzMTY1\/Mzk2LTE1NDkxOTM0\/NDMtNjk3OS5qcGVn.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/TFpL6tTyifc7Y2grHObuAGi5VWJA6GZJYXDQrKXMtKk\/rs:fit\/g:sm\/q:90\/h:679\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEzMTY1\/Mzk2LTE1NDkxOTM0\/NDMtNjk3OS5qcGVn.jpeg",
         "genres": [
-            "Rock",
-            "Pop"
+            "Electronic"
+        ],
+        "release_year": "2017",
+        "barcode": "Nessun codice a barre disponibile",
+        "timestamp": "Sat, 07 Jan 2023 00:04:33 - UK time"
+    },
+    "1229404": {
+        "id": 1229404,
+        "title": "Boh Glaubse...",
+        "author": "Herbert Knebel",
+        "thumb": "https:\/\/i.discogs.com\/nKzF4PZRelzsMN9OXjWiL5OZnDbzSa1N8rEipsLolsA\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEyMjk0\/MDQtMTUxNzI0OTcx\/NS02MDM4LmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/39SQzOTbCROdLzDmlKD_7cWjpsfNiAp7WEru0kj6dys\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEyMjk0\/MDQtMTUxNzI0OTcx\/NS02MDM4LmpwZWc.jpeg",
+        "genres": [
+            "Non-Music"
         ],
         "release_year": "1997",
         "barcode": [
-            "340-1",
-            "340-2"
+            "5 099748 874924",
+            "5099748874924",
+            "LC 0162",
+            "SACEM \/ SACD \/ SGDL \/ SDRM \/ BIEM",
+            "CDC",
+            "12-488749-10",
+            "Sony Music S1248874910-0101 14 A2",
+            "IFPI L554",
+            "IFPI 941N",
+            "Sony Music S1248874910-0101 14 A3 *",
+            "IFPI L554",
+            "IFPI 942B"
         ],
-        "timestamp": "Fri, 06 Jan 2023 15:20:38 - UK time"
+        "timestamp": "Sat, 07 Jan 2023 00:04:33 - UK time"
     },
-    "699095": {
-        "id": 699095,
-        "title": "\u30da\u30a4\u30d1\u30fc\u30d0\u30c3\u30af\u30fb\u30e9\u30a4\u30bf\u30fc = Paperback Writer",
-        "author": "\u30d3\u30fc\u30c8\u30eb\u30ba*",
-        "thumb": "https:\/\/i.discogs.com\/bryydnu3s4VzlKcZw5fJ-TPuS6uFn3soecZ1WnwEAU8\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU3NTUx\/NDQtMTQwMTc1NTY2\/Mi0xODcwLmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/LUKew-h_HED4b9r-iDIgsj8WiSxOfryOL-OudmZptQ8\/rs:fit\/g:sm\/q:90\/h:596\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU3NTUx\/NDQtMTQwMTc1NTY2\/Mi0xODcwLmpwZWc.jpeg",
-        "genres": [
-            "Rock"
-        ],
-        "release_year": "1966",
-        "barcode": [
-            "\u00a5 500",
-            "OP-4198-A",
-            "OP-4198-B",
-            "OP-4198-A  7 \u3004 6KY",
-            "OP-4198-B 8 \u3004 "
-        ],
-        "timestamp": "Fri, 06 Jan 2023 15:20:38 - UK time"
-    },
-    "257557": {
-        "id": 257557,
-        "title": "Christmas Time (Is Here Again)",
-        "author": "The Beatles",
-        "thumb": "https:\/\/i.discogs.com\/0Oj24B0KdqdB-r0YBi1CbZiKdnATYRj7yp0RXohLCRk\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTIzMzUx\/NDctMTI3Nzc1MzYx\/Mi5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/Ym-oYraLxq9PNUTeEOo1DlK5fz2aSh26tbggqCckijU\/rs:fit\/g:sm\/q:90\/h:602\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTIzMzUx\/NDctMTI3Nzc1MzYx\/Mi5qcGVn.jpeg",
-        "genres": [
-            "Pop"
-        ],
-        "release_year": "1967",
+    "1270206": {
+        "id": 1270206,
+        "title": "Mah, Boh, Oib\u00f2!?",
+        "author": "Mah, Boh, Oib\u00f2!?",
+        "thumb": "",
+        "cover_img": "https:\/\/st.discogs.com\/c9ad0a0c08228b865c524cda14eb218c9d34fd51\/images\/spacer.gif",
+        "genres": "",
+        "release_year": "",
         "barcode": "Nessun codice a barre disponibile",
-        "timestamp": "Fri, 06 Jan 2023 15:20:38 - UK time"
+        "timestamp": "Sat, 07 Jan 2023 00:04:33 - UK time"
     },
-    "641144": {
-        "id": 641144,
-        "title": "20 Hits",
-        "author": "The Beatles",
-        "thumb": "https:\/\/i.discogs.com\/xfuzlkYPw_Xad2MbthhxinLNxDywBBKdfM1gU0uaO7E\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTM1NDAz\/NjAtMTQ1NDA4Nzgz\/Ny04MjYzLmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/WupAx_SOGvsA0UlfhB4a780qv9Fe5yAXEcLmiVuGrQY\/rs:fit\/g:sm\/q:90\/h:590\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTM1NDAz\/NjAtMTQ1NDA4Nzgz\/Ny04MjYzLmpwZWc.jpeg",
-        "genres": [
-            "Rock"
-        ],
-        "release_year": "1983",
-        "barcode": [
-            "P-20-629 A-1 Al Brown SC\/NJ",
-            "P-20-629 B-1 Al Brown SC\/NJ"
-        ],
-        "timestamp": "Fri, 06 Jan 2023 15:20:38 - UK time"
-    },
-    "1018851": {
-        "id": 1018851,
-        "title": "Revolver \/ Magical Mystery Tour",
-        "author": "The Beatles",
-        "thumb": "https:\/\/i.discogs.com\/V-2jkajr1VhX6u162-Yd2Lcwc3jiXgOIlELcYzklCz0\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTY1NDgz\/Mi0xNDgxNjMzOTY5\/LTQxMzIuanBlZw.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/C6NM4lDi2-Ewl4UlpeRqqTanJaZiCKADrEiAJTSXhsQ\/rs:fit\/g:sm\/q:90\/h:450\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTY1NDgz\/Mi0xNDgxNjMzOTY5\/LTQxMzIuanBlZw.jpeg",
-        "genres": [
-            "Rock",
-            "Pop"
-        ],
-        "release_year": "2000",
-        "barcode": "Nessun codice a barre disponibile",
-        "timestamp": "Fri, 06 Jan 2023 15:20:38 - UK time"
-    },
-    "1313874": {
-        "id": 1313874,
-        "title": "Lo Primero De Los Beatles Con Tony Sheridan",
-        "author": "The Beatles",
-        "thumb": "https:\/\/i.discogs.com\/-6-J2IHwZj5CDo7ZgYnVBvHIVtl5nXfh2yYukcuThsg\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTY0MzE3\/MjQtMTQ5NzgyMDQz\/OC00MDkzLmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/qkzUw78i709XxJartYY3JcF5rowDURFO5hU5ilrMqhU\/rs:fit\/g:sm\/q:90\/h:599\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTY0MzE3\/MjQtMTQ5NzgyMDQz\/OC00MDkzLmpwZWc.jpeg",
-        "genres": [
-            "Rock",
-            "Pop"
-        ],
-        "release_year": "1974",
-        "barcode": [
-            "BIEM \/ GEMA",
-            "24 37 228",
-            "24 37 229",
-            "M. 8244 - 1974",
-            "M. 8243 - 1974"
-        ],
-        "timestamp": "Fri, 06 Jan 2023 15:20:38 - UK time"
-    },
-    "1380846": {
-        "id": 1380846,
-        "title": "...One, Two, Three, Four!",
-        "author": "The Beatles",
-        "thumb": "https:\/\/i.discogs.com\/0mzDEHCSBGxZ19YLTXnniespNnA21pHmFHvK-K22gXA\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEyMTQ3\/Njc5LTE1MjkyNTY2\/ODQtNDk3Mi5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/PeAjkUa2TGO_tyePZ16t42DgqFO81uY74XHoQPa1u9U\/rs:fit\/g:sm\/q:90\/h:599\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEyMTQ3\/Njc5LTE1MjkyNTY2\/ODQtNDk3Mi5qcGVn.jpeg",
-        "genres": [
-            "Rock",
-            "Non-Music",
-            "Pop"
-        ],
-        "release_year": "1982",
-        "barcode": [
-            "JR008\/1",
-            "JR-008\/2",
-            "JR-008\/3",
-            "JR-008\/4"
-        ],
-        "timestamp": "Fri, 06 Jan 2023 15:20:38 - UK time"
-    },
-    "1206997": {
-        "id": 1206997,
-        "title": "From Me To You \/ P. S. I Love You",
-        "author": "The Beatles",
-        "thumb": "https:\/\/i.discogs.com\/0QbjhuC5MdZbYLGp1BtGZKUFd1K-3oFTeGqx-MGNfDI\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQyODM4\/ODAtMTQyMDMyNjA0\/NS0xODg3LmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/RJVMfREKHPSqxPsewtEpmYVWWqs61V2eU9NKWxJlE28\/rs:fit\/g:sm\/q:90\/h:600\/w:597\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQyODM4\/ODAtMTQyMDMyNjA0\/NS0xODg3LmpwZWc.jpeg",
-        "genres": [
-            "Rock"
-        ],
-        "release_year": "1963",
-        "barcode": [
-            "7XST-285-1",
-            "7XST-286-1"
-        ],
-        "timestamp": "Fri, 06 Jan 2023 15:20:38 - UK time"
-    },
-    "526752": {
-        "id": 526752,
-        "title": "As Nature Intended",
-        "author": "The Beatles",
-        "thumb": "https:\/\/i.discogs.com\/oaRGRpSGqW6HoZmvZjH8UCsAECMB1A90TMNBxwyn8Zs\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQzMzAz\/NzUtMTQwMDQ1Mjgw\/OS0xMTAwLmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/cPvoBSOFJZUDnodnVzP6O9xH7cLdoDDbuSH_3H8qsis\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQzMzAz\/NzUtMTQwMDQ1Mjgw\/OS0xMTAwLmpwZWc.jpeg",
-        "genres": [
-            "Rock",
-            "Pop"
-        ],
-        "release_year": "1994",
-        "barcode": [
-            "VIGO-122  -630-",
-            "AAD"
-        ],
-        "timestamp": "Fri, 06 Jan 2023 15:20:38 - UK time"
-    },
-    "515829": {
-        "id": 515829,
-        "title": "From Me To You \/ I Saw Her Standing There",
-        "author": "The Beatles",
-        "thumb": "https:\/\/i.discogs.com\/CMFB1XQtDbBCIa2aftUDBDJRV-mxj3Id8KImczZjPKA\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTExOTA4\/MTUzLTE1MjQ1MjE3\/ODQtNDc5Ny5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/mrtgK-AT-mlQBmpdp4U_pDg5Sma7dc04PhQaJYNLEvs\/rs:fit\/g:sm\/q:90\/h:594\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTExOTA4\/MTUzLTE1MjQ1MjE3\/ODQtNDc5Ny5qcGVn.jpeg",
-        "genres": [
-            "Rock",
-            "Pop"
-        ],
-        "release_year": "1963",
-        "barcode": "Nessun codice a barre disponibile",
-        "timestamp": "Fri, 06 Jan 2023 15:20:38 - UK time"
-    },
-    "1839536": {
-        "id": 1839536,
-        "title": "The Alternate Revolver",
-        "author": "The Beatles",
-        "thumb": "https:\/\/i.discogs.com\/P-v5Z93XLAfl3yLjetVirgHkZSN5XW5H0guhtBukoe8\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU1NTc3\/NjUtMTQ5NzgwOTcw\/My04MzM1LmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/BQ1ugoaJnr2-uLqmsIX1pPBW9SKKB17QQCa_WB4Hcs4\/rs:fit\/g:sm\/q:90\/h:603\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU1NTc3\/NjUtMTQ5NzgwOTcw\/My04MzM1LmpwZWc.jpeg",
+    "3539623": {
+        "id": 3539623,
+        "title": "Heidi Boh",
+        "author": "Heidi Boh",
+        "thumb": "",
+        "cover_img": "https:\/\/st.discogs.com\/c9ad0a0c08228b865c524cda14eb218c9d34fd51\/images\/spacer.gif",
         "genres": [
             "Rock",
             "Pop"
         ],
         "release_year": "1998",
-        "barcode": [
-            "WALRUS 021"
-        ],
-        "timestamp": "Fri, 06 Jan 2023 15:20:38 - UK time"
-    },
-    "1211440": {
-        "id": 1211440,
-        "title": "Al Compas De Beethoven",
-        "author": "The Beatles",
-        "thumb": "https:\/\/i.discogs.com\/zsZyO4tiDlDOF-y58YM9q9YJtZHRsZZqatM6bmZ68bo\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTExMTEx\/OTUyLTE1MTAwNjQx\/MjYtOTAxMy5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/2Ojfdz7FLLBkp29xkuPA5bSU7T8OMjhUA43a93L_1P4\/rs:fit\/g:sm\/q:90\/h:598\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTExMTEx\/OTUyLTE1MTAwNjQx\/MjYtOTAxMy5qcGVn.jpeg",
-        "genres": [
-            "Rock",
-            "Pop"
-        ],
-        "release_year": "1964",
         "barcode": "Nessun codice a barre disponibile",
-        "timestamp": "Fri, 06 Jan 2023 15:20:38 - UK time"
+        "timestamp": "Sat, 07 Jan 2023 00:04:33 - UK time"
     },
-    "1233090": {
-        "id": 1233090,
-        "title": "She Loves You",
-        "author": "The Beatles",
-        "thumb": "https:\/\/i.discogs.com\/3gU9WxSv_itRr1BQDD_9X8uVmS9suHUaCQs2dWi6REg\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTIzMTAy\/NjctMTI3NjAyNTI5\/NC5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/phGUKGErFAUNhOVhC990fS1pNbrOTg-5Nm96l0Hcd38\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTIzMTAy\/NjctMTI3NjAyNTI5\/NC5qcGVn.jpeg",
-        "genres": [
-            "Rock"
-        ],
-        "release_year": "1963",
-        "barcode": [
-            "7TCEF 422",
-            "7TCEF 423",
-            "7TCEF-422-2-A-B-C",
-            "7TCEF-423-1-A-B-C"
-        ],
-        "timestamp": "Fri, 06 Jan 2023 15:20:38 - UK time"
-    },
-    "884157": {
-        "id": 884157,
-        "title": "The Fab 4",
-        "author": "The Beatles",
-        "thumb": "https:\/\/i.discogs.com\/XJ8uK8VDxpkuYmIs1NJUAq0-7Ieix6TBJ9bmzEoCA_8\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU1ODA3\/NzktMTM5NzE0MjEw\/OS00NzMxLmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/WYaJHc-tY5EkqVFCmRkTotG8z4WMPX5La3r7gPmrUjU\/rs:fit\/g:sm\/q:90\/h:598\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU1ODA3\/NzktMTM5NzE0MjEw\/OS00NzMxLmpwZWc.jpeg",
-        "genres": [
-            "Rock",
-            "Pop"
-        ],
-        "release_year": "1988",
-        "barcode": [
-            "RFT006-A",
-            "RFT006-B",
-            "SIAE"
-        ],
-        "timestamp": "Fri, 06 Jan 2023 15:20:38 - UK time"
-    },
-    "637958": {
-        "id": 637958,
-        "title": "From Kinfauns To Chaos",
-        "author": "The Beatles",
-        "thumb": "https:\/\/i.discogs.com\/M_rU9bXFua4EuU_td_HIcRCFEHzKE98ja7U1IYYCbFA\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQwNTU0\/OTktMTM2MTkyNDI5\/NS01MjQ2LmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/fO2Kw-vz8jhePOpCL_nV0HQbeRVp1k9x1DUxjpq5JBg\/rs:fit\/g:sm\/q:90\/h:500\/w:562\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQwNTU0\/OTktMTM2MTkyNDI5\/NS01MjQ2LmpwZWc.jpeg",
-        "genres": [
-            "Rock",
-            "Pop"
-        ],
-        "release_year": "1999",
-        "barcode": "Nessun codice a barre disponibile",
-        "timestamp": "Fri, 06 Jan 2023 15:20:38 - UK time"
-    },
-    "2634938": {
-        "id": 2634938,
-        "title": "Studio Sessions Volume Two",
-        "author": "The Beatles",
-        "thumb": "https:\/\/i.discogs.com\/Og6QKOjrX-MYH_iPx6w3pD5DJr2YgRw_e28t_7D8WYU\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTIzOTA5\/MjUtMTYwMjg5NDk2\/Ny0zNDIxLmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/k6FSlrUy6J3OhF_-4JdGG8Xjk5Au9Mq8dTAbOzMbX_0\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTIzOTA5\/MjUtMTYwMjg5NDk2\/Ny0zNDIxLmpwZWc.jpeg",
-        "genres": [
-            "Rock"
-        ],
+    "6600984": {
+        "id": 6600984,
+        "title": "BOH (5)",
+        "author": "BOH (5)",
+        "thumb": "https:\/\/i.discogs.com\/nBQJyDcXBEWRfix_oehv47Py-e8re62EbVAUOZkvcrY\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTY2MDA5\/ODQtMTU2NTU3NTQ1\/OC03NTczLmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/qZTNdwYzrvcdA9vk5J992xdqA2LfDxw-GLQOuzRbKfY\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTY2MDA5\/ODQtMTU2NTU3NTQ1\/OC03NTczLmpwZWc.jpeg",
+        "genres": "",
         "release_year": "",
         "barcode": "Nessun codice a barre disponibile",
-        "timestamp": "Fri, 06 Jan 2023 15:20:38 - UK time"
+        "timestamp": "Sat, 07 Jan 2023 00:04:33 - UK time"
     },
-    "619915": {
-        "id": 619915,
-        "title": "From Yesterday Forever (The Glass Album)",
-        "author": "The Beatles",
-        "thumb": "https:\/\/i.discogs.com\/bahA1QiUwqhBPPBHhbdt-qidC7W3NDUH_CH4GAMxt8A\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQ5MTQx\/MDgtMTM3OTI2Nzkx\/MS02NjA0LmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/fqJhhh2mDiKcBP5Edz5E1bORo-AZ3itpjkUupGwOvDw\/rs:fit\/g:sm\/q:90\/h:578\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQ5MTQx\/MDgtMTM3OTI2Nzkx\/MS02NjA0LmpwZWc.jpeg",
-        "genres": [
-            "Rock",
-            "Pop"
-        ],
-        "release_year": "1991",
+    "848245": {
+        "id": 848245,
+        "title": "BOH Records (2)",
+        "author": "BOH Records (2)",
+        "thumb": "",
+        "cover_img": "https:\/\/st.discogs.com\/c9ad0a0c08228b865c524cda14eb218c9d34fd51\/images\/spacer.gif",
+        "genres": "",
+        "release_year": "",
         "barcode": "Nessun codice a barre disponibile",
-        "timestamp": "Fri, 06 Jan 2023 15:20:38 - UK time"
+        "timestamp": "Sat, 07 Jan 2023 00:04:33 - UK time"
     },
-    "721053": {
-        "id": 721053,
-        "title": "Top Of The Pop's...Yesterday And Today",
-        "author": "The Beatles",
-        "thumb": "https:\/\/i.discogs.com\/1Ldh4b-VxsT5xfjev6PQRyUYfBPnRMq0pUNyKnqhrMk\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU5ODQ0\/MzItMTQwODMyNTM1\/Mi0yNTQyLmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/Gu4KxpayBvo867Rs__q3WrBEL0ThO5EuoCjjyLSZzmE\/rs:fit\/g:sm\/q:90\/h:589\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU5ODQ0\/MzItMTQwODMyNTM1\/Mi0yNTQyLmpwZWc.jpeg",
+    "19855597": {
+        "id": 19855597,
+        "title": "I Love Boh Boh Cha Cha",
+        "author": "The Stylers",
+        "thumb": "",
+        "cover_img": "https:\/\/st.discogs.com\/c9ad0a0c08228b865c524cda14eb218c9d34fd51\/images\/spacer.gif",
         "genres": [
             "Rock",
             "Pop"
         ],
-        "release_year": "1979",
-        "barcode": [
-            "BMI",
-            "45 X 45000",
-            "45 X 45001",
-            "45-X45000",
-            "45-X45001"
-        ],
-        "timestamp": "Fri, 06 Jan 2023 15:20:38 - UK time"
+        "release_year": "1973",
+        "barcode": "Nessun codice a barre disponibile",
+        "timestamp": "Sat, 07 Jan 2023 00:04:33 - UK time"
     },
-    "717398": {
-        "id": 717398,
-        "title": "Sessions",
-        "author": "The Beatles",
-        "thumb": "https:\/\/i.discogs.com\/306cdaUgK_1OsH-p_aWckQDyMAjlZcQ4yhhgU2KX7ZY\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU5NTI2\/OTUtMTQwNzIzNTY2\/Ny0zODAwLmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/qbNMjfNE2hWH0BqTFVMqJA6DJTUXqABkYNzLWiFjK_g\/rs:fit\/g:sm\/q:90\/h:597\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU5NTI2\/OTUtMTQwNzIzNTY2\/Ny0zODAwLmpwZWc.jpeg",
+    "396447": {
+        "id": 396447,
+        "title": "Boh",
+        "author": "Boh",
+        "thumb": "",
+        "cover_img": "https:\/\/st.discogs.com\/c9ad0a0c08228b865c524cda14eb218c9d34fd51\/images\/spacer.gif",
+        "genres": "",
+        "release_year": "",
+        "barcode": "Nessun codice a barre disponibile",
+        "timestamp": "Sat, 07 Jan 2023 00:04:33 - UK time"
+    },
+    "6217499": {
+        "id": 6217499,
+        "title": "Boh (4)",
+        "author": "Boh (4)",
+        "thumb": "",
+        "cover_img": "https:\/\/st.discogs.com\/c9ad0a0c08228b865c524cda14eb218c9d34fd51\/images\/spacer.gif",
+        "genres": "",
+        "release_year": "",
+        "barcode": "Nessun codice a barre disponibile",
+        "timestamp": "Sat, 07 Jan 2023 00:04:33 - UK time"
+    },
+    "3058774": {
+        "id": 3058774,
+        "title": "Boh (3)",
+        "author": "Boh (3)",
+        "thumb": "",
+        "cover_img": "https:\/\/st.discogs.com\/c9ad0a0c08228b865c524cda14eb218c9d34fd51\/images\/spacer.gif",
+        "genres": "",
+        "release_year": "",
+        "barcode": "Nessun codice a barre disponibile",
+        "timestamp": "Sat, 07 Jan 2023 00:04:33 - UK time"
+    },
+    "2669858": {
+        "id": 2669858,
+        "title": "Boh Sampler",
+        "author": "Various",
+        "thumb": "https:\/\/i.discogs.com\/SeaJdeWzcZKnLDl7wzDtP0WFWt3QcZgRFky1WQD7xO4\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEwNzc0\/ODEtMTQxMDM3MzAx\/NS05NDQxLmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/bEegkmYaS98ubrftaHrfuDcWTGxJmF0qqbJhNyyiVn0\/rs:fit\/g:sm\/q:90\/h:602\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEwNzc0\/ODEtMTQxMDM3MzAx\/NS05NDQxLmpwZWc.jpeg",
         "genres": [
             "Rock"
         ],
-        "release_year": "2007",
-        "barcode": [
-            "ST 221-A",
-            "ST 221-B",
-            "5099924001025"
-        ],
-        "timestamp": "Fri, 06 Jan 2023 15:20:38 - UK time"
+        "release_year": "1982",
+        "barcode": "Nessun codice a barre disponibile",
+        "timestamp": "Sat, 07 Jan 2023 00:04:33 - UK time"
     },
-    "549050": {
-        "id": 549050,
-        "title": "The Peter Sellers Tape",
-        "author": "The Beatles",
-        "thumb": "https:\/\/i.discogs.com\/iI8k7D2Bp6rMVc-gbupwMxOi-oO1bkzWHfmaXnV8LcI\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQ0NTQy\/NTctMTM2NTMyNDQ3\/MC00MTczLmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/TS91htyL51eUbe0lArOvGYhaq5txtgMO66BBRS7wYZk\/rs:fit\/g:sm\/q:90\/h:318\/w:316\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQ0NTQy\/NTctMTM2NTMyNDQ3\/MC00MTczLmpwZWc.jpeg",
+    "1077481": {
+        "id": 1077481,
+        "title": "Boh Sampler",
+        "author": "Various",
+        "thumb": "https:\/\/i.discogs.com\/SeaJdeWzcZKnLDl7wzDtP0WFWt3QcZgRFky1WQD7xO4\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEwNzc0\/ODEtMTQxMDM3MzAx\/NS05NDQxLmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/bEegkmYaS98ubrftaHrfuDcWTGxJmF0qqbJhNyyiVn0\/rs:fit\/g:sm\/q:90\/h:602\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEwNzc0\/ODEtMTQxMDM3MzAx\/NS05NDQxLmpwZWc.jpeg",
+        "genres": [
+            "Rock"
+        ],
+        "release_year": "1982",
+        "barcode": "Nessun codice a barre disponibile",
+        "timestamp": "Sat, 07 Jan 2023 00:04:33 - UK time"
+    },
+    "20434186": {
+        "id": 20434186,
+        "title": "Boh Racer",
+        "author": "Boh Racer",
+        "thumb": "https:\/\/i.discogs.com\/WgXQViXqqTKoH9bwzMQaXpbYczxlAk_il0yMvQpIY5k\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTIwNDM0\/MTg2LTE2MzMwOTM0\/OTYtODYzOC5qcGVn.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/BHhAUGrTmXZ_AU6WkGmpRbuo2tn33mbEoQTpRlx-PTc\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTIwNDM0\/MTg2LTE2MzMwOTM0\/OTYtODYzOC5qcGVn.jpeg",
         "genres": [
             "Rock",
             "Pop"
+        ],
+        "release_year": "2021",
+        "barcode": "Nessun codice a barre disponibile",
+        "timestamp": "Sat, 07 Jan 2023 00:04:33 - UK time"
+    },
+    "25682920": {
+        "id": 25682920,
+        "title": "Boh Sampler",
+        "author": "Various",
+        "thumb": "",
+        "cover_img": "https:\/\/st.discogs.com\/c9ad0a0c08228b865c524cda14eb218c9d34fd51\/images\/spacer.gif",
+        "genres": [
+            "Rock"
+        ],
+        "release_year": "2022",
+        "barcode": [
+            "33550"
+        ],
+        "timestamp": "Sat, 07 Jan 2023 00:04:33 - UK time"
+    },
+    "4455940": {
+        "id": 4455940,
+        "title": "Verso Boh",
+        "author": "Andrea Febo",
+        "thumb": "https:\/\/i.discogs.com\/G7c3LdZLLiF-CjSExm_mnEIEQINqZ-uyBNT4Odu7lp8\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQ0NTU5\/NDAtMTM2NTM1NjY4\/Mi01NDA0LmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/SRjnyotndi5emg6BpnaBk7QqCvYtgHYCRUTbqTkUXv0\/rs:fit\/g:sm\/q:90\/h:471\/w:540\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQ0NTU5\/NDAtMTM2NTM1NjY4\/Mi01NDA0LmpwZWc.jpeg",
+        "genres": [
+            "Electronic",
+            "Pop"
+        ],
+        "release_year": "2001",
+        "barcode": "Nessun codice a barre disponibile",
+        "timestamp": "Sat, 07 Jan 2023 00:04:33 - UK time"
+    },
+    "22780574": {
+        "id": 22780574,
+        "title": "Michael Boh",
+        "author": "Michael Bohe",
+        "thumb": "https:\/\/i.discogs.com\/D-_VAdOzGzt4WVB_rAjjDlFWml-FwnY0RmC6amNx52A\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTIyNzgw\/NTc0LTE2NDkyMzE1\/MzktNjExNi5qcGVn.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/bLKdK1jje4N3HrV_rwrenZQ4yWk39gDVwruCvpmgSmA\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTIyNzgw\/NTc0LTE2NDkyMzE1\/MzktNjExNi5qcGVn.jpeg",
+        "genres": [
+            "Folk, World, & Country"
         ],
         "release_year": "1993",
         "barcode": "Nessun codice a barre disponibile",
-        "timestamp": "Fri, 06 Jan 2023 15:20:38 - UK time"
+        "timestamp": "Sat, 07 Jan 2023 00:04:33 - UK time"
     },
-    "1770972": {
-        "id": 1770972,
-        "title": "The Beatles Anthology",
-        "author": "The Beatles",
-        "thumb": "https:\/\/i.discogs.com\/j37OYLnramOHPNjL4gjJ6vgOP7xUZcM2yCzionM8ImA\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU3OTY2\/ODEtMTQwMjkyNzAz\/NC00Mzg1LmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/jHv1_MJiVrokHcodEbB8Mmm6DVXj-pFZDMnFqp6xIPo\/rs:fit\/g:sm\/q:90\/h:435\/w:450\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU3OTY2\/ODEtMTQwMjkyNzAz\/NC00Mzg1LmpwZWc.jpeg",
+    "2613352": {
+        "id": 2613352,
+        "title": "Boh-Beat-History",
+        "author": "Boh-Beat-History",
+        "thumb": "",
+        "cover_img": "https:\/\/st.discogs.com\/c9ad0a0c08228b865c524cda14eb218c9d34fd51\/images\/spacer.gif",
+        "genres": "",
+        "release_year": "",
+        "barcode": "Nessun codice a barre disponibile",
+        "timestamp": "Sat, 07 Jan 2023 00:04:33 - UK time"
+    },
+    "23515175": {
+        "id": 23515175,
+        "title": "Boh Sampler",
+        "author": "Various",
+        "thumb": "https:\/\/i.discogs.com\/rJ0FvqZ3pKqTs9ZWRL7WiE_0zzQhraEgpfOZgB9Kfkc\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTIzNTE1\/MTc1LTE2NTUwNTA1\/NzMtNjM2NS5qcGVn.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/0JsCNbzkbt1AJZaQ0ScqUny7v_0StTxSmXS8Mgk78IU\/rs:fit\/g:sm\/q:90\/h:601\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTIzNTE1\/MTc1LTE2NTUwNTA1\/NzMtNjM2NS5qcGVn.jpeg",
         "genres": [
             "Rock"
         ],
-        "release_year": "1987",
-        "barcode": "Nessun codice a barre disponibile",
-        "timestamp": "Fri, 06 Jan 2023 15:20:38 - UK time"
+        "release_year": "2022",
+        "barcode": [
+            "33550"
+        ],
+        "timestamp": "Sat, 07 Jan 2023 00:04:33 - UK time"
     },
-    "1368907": {
-        "id": 1368907,
-        "title": "Nothing But Aging",
-        "author": "The Beatles",
-        "thumb": "https:\/\/i.discogs.com\/HyoNelUuR6ukmttgVp3sA2qldIi7c8R6-b59fkRg1zo\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQ3MjMz\/ODEtMTM3MzQ1OTU4\/MC0xMzEyLmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/e9psSpd_cwuucy9wddCEreXP3KunmVdc_q_8F8bMuFw\/rs:fit\/g:sm\/q:90\/h:600\/w:594\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQ3MjMz\/ODEtMTM3MzQ1OTU4\/MC0xMzEyLmpwZWc.jpeg",
+    "490808": {
+        "id": 490808,
+        "title": "BOH Records",
+        "author": "BOH Records",
+        "thumb": "https:\/\/i.discogs.com\/plZ8J0C9u1iQZidSY5TdaTsKxXcCXCXsgwPOU8xywoA\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTQ5MDgw\/OC0xNTkyOTMyNzky\/LTU0NTYuanBlZw.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/Yo5S9Y0GPRoBjie4_fKCODieVjlb_QTGNOxfCDwBQRc\/rs:fit\/g:sm\/q:90\/h:268\/w:287\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTQ5MDgw\/OC0xNTkyOTMyNzky\/LTU0NTYuanBlZw.jpeg",
+        "genres": "",
+        "release_year": "",
+        "barcode": "Nessun codice a barre disponibile",
+        "timestamp": "Sat, 07 Jan 2023 00:04:33 - UK time"
+    },
+    "4680461": {
+        "id": 4680461,
+        "title": "R\u00fdmy Hudba Boh",
+        "author": "H16",
+        "thumb": "https:\/\/i.discogs.com\/uidV3uRLuBtVvrISNL1nZl1kMY_rQnkkOTRXTwMcZg0\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQ2ODA0\/NjEtMTUwMTkyOTMw\/Mi0yNTc2LmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/Z2jMIUp4-ADELTJRRKRDoZUGm-WsnKv40nLfGeVmUd8\/rs:fit\/g:sm\/q:90\/h:537\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQ2ODA0\/NjEtMTUwMTkyOTMw\/Mi0yNTc2LmpwZWc.jpeg",
+        "genres": [
+            "Hip Hop"
+        ],
+        "release_year": "2013",
+        "barcode": [
+            "8 588005 279888",
+            "8588005279888",
+            "2107 002-2",
+            "DFM04",
+            "SOZA"
+        ],
+        "timestamp": "Sat, 07 Jan 2023 00:04:33 - UK time"
+    },
+    "164542": {
+        "id": 164542,
+        "title": "BOH De Records",
+        "author": "BOH De Records",
+        "thumb": "",
+        "cover_img": "https:\/\/st.discogs.com\/c9ad0a0c08228b865c524cda14eb218c9d34fd51\/images\/spacer.gif",
+        "genres": "",
+        "release_year": "",
+        "barcode": "Nessun codice a barre disponibile",
+        "timestamp": "Sat, 07 Jan 2023 00:04:33 - UK time"
+    },
+    "25273957": {
+        "id": 25273957,
+        "title": "Boh Po\u010d\u00fava Rap",
+        "author": "Hviezdo\u0161ka",
+        "thumb": "https:\/\/i.discogs.com\/LvccACSCdjTftx3c8N5ZQwUZVL0toH0pYTbmPmiYwTM\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI1Mjcz\/OTU3LTE2NjkzNjQx\/OTEtMTc0MS5qcGVn.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/0S_LY6n3dUywSzl4fMF7OXipbWEnEbxh5UIGndahhuc\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI1Mjcz\/OTU3LTE2NjkzNjQx\/OTEtMTc0MS5qcGVn.jpeg",
+        "genres": [
+            "Hip Hop"
+        ],
+        "release_year": "2022",
+        "barcode": "Nessun codice a barre disponibile",
+        "timestamp": "Sat, 07 Jan 2023 00:04:33 - UK time"
+    },
+    "9396079": {
+        "id": 9396079,
+        "title": "Stop & Boh",
+        "author": "BSJ",
+        "thumb": "https:\/\/i.discogs.com\/PTc9EkhE2qGBUGDH4F4ggfdV8Y1o7InUvDPUGt1SCNU\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTkzOTYw\/NzktMTQ3OTgyNTA4\/My05MTY1LmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/w_ypkQuMTcb6DZpwlwvJV3ZK557fxf7z8CGBtZYGv8M\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTkzOTYw\/NzktMTQ3OTgyNTA4\/My05MTY1LmpwZWc.jpeg",
+        "genres": [
+            "Electronic"
+        ],
+        "release_year": "2015",
+        "barcode": "Nessun codice a barre disponibile",
+        "timestamp": "Sat, 07 Jan 2023 00:04:33 - UK time"
+    },
+    "15358329": {
+        "id": 15358329,
+        "title": "BOH Rockszene 2",
+        "author": "Various",
+        "thumb": "https:\/\/i.discogs.com\/ZCzexcPfDshad_OVQbXDWyt0MPEtVf0Xlm2AnxAXWao\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1MzU4\/MzI5LTE2MjExODYw\/MjEtMTM2OS5wbmc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/69V3Szgspm6M6KoC7BC09JoGa2sp00uBQL1ZLf7rKNU\/rs:fit\/g:sm\/q:90\/h:588\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1MzU4\/MzI5LTE2MjExODYw\/MjEtMTM2OS5wbmc.jpeg",
         "genres": [
             "Rock"
         ],
-        "release_year": "1991",
+        "release_year": "1981",
         "barcode": "Nessun codice a barre disponibile",
-        "timestamp": "Fri, 06 Jan 2023 15:20:38 - UK time"
+        "timestamp": "Sat, 07 Jan 2023 00:04:33 - UK time"
+    },
+    "20146072": {
+        "id": 20146072,
+        "title": "Stop & Boh",
+        "author": "Enrico BSJ Ferrari",
+        "thumb": "https:\/\/i.discogs.com\/Gh9G_uRNw_q6vNS_AUpAtnBhcGcEEtkmT-gU6QGsyY8\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTIwMTQ2\/MDcyLTE2MzEwMTQz\/OTAtODU3NS5qcGVn.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/UFAaO5Hym0sZ1GAPooHfRu_qksB4w9PMVRG3SqqihZs\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTIwMTQ2\/MDcyLTE2MzEwMTQz\/OTAtODU3NS5qcGVn.jpeg",
+        "genres": [
+            "Electronic"
+        ],
+        "release_year": "2021",
+        "barcode": "Nessun codice a barre disponibile",
+        "timestamp": "Sat, 07 Jan 2023 00:04:33 - UK time"
+    },
+    "5979460": {
+        "id": 5979460,
+        "title": "Rhapsody In Boh",
+        "author": "Kenny Williams \/ Valerie Simpson",
+        "thumb": "https:\/\/i.discogs.com\/1ombppnOPo91v7i6h4PnxEK1dL949DMj8ri5fRhDZCc\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU5Nzk0\/NjAtMTQwNzk0MTMw\/Ny01MjExLmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/3kXIQ1VAvXaVCQT9Smc84L2h0kXFxdfmeDxQLPBVfk8\/rs:fit\/g:sm\/q:90\/h:400\/w:300\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU5Nzk0\/NjAtMTQwNzk0MTMw\/Ny01MjExLmpwZWc.jpeg",
+        "genres": [
+            "Pop"
+        ],
+        "release_year": "1972",
+        "barcode": "Nessun codice a barre disponibile",
+        "timestamp": "Sat, 07 Jan 2023 00:04:33 - UK time"
+    },
+    "11024850": {
+        "id": 11024850,
+        "title": "Crazy RoodBoh",
+        "author": "AudioBotz (2)",
+        "thumb": "https:\/\/i.discogs.com\/IX6-UZhaIuNQLG4-UMQDkbygKpZlI0GjbODE72-Rxng\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTExMDI0\/ODUwLTE1MDg0NjIy\/MDQtMjA3Ni5qcGVn.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/JQgTMSP9gx5vZf-utvuSAbXQ2F47qMnnF_4-tZCE3KM\/rs:fit\/g:sm\/q:90\/h:500\/w:500\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTExMDI0\/ODUwLTE1MDg0NjIy\/MDQtMjA3Ni5qcGVn.jpeg",
+        "genres": [
+            "Electronic"
+        ],
+        "release_year": "2017",
+        "barcode": "Nessun codice a barre disponibile",
+        "timestamp": "Sat, 07 Jan 2023 00:04:33 - UK time"
+    },
+    "893250": {
+        "id": 893250,
+        "title": "BoH (2)",
+        "author": "BoH (2)",
+        "thumb": "https:\/\/i.discogs.com\/W0wLxDOERXpNjK0WnMJZJ22PoS3UnGaQbm5y1irm_HE\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTg5MzI1\/MC0xNjE4MDA2MDEy\/LTMwMzMuanBlZw.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/AHAprLJ1Q4GjpnTlk3badRp77EPFohH1Ju8JAUW6itE\/rs:fit\/g:sm\/q:90\/h:605\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTg5MzI1\/MC0xNjE4MDA2MDEy\/LTMwMzMuanBlZw.jpeg",
+        "genres": "",
+        "release_year": "",
+        "barcode": "Nessun codice a barre disponibile",
+        "timestamp": "Sat, 07 Jan 2023 00:04:33 - UK time"
+    },
+    "1634200": {
+        "id": 1634200,
+        "title": "Little Boh Music",
+        "author": "Little Boh Music",
+        "thumb": "",
+        "cover_img": "https:\/\/st.discogs.com\/c9ad0a0c08228b865c524cda14eb218c9d34fd51\/images\/spacer.gif",
+        "genres": "",
+        "release_year": "",
+        "barcode": "Nessun codice a barre disponibile",
+        "timestamp": "Sat, 07 Jan 2023 00:04:33 - UK time"
+    },
+    "8188024": {
+        "id": 8188024,
+        "title": "Bastiaan Boh",
+        "author": "Bastiaan Boh",
+        "thumb": "",
+        "cover_img": "https:\/\/st.discogs.com\/c9ad0a0c08228b865c524cda14eb218c9d34fd51\/images\/spacer.gif",
+        "genres": "",
+        "release_year": "",
+        "barcode": "Nessun codice a barre disponibile",
+        "timestamp": "Sat, 07 Jan 2023 00:04:33 - UK time"
+    },
+    "2147818": {
+        "id": 2147818,
+        "title": "Chan-boh",
+        "author": "Chan-boh",
+        "thumb": "",
+        "cover_img": "https:\/\/st.discogs.com\/c9ad0a0c08228b865c524cda14eb218c9d34fd51\/images\/spacer.gif",
+        "genres": "",
+        "release_year": "",
+        "barcode": "Nessun codice a barre disponibile",
+        "timestamp": "Sat, 07 Jan 2023 00:04:33 - UK time"
+    },
+    "8217986": {
+        "id": 8217986,
+        "title": "Anna Boh",
+        "author": "Anna Boh",
+        "thumb": "",
+        "cover_img": "https:\/\/st.discogs.com\/c9ad0a0c08228b865c524cda14eb218c9d34fd51\/images\/spacer.gif",
+        "genres": "",
+        "release_year": "",
+        "barcode": "Nessun codice a barre disponibile",
+        "timestamp": "Sat, 07 Jan 2023 00:04:33 - UK time"
+    },
+    "10068655": {
+        "id": 10068655,
+        "title": "Boh Racer",
+        "author": "Boh Racer",
+        "thumb": "https:\/\/i.discogs.com\/GdPsppEZ2V6mMQgnKBVMtXNVtYEzQskEZCziH-3AK_E\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTEwMDY4\/NjU1LTE2Mzg4NjE1\/MzAtNzUzMC5qcGVn.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/zzktsW5RLlyhkk2L7MVUQ_UQCjPuMrkNm2OKCEOiilE\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTEwMDY4\/NjU1LTE2Mzg4NjE1\/MzAtNzUzMC5qcGVn.jpeg",
+        "genres": "",
+        "release_year": "",
+        "barcode": "Nessun codice a barre disponibile",
+        "timestamp": "Sat, 07 Jan 2023 00:04:33 - UK time"
+    },
+    "283443": {
+        "id": 283443,
+        "title": "Boh Runga",
+        "author": "Boh Runga",
+        "thumb": "https:\/\/i.discogs.com\/rzl3kl9gNnaspXZYKAFoRo-qUuaqC1B7althIQOxUMc\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTI4MzQ0\/My0xNjQyMDc5ODEw\/LTE1OTAuanBlZw.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/MokxpTMIrUxiEuL-nmSrOkdehLIczuQoO6sjAkzgjH0\/rs:fit\/g:sm\/q:90\/h:891\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTI4MzQ0\/My0xNjQyMDc5ODEw\/LTE1OTAuanBlZw.jpeg",
+        "genres": "",
+        "release_year": "",
+        "barcode": "Nessun codice a barre disponibile",
+        "timestamp": "Sat, 07 Jan 2023 00:04:33 - UK time"
+    },
+    "4504370": {
+        "id": 4504370,
+        "title": "J\u00f6rg B\u00f6h",
+        "author": "J\u00f6rg B\u00f6h",
+        "thumb": "",
+        "cover_img": "https:\/\/st.discogs.com\/c9ad0a0c08228b865c524cda14eb218c9d34fd51\/images\/spacer.gif",
+        "genres": "",
+        "release_year": "",
+        "barcode": "Nessun codice a barre disponibile",
+        "timestamp": "Sat, 07 Jan 2023 00:04:33 - UK time"
+    },
+    "1711369": {
+        "id": 1711369,
+        "title": "Boh Dah",
+        "author": "Boh Dah",
+        "thumb": "",
+        "cover_img": "https:\/\/st.discogs.com\/c9ad0a0c08228b865c524cda14eb218c9d34fd51\/images\/spacer.gif",
+        "genres": "",
+        "release_year": "",
+        "barcode": "Nessun codice a barre disponibile",
+        "timestamp": "Sat, 07 Jan 2023 00:04:33 - UK time"
+    },
+    "1000161": {
+        "id": 1000161,
+        "title": "T-Boh",
+        "author": "T-Boh",
+        "thumb": "",
+        "cover_img": "https:\/\/st.discogs.com\/c9ad0a0c08228b865c524cda14eb218c9d34fd51\/images\/spacer.gif",
+        "genres": "",
+        "release_year": "",
+        "barcode": "Nessun codice a barre disponibile",
+        "timestamp": "Sat, 07 Jan 2023 00:04:33 - UK time"
+    },
+    "10111102": {
+        "id": 10111102,
+        "title": "Boh Vajec",
+        "author": "Boh Vajec",
+        "thumb": "",
+        "cover_img": "https:\/\/st.discogs.com\/c9ad0a0c08228b865c524cda14eb218c9d34fd51\/images\/spacer.gif",
+        "genres": "",
+        "release_year": "",
+        "barcode": "Nessun codice a barre disponibile",
+        "timestamp": "Sat, 07 Jan 2023 00:04:33 - UK time"
+    },
+    "10405294": {
+        "id": 10405294,
+        "title": "Voranc Boh",
+        "author": "Voranc Boh",
+        "thumb": "",
+        "cover_img": "https:\/\/st.discogs.com\/c9ad0a0c08228b865c524cda14eb218c9d34fd51\/images\/spacer.gif",
+        "genres": "",
+        "release_year": "",
+        "barcode": "Nessun codice a barre disponibile",
+        "timestamp": "Sat, 07 Jan 2023 00:04:33 - UK time"
+    },
+    "3685980": {
+        "id": 3685980,
+        "title": "Marko Boh",
+        "author": "Marko Boh",
+        "thumb": "https:\/\/i.discogs.com\/oiHZHJlmamnqhAEEobgV5lLOY9xBG8xQuhaNHP64Ce0\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTM2ODU5\/ODAtMTU0MDgwNjYy\/Ni0yMjk4LmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/jA8pgOfVincl_aa91lRNw4ce024F1aA5_fy18R1uIX4\/rs:fit\/g:sm\/q:90\/h:337\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTM2ODU5\/ODAtMTU0MDgwNjYy\/Ni0yMjk4LmpwZWc.jpeg",
+        "genres": "",
+        "release_year": "",
+        "barcode": "Nessun codice a barre disponibile",
+        "timestamp": "Sat, 07 Jan 2023 00:04:33 - UK time"
+    },
+    "6767711": {
+        "id": 6767711,
+        "title": "Natty Boh",
+        "author": "Natty Boh",
+        "thumb": "",
+        "cover_img": "https:\/\/st.discogs.com\/c9ad0a0c08228b865c524cda14eb218c9d34fd51\/images\/spacer.gif",
+        "genres": "",
+        "release_year": "",
+        "barcode": "Nessun codice a barre disponibile",
+        "timestamp": "Sat, 07 Jan 2023 00:04:33 - UK time"
+    },
+    "6526483": {
+        "id": 6526483,
+        "title": "Lee-Boh",
+        "author": "Lee-Boh",
+        "thumb": "",
+        "cover_img": "https:\/\/st.discogs.com\/c9ad0a0c08228b865c524cda14eb218c9d34fd51\/images\/spacer.gif",
+        "genres": "",
+        "release_year": "",
+        "barcode": "Nessun codice a barre disponibile",
+        "timestamp": "Sat, 07 Jan 2023 00:04:33 - UK time"
     }
 }

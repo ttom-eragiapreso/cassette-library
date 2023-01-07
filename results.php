@@ -6,6 +6,8 @@
   if(!isset($user)){header('Location: login.php');};
 
   $results = json_decode(file_get_contents('results.json'), true);
+  // var_dump($results);
+  // die;
   $currentPagination = json_decode(file_get_contents('pagination.json'), true);
   ?>
 
@@ -29,6 +31,7 @@
 <div class="container md:gap-x-4 mx-auto flex flex-wrap justify-around px-5 columns-2 md:columns-4 lg:columns-6">
 <?php foreach($results as $record) :?>
 
+ <?php //var_dump($record); die; ?>
   <div class="flex flex-col justify-between min-h-72 mb-28 p-3 bg-slate-300 shadow-lg shadow-space-700/80 rounded-xl transition ease-in-out delay-50 duration-300 hover:scale-110 hover:shadow-xl hover:shadow-space-700/90">
 
     <div class="shadow-md shadow-slate-400 rounded-lg overflow-hidden">
@@ -39,7 +42,7 @@
       
 
     <div class="w-48 rounded-b-xl h-auto text-center">
-      <h5 class="text-black-500 mb-3"><?php echo $record['title']?></h5>
+      <h5 class="text-black-500 mb-3"><?php echo $record['title'] ?></h5>
       <h6 class="text-slate-600 mb-4"><?php echo $record['author']?></h6>
       <div class="flex justify-center">
         <a href="server.php?result_id=<?php echo $record['id'] ?>" 

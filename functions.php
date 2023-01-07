@@ -1,33 +1,46 @@
 <?php 
 
 // Utilities per prendermi i valori dalla risposta API
-function getTitleAuthor($src, $switch){
-    $output = ($switch == true) ?  trim(explode('-', $src['title'])[1]) :  trim(explode('-', $src['title'])[0]);
-    return $output;  
+  function getAuthor($record){
+
+    if(str_contains($record['title'],' - ')){
+      return trim(explode('-', $record['title'])[0]);  
+    }else {
+      return $record['title'];
+    }
   }
 
-  function getThumb($src){
-    return $src['thumb'];
+  function getTitle($record){
+
+    if(str_contains($record['title'],' - ')){
+      return trim(explode('-', $record['title'])[1]);
+    }else {
+      return $record['title'];
+    }
   }
 
-  function getCover($src){
-    return $src['cover_image'];
+  function getThumb($record){
+    return $record['thumb'];
+  }
+
+  function getCover($record){
+    return $record['cover_image'];
   }
   
-  function getGenres($src){
-    $output = $src['genre'] ?? '';
+  function getGenres($record){
+    $output = $record['genre'] ?? '';
     return $output;
   }
   
-  function getYear($src){
-    return $src['year'] ?? '';
+  function getYear($record){
+    return $record['year'] ?? '';
   }
-  function getId($src){
-    return $src['id'];
+  function getId($record){
+    return $record['id'];
   }
   
-  function getBarcode($src){
-    empty($src['barcode']) ? $output = 'Nessun codice a barre disponibile' : $output = $src['barcode'];
+  function getBarcode($record){
+    empty($record['barcode']) ? $output = 'Nessun codice a barre disponibile' : $output = $record['barcode'];
     return $output;
   }
 
@@ -38,8 +51,8 @@ function getTitleAuthor($src, $switch){
   function createRecord($record){
     $newRecord = [
       "id" => getId($record),
-      "title" => getTitleAuthor($record, true),
-      "author" => getTitleAuthor($record, false),
+      "title" => getTitle($record),
+      "author" => getAuthor($record),
       "thumb" => getThumb($record),
       "cover_img" => getCover($record),
       "genres" => getGenres($record),
@@ -78,7 +91,7 @@ function getTitleAuthor($src, $switch){
     $opts = array(
       'http'=>array(
         'method'=>"GET",
-        'header'=>"Accept-language: en",
+        'header'=>"Accept-language: */*",
         'user_agent' => 'My Library test app - localhost'
         )
       );
@@ -89,20 +102,28 @@ function getTitleAuthor($src, $switch){
     // Mi salvo il risultato della chiamata nella variabile reponse, e in results ci metto i risultati. 
     $response = json_decode(file_get_contents("$baseUrl" . "token=$token" . "&barcode=$barcode" . "&artist=$artist" . "&release_title=$release_title",false, $context), true);
 
-    $pagination = $response['pagination'];
-    $results = $response['results'];
+    $pagination = $response['pagination'] ?? null;
+    $results = $response['results'] ?? null;
     
-    // Mi creo i miei array da tutto quello che mi arriva da discogs e lo ritorno.
-    $polished_results = array_map('createRecord', $results);
-    $allIds = [];
-    foreach($polished_results as $record){
-      $allIds[] = $record['id'];
-    }
-    $assocPolishedResults = array_combine($allIds, $polished_results);
 
-    // Scrivo i file all'interno di un altro json che contiene tutti i risultati di una ricerca
-    file_put_contents('results.json', json_encode($assocPolishedResults,  JSON_PRETTY_PRINT));
-    file_put_contents('pagination.json', json_encode($pagination, JSON_PRETTY_PRINT));
+    if(isset($results)){
+
+      // Mi creo i miei array da tutto quello che mi arriva da discogs e lo ritorno.
+      $polished_results = array_map('createRecord', $results);
+      $allIds = [];
+      foreach($polished_results as $record){
+        $allIds[] = $record['id'];
+      }
+      $assocPolishedResults = array_combine($allIds, $polished_results);
+  
+      // Scrivo i file all'interno di un altro json che contiene tutti i risultati di una ricerca
+      file_put_contents('results.json', json_encode($assocPolishedResults,  JSON_PRETTY_PRINT));
+      file_put_contents('pagination.json', json_encode($pagination, JSON_PRETTY_PRINT));
+    }
+
+
+
+
     };
   
 function pageNavigation($url){

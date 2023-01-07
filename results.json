@@ -1,974 +1,309 @@
 {
-    "437341": {
-        "id": 437341,
-        "title": "Coincide",
-        "author": "Dewey Redman",
-        "thumb": "https:\/\/i.discogs.com\/X7P6U-dTE9iXCyjijxoiYE0Y3iga0oXTuWyK09KuzwE\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQzMDQx\/Ny0xNTg2MjczNDY1\/LTI5MTAuanBlZw.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/LtViT0Sz0xCRbOUd2RJkXsrTXUVIA0CPKjfh4Vd9iNs\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQzMDQx\/Ny0xNTg2MjczNDY1\/LTI5MTAuanBlZw.jpeg",
+    "23088176": {
+        "id": 23088176,
+        "title": "Classical Indian Ragas",
+        "author": "Baluji Shrivastav",
+        "thumb": "https:\/\/i.discogs.com\/H8T25pZyr2teJrTfygN_ku86ZuYGxzBPCtQEL6yFLzk\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTIzMDg4\/MTc2LTE2NTE1MDcw\/MjEtMzQ3OC5qcGVn.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/yuywYFV7qGrYguNruTVp80FTXVhs4-heTq-T28oVF24\/rs:fit\/g:sm\/q:90\/h:599\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTIzMDg4\/MTc2LTE2NTE1MDcw\/MjEtMzQ3OC5qcGVn.jpeg",
         "genres": [
-            "Jazz"
-        ],
-        "release_year": "1975",
-        "barcode": [
-            "TI  ASD-9300-A-3",
-            "TI  ASD-9300-A-2",
-            "TI  ASD-9300-B-I",
-            "KENDUN.",
-            "ASCAP"
-        ],
-        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
-    },
-    "8116192": {
-        "id": 8116192,
-        "title": "The Six Cello Suites (6 Suiten F\u00fcr Violoncello)",
-        "author": "Bach* \u00b7 Paul Tortelier",
-        "thumb": "https:\/\/i.discogs.com\/RUxKtFICdsDWn664hyAkk7XlGs_DY5JqspEeuBgChSA\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTgxMTYx\/OTItMTUzODAyNjUx\/NS0yMjcyLmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/dUuUFO7TMg_tXEuhzUtznKHq_n64kMMVLBYtzXDcRPM\/rs:fit\/g:sm\/q:90\/h:612\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTgxMTYx\/OTItMTUzODAyNjUx\/NS0yMjcyLmpwZWc.jpeg",
-        "genres": [
-            "Classical"
-        ],
-        "release_year": "1983",
-        "barcode": [
-            "TC-ASD 1077724",
-            "TC-ASD 1077734",
-            "TC-ASD 1077744"
-        ],
-        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
-    },
-    "8239888": {
-        "id": 8239888,
-        "title": "Hildegard Behrens, Jos\u00e9 van Dam, Karl",
-        "author": "Richard Strauss",
-        "thumb": "https:\/\/i.discogs.com\/X81e9mMz_BU1yWdBWKkini0ps2d6bgsuB7sOCycNWXI\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTgyMzk4\/ODgtMTUzNzk1MzE1\/NC0zMDUwLmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/q08P-u9DXo614MnamPEOJEe0AcwYiN2K-pes_kyYsbw\/rs:fit\/g:sm\/q:90\/h:606\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTgyMzk4\/ODgtMTUzNzk1MzE1\/NC0zMDUwLmpwZWc.jpeg",
-        "genres": [
-            "Classical"
-        ],
-        "release_year": "1978",
-        "barcode": [
-            "TC-ASD 3575",
-            "TC-ASD 3576"
-        ],
-        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
-    },
-    "12114693": {
-        "id": 12114693,
-        "title": "Die Fr\u00fchen Streichquartette Op. 18 = The Early Quartets Op. 18",
-        "author": "Beethoven*, Alban Berg Quartett",
-        "thumb": "https:\/\/i.discogs.com\/TQXH3LSJ2WVLAJh_CrrjQXZYUR7xU-Tc5BXIlePOoPY\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEyMTE0\/NjkzLTE1Mjg1OTI3\/NjQtNjMzMi5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/lEnFoyXRqK4cs_X_twQhtR79S-9mbKwCjV73dADywIY\/rs:fit\/g:sm\/q:90\/h:585\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEyMTE0\/NjkzLTE1Mjg1OTI3\/NjQtNjMzMi5qcGVn.jpeg",
-        "genres": [
-            "Classical"
-        ],
-        "release_year": "1981",
-        "barcode": [
-            "TC-ASD 4141",
-            "TC-ASD 4142",
-            "TC-ASD 4143"
-        ],
-        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
-    },
-    "18782605": {
-        "id": 18782605,
-        "title": "Baptiste Mari, Paris Op\u00e9ra Orchestra*",
-        "author": "Delibes*, Jean",
-        "thumb": "https:\/\/i.discogs.com\/O68_Em87u8G36THpwfTuzgxapMWr4570l7JN6Ty11rQ\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE4Nzgy\/NjA1LTE2MjEzNjMx\/ODAtMTMzNi5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/qXH8-Z8w3-CcIBLSyHDw_rPK_sl4ZKo8852LRfH620M\/rs:fit\/g:sm\/q:90\/h:594\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE4Nzgy\/NjA1LTE2MjEzNjMx\/ODAtMTMzNi5qcGVn.jpeg",
-        "genres": [
-            "Classical",
-            "Stage & Screen"
-        ],
-        "release_year": "1977",
-        "barcode": [
-            "TC-ASD 3386",
-            "TC-ASD 3387"
-        ],
-        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
-    },
-    "990309": {
-        "id": 990309,
-        "title": "Ernest Mercker, Gottlob Frick, Rias",
-        "author": "Pilar Lorengar, Fritz Wunderlich, Karl",
-        "thumb": "https:\/\/i.discogs.com\/tPz8YAvSovjKeTjHQ2IOQb_OJ6LdUNDJkqyQ4vZ2thU\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEwOTk1\/MTQzLTE1MDgwMzIx\/MjEtODQ4NS5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/fl-xojNJQIGPcybGa1AlQDXJsQ56af_gV9tnv-1bbXM\/rs:fit\/g:sm\/q:90\/h:594\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEwOTk1\/MTQzLTE1MDgwMzIx\/MjEtODQ4NS5qcGVn.jpeg",
-        "genres": [
-            "Classical"
-        ],
-        "release_year": "1963",
-        "barcode": [
-            "ASD. 522",
-            "ASD. 523",
-            "ASD. 524"
-        ],
-        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
-    },
-    "10339577": {
-        "id": 10339577,
-        "title": "Gayaneh",
-        "author": "Khachaturian* \u2013 Moscow Radio Symphony Orchestra*, Jansug Kakhidze",
-        "thumb": "https:\/\/i.discogs.com\/tOA5-RiZWwNe28dctpVpHi7L4Jy-7IYQWObe79i8wI8\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEwMzM5\/NTc3LTE0OTU2MTMy\/NjctNTE0MC5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/_cHVaF8cPbGf6TsdNSkrVzSNswhYCNo_f1atBQ3cn94\/rs:fit\/g:sm\/q:90\/h:512\/w:500\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEwMzM5\/NTc3LTE0OTU2MTMy\/NjctNTE0MC5qcGVn.jpeg",
-        "genres": [
-            "Classical"
-        ],
-        "release_year": "1978",
-        "barcode": [
-            "ASD 3615",
-            "ASD 3616",
-            "ASD 3617"
-        ],
-        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
-    },
-    "13903884": {
-        "id": 13903884,
-        "title": "I Don't Know How To Love Him",
-        "author": "Gloria Lynne",
-        "thumb": "https:\/\/i.discogs.com\/cCae2mNSErO0cgiUKoVHOe-Qh1T-h0zar4kdLs7VDB8\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEzOTAz\/ODg0LTE1NjM3MjE1\/MjctNjcxNy5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/lKjqdOxpIIAWjqnpFXYTb8x6p-Nz4Oadr1KQ6rGkF4I\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEzOTAz\/ODg0LTE1NjM3MjE1\/MjctNjcxNy5qcGVn.jpeg",
-        "genres": [
-            "Funk \/ Soul"
-        ],
-        "release_year": "1976",
-        "barcode": [
-            "ASD-9311-A",
-            "ASD-9311-B",
-            "T1 ASD-9311-A \u2460 A",
-            "T1 ASD-9311-B \u2460 A"
-        ],
-        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
-    },
-    "8239896": {
-        "id": 8239896,
-        "title": "Tito Gobbi \ud83d\udf84 Elisabeth Schwarzkopf \ud83d\udf84 Fedora Barbieri \ud83d\udf84 Nan Merriman \ud83d\udf84 Rolando Panerai \ud83d\udf84 Anna Moffo \ud83d\udf84 Luigi Alva",
-        "author": "Verdi*",
-        "thumb": "https:\/\/i.discogs.com\/3gMnfGTMJYScCMqeQFw2ye3Eo2YdO--6RAiepXSm9Vo\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTgyMzk4\/OTYtMTUzODgxNjc3\/Ny01NDM0LmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/CDZrUt7tLp0MT1GKc6T7AR_KO1UzJiKu0wYZLzA6804\/rs:fit\/g:sm\/q:90\/h:602\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTgyMzk4\/OTYtMTUzODgxNjc3\/Ny01NDM0LmpwZWc.jpeg",
-        "genres": [
-            "Classical",
-            "Stage & Screen"
-        ],
-        "release_year": "1981",
-        "barcode": [
-            "TC-ASD 3977",
-            "TC-ASD 3978",
-            "OC"
-        ],
-        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
-    },
-    "10995143": {
-        "id": 10995143,
-        "title": "Ernest Mercker, Gottlob Frick, Rias",
-        "author": "Pilar Lorengar, Fritz Wunderlich, Karl",
-        "thumb": "https:\/\/i.discogs.com\/tPz8YAvSovjKeTjHQ2IOQb_OJ6LdUNDJkqyQ4vZ2thU\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEwOTk1\/MTQzLTE1MDgwMzIx\/MjEtODQ4NS5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/fl-xojNJQIGPcybGa1AlQDXJsQ56af_gV9tnv-1bbXM\/rs:fit\/g:sm\/q:90\/h:594\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEwOTk1\/MTQzLTE1MDgwMzIx\/MjEtODQ4NS5qcGVn.jpeg",
-        "genres": [
-            "Classical"
-        ],
-        "release_year": "1963",
-        "barcode": [
-            "ASD. 522",
-            "ASD. 523",
-            "ASD. 524"
-        ],
-        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
-    },
-    "15123186": {
-        "id": 15123186,
-        "title": "M\u00e1 Vlast (My Country)",
-        "author": "Smetana*, Dvo\u0159\u00e1k*, Staatskapelle Dresden, Paavo Berglund",
-        "thumb": "https:\/\/i.discogs.com\/FNba1ShCI8I_Sohlal-h6MfibtQkP6zqHqwE8diD_0o\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1MTIz\/MTg2LTE1ODY5NzMy\/OTktMzk5Ny5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/3gFzoV4o4TCqcCNWlLOmuBvOVENKATrrLiukmcWC6QA\/rs:fit\/g:sm\/q:90\/h:601\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1MTIz\/MTg2LTE1ODY5NzMy\/OTktMzk5Ny5qcGVn.jpeg",
-        "genres": [
-            "Classical"
-        ],
-        "release_year": "1979",
-        "barcode": [
-            "TC-ASD 3634",
-            "TC-ASD 3635"
-        ],
-        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
-    },
-    "54146": {
-        "id": 54146,
-        "title": "Love In Us All",
-        "author": "Pharoah Sanders",
-        "thumb": "https:\/\/i.discogs.com\/Dt9aS29kCSIsERWZD88HhUV9hT703LqW8-ylSqt3730\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEwMzk5\/ODEtMTY2MjYzMjUx\/OC00OTY3LnBuZw.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/3OLPTwm1bQ36z_cNM0JPXYDE89L9jYnyME5Dn4lfRJU\/rs:fit\/g:sm\/q:90\/h:599\/w:599\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEwMzk5\/ODEtMTY2MjYzMjUx\/OC00OTY3LnBuZw.jpeg",
-        "genres": [
-            "Jazz"
-        ],
-        "release_year": "1974",
-        "barcode": [
-            "BMI",
-            "ASD-9280-A",
-            "ASD-9280-B",
-            "T1 ASD-9280-A 1",
-            "T1 ASD-9280-B 2",
-            "T1 ASD-9280-A \u2460 3 P",
-            "T1 ASD-9280-B \u2460 5 A",
-            "T1 ASD-9280-A \u2460",
-            "T1 ASD-9280-B \u2460"
-        ],
-        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
-    },
-    "1039981": {
-        "id": 1039981,
-        "title": "Love In Us All",
-        "author": "Pharoah Sanders",
-        "thumb": "https:\/\/i.discogs.com\/Dt9aS29kCSIsERWZD88HhUV9hT703LqW8-ylSqt3730\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEwMzk5\/ODEtMTY2MjYzMjUx\/OC00OTY3LnBuZw.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/3OLPTwm1bQ36z_cNM0JPXYDE89L9jYnyME5Dn4lfRJU\/rs:fit\/g:sm\/q:90\/h:599\/w:599\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEwMzk5\/ODEtMTY2MjYzMjUx\/OC00OTY3LnBuZw.jpeg",
-        "genres": [
-            "Jazz"
-        ],
-        "release_year": "1974",
-        "barcode": [
-            "BMI",
-            "ASD-9280-A",
-            "ASD-9280-B",
-            "T1 ASD-9280-A 1",
-            "T1 ASD-9280-B 2",
-            "T1 ASD-9280-A \u2460 3 P",
-            "T1 ASD-9280-B \u2460 5 A",
-            "T1 ASD-9280-A \u2460",
-            "T1 ASD-9280-B \u2460"
-        ],
-        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
-    },
-    "430417": {
-        "id": 430417,
-        "title": "Coincide",
-        "author": "Dewey Redman",
-        "thumb": "https:\/\/i.discogs.com\/X7P6U-dTE9iXCyjijxoiYE0Y3iga0oXTuWyK09KuzwE\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQzMDQx\/Ny0xNTg2MjczNDY1\/LTI5MTAuanBlZw.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/LtViT0Sz0xCRbOUd2RJkXsrTXUVIA0CPKjfh4Vd9iNs\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQzMDQx\/Ny0xNTg2MjczNDY1\/LTI5MTAuanBlZw.jpeg",
-        "genres": [
-            "Jazz"
-        ],
-        "release_year": "1975",
-        "barcode": [
-            "TI  ASD-9300-A-3",
-            "TI  ASD-9300-A-2",
-            "TI  ASD-9300-B-I",
-            "KENDUN.",
-            "ASCAP"
-        ],
-        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
-    },
-    "6068538": {
-        "id": 6068538,
-        "title": "Hard Work",
-        "author": "John Handy",
-        "thumb": "https:\/\/i.discogs.com\/DZogKEbOEYt8FJ-jmt6vTszoAhj0E7AvGI-E98JFyTA\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTYwNjg1\/MzgtMTQxMDI0NDYy\/MC00NzQxLmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/5zOj2YNZuJ9f0Pu_V1XUZh3twolkz_EjBnewIn6rb6Y\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTYwNjg1\/MzgtMTQxMDI0NDYy\/MC00NzQxLmpwZWc.jpeg",
-        "genres": [
-            "Jazz",
-            "Blues"
-        ],
-        "release_year": "1976",
-        "barcode": [
-            "BMI",
-            "ASD-9314-A",
-            "ASD-9314-B",
-            "ASD - 9314-A - \u2466 K",
-            "ASD - 9314-B - \u2466 K",
-            "ASD - 9314-A - \u2466 K",
-            "ASD - 9314-B - \u2467 K"
-        ],
-        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
-    },
-    "11001179": {
-        "id": 11001179,
-        "title": "Tales Of Hoffmann",
-        "author": "Offenbach*, Beverly Sills, Julius Rudel, Stuart Burrows, Susanne Marsee, Nico Castel, London Symphony Orchestra*, John Alldis Choir",
-        "thumb": "https:\/\/i.discogs.com\/IMnuI1kqobrbmoZ-grPwE2F3lbcJLeHomklQjLPFHrY\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTExMDAx\/MTc5LTE1MDc5OTQy\/NzQtNjY5NC5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/Lm14pI4uJo40273FCv8PxAI4TbD7sneRPPC53wviQ8o\/rs:fit\/g:sm\/q:90\/h:539\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTExMDAx\/MTc5LTE1MDc5OTQy\/NzQtNjY5NC5qcGVn.jpeg",
-        "genres": [
-            "Classical"
-        ],
-        "release_year": "1973",
-        "barcode": [
-            "ASD. 2919",
-            "ASD. 2920",
-            "ASD. 2921"
-        ],
-        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
-    },
-    "9698007": {
-        "id": 9698007,
-        "title": "Impulse Energy Essentials (A Developmental And Historical Introduction To The New Music)",
-        "author": "Various",
-        "thumb": "https:\/\/i.discogs.com\/2NOpfV-uWEmWBURSEh2QyiEUWU42mi48c-o1Reb0uWQ\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTk2OTgw\/MDctMTQ4NDk1MjI2\/MS00NDExLmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/aO3CC-Y8Dh7hs8T-7v97CEfKNWjuNn2eJD59Xfq65fg\/rs:fit\/g:sm\/q:90\/h:596\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTk2OTgw\/MDctMTQ4NDk1MjI2\/MS00NDExLmpwZWc.jpeg",
-        "genres": [
-            "Jazz"
-        ],
-        "release_year": "1972",
-        "barcode": [
-            "ASCAP",
-            "BMI",
-            "ASD-9228-A",
-            "ASD-9228-B",
-            "ASD-9228-C",
-            "ASD-9228-D",
-            "ASD-9228-E",
-            "ASD-9228-F",
-            "ASD9228-A TG",
-            "ASD9228-B TG",
-            "ASD-9228-C TG",
-            "ASD-9228-E TG",
-            "ASD-9228-E TG",
-            "AS-9228-F TG"
-        ],
-        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
-    },
-    "21675586": {
-        "id": 21675586,
-        "title": "The Nutcracker (Complete Ballet)",
-        "author": "Tchaikovsky*, London Symphony Orchestra* Conducted By Andr\u00e9 Previn",
-        "thumb": "https:\/\/i.discogs.com\/WJDP9A-Ojdb8DZ2coS-QPSyisHCeHVs9LeGdWL3kwn0\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTIxNjc1\/NTg2LTE2NDE3Nzgz\/MzEtNzgyNC5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/ZsIrL2mlDVgiSwpnK1lOU0ZEOoLSyFKegi3hgbPwcs8\/rs:fit\/g:sm\/q:90\/h:595\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTIxNjc1\/NTg2LTE2NDE3Nzgz\/MzEtNzgyNC5qcGVn.jpeg",
-        "genres": [
-            "Classical"
+            "Folk, World, & Country"
         ],
         "release_year": "",
         "barcode": [
-            "TC-ASD 2849",
-            "TC-ASD 2850"
+            "5019396110120",
+            "5 019396 110120",
+            "LC 5111",
+            "MCPS",
+            "ICM K031304 EUCD 1101 1 1 3 0 4 3 2"
         ],
-        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
+        "timestamp": "Sat, 07 Jan 2023 13:39:07 - UK time"
     },
-    "11866456": {
-        "id": 11866456,
-        "title": "Hard Work",
-        "author": "John Handy",
-        "thumb": "https:\/\/i.discogs.com\/OATLdSAjgbUY_YWOUdX_8FvxE5ANJsnMwFOhE8dHcRw\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTExODY2\/NDU2LTE1MjM3NTIw\/MTktNjYyNS5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/OIFaye9Wx0UKw6SCCXcjPNHwJyzF5G2cs8xp5mR18Mk\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTExODY2\/NDU2LTE1MjM3NTIw\/MTktNjYyNS5qcGVn.jpeg",
+    "7847723": {
+        "id": 7847723,
+        "title": "Classical Indian Ragas",
+        "author": "Jayasri Banerjee",
+        "thumb": "https:\/\/i.discogs.com\/PnD8lAYvt8doUAGwWIaCoOG9rG6DxM2mE-tfZyKsVkg\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTc4NDc3\/MjMtMTQ1NjE2MjYz\/OC01NTEyLmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/bR2yxVjciXBYyiau8juB7ivBciTYw7QaJ6kaEY-Ywts\/rs:fit\/g:sm\/q:90\/h:617\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTc4NDc3\/MjMtMTQ1NjE2MjYz\/OC01NTEyLmpwZWc.jpeg",
         "genres": [
-            "Jazz"
+            "Folk, World, & Country"
         ],
-        "release_year": "1976",
+        "release_year": "1967",
+        "barcode": "Nessun codice a barre disponibile",
+        "timestamp": "Sat, 07 Jan 2023 13:39:07 - UK time"
+    },
+    "717079": {
+        "id": 717079,
+        "title": "Classical Indian Ragas",
+        "author": "Baluji Shrivastav",
+        "thumb": "https:\/\/i.discogs.com\/clhQuCkaMIjukF-LO-9fHJJa7ijLfQ3KuaRK-aKHkZY\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU5NDE5\/NTMtMTQwNjkyNjE4\/OS05NDI2LmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/kkC0M_abFTfpT_BZXTeq0BTIkS5sUn9B-AEYDoxrSho\/rs:fit\/g:sm\/q:90\/h:599\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU5NDE5\/NTMtMTQwNjkyNjE4\/OS05NDI2LmpwZWc.jpeg",
+        "genres": [
+            "Folk, World, & Country"
+        ],
+        "release_year": "1989",
         "barcode": [
-            "BMI",
-            "ASD-9314-A",
-            "ASD-9314-B",
-            " \\ \u03df",
-            " \\ \u03df ASD-9314-A \u2780",
-            " \\ \u03df ASD-9314-B \u2789 <",
-            " \\ \u03df ASD-9314-A \u24f6",
-            " \\ \u03df ASD-9314-B \u24fd"
+            "5 019396 110113",
+            "5019396110113",
+            "LC 5111",
+            "MCPS"
         ],
-        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
+        "timestamp": "Sat, 07 Jan 2023 13:39:07 - UK time"
     },
-    "14625609": {
-        "id": 14625609,
-        "title": "Hildegard Behrens, Jos\u00e9 van Dam, Karl",
-        "author": "Richard Strauss",
-        "thumb": "https:\/\/i.discogs.com\/Zu-88cpHRz1QKfhnINUN-HDwrmHFLHJ7BsrKsEfB1XA\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE0NjI1\/NjA5LTE1Nzg4NTE3\/MzMtMjM3Ny5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/ADMLKjyPSTaCs5uaQZn2_9YvVVnk85G8NxGmCO3FCF4\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE0NjI1\/NjA5LTE1Nzg4NTE3\/MzMtMjM3Ny5qcGVn.jpeg",
+    "3010139": {
+        "id": 3010139,
+        "title": "Classical Indian Ragas",
+        "author": "Jayasri Banerjee",
+        "thumb": "https:\/\/i.discogs.com\/TudYtk8OugWQQowCiIIz4mqbNyWlbQ36jKjQ-pVzEn4\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTMwMTAx\/MzktMTU5NzcyMjE5\/Ni04OTQzLmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/poI1866tQSFLucCF9RGkLegUUEeLwGT6Gb1VsdCLqtg\/rs:fit\/g:sm\/q:90\/h:587\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTMwMTAx\/MzktMTU5NzcyMjE5\/Ni04OTQzLmpwZWc.jpeg",
         "genres": [
-            "Classical"
+            "Folk, World, & Country"
         ],
-        "release_year": "1978",
+        "release_year": "1967",
         "barcode": [
-            "TC-ASD 3575",
-            "TC-ASD 3576"
+            "184 108 A",
+            "184 108 B",
+            "A1 1 \u2117 1967 M7\u25c7K 00 184108 A",
+            "A1 1 \u2117 1967 M7\u25c7K 00 184108 B"
         ],
-        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
+        "timestamp": "Sat, 07 Jan 2023 13:39:07 - UK time"
     },
-    "1254614": {
-        "id": 1254614,
-        "title": "Nicolai Gedda, Anneliese Rothenberger, Olivera Miljakovic, Heinz Zednik, Benno Kusche, Bavarian State Opera Chorus*, Bavarian Symphony Orchestra*, Willi Boskovsky",
-        "author": "Franz Leh\u00e1r",
-        "thumb": "https:\/\/i.discogs.com\/9yWb2lgXpFh1_1GU63gfgcR5GTA2ftrlqnNoKWsP1Zs\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTExMDI1\/OTE5LTE1MDg0OTMw\/NDMtNDgzOS5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/DNFpDrJsHjiM6zh0vDMkX3gdbuaKXjxfLliU7NGmOwQ\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTExMDI1\/OTE5LTE1MDg0OTMw\/NDMtNDgzOS5qcGVn.jpeg",
+    "11502558": {
+        "id": 11502558,
+        "title": "Indian Classical Ragas",
+        "author": "Amjad Ali Khan",
+        "thumb": "https:\/\/i.discogs.com\/gdG7Q3fBM6qJI1QH-eS_KC6KWK5ULlPGq-7uXEEtKsA\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTExNTAy\/NTU4LTE1NjQwNDE1\/OTQtNjczNi5qcGVn.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/o6q_HB-BdJ1s2xGpYHzmKk57LzVjRAbCH-mKyUTRHJs\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTExNTAy\/NTU4LTE1NjQwNDE1\/OTQtNjczNi5qcGVn.jpeg",
         "genres": [
-            "Classical",
-            "Stage & Screen"
+            "Folk, World, & Country"
         ],
-        "release_year": "1977",
+        "release_year": "2011",
         "barcode": [
-            "ASD 3507",
-            "ASD 3508"
+            "5 065000 924485",
+            "5065000924485",
+            "DDD",
+            "LC 14458",
+            "| RPM11071WHLIVE0047 |48208|",
+            "IFPI LD12",
+            "IFPI 5705"
         ],
-        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
+        "timestamp": "Sat, 07 Jan 2023 13:39:07 - UK time"
     },
-    "1305683": {
-        "id": 1305683,
-        "title": "Piano Duets",
-        "author": "Schubert*, Christoph Eschenbach, Justus Frantz",
-        "thumb": "https:\/\/i.discogs.com\/qaP-mPkXQgnpuyz_cPwBrhg1sTk1uD_HwXRiTqZKACw\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTg1MzI4\/NjAtMTQ2MzUwNzcw\/OC04MzQxLmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/znJS72_54b-PCDbCOCs4VjAXpomxetxv4nJJ96fZkjk\/rs:fit\/g:sm\/q:90\/h:595\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTg1MzI4\/NjAtMTQ2MzUwNzcw\/OC04MzQxLmpwZWc.jpeg",
+    "7478655": {
+        "id": 7478655,
+        "title": "Classical Indian Ragas",
+        "author": "Jayasri Banerjee",
+        "thumb": "https:\/\/i.discogs.com\/e7DyKGa5AiLSW1A8tbQUZAIpSe5LlxHLWL5vhVFfjHI\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTc0Nzg2\/NTUtMTQ0MjMwNTcz\/MS01NzE5LmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/4AKkbiSIL6ciUt1wHfN_EWrGiM6MOSH5XLyaFcIaRog\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTc0Nzg2\/NTUtMTQ0MjMwNTcz\/MS01NzE5LmpwZWc.jpeg",
         "genres": [
-            "Classical"
+            "Folk, World, & Country"
         ],
-        "release_year": "1978",
+        "release_year": "1967",
+        "barcode": "Nessun codice a barre disponibile",
+        "timestamp": "Sat, 07 Jan 2023 13:39:07 - UK time"
+    },
+    "5941953": {
+        "id": 5941953,
+        "title": "Classical Indian Ragas",
+        "author": "Baluji Shrivastav",
+        "thumb": "https:\/\/i.discogs.com\/clhQuCkaMIjukF-LO-9fHJJa7ijLfQ3KuaRK-aKHkZY\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU5NDE5\/NTMtMTQwNjkyNjE4\/OS05NDI2LmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/kkC0M_abFTfpT_BZXTeq0BTIkS5sUn9B-AEYDoxrSho\/rs:fit\/g:sm\/q:90\/h:599\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU5NDE5\/NTMtMTQwNjkyNjE4\/OS05NDI2LmpwZWc.jpeg",
+        "genres": [
+            "Folk, World, & Country"
+        ],
+        "release_year": "1989",
         "barcode": [
-            "ASD 3593",
-            "ASD 3594"
+            "5 019396 110113",
+            "5019396110113",
+            "LC 5111",
+            "MCPS"
         ],
-        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
+        "timestamp": "Sat, 07 Jan 2023 13:39:07 - UK time"
     },
-    "1114711": {
-        "id": 1114711,
-        "title": "The Complete Brandenburg Concertos",
-        "author": "Bach*, Polish Chamber Orchestra, Jerzy Maksymiuk",
-        "thumb": "https:\/\/i.discogs.com\/GkvQMCtSMrJGWGbIe1qNk0iPLu9t8ck7WxFsSVxKJlc\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTc5Njc4\/MjQtMTUwMTE1NzMx\/OC0zNjkzLmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/GReyzOXXROnCTK9YYORO130FXFnsh0JQdIL4-7p1lIA\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTc5Njc4\/MjQtMTUwMTE1NzMx\/OC0zNjkzLmpwZWc.jpeg",
+    "5949779": {
+        "id": 5949779,
+        "title": "Classical Indian Ragas",
+        "author": "Baluji Shrivastav",
+        "thumb": "https:\/\/i.discogs.com\/fpadC9v9hQke0Wa3E0kaRwwhuOMvRuzFRCQhvEvJY14\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU5NDk3\/NzktMTU4OTg3MzQ0\/MC0yNjk2LmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/_9IwjgI4vpVCqWbLFzw_vxaP4Isd7s01oKw4JeptsZ8\/rs:fit\/g:sm\/q:90\/h:603\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU5NDk3\/NzktMTU4OTg3MzQ0\/MC0yNjk2LmpwZWc.jpeg",
         "genres": [
-            "Classical"
+            "Folk, World, & Country"
         ],
-        "release_year": "1979",
+        "release_year": "1989",
         "barcode": [
-            "ASD 3658",
-            "ASD 3659"
+            "5 019396 110120",
+            "5019396110120",
+            "MCPS",
+            "LC 5111",
+            "ICM K031304 EUCD 1101 1 1 3 0 4 3 2",
+            "80"
         ],
-        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
+        "timestamp": "Sat, 07 Jan 2023 13:39:07 - UK time"
     },
-    "17233873": {
-        "id": 17233873,
-        "title": "Sleeping Beauty (Complete Ballet)",
-        "author": "Tchaikovsky*, Andr\u00e9 Previn, London Symphony Orchestra*",
-        "thumb": "https:\/\/i.discogs.com\/GhLJRsohTChvE_xos1saPG3EnCp8C60MG-oigyBo6Nk\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE3MjMz\/ODczLTE2MTIzMzQz\/NTEtNDM5Ny5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/N55TOP7GrsR7D3lkhp2VCRa0BqIN6poYUO1t9KmYHyU\/rs:fit\/g:sm\/q:90\/h:440\/w:450\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE3MjMz\/ODczLTE2MTIzMzQz\/NTEtNDM5Ny5qcGVn.jpeg",
+    "885722": {
+        "id": 885722,
+        "title": "Classical Indian Ragas",
+        "author": "Jayasri Banerjee",
+        "thumb": "https:\/\/i.discogs.com\/TudYtk8OugWQQowCiIIz4mqbNyWlbQ36jKjQ-pVzEn4\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTMwMTAx\/MzktMTU5NzcyMjE5\/Ni04OTQzLmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/poI1866tQSFLucCF9RGkLegUUEeLwGT6Gb1VsdCLqtg\/rs:fit\/g:sm\/q:90\/h:587\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTMwMTAx\/MzktMTU5NzcyMjE5\/Ni04OTQzLmpwZWc.jpeg",
         "genres": [
-            "Classical"
+            "Folk, World, & Country"
         ],
-        "release_year": "1974",
+        "release_year": "1967",
         "barcode": [
-            "OASD 3040",
-            "OASD 3041",
-            "OASD 3042"
+            "184 108 A",
+            "184 108 B",
+            "A1 1 \u2117 1967 M7\u25c7K 00 184108 A",
+            "A1 1 \u2117 1967 M7\u25c7K 00 184108 B"
         ],
-        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
+        "timestamp": "Sat, 07 Jan 2023 13:39:07 - UK time"
     },
-    "1735960": {
-        "id": 1735960,
-        "title": "Warm & Sonny",
-        "author": "Sonny Criss",
-        "thumb": "https:\/\/i.discogs.com\/JfGIWI3MWwdWVDVSDRLeylPRt89dnbLuaDHy2K9TZwU\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE3MzU5\/NjAtMTI0MjQ5Nzk2\/MS5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/AuqUQqTfMrN5eKtW0Hzx1kkagf6ArXR8GDOtWMgdNoo\/rs:fit\/g:sm\/q:90\/h:432\/w:432\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE3MzU5\/NjAtMTI0MjQ5Nzk2\/MS5qcGVn.jpeg",
+    "14337193": {
+        "id": 14337193,
+        "title": "Classical North Indian Ragas",
+        "author": "G. S. Sachdev",
+        "thumb": "https:\/\/i.discogs.com\/cxcir4p-pUtwfg8Z_tjFGtoWC4-VwzjU2HKhe8iScd8\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE0MzM3\/MTkzLTE1NzI0ODY1\/NjEtNTEzNC5qcGVn.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/rTarWotYwhBwAjZRyUicEJ3C5y7fElCeOQapouW_KQc\/rs:fit\/g:sm\/q:90\/h:638\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE0MzM3\/MTkzLTE1NzI0ODY1\/NjEtNTEzNC5qcGVn.jpeg",
         "genres": [
-            "Jazz"
+            "Folk, World, & Country"
         ],
-        "release_year": "1976",
+        "release_year": "1994",
+        "barcode": "Nessun codice a barre disponibile",
+        "timestamp": "Sat, 07 Jan 2023 13:39:07 - UK time"
+    },
+    "5110941": {
+        "id": 5110941,
+        "title": "Classical Indian Sitar & Surbahar Ragas",
+        "author": "Baluji Shrivastav, Sarwar Sabri",
+        "thumb": "https:\/\/i.discogs.com\/jUxmwq6-5uS0Nh8iqacf8EkfzF9CClNu-oFQ3OEe4nI\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTUxMTA5\/NDEtMTUwOTA4OTc3\/MS04NDgzLmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/9r7z_9l4V0Cef1a2sorKprSyelHaacrtPtcHOjwi1f0\/rs:fit\/g:sm\/q:90\/h:591\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTUxMTA5\/NDEtMTUwOTA4OTc3\/MS04NDgzLmpwZWc.jpeg",
+        "genres": [
+            "Folk, World, & Country"
+        ],
+        "release_year": "1990",
+        "barcode": "Nessun codice a barre disponibile",
+        "timestamp": "Sat, 07 Jan 2023 13:39:07 - UK time"
+    },
+    "5307102": {
+        "id": 5307102,
+        "title": "Classical Indian Ragas: Shadow Of The Lotus",
+        "author": "Baluji Shrivastav",
+        "thumb": "https:\/\/i.discogs.com\/MrhEVcpMdznaskHc5ct1pdlluaa6G6-aPUJEtp_vCKs\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTUzMDcx\/MDItMTU4OTg3MzE3\/Ni04NTUxLmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/J_82zbw-xsMbuChe4B8wjww8Gurz8O5Ol5mGI3IMR_I\/rs:fit\/g:sm\/q:90\/h:602\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTUzMDcx\/MDItMTU4OTg3MzE3\/Ni04NTUxLmpwZWc.jpeg",
+        "genres": [
+            "Folk, World, & Country"
+        ],
+        "release_year": "2007",
         "barcode": [
-            "BMI",
-            "ASCAP",
-            "ASD-9312-A",
-            "ASD-9312-B",
-            "TI ASD-9312-A \u2461 A",
-            "TI ASD-9312-B \u2460 ",
-            "T"
+            "5 019396 206120",
+            "5019396206120",
+            "LC 05111",
+            "mcps",
+            "644.155 EUCD 2061 #2 manufactured by kdg",
+            "IFPI L173",
+            "IFPI 3077"
         ],
-        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
+        "timestamp": "Sat, 07 Jan 2023 13:39:07 - UK time"
     },
-    "4849398": {
-        "id": 4849398,
-        "title": "Warm & Sonny",
-        "author": "Sonny Criss",
-        "thumb": "https:\/\/i.discogs.com\/uHyLUa_Yg44s0uCy591nQbt1FLQTz4pcRUtJUKAHHF4\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQ4NDkz\/OTgtMTM3NzQyODA3\/NS04MTkxLmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/Irks2UvbHuRFN7WDITGetjiJrxFtC_ZbIZslhPnMC_I\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQ4NDkz\/OTgtMTM3NzQyODA3\/NS04MTkxLmpwZWc.jpeg",
+    "11058739": {
+        "id": 11058739,
+        "title": "Classical Indian Sitar & Surbahar Ragas",
+        "author": "Baluji Shrivastav, Sarwar Sabri",
+        "thumb": "",
+        "cover_img": "https:\/\/st.discogs.com\/c9ad0a0c08228b865c524cda14eb218c9d34fd51\/images\/spacer.gif",
         "genres": [
-            "Jazz"
-        ],
-        "release_year": "1976",
-        "barcode": [
-            "T1 ASD-9312-A",
-            "T1 ASD-9312-B"
-        ],
-        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
-    },
-    "493310": {
-        "id": 493310,
-        "title": "Pathways To Unknown Worlds",
-        "author": "Sun Ra And His Astro Infinity Arkestra*",
-        "thumb": "https:\/\/i.discogs.com\/8m-O6h1eKN2m63TFtFa0bXXq5BDdWpY7Z5gdYMa_C88\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQwNDQ2\/MDctMTQxNjUxMjMz\/OC03MTIzLmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/a22j5Rkrcnh2uzZavIxm5SEVAR6oVix7e7r5TEs4epU\/rs:fit\/g:sm\/q:90\/h:597\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQwNDQ2\/MDctMTQxNjUxMjMz\/OC03MTIzLmpwZWc.jpeg",
-        "genres": [
-            "Jazz"
-        ],
-        "release_year": "1975",
-        "barcode": [
-            "BMI",
-            "ASD-9298-A",
-            "ASD-9298-B",
-            "T2 ASD-9298-A \u24d8 KENDUN",
-            "T1 ASD-9298-B \u24d8 KENDUN",
-            "T2 ASD - 9298- A \u2460 KENDUN A 3",
-            "T 1 ASD- 9298- B \u2460 KENDUN C 1"
-        ],
-        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
-    },
-    "8353576": {
-        "id": 8353576,
-        "title": "Siegfried (The Sadler's Wells Opera Production In English)",
-        "author": "Richard Wagner, Alberto Remedios, Norman Bailey, Rita Hunter, Sadler's Wells Opera Orchestra*, Reginald Goodall",
-        "thumb": "https:\/\/i.discogs.com\/8zz6uNDKmnEhf0OIQp7p1HzEIg3pcpTKim0olxy_1wc\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTgzNTM1\/NzYtMTQ1OTk1Mzk1\/NS02OTA5LmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/M0WdAO9SEDQCt4eWYeAd_Q-nDajgGHYFuNVuHy3x3CE\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTgzNTM1\/NzYtMTQ1OTk1Mzk1\/NS02OTA5LmpwZWc.jpeg",
-        "genres": [
-            "Classical"
-        ],
-        "release_year": "1974",
-        "barcode": [
-            "2YEA.4925",
-            "2YEA.4926",
-            "2YEA.4927",
-            "2YEA.4928",
-            "2YEA.4929",
-            "2YEA.4930",
-            "2YEA.4931",
-            "2YEA.4932",
-            "2YEA.4933",
-            "2YEA.4934",
-            "ASD. 2978",
-            "ASD. 2979",
-            "ASD. 2980",
-            "ASD. 2981",
-            "ASD. 2982"
-        ],
-        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
-    },
-    "331337": {
-        "id": 331337,
-        "title": "The Sounds Of Disco",
-        "author": "The Stringfield Family",
-        "thumb": "https:\/\/i.discogs.com\/LrsG9a-JSJOqCAwUbQOCZHSWzQQ7wMIlFXVMq3-peqw\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEwNzYz\/OTEtMTI4NTc3ODIy\/OC5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/z2E9N2_umkm7CHgsRlthfokb-1CjOYNKDZX2kyrMtDg\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEwNzYz\/OTEtMTI4NTc3ODIy\/OC5qcGVn.jpeg",
-        "genres": [
-            "Funk \/ Soul"
-        ],
-        "release_year": "1975",
-        "barcode": [
-            "BMI",
-            "ASD-1000 A",
-            "ASD-1000 B",
-            "ASD-1000-AD F\/W ",
-            "ASD-1000-BD F\/W "
-        ],
-        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
-    },
-    "8047908": {
-        "id": 8047908,
-        "title": "Masterpiece II",
-        "author": "Various",
-        "thumb": "https:\/\/i.discogs.com\/rvqyEKgRtHFQCFPaanHs7-K0PQBGVwJLmLUVLc87Epk\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTgwNDc5\/MDgtMTQ1NDE5NTUx\/MS0yMDE2LmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/zKTEYKPjeEYVqFDcRbc9XScczmch9km3nPz0ORF4xaU\/rs:fit\/g:sm\/q:90\/h:605\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTgwNDc5\/MDgtMTQ1NDE5NTUx\/MS0yMDE2LmpwZWc.jpeg",
-        "genres": [
-            "Classical"
-        ],
-        "release_year": "1979",
-        "barcode": [
-            "ASD 9005 A",
-            "ASD 9005 B",
-            "ASD 9006 A",
-            "ASD 9006 B "
-        ],
-        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
-    },
-    "2014355": {
-        "id": 2014355,
-        "title": "Bad & Beautiful",
-        "author": "Sun Ra And His Arkestra*",
-        "thumb": "https:\/\/i.discogs.com\/B2RkGt6i7RqpOhV8n0Lj27CzKsqqT--SReqWj5IfRTU\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTIwMTQz\/NTUtMTUxNDg2MDI1\/MS03NzA1LmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/1Wv0VSl1zXSxjrzNyAvJAVf-kBSxrw7vcHCHp0Wy_og\/rs:fit\/g:sm\/q:90\/h:597\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTIwMTQz\/NTUtMTUxNDg2MDI1\/MS03NzA1LmpwZWc.jpeg",
-        "genres": [
-            "Jazz"
-        ],
-        "release_year": "1975",
-        "barcode": [
-            "ASD-9276-A",
-            "ASD-9276-B",
-            "T1 ASD-9276-A \u2460 > A I ",
-            "T1 ASD-9276-B \u2461 > A I ",
-            "ASCAP",
-            "BMI"
-        ],
-        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
-    },
-    "4044607": {
-        "id": 4044607,
-        "title": "Pathways To Unknown Worlds",
-        "author": "Sun Ra And His Astro Infinity Arkestra*",
-        "thumb": "https:\/\/i.discogs.com\/8m-O6h1eKN2m63TFtFa0bXXq5BDdWpY7Z5gdYMa_C88\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQwNDQ2\/MDctMTQxNjUxMjMz\/OC03MTIzLmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/a22j5Rkrcnh2uzZavIxm5SEVAR6oVix7e7r5TEs4epU\/rs:fit\/g:sm\/q:90\/h:597\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQwNDQ2\/MDctMTQxNjUxMjMz\/OC03MTIzLmpwZWc.jpeg",
-        "genres": [
-            "Jazz"
-        ],
-        "release_year": "1975",
-        "barcode": [
-            "BMI",
-            "ASD-9298-A",
-            "ASD-9298-B",
-            "T2 ASD-9298-A \u24d8 KENDUN",
-            "T1 ASD-9298-B \u24d8 KENDUN",
-            "T2 ASD - 9298- A \u2460 KENDUN A 3",
-            "T 1 ASD- 9298- B \u2460 KENDUN C 1"
-        ],
-        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
-    },
-    "4096356": {
-        "id": 4096356,
-        "title": "Favoritter",
-        "author": "Birgit Lystager",
-        "thumb": "https:\/\/i.discogs.com\/MR_a-bLkwVjOiq6J4uY-JqM3i7fvgXmehQ2ZgFG8R8A\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQwOTYz\/NTYtMTM1NTEzMDc3\/Ni03OTUyLmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/ie4hn4e_VHkOIkgn6DVbEBeMvxqIUp7cveUPR2RiNes\/rs:fit\/g:sm\/q:90\/h:581\/w:590\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQwOTYz\/NTYtMTM1NTEzMDc3\/Ni03OTUyLmpwZWc.jpeg",
-        "genres": [
-            "Pop"
-        ],
-        "release_year": "1972",
-        "barcode": [
-            "NCB",
-            "Cas-d 108-A",
-            "Cas-d 108-B",
-            "CAS-D-108-A",
-            "CAS-D-108-B"
-        ],
-        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
-    },
-    "12788086": {
-        "id": 12788086,
-        "title": "Octeto De Buenos Aires",
-        "author": "Nestor Marconi*",
-        "thumb": "https:\/\/i.discogs.com\/42NGgujrsfoCOZgvT11i1IJJC6SWbmp0hLNWTT__0vQ\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEyNzg4\/MDg2LTE1NDE5NTM0\/MzUtNjc4My5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/ZT5ud_to065-kxrKZ1nCMj7UVkt5khuoEu7o1B4Zw1M\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEyNzg4\/MDg2LTE1NDE5NTM0\/MzUtNjc4My5qcGVn.jpeg",
-        "genres": [
-            "Latin"
+            "Folk, World, & Country"
         ],
         "release_year": "1990",
         "barcode": [
-            "JASRAC",
-            "VICP-101-1-ASD   V"
+            "LC 5111",
+            "MCPS"
         ],
-        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
+        "timestamp": "Sat, 07 Jan 2023 13:39:07 - UK time"
     },
-    "8267661": {
-        "id": 8267661,
-        "title": "Klaus Tennstedt, London Philharmonic Orchestra*",
-        "author": "Mahler*",
-        "thumb": "https:\/\/i.discogs.com\/3Oj8INrtBIErZvoRToCEZigB8So3q7ueFygDotWI6FI\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTgyNjc2\/NjEtMTUzODk5ODU2\/OC0zNzcyLmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/n3eUa-jnigq9JD581GqNi1tHleoZqdTfcLlm0JwoISE\/rs:fit\/g:sm\/q:90\/h:609\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTgyNjc2\/NjEtMTUzODk5ODU2\/OC0zNzcyLmpwZWc.jpeg",
+    "12639086": {
+        "id": 12639086,
+        "title": "Classical Indian Sitar & Surbahar Ragas",
+        "author": "Baluji Shrivastav, Sarwar Sabri",
+        "thumb": "https:\/\/i.discogs.com\/oO8GkGn56mj6ASUoqgswnH5UDYLFL96dJTwiOXpUUn8\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEyNjM5\/MDg2LTE1MzkxMTM4\/OTMtODY2NC5qcGVn.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/ky0kPY02Uw9AdmkMPM3GA9mWwR29p0h5i0IsS2cQHqg\/rs:fit\/g:sm\/q:90\/h:603\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEyNjM5\/MDg2LTE1MzkxMTM4\/OTMtODY2NC5qcGVn.jpeg",
         "genres": [
-            "Classical"
+            "Folk, World, & Country"
         ],
-        "release_year": "1983",
+        "release_year": "1997",
         "barcode": [
-            "TC-ASD 1435744",
-            "TC-ASD 1435754"
+            "5 019396 113923",
+            "MCPS",
+            "LC 5111",
+            "AAC0570 50828 EUCD1392DXP  : 1 : 0",
+            "IFPI L123"
         ],
-        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
+        "timestamp": "Sat, 07 Jan 2023 13:39:07 - UK time"
     },
-    "24585617": {
-        "id": 24585617,
-        "title": "Tarandot",
-        "author": "Puccini*, Montserrat Caball\u00e9, Jos\u00e9 Carreras, Mirella Freni, Paul Plishka, Michel S\u00e9n\u00e9chal, Chorus Of L'Op\u00e9ra du Rhin*, Strasbourg Philarmonic Orchestra*, Alain Lombard",
-        "thumb": "https:\/\/i.discogs.com\/19fGwRLUSIR4-xHRUIXUcalZ4Ly0y4X8_9UsFzfGDNY\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI0NTg1\/NjE3LTE2NjM3NzIx\/OTUtNDgyNS5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/y98zksxREtN2MwaRIwFdvNnbllfWFgH2ZE1gaKCPfZo\/rs:fit\/g:sm\/q:90\/h:608\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI0NTg1\/NjE3LTE2NjM3NzIx\/OTUtNDgyNS5qcGVn.jpeg",
+    "4301889": {
+        "id": 4301889,
+        "title": "Classical Indian Sitar & Surbahar Ragas",
+        "author": "Baluji Shrivastav",
+        "thumb": "https:\/\/i.discogs.com\/Rn6rtmfGPBDeRtoEKFQlbaWXg4dDYsQkfK-lOjHcZLM\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQzMDE4\/ODktMTM2MTE1MDYw\/Ni00OTAzLmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/SxM6z-9A39o_dSrbXpjY-MA1dh_-KRxHBskhNIlu4rA\/rs:fit\/g:sm\/q:90\/h:300\/w:300\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQzMDE4\/ODktMTM2MTE1MDYw\/Ni00OTAzLmpwZWc.jpeg",
         "genres": [
-            "Classical"
+            "Folk, World, & Country"
         ],
-        "release_year": "1978",
+        "release_year": "1999",
         "barcode": [
-            "ASD 3572",
-            "ASD 3573",
-            "ASD 3574"
+            "5 019396 157224",
+            "LC 05111"
         ],
-        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
+        "timestamp": "Sat, 07 Jan 2023 13:39:07 - UK time"
     },
-    "2797273": {
-        "id": 2797273,
-        "title": "A Lot Of Bottle",
-        "author": "Climax Blues Band",
-        "thumb": "https:\/\/i.discogs.com\/4nT3eeM82NLuMftB_tUJJAgcWdA1PPu1JIeRSGOZApA\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI3OTcy\/NzMtMTYyNzYzMTcw\/MC04NDc5LmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/7omjSqA6-h5MWy8C0RLBVCEktxj6C_WYqB45tjoUd24\/rs:fit\/g:sm\/q:90\/h:599\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI3OTcy\/NzMtMTYyNzYzMTcw\/MC04NDc5LmpwZWc.jpeg",
+    "6119519": {
+        "id": 6119519,
+        "title": "Classical Indian Sitar & Surbahar Ragas",
+        "author": "Baluji Shrivastav, Sarwar Sabri",
+        "thumb": "https:\/\/i.discogs.com\/4SZqcoQA3I3xl-_gsTkWivKTpz-6Je-qqtGx1HplGMs\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTYxMTk1\/MTktMTU5MjY2MjIy\/Mi05MDA5LmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/-2R2Zt6cQq77kiHRtRTstiGl-D-_z_N1MAPfaDyumxM\/rs:fit\/g:sm\/q:90\/h:605\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTYxMTk1\/MTktMTU5MjY2MjIy\/Mi05MDA5LmpwZWc.jpeg",
         "genres": [
-            "Rock",
-            "Blues"
+            "Folk, World, & Country"
         ],
-        "release_year": "1976",
+        "release_year": "1995",
         "barcode": [
-            "p",
-            "SASD-7518-A",
-            "SASD-7518-B",
-            "SASD 7518-A",
-            "SASD 7518-B",
-            "p STERLING",
-            "ASCAP",
-            "BMI"
+            "5 019396 113923",
+            "5019396113923",
+            "LC 5111",
+            "MCPS",
+            "ICM K111603 EUCD 1139 1 1 3  1 1 5 8",
+            "IFPI 3026"
         ],
-        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
+        "timestamp": "Sat, 07 Jan 2023 13:39:07 - UK time"
     },
-    "1259069": {
-        "id": 1259069,
-        "title": "Go With The Flow",
-        "author": "Michael White's Magic Music Company",
-        "thumb": "https:\/\/i.discogs.com\/B4fV8YJLKB8hb8M3bUKXuuICrxOL75wYcK-kMwmNhXo\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEyNTkw\/NjktMTUyMDE4Nzky\/Ni0xNjkyLmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/CvWyi77CqK63PpS34aKsb0MdluE8BegiglrQl8kYGeA\/rs:fit\/g:sm\/q:90\/h:599\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEyNTkw\/NjktMTUyMDE4Nzky\/Ni0xNjkyLmpwZWc.jpeg",
+    "941866": {
+        "id": 941866,
+        "title": "Classical Indian Sitar & Surbahar Ragas",
+        "author": "Baluji Shrivastav, Sarwar Sabri",
+        "thumb": "https:\/\/i.discogs.com\/jUxmwq6-5uS0Nh8iqacf8EkfzF9CClNu-oFQ3OEe4nI\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTUxMTA5\/NDEtMTUwOTA4OTc3\/MS04NDgzLmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/9r7z_9l4V0Cef1a2sorKprSyelHaacrtPtcHOjwi1f0\/rs:fit\/g:sm\/q:90\/h:591\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTUxMTA5\/NDEtMTUwOTA4OTc3\/MS04NDgzLmpwZWc.jpeg",
         "genres": [
-            "Jazz"
+            "Folk, World, & Country"
         ],
-        "release_year": "1974",
-        "barcode": [
-            "T1 ASD-9281-A 2",
-            "KENDUN",
-            "T1 ASD-9281-B 1",
-            "KENDUN",
-            "ASCAP",
-            "BMI"
-        ],
-        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
+        "release_year": "1990",
+        "barcode": "Nessun codice a barre disponibile",
+        "timestamp": "Sat, 07 Jan 2023 13:39:07 - UK time"
     },
-    "6748142": {
-        "id": 6748142,
-        "title": "Symphony No. 5 With Five R\u00fcckert Songs",
-        "author": "Sir John Barbirolli Conducts Mahler*, Janet Baker, New Philharmonia Orchestra",
-        "thumb": "https:\/\/i.discogs.com\/96-eddPrrPqEDPff6zPuZ82d9p17ltz2xkzGY_lYH8c\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTY3NDgx\/NDItMTQyNTgxNTEx\/NC04MDQ5LmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/ti746xW3tEFsxn7iuFZ_fEJNjJzhXcnqiAkjRz0n9FE\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTY3NDgx\/NDItMTQyNTgxNTEx\/NC04MDQ5LmpwZWc.jpeg",
+    "10284185": {
+        "id": 10284185,
+        "title": "Classical Indian Song Recital: Ragas & Bhajans",
+        "author": "Professor Vishwanath Shrikhande",
+        "thumb": "https:\/\/i.discogs.com\/LmP99w1a26MtkhJgMS9rutdUFhMkqjDPZCHoL5dwcMU\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEwMjg0\/MTg1LTE0OTQ3NDk3\/MzktODE4Ny5qcGVn.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/I1jJLTKcbwsyfNPSiJssn-0LQzanVMGeIHnd9xBeJYU\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEwMjg0\/MTg1LTE0OTQ3NDk3\/MzktODE4Ny5qcGVn.jpeg",
         "genres": [
-            "Classical"
-        ],
-        "release_year": "1969",
-        "barcode": [
-            "ASD 2518",
-            "ASD 2519",
-            "ASD. 2518",
-            "ASD. 2519",
-            "2YEA.3841",
-            "2YEA.3842",
-            "2YEA.3843",
-            "2YEA.3844"
-        ],
-        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
-    },
-    "13238855": {
-        "id": 13238855,
-        "title": "Dieskau \/ Christa Ludwig \/ Christa Ludwig \/ Gottlob Frick \/ Otto Wiener",
-        "author": "Wagner* \/ The Vienna Philharmonic Orchestra* \/ Vienna State Opera Chorus* \/ Rudolf Kempe \/ Jess Thomas \/ Elisabeth Gr\u00fcmmer \/ Dietrich Fischer",
-        "thumb": "https:\/\/i.discogs.com\/HXtExCPb1UdcLWo3DfD-5ddMKJSBfsD_yTXhoTXxOfI\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEzMjM4\/ODU1LTE2NTUzNjU4\/NjQtNzY4Ny5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/BTlYyTvNTOtX8fREZT0cWEnfyF19ocJJBvrmckS5zDA\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEzMjM4\/ODU1LTE2NTUzNjU4\/NjQtNzY4Ny5qcGVn.jpeg",
-        "genres": [
-            "Classical"
-        ],
-        "release_year": "",
-        "barcode": [
-            "2YVH.49",
-            "2YVH.50",
-            "2YVH.51",
-            "2YVH.52",
-            "2YVH.53",
-            "2YVH.54",
-            "2YVH.55",
-            "2YVH.56",
-            "2YVH.57",
-            "2YVH.58",
-            "ASD 3278",
-            "ASD 3279",
-            "ASD 3280",
-            "ASD 3281",
-            "ASD 3282"
-        ],
-        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
-    },
-    "6230094": {
-        "id": 6230094,
-        "title": "Coward \/ Bastard",
-        "author": "Another Social Disease",
-        "thumb": "https:\/\/i.discogs.com\/GIeX2RcGY36lg0oIxEiBhWWztoIHLBeG_r0ZjryzmW8\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTYyMzAw\/OTQtMTQxNzU4MTAx\/Mi02MTQ1LmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/ZBy0S4-RkR12FpIHCcQ76yWwm8xVgyqp42CO_mJds-4\/rs:fit\/g:sm\/q:90\/h:590\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTYyMzAw\/OTQtMTQxNzU4MTAx\/Mi02MTQ1LmpwZWc.jpeg",
-        "genres": [
-            "Rock"
-        ],
-        "release_year": "2014",
-        "barcode": [
-            "(Side A): ASD-02-A",
-            "(Side B): ASD-02-B"
-        ],
-        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
-    },
-    "18382558": {
-        "id": 18382558,
-        "title": "The Girl Of The Golden West",
-        "author": "Puccini*, Birgit Nilsson, Jo\u00e3o Gibin, Andrea Mongelli, Soloists, Chorus & Orchestra of Teatro alla Scala, Milan* Conducted by Lovro Von Matacic",
-        "thumb": "https:\/\/i.discogs.com\/Dk8vOXaaN-Z0KT3gu0tpaFj98e2-HTilNCiNn82tTMA\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE4Mzgy\/NTU4LTE2MTg5Mzk4\/NzktNjkxOS5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/by4sMcLThiZdR9yNERzosJ6McEOnl71KIcZK8o6wgF8\/rs:fit\/g:sm\/q:90\/h:612\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE4Mzgy\/NTU4LTE2MTg5Mzk4\/NzktNjkxOS5qcGVn.jpeg",
-        "genres": [
-            "Classical"
-        ],
-        "release_year": "1977",
-        "barcode": [
-            "YBX.1",
-            "YBX.2",
-            "YBX.3",
-            "YBX.4",
-            "YBX.5",
-            "YBX.6",
-            "Britico",
-            "ASD 3331",
-            "ASD 3332",
-            "ASD 3333"
-        ],
-        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
-    },
-    "6444756": {
-        "id": 6444756,
-        "title": "Scheherazade And Other Stories",
-        "author": "Renaissance (4)",
-        "thumb": "https:\/\/i.discogs.com\/bNAwIlZqoWiJTyk7gZBtlCxe-17y9088opdeOLW-whc\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTY0NDQ3\/NTYtMTQ3NzI1MTQw\/OS03NjE2LmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/m-D9ZyFWkoejT1THLE3Q09roooXJanJoiY9QFkcRDrQ\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTY0NDQ3\/NTYtMTQ3NzI1MTQw\/OS03NjE2LmpwZWc.jpeg",
-        "genres": [
-            "Rock"
+            "Folk, World, & Country"
         ],
         "release_year": "1975",
         "barcode": [
-            "SASD-7510-A",
-            "SASD-7510-B",
-            "STERLING",
-            "SASD-7510-A",
-            "SASD-7510-B"
+            "SODE 013A",
+            "SODE 013B",
+            "SODe 013 - A #1",
+            "SODe - 013 - B #1"
         ],
-        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
-    },
-    "19296487": {
-        "id": 19296487,
-        "title": "A Lot Of Bottle",
-        "author": "Climax Blues Band",
-        "thumb": "https:\/\/i.discogs.com\/F6YxnI3MUoL3TdmQOJn0oFRZzgWNxOtOibaiZyvL920\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE5Mjk2\/NDg3LTE2MjU5NDk5\/MzItNzc1MS5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/pWFIfCGpvaH1znjxSYfgxSG-r-Bwc4IEaXMHIzuhPEU\/rs:fit\/g:sm\/q:90\/h:599\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE5Mjk2\/NDg3LTE2MjU5NDk5\/MzItNzc1MS5qcGVn.jpeg",
-        "genres": [
-            "Rock",
-            "Blues"
-        ],
-        "release_year": "1976",
-        "barcode": [
-            "SASD-7518-A",
-            "SASD-7518-B",
-            "T1 SASD 7518A-1",
-            "T1 SASD 7518B-2",
-            "STERLING",
-            "ASCAP",
-            "BMI"
-        ],
-        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
-    },
-    "1122267": {
-        "id": 1122267,
-        "title": "Impulse Energy Essentials (A Developmental And Historical Introduction To The New Music)",
-        "author": "Various",
-        "thumb": "https:\/\/i.discogs.com\/2NOpfV-uWEmWBURSEh2QyiEUWU42mi48c-o1Reb0uWQ\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTk2OTgw\/MDctMTQ4NDk1MjI2\/MS00NDExLmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/aO3CC-Y8Dh7hs8T-7v97CEfKNWjuNn2eJD59Xfq65fg\/rs:fit\/g:sm\/q:90\/h:596\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTk2OTgw\/MDctMTQ4NDk1MjI2\/MS00NDExLmpwZWc.jpeg",
-        "genres": [
-            "Jazz"
-        ],
-        "release_year": "1972",
-        "barcode": [
-            "ASCAP",
-            "BMI",
-            "ASD-9228-A",
-            "ASD-9228-B",
-            "ASD-9228-C",
-            "ASD-9228-D",
-            "ASD-9228-E",
-            "ASD-9228-F",
-            "ASD9228-A TG",
-            "ASD9228-B TG",
-            "ASD-9228-C TG",
-            "ASD-9228-E TG",
-            "ASD-9228-E TG",
-            "AS-9228-F TG"
-        ],
-        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
-    },
-    "3383361": {
-        "id": 3383361,
-        "title": "Chapter Four: Alive In New York",
-        "author": "Gato Barbieri",
-        "thumb": "https:\/\/i.discogs.com\/S4OBWOUgb6xtP44oK-UnK9jxOCr4fYKbZeBXVOvi_lI\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTMzODMz\/NjEtMTQyNjY3NjI5\/NC02OTk1LmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/TbwXpQxj9vz_MlGV1S5gkzE3fn3pAW2vBayvpq0ueZk\/rs:fit\/g:sm\/q:90\/h:602\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTMzODMz\/NjEtMTQyNjY3NjI5\/NC02OTk1LmpwZWc.jpeg",
-        "genres": [
-            "Jazz"
-        ],
-        "release_year": "1977",
-        "barcode": [
-            "62 ASD 9303-1L",
-            "62 ASD 9303-2L",
-            "SIAE-DR"
-        ],
-        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
-    },
-    "11967661": {
-        "id": 11967661,
-        "title": "Orpheus In The Underworld",
-        "author": "Jacques Offenbach, Orchestre National Du Capitole De Toulouse",
-        "thumb": "https:\/\/i.discogs.com\/WumBZsH9WiCaqmHB4_joCXSyQwzjmuV2zvWnLF8mUN4\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTExOTY3\/NjYxLTE1MjU2OTEz\/MzAtNTAxNC5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/9vp_synMJK29S3QVL4WqCXEWMnsl_JAidTSeAQ65-4M\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTExOTY3\/NjYxLTE1MjU2OTEz\/MzAtNTAxNC5qcGVn.jpeg",
-        "genres": [
-            "Classical"
-        ],
-        "release_year": "1982",
-        "barcode": [
-            "ASD 3737",
-            "ASD 3738",
-            "ASD 3739"
-        ],
-        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
-    },
-    "9571372": {
-        "id": 9571372,
-        "title": "Requiem",
-        "author": "Verdi*, Renata Scotto, Agnes Baltsa, Veriano Luchetti, Evgeny Nesterenko, Ambrosian Chorus*, Philharmonia Orchestra, Riccardo Muti",
-        "thumb": "https:\/\/i.discogs.com\/tL0SYbB_Tn9N8WroHE3yETkJhEpXS82NKe6JsRlZx8U\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTk1NzEz\/NzItMTQ4Mjk0OTY5\/MS01MDM1LmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/HDBwsfBE_HzgVYvBmyxO8RZJMQDp6UKkgQ33Yv7XMYE\/rs:fit\/g:sm\/q:90\/h:565\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTk1NzEz\/NzItMTQ4Mjk0OTY5\/MS01MDM1LmpwZWc.jpeg",
-        "genres": [
-            "Classical"
-        ],
-        "release_year": "1979",
-        "barcode": [
-            "ASD 3808",
-            "ASD 3809"
-        ],
-        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
-    },
-    "1738212": {
-        "id": 1738212,
-        "title": "Impulse Energy Essentials",
-        "author": "Various",
-        "thumb": "https:\/\/i.discogs.com\/fPKzPmIi-nObjbJJ9H_vM3RKkDXdOFrY2uKko3bDcHs\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE3Mzgy\/MTItMTY1NTA1NTY1\/MC03NTQyLmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/bBb6QYJk2Ps4_n2Mx-lAbUcxNByZDdClWk2AFcSWVZ8\/rs:fit\/g:sm\/q:90\/h:596\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE3Mzgy\/MTItMTY1NTA1NTY1\/MC03NTQyLmpwZWc.jpeg",
-        "genres": [
-            "Jazz"
-        ],
-        "release_year": "1972",
-        "barcode": [
-            "T \u01a7 M",
-            "BMI",
-            "ASCAP",
-            "ASD-9228-A",
-            "ASD-9228-B",
-            "ASD-9228-C",
-            "ASD-9228-D",
-            "ASD-9228-E",
-            "ASD-9228-F",
-            "ASD-9228-A X T \u01a7 M",
-            "ASD 9228 B Re1 TSM",
-            "ADS 9228 C Re1 T \u01a7 M",
-            "T \u01a7 M ASD 9228 D Re1 X",
-            "ASD 9228 E Re1 T \u01a7 M X",
-            "ASD 9228 F Re1-1 X T \u01a7 M"
-        ],
-        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
-    },
-    "15548179": {
-        "id": 15548179,
-        "title": "The Orchestral Works Of Percy Grainger, Vol. 4",
-        "author": "Percy Grainger, The Sydney Symphony Orchestra Conducted By John Hopkins (11)",
-        "thumb": "https:\/\/i.discogs.com\/P0-4b4ZvR4G7bUHtln82c2y9zQ5OJyDtUCx6rjrV9ao\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1NTQ4\/MTc5LTE1OTM2NTQ4\/MDItODI4NS5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/WLOSQbv4fcAWta6gIC5h8aF-yIlQyTD0zdEB9Sxltgw\/rs:fit\/g:sm\/q:90\/h:400\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1NTQ4\/MTc5LTE1OTM2NTQ4\/MDItODI4NS5qcGVn.jpeg",
-        "genres": [
-            "Classical"
-        ],
-        "release_year": "1977",
-        "barcode": [
-            "OASD-7608A",
-            "OASD-7608B"
-        ],
-        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
+        "timestamp": "Sat, 07 Jan 2023 13:39:07 - UK time"
     }
 }

@@ -7,8 +7,8 @@ $users = json_decode(file_get_contents('users.json'), true);
 
 // Mi prendo le variabili che mi arrivano dal login
 $action = $_GET['action'] ?? '';
-$username = trim($_POST['username']);
-$password = trim($_POST['psw']);
+$username = trim(strval($_POST['username']));
+$password = trim(strval($_POST['psw']));
 // Inizio la sessione per salvarci dentro le informazioni. 
 
 session_start();
@@ -52,14 +52,14 @@ if($action === 'register' && verifyPsw($password) && verifyUsername($username)){
     file_put_contents("db-$username.json", []);
     header('Location: index.php');
   }else {
-    echo "Esiste già un utente con questo Username, provane un altro.";
     header('Location: login.php?user-exists=true');
   }
      
 
-}else {
-  echo "Controllare lo username o password inserita. --------> register";
-
+}else if(!verifyPsw($password)) {
+  header('Location: login.php?psw-wrong=true');
+}else if(!verifyUsername($username)){
+  header('Location: login.php?username-wrong=true');
 }
 
 

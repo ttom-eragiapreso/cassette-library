@@ -1,10 +1,10 @@
 {
     "page": 1,
-    "pages": 200,
+    "pages": 48,
     "per_page": 50,
-    "items": 10167,
+    "items": 2398,
     "urls": {
-        "last": "https:\/\/api.discogs.com\/database\/search?token=HWiFdStcHwaqgBqEAoEjjvCFhQUNnZHqZFuelXuZ&barcode=&artist=&release_title=boh&page=200&per_page=50",
-        "next": "https:\/\/api.discogs.com\/database\/search?token=HWiFdStcHwaqgBqEAoEjjvCFhQUNnZHqZFuelXuZ&barcode=&artist=&release_title=boh&page=2&per_page=50"
+        "last": "https:\/\/api.discogs.com\/database\/search?token=HWiFdStcHwaqgBqEAoEjjvCFhQUNnZHqZFuelXuZ&barcode=&artist=&release_title=ciao&page=48&per_page=50",
+        "next": "https:\/\/api.discogs.com\/database\/search?token=HWiFdStcHwaqgBqEAoEjjvCFhQUNnZHqZFuelXuZ&barcode=&artist=&release_title=ciao&page=2&per_page=50"
     }
 }

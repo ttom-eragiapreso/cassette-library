@@ -50,12 +50,12 @@
             </li>
             <?php endif;?>
         </ul>
-        <?php if(isset($the_one['genres'])): ?>
+        <?php if(is_array($the_one['genres'])): ?>
         <h4 class="mt-2">Generi:</h4>
         <ul class="list-disc list-inside">
-          <?php foreach($the_one['genres'] as $genre): ?>
-            <li><?php echo $genre ?></li>
-          <?php endforeach; ?>
+            <?php foreach($the_one['genres'] as $genre): ?>
+              <li><?php echo $genre ?></li>
+            <?php endforeach; ?>
         </ul>
         <?php endif;?>
         <h4 class="mt-2">L'hai aggiunta in data: <span class="text-bold italic"><?php echo $the_one['timestamp'] ?></span></h4>

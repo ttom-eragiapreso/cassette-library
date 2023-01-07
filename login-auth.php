@@ -20,9 +20,14 @@ if($action === 'login' && verifyPsw($password) && verifyUsername($username)){
   $user_id = '';
 
 
-  $filter = array_filter($users, fn($user) => $user['username'] === $username && $user['password'] === $password);
+  // non funziona su altervista - $filter = array_filter($users, fn($user) => $user['username'] === $username && $user['password'] === $password);
   
-  
+
+  // Per farla funzionare con altervista devo usare una funzione anonima, però per poter vedere le variabili al di fuori del suo scope devo usare use()
+  $filter = array_filter($users, function($user) use($username, $password) {
+    return $user['username'] === $username && $user['password'] === $password;
+  });
+
   if(!empty($filter)){
 
   $key = array_key_first($filter);
@@ -43,7 +48,11 @@ if($action === 'login' && verifyPsw($password) && verifyUsername($username)){
 
 if($action === 'register' && verifyPsw($password) && verifyUsername($username)){
 
-  $filter = array_filter($users, fn($user) => $user['username'] === $username);
+  //$filter = array_filter($users, fn($user) => $user['username'] === $username);
+  // Stessa storia per la arrow function.
+  $filter = array_filter($users, function($user) use($username) {
+    return $user['username'] === $username;
+  });
 
   if(empty($filter)){
     $_SESSION['user'] = new User($username, $password);

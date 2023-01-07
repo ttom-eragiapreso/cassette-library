@@ -73,7 +73,13 @@
 
   function deleteFromDb($db, $id, $user){
 
-    $db = array_filter($db, fn($record) => $record['id'] != $id);
+
+    //$db = array_filter($db, fn($record) => $record['id'] != $id);
+    //Ridefinisco questa funzione per altervista
+    $db = array_filter($db, function($record) use($id){
+      return  $record['id'] != $id;
+    });
+
     file_put_contents("db-$user.json", json_encode($db, JSON_PRETTY_PRINT));
 
   }
@@ -100,7 +106,7 @@
     $context = stream_context_create($opts);
 
     // Mi salvo il risultato della chiamata nella variabile reponse, e in results ci metto i risultati. 
-    $response = json_decode(file_get_contents("$baseUrl" . "token=$token" . "&barcode=$barcode" . "&artist=$artist" . "&release_title=$release_title",false, $context), true);
+    $response = json_decode(file_get_contents("$baseUrl" . "token=$token" . "&barcode=$barcode" . "&artist=$artist" . "&release_title=$release_title" . "&per_page=48",false, $context), true);
 
     $pagination = $response['pagination'] ?? null;
     $results = $response['results'] ?? null;
@@ -125,8 +131,9 @@
       if(!empty($barcode)) $searchedString .= "Barcode: $barcode - ";
       if(!empty($artist)) $searchedString .= "Artist: $artist - ";
       if(!empty($release_title)) $searchedString .= "Searched Title: $release_title - ";
-
-      return substr($searchedString, 0, -3);
+      if(!empty($searchedString)){
+        return substr($searchedString, 0, -3);
+      }
     }
 
 

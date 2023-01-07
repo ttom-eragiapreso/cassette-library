@@ -1584,5 +1584,31 @@
             "MCPS"
         ],
         "timestamp": "Sat, 07 Jan 2023 13:39:07 - UK time"
+    },
+    "21154999": {
+        "id": 21154999,
+        "title": "GMM Suite",
+        "author": "Giovanotti Mondani Meccanici",
+        "thumb": "https:\/\/i.discogs.com\/vUqqS6E2LADBUd8muRUNRd_5vSkRdLB9bFHg0T03-pQ\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTIxMTU0\/OTk5LTE2MzgxMTQy\/NDctNTkxMi5qcGVn.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/7bl2JjvayX9Sq9QfxjYD2qdPySK1aLsH-f-lWPETeBQ\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTIxMTU0\/OTk5LTE2MzgxMTQy\/NDctNTkxMi5qcGVn.jpeg",
+        "genres": [
+            "Electronic"
+        ],
+        "release_year": "2021",
+        "barcode": "Nessun codice a barre disponibile",
+        "timestamp": "Sat, 07 Jan 2023 18:17:24 - UK time"
+    },
+    "23972327": {
+        "id": 23972327,
+        "title": "Ocular Soda Remixes",
+        "author": "Infuso Giallo",
+        "thumb": "https:\/\/i.discogs.com\/AuVIve0EY8y2rpYNr8EYdVAbq7oT98n0G9pQAlIYLGM\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTIzOTcy\/MzI3LTE2NTg1NzIz\/MDgtNjM3MC5qcGVn.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/U0iJYXmBi23PiPWOD_iDi6b5JivDUw6z1W8_caGsDqw\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTIzOTcy\/MzI3LTE2NTg1NzIz\/MDgtNjM3MC5qcGVn.jpeg",
+        "genres": [
+            "Electronic"
+        ],
+        "release_year": "2022",
+        "barcode": "Nessun codice a barre disponibile",
+        "timestamp": "Sat, 07 Jan 2023 18:18:31 - UK time"
     }
 }

@@ -20,7 +20,7 @@ if($action === 'login' && verifyPsw($password) && verifyUsername($username)){
   $user_id = '';
 
 
-  $filter = array_filter($users, fn($user) => $user['username'] === $username);
+  $filter = array_filter($users, fn($user) => $user['username'] === $username && $user['password'] === $password);
   
   
   if(!empty($filter)){

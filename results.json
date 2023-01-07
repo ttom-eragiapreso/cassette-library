@@ -1,699 +1,974 @@
 {
-    "1974441": {
-        "id": 1974441,
-        "title": "CiaoCiao",
-        "author": "CiaoCiao",
-        "thumb": "",
-        "cover_img": "https:\/\/st.discogs.com\/c9ad0a0c08228b865c524cda14eb218c9d34fd51\/images\/spacer.gif",
-        "genres": "",
-        "release_year": "",
-        "barcode": "Nessun codice a barre disponibile",
-        "timestamp": "Sat, 07 Jan 2023 00:21:55 - UK time"
-    },
-    "250210": {
-        "id": 250210,
-        "title": "Ciao Ciao",
-        "author": "Ciao Ciao",
-        "thumb": "https:\/\/i.discogs.com\/hcDQ0LRTdGNsP0yyX8z3sJPWWA4gFMROdyO1L39-4VQ\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTI1MDIx\/MC0xMzc2ODM0MTIy\/LTIxNjAuanBlZw.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/CWuJ6cHu6eEGLOU1OTuVtscfF6j2zL9vqz3-j07H8WI\/rs:fit\/g:sm\/q:90\/h:510\/w:352\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTI1MDIx\/MC0xMzc2ODM0MTIy\/LTIxNjAuanBlZw.jpeg",
-        "genres": "",
-        "release_year": "",
-        "barcode": "Nessun codice a barre disponibile",
-        "timestamp": "Sat, 07 Jan 2023 00:21:55 - UK time"
-    },
-    "7615898": {
-        "id": 7615898,
-        "title": "Ciao (9)",
-        "author": "Ciao (9)",
-        "thumb": "https:\/\/i.discogs.com\/c8xn6lep3TWMV_ocIRtjeeQASsWLN7A5Lib0S3On7W4\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTc2MTU4\/OTgtMTU3OTcxODg5\/MC00NzYxLmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/ecMWQWDpEo8Xpw3SJVWEUncb--mcIrXWan8myqubilU\/rs:fit\/g:sm\/q:90\/h:210\/w:312\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTc2MTU4\/OTgtMTU3OTcxODg5\/MC00NzYxLmpwZWc.jpeg",
-        "genres": "",
-        "release_year": "",
-        "barcode": "Nessun codice a barre disponibile",
-        "timestamp": "Sat, 07 Jan 2023 00:21:55 - UK time"
-    },
-    "3890954": {
-        "id": 3890954,
-        "title": "Ciao (5)",
-        "author": "Ciao (5)",
-        "thumb": "",
-        "cover_img": "https:\/\/st.discogs.com\/c9ad0a0c08228b865c524cda14eb218c9d34fd51\/images\/spacer.gif",
-        "genres": "",
-        "release_year": "",
-        "barcode": "Nessun codice a barre disponibile",
-        "timestamp": "Sat, 07 Jan 2023 00:21:55 - UK time"
-    },
-    "2951370": {
-        "id": 2951370,
-        "title": "Ciao Ciao Group",
-        "author": "Ciao Ciao Group",
-        "thumb": "",
-        "cover_img": "https:\/\/st.discogs.com\/c9ad0a0c08228b865c524cda14eb218c9d34fd51\/images\/spacer.gif",
-        "genres": "",
-        "release_year": "",
-        "barcode": "Nessun codice a barre disponibile",
-        "timestamp": "Sat, 07 Jan 2023 00:21:55 - UK time"
-    },
-    "4775312": {
-        "id": 4775312,
-        "title": "Ciao Ciao Quartet",
-        "author": "Ciao Ciao Quartet",
-        "thumb": "https:\/\/i.discogs.com\/alPejGBNfuGy17IKwz3yDmwwQJDhokwiMfOdnjFT-zA\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTQ3NzUz\/MTItMTQ1MDU0MDE1\/NC00MzU0LmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/eC-g586v7PoZXrEVg6l8AR7z2nHe9Mh2xB1qs7lai_8\/rs:fit\/g:sm\/q:90\/h:406\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTQ3NzUz\/MTItMTQ1MDU0MDE1\/NC00MzU0LmpwZWc.jpeg",
-        "genres": "",
-        "release_year": "",
-        "barcode": "Nessun codice a barre disponibile",
-        "timestamp": "Sat, 07 Jan 2023 00:21:55 - UK time"
-    },
-    "4660193": {
-        "id": 4660193,
-        "title": "CIAO (4)",
-        "author": "CIAO (4)",
-        "thumb": "",
-        "cover_img": "https:\/\/st.discogs.com\/c9ad0a0c08228b865c524cda14eb218c9d34fd51\/images\/spacer.gif",
-        "genres": "",
-        "release_year": "",
-        "barcode": "Nessun codice a barre disponibile",
-        "timestamp": "Sat, 07 Jan 2023 00:21:55 - UK time"
-    },
-    "819449": {
-        "id": 819449,
-        "title": "Ciao'",
-        "author": "Ciao'",
-        "thumb": "",
-        "cover_img": "https:\/\/st.discogs.com\/c9ad0a0c08228b865c524cda14eb218c9d34fd51\/images\/spacer.gif",
-        "genres": "",
-        "release_year": "",
-        "barcode": "Nessun codice a barre disponibile",
-        "timestamp": "Sat, 07 Jan 2023 00:21:55 - UK time"
-    },
-    "8752354": {
-        "id": 8752354,
-        "title": "Ciao (10)",
-        "author": "Ciao (10)",
-        "thumb": "",
-        "cover_img": "https:\/\/st.discogs.com\/c9ad0a0c08228b865c524cda14eb218c9d34fd51\/images\/spacer.gif",
-        "genres": "",
-        "release_year": "",
-        "barcode": "Nessun codice a barre disponibile",
-        "timestamp": "Sat, 07 Jan 2023 00:21:55 - UK time"
-    },
-    "5777673": {
-        "id": 5777673,
-        "title": "Ciao, Ciao, Ciao",
-        "author": "Formule II",
-        "thumb": "https:\/\/i.discogs.com\/hZ2B70dZRW2ZpjZFCc3YGTrRwVlMYklHRYUEqXJpR6g\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU3Nzc2\/NzMtMTQyMDgwMTE5\/Ny00NTEzLmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/hEyPyppJBVtZsXP3fQGWF3h46XeeDoaMGavormWr_VY\/rs:fit\/g:sm\/q:90\/h:605\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU3Nzc2\/NzMtMTQyMDgwMTE5\/Ny00NTEzLmpwZWc.jpeg",
+    "437341": {
+        "id": 437341,
+        "title": "Coincide",
+        "author": "Dewey Redman",
+        "thumb": "https:\/\/i.discogs.com\/X7P6U-dTE9iXCyjijxoiYE0Y3iga0oXTuWyK09KuzwE\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQzMDQx\/Ny0xNTg2MjczNDY1\/LTI5MTAuanBlZw.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/LtViT0Sz0xCRbOUd2RJkXsrTXUVIA0CPKjfh4Vd9iNs\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQzMDQx\/Ny0xNTg2MjczNDY1\/LTI5MTAuanBlZw.jpeg",
         "genres": [
-            "Pop"
+            "Jazz"
         ],
-        "release_year": "1984",
+        "release_year": "1975",
         "barcode": [
-            "SABAM",
-            "V - 5055 - A PY Y1",
-            "V - 5055 - B PY Y1",
-            "V - 5055 - A PY Z1",
-            "V - 5055 - B PY Z1"
+            "TI  ASD-9300-A-3",
+            "TI  ASD-9300-A-2",
+            "TI  ASD-9300-B-I",
+            "KENDUN.",
+            "ASCAP"
         ],
-        "timestamp": "Sat, 07 Jan 2023 00:21:55 - UK time"
+        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
     },
-    "8091129": {
-        "id": 8091129,
-        "title": "Ciao, Ciao, Ciao",
-        "author": "Los Doger's*",
-        "thumb": "https:\/\/i.discogs.com\/IR1-s4MZEHuGcg_9PowwECzFjvW8V-lL71IoMnlPzio\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTgwOTEx\/MjktMTQ1NDk2MDIx\/NS0zMDcwLmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/E84T9r9fj1bQ3KNeRvA5bfuOy963gEIle6UocUb8y_w\/rs:fit\/g:sm\/q:90\/h:450\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTgwOTEx\/MjktMTQ1NDk2MDIx\/NS0zMDcwLmpwZWc.jpeg",
+    "8116192": {
+        "id": 8116192,
+        "title": "The Six Cello Suites (6 Suiten F\u00fcr Violoncello)",
+        "author": "Bach* \u00b7 Paul Tortelier",
+        "thumb": "https:\/\/i.discogs.com\/RUxKtFICdsDWn664hyAkk7XlGs_DY5JqspEeuBgChSA\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTgxMTYx\/OTItMTUzODAyNjUx\/NS0yMjcyLmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/dUuUFO7TMg_tXEuhzUtznKHq_n64kMMVLBYtzXDcRPM\/rs:fit\/g:sm\/q:90\/h:612\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTgxMTYx\/OTItMTUzODAyNjUx\/NS0yMjcyLmpwZWc.jpeg",
         "genres": [
-            "Pop"
-        ],
-        "release_year": "1967",
-        "barcode": "Nessun codice a barre disponibile",
-        "timestamp": "Sat, 07 Jan 2023 00:21:55 - UK time"
-    },
-    "2180856": {
-        "id": 2180856,
-        "title": "Ciao, Ciao, Ciao",
-        "author": "Christian K\u00f6nig",
-        "thumb": "https:\/\/i.discogs.com\/Zvur5nvh2Z3gH8R-E_61hunkqdxQkAHgnarv2lSbG_A\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTIxODA4\/NTYtMTQyMzU0OTI4\/MS0yODAxLmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/QkWmE9UU3LiHT4qCgi8iRuXVvOTGnpWca5LF_SvHZ-I\/rs:fit\/g:sm\/q:90\/h:603\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTIxODA4\/NTYtMTQyMzU0OTI4\/MS0yODAxLmpwZWc.jpeg",
-        "genres": [
-            "Pop"
-        ],
-        "release_year": "1990",
-        "barcode": [
-            "4 003090 515375",
-            "GEMA",
-            "LC 1421"
-        ],
-        "timestamp": "Sat, 07 Jan 2023 00:21:55 - UK time"
-    },
-    "2181482": {
-        "id": 2181482,
-        "title": "Ciao, Ciao, Ciao",
-        "author": "Dodo Dee",
-        "thumb": "https:\/\/i.discogs.com\/LHfLs54CoCWjXYK7IfQo70Di5un-mz4-oUt_B2_NmY4\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTIxODE0\/ODItMTQ3OTA3Mjg3\/My02NzExLmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/YAUZZDhRlwGaYaONEXq9weI2OufzSJLTcok1jhJX23w\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTIxODE0\/ODItMTQ3OTA3Mjg3\/My02NzExLmpwZWc.jpeg",
-        "genres": [
-            "Electronic",
-            "Pop"
-        ],
-        "release_year": "1988",
-        "barcode": [
-            "0 42288 78817 1",
-            "042288788171",
-            "LC 3379",
-            "\ud83c\udd48",
-            "BIEM\/STEMRA",
-            "887 881 - 7 S 1 320 B",
-            "887 881 - 7 S 2 320 B 1"
-        ],
-        "timestamp": "Sat, 07 Jan 2023 00:21:55 - UK time"
-    },
-    "10560523": {
-        "id": 10560523,
-        "title": "Ciao, Ciao, Ciao",
-        "author": "Formule II",
-        "thumb": "https:\/\/i.discogs.com\/vZmUq3lCLpbIDcNH3z9PXXqpH8kzaTw0GbUZ67g0mSQ\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEwNTYw\/NTIzLTE1NjIxNjQx\/MjMtNzY0NC5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/LX6VmxATHP8imQ8tS622lE7Q4bcinprEiIE3CF8GYSc\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEwNTYw\/NTIzLTE1NjIxNjQx\/MjMtNzY0NC5qcGVn.jpeg",
-        "genres": [
-            "Pop"
-        ],
-        "release_year": "1985",
-        "barcode": [
-            "3229260000316",
-            "MPO  MU 11506 A",
-            "MPO  MU 11506 B",
-            "MU 102",
-            "SACEM SACD SDRM SGDL"
-        ],
-        "timestamp": "Sat, 07 Jan 2023 00:21:55 - UK time"
-    },
-    "218486": {
-        "id": 218486,
-        "title": "Ciao",
-        "author": "Ciao",
-        "thumb": "",
-        "cover_img": "https:\/\/st.discogs.com\/c9ad0a0c08228b865c524cda14eb218c9d34fd51\/images\/spacer.gif",
-        "genres": "",
-        "release_year": "",
-        "barcode": "Nessun codice a barre disponibile",
-        "timestamp": "Sat, 07 Jan 2023 00:21:55 - UK time"
-    },
-    "7019038": {
-        "id": 7019038,
-        "title": "Ciao (7)",
-        "author": "Ciao (7)",
-        "thumb": "",
-        "cover_img": "https:\/\/st.discogs.com\/c9ad0a0c08228b865c524cda14eb218c9d34fd51\/images\/spacer.gif",
-        "genres": "",
-        "release_year": "",
-        "barcode": "Nessun codice a barre disponibile",
-        "timestamp": "Sat, 07 Jan 2023 00:21:55 - UK time"
-    },
-    "2379216": {
-        "id": 2379216,
-        "title": "Ciao (3)",
-        "author": "Ciao (3)",
-        "thumb": "",
-        "cover_img": "https:\/\/st.discogs.com\/c9ad0a0c08228b865c524cda14eb218c9d34fd51\/images\/spacer.gif",
-        "genres": "",
-        "release_year": "",
-        "barcode": "Nessun codice a barre disponibile",
-        "timestamp": "Sat, 07 Jan 2023 00:21:55 - UK time"
-    },
-    "7270424": {
-        "id": 7270424,
-        "title": "Ciao (8)",
-        "author": "Ciao (8)",
-        "thumb": "https:\/\/i.discogs.com\/HytPtH4yjUw2-xENTJubCmH0ttVQvUHK6AXKeH8WuHo\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTcyNzA0\/MjQtMTY1ODg1NDc3\/Ni0zMjYzLmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/b45pCkHQIpdmz71AvEliaFy3MFnfuzg8f1WMru-zWYE\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTcyNzA0\/MjQtMTY1ODg1NDc3\/Ni0zMjYzLmpwZWc.jpeg",
-        "genres": "",
-        "release_year": "",
-        "barcode": "Nessun codice a barre disponibile",
-        "timestamp": "Sat, 07 Jan 2023 00:21:55 - UK time"
-    },
-    "7277708": {
-        "id": 7277708,
-        "title": "Ciao, Ciao, Ciao",
-        "author": "Johnny Ritter E I Continentals",
-        "thumb": "https:\/\/i.discogs.com\/70lzKq6ICrDQc4HkR8OEz-aQtMhdFmwZGXRC02sOliw\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTcyNzc3\/MDgtMTQzNzg0MzMz\/MS05MTAxLmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/vr0MFOAdLStcqENHqkKvzCobR27thm6vkCprp-fvxfE\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTcyNzc3\/MDgtMTQzNzg0MzMz\/MS05MTAxLmpwZWc.jpeg",
-        "genres": [
-            "Rock",
-            "Pop"
-        ],
-        "release_year": "1959",
-        "barcode": [
-            "BIEM"
-        ],
-        "timestamp": "Sat, 07 Jan 2023 00:21:55 - UK time"
-    },
-    "1746049": {
-        "id": 1746049,
-        "title": "Ciao (2)",
-        "author": "Ciao (2)",
-        "thumb": "https:\/\/i.discogs.com\/_JlH2hMwz-Br_sJEtSzrMve6rogtjIKdYiYyiKa-eG0\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTE3NDYw\/NDktMTI4MDIyNjM0\/NC5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/WD1kJ0VavF_vxURPeeSL7Qb9bc4E_ahCBtOaZjV5ibw\/rs:fit\/g:sm\/q:90\/h:308\/w:222\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9BLTE3NDYw\/NDktMTI4MDIyNjM0\/NC5qcGVn.jpeg",
-        "genres": "",
-        "release_year": "",
-        "barcode": "Nessun codice a barre disponibile",
-        "timestamp": "Sat, 07 Jan 2023 00:21:55 - UK time"
-    },
-    "6585983": {
-        "id": 6585983,
-        "title": "Ciao (6)",
-        "author": "Ciao (6)",
-        "thumb": "",
-        "cover_img": "https:\/\/st.discogs.com\/c9ad0a0c08228b865c524cda14eb218c9d34fd51\/images\/spacer.gif",
-        "genres": "",
-        "release_year": "",
-        "barcode": "Nessun codice a barre disponibile",
-        "timestamp": "Sat, 07 Jan 2023 00:21:55 - UK time"
-    },
-    "3621108": {
-        "id": 3621108,
-        "title": "Ciao Ciao",
-        "author": "Evergreen (12)",
-        "thumb": "https:\/\/i.discogs.com\/dQvzvdVVB0LbP3j9F5g_iog9t_b83-2WpKEKymg1YA4\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTM2MjEx\/MDgtMTMzNzY5NTAw\/Mi00NjkxLmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/1LggrLxJKec7BbLwYE_f4JPmh2OaTeIqxCaLujm8WZ4\/rs:fit\/g:sm\/q:90\/h:350\/w:347\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTM2MjEx\/MDgtMTMzNzY5NTAw\/Mi00NjkxLmpwZWc.jpeg",
-        "genres": [
-            "Electronic",
-            "Pop",
-            "Stage & Screen"
-        ],
-        "release_year": "1985",
-        "barcode": "Nessun codice a barre disponibile",
-        "timestamp": "Sat, 07 Jan 2023 00:21:55 - UK time"
-    },
-    "5837435": {
-        "id": 5837435,
-        "title": "Ciao Ciao Ciao",
-        "author": "Eddie*",
-        "thumb": "https:\/\/i.discogs.com\/pBygKKjCvAf4glYllQ-_9zj-J27NwoJMXutLrV0RNWw\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU4Mzc0\/MzUtMTYyOTEwNzk5\/Ny0xNDc5LmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/PEGucqeyOem7mf37aOt9VJ42cZ1f5mSy9c6nihElZ8c\/rs:fit\/g:sm\/q:90\/h:593\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU4Mzc0\/MzUtMTYyOTEwNzk5\/Ny0xNDc5LmpwZWc.jpeg",
-        "genres": [
-            "Pop",
-            "Folk, World, & Country"
-        ],
-        "release_year": "1985",
-        "barcode": "Nessun codice a barre disponibile",
-        "timestamp": "Sat, 07 Jan 2023 00:21:55 - UK time"
-    },
-    "7258169": {
-        "id": 7258169,
-        "title": "I Quattro Del Ciao Ciao",
-        "author": "I Quattro Del Ciao Ciao",
-        "thumb": "",
-        "cover_img": "https:\/\/st.discogs.com\/c9ad0a0c08228b865c524cda14eb218c9d34fd51\/images\/spacer.gif",
-        "genres": "",
-        "release_year": "",
-        "barcode": "Nessun codice a barre disponibile",
-        "timestamp": "Sat, 07 Jan 2023 00:21:55 - UK time"
-    },
-    "1508864": {
-        "id": 1508864,
-        "title": "Ciao, Ciao, Ciao",
-        "author": "Formule II",
-        "thumb": "https:\/\/i.discogs.com\/vZmUq3lCLpbIDcNH3z9PXXqpH8kzaTw0GbUZ67g0mSQ\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEwNTYw\/NTIzLTE1NjIxNjQx\/MjMtNzY0NC5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/LX6VmxATHP8imQ8tS622lE7Q4bcinprEiIE3CF8GYSc\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEwNTYw\/NTIzLTE1NjIxNjQx\/MjMtNzY0NC5qcGVn.jpeg",
-        "genres": [
-            "Pop"
-        ],
-        "release_year": "1985",
-        "barcode": [
-            "3229260000316",
-            "MPO  MU 11506 A",
-            "MPO  MU 11506 B",
-            "MU 102",
-            "SACEM SACD SDRM SGDL"
-        ],
-        "timestamp": "Sat, 07 Jan 2023 00:21:55 - UK time"
-    },
-    "2737492": {
-        "id": 2737492,
-        "title": "CiaoFinal",
-        "author": "CiaoFinal",
-        "thumb": "",
-        "cover_img": "https:\/\/st.discogs.com\/c9ad0a0c08228b865c524cda14eb218c9d34fd51\/images\/spacer.gif",
-        "genres": "",
-        "release_year": "",
-        "barcode": "Nessun codice a barre disponibile",
-        "timestamp": "Sat, 07 Jan 2023 00:21:55 - UK time"
-    },
-    "14313047": {
-        "id": 14313047,
-        "title": "Upery",
-        "author": "Laurent Saint",
-        "thumb": "https:\/\/i.discogs.com\/gmPgpCUgRcIc7VcRxsXGkhoRRlxaVpl3l-ZCiDgeUMk\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE0MzEz\/MDQ3LTE2MjE3MDg2\/ODMtODI3NS5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/2OCwYSYy8DrHV3sLdeILiem6uZbOG2VG7isrsxodIjk\/rs:fit\/g:sm\/q:90\/h:607\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE0MzEz\/MDQ3LTE2MjE3MDg2\/ODMtODI3NS5qcGVn.jpeg",
-        "genres": [
-            "Pop"
-        ],
-        "release_year": "",
-        "barcode": [
-            "Sacem"
-        ],
-        "timestamp": "Sat, 07 Jan 2023 00:21:55 - UK time"
-    },
-    "7650942": {
-        "id": 7650942,
-        "title": "Ciao, Ciao",
-        "author": "Vita Romana",
-        "thumb": "https:\/\/i.discogs.com\/4By_C9fzUnUbuGaAIbUp-glKDodDiiIpQM2-nY73wNk\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTc2NTA5\/NDItMTQ0NTk1NjQ2\/MS05NDQwLmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/J76mHARLz1uaeJ1rPanSobV9ow8nQe8EahgNIxX80-Q\/rs:fit\/g:sm\/q:90\/h:598\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTc2NTA5\/NDItMTQ0NTk1NjQ2\/MS05NDQwLmpwZWc.jpeg",
-        "genres": [
-            "Pop"
-        ],
-        "release_year": "1977",
-        "barcode": [
-            "BIEM",
-            "R 0868"
-        ],
-        "timestamp": "Sat, 07 Jan 2023 00:21:55 - UK time"
-    },
-    "10747629": {
-        "id": 10747629,
-        "title": "Ciao... Ciao... Ciao... \/ Deciditi",
-        "author": "Natalino Otto",
-        "thumb": "https:\/\/i.discogs.com\/gbUbchwo8Aj17FgLy1F488ejrw1bFPm8djGIWpyZN9s\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEwNzQ3\/NjI5LTE1NDI1Njc4\/MjgtMzIxMy5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/0Mv2L2GUMWPwl5vRITJEZsNNNWgC1LcblwRqwMKD_Sk\/rs:fit\/g:sm\/q:90\/h:582\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEwNzQ3\/NjI5LTE1NDI1Njc4\/MjgtMzIxMy5qcGVn.jpeg",
-        "genres": [
-            "Jazz",
-            "Rock",
-            "Pop"
-        ],
-        "release_year": "1958",
-        "barcode": [
-            "BIEM",
-            "SP 0961   1.9.58",
-            "SP 0962   1.9.58",
-            "SP 0961",
-            "SP 0962"
-        ],
-        "timestamp": "Sat, 07 Jan 2023 00:21:55 - UK time"
-    },
-    "1195498": {
-        "id": 1195498,
-        "title": "Ciao (4)",
-        "author": "Ciao (4)",
-        "thumb": "",
-        "cover_img": "https:\/\/st.discogs.com\/c9ad0a0c08228b865c524cda14eb218c9d34fd51\/images\/spacer.gif",
-        "genres": "",
-        "release_year": "",
-        "barcode": "Nessun codice a barre disponibile",
-        "timestamp": "Sat, 07 Jan 2023 00:21:55 - UK time"
-    },
-    "121002": {
-        "id": 121002,
-        "title": "Ciao (3)",
-        "author": "Ciao (3)",
-        "thumb": "https:\/\/i.discogs.com\/0bMiWgsBBTi_Y7l5tpSjG3Kjxu_iXF2f5uM-MFSSwlw\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTEyMTAw\/Mi0xNTk4MzM3NTU2\/LTg0MTguanBlZw.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/-g7GxA04fLWg8t_70lGJotbd8Y6BYOb63xAVNgVQomg\/rs:fit\/g:sm\/q:90\/h:176\/w:236\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTEyMTAw\/Mi0xNTk4MzM3NTU2\/LTg0MTguanBlZw.jpeg",
-        "genres": "",
-        "release_year": "",
-        "barcode": "Nessun codice a barre disponibile",
-        "timestamp": "Sat, 07 Jan 2023 00:21:55 - UK time"
-    },
-    "25473427": {
-        "id": 25473427,
-        "title": "Non Dimenticar, Ciao... Ciao... Ciao...",
-        "author": "Katyna Ranieri",
-        "thumb": "",
-        "cover_img": "https:\/\/st.discogs.com\/c9ad0a0c08228b865c524cda14eb218c9d34fd51\/images\/spacer.gif",
-        "genres": [
-            "Pop"
-        ],
-        "release_year": "1959",
-        "barcode": [
-            "B. 3865 - 1959"
-        ],
-        "timestamp": "Sat, 07 Jan 2023 00:21:55 - UK time"
-    },
-    "302607": {
-        "id": 302607,
-        "title": "Ciao, Bella",
-        "author": "Ciao, Bella",
-        "thumb": "",
-        "cover_img": "https:\/\/st.discogs.com\/c9ad0a0c08228b865c524cda14eb218c9d34fd51\/images\/spacer.gif",
-        "genres": "",
-        "release_year": "",
-        "barcode": "Nessun codice a barre disponibile",
-        "timestamp": "Sat, 07 Jan 2023 00:21:55 - UK time"
-    },
-    "111158": {
-        "id": 111158,
-        "title": "Ciao (2)",
-        "author": "Ciao (2)",
-        "thumb": "https:\/\/i.discogs.com\/Us_13CuMeM2wGfZlmzoY_2Q-h9y11PeZdazUYP3W9B4\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTExMTE1\/OC0xMzU2ODYxMTE1\/LTY2NTYuanBlZw.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/TmhY9nOtUlx19D870ZQPi18iw_nkKz-RNw79YgNKGco\/rs:fit\/g:sm\/q:90\/h:348\/w:411\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTExMTE1\/OC0xMzU2ODYxMTE1\/LTY2NTYuanBlZw.jpeg",
-        "genres": "",
-        "release_year": "",
-        "barcode": "Nessun codice a barre disponibile",
-        "timestamp": "Sat, 07 Jan 2023 00:21:55 - UK time"
-    },
-    "1759000": {
-        "id": 1759000,
-        "title": "Ciao (5)",
-        "author": "Ciao (5)",
-        "thumb": "https:\/\/i.discogs.com\/HzGE6EKHRcznJL1C89_P2veVTWibhsio4GCBG8ZYU0A\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTE3NTkw\/MDAtMTYwMjczMjUx\/MC05ODI4LnBuZw.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/YUXFusMcrBisrhEz16ijOxJZPBMuz2VE5T4SsrPSc4Y\/rs:fit\/g:sm\/q:90\/h:255\/w:346\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9MLTE3NTkw\/MDAtMTYwMjczMjUx\/MC05ODI4LnBuZw.jpeg",
-        "genres": "",
-        "release_year": "",
-        "barcode": "Nessun codice a barre disponibile",
-        "timestamp": "Sat, 07 Jan 2023 00:21:55 - UK time"
-    },
-    "2681675": {
-        "id": 2681675,
-        "title": "Ciao (6)",
-        "author": "Ciao (6)",
-        "thumb": "",
-        "cover_img": "https:\/\/st.discogs.com\/c9ad0a0c08228b865c524cda14eb218c9d34fd51\/images\/spacer.gif",
-        "genres": "",
-        "release_year": "",
-        "barcode": "Nessun codice a barre disponibile",
-        "timestamp": "Sat, 07 Jan 2023 00:21:55 - UK time"
-    },
-    "1627604": {
-        "id": 1627604,
-        "title": "Ciao, Ciao, Marina",
-        "author": "De Vrijbuiters",
-        "thumb": "https:\/\/i.discogs.com\/A5-lPh10jL_tVw2EH-hPdQp01Lld9vVAFVPvH6zq_Lw\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEwODkz\/MzU3LTE1MDYwODI4\/MzEtNDA4NC5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/7YL9VKRCerHe0SC8puoHA18lPNUGRQuK289apH6H8hE\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEwODkz\/MzU3LTE1MDYwODI4\/MzEtNDA4NC5qcGVn.jpeg",
-        "genres": [
-            "Pop"
-        ],
-        "release_year": "1995",
-        "barcode": [
-            "8 711255 156528",
-            "BIEM\/STEMRA"
-        ],
-        "timestamp": "Sat, 07 Jan 2023 00:21:55 - UK time"
-    },
-    "6115925": {
-        "id": 6115925,
-        "title": "Ciao Ciao Ciao",
-        "author": "Ana Kiro",
-        "thumb": "https:\/\/i.discogs.com\/h1pd7wT-u94L8sZC4lGx_lszbZS5mGZSA0Flp8DgeI4\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTYxMTU5\/MjUtMTQyNTYzODc5\/OS04NDIwLmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/fRWG_catFdwwABjyCpwlTTcS1Qj3NACaZywXcYFXwJs\/rs:fit\/g:sm\/q:90\/h:300\/w:300\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTYxMTU5\/MjUtMTQyNTYzODc5\/OS04NDIwLmpwZWc.jpeg",
-        "genres": [
-            "Pop"
-        ],
-        "release_year": "1967",
-        "barcode": "Nessun codice a barre disponibile",
-        "timestamp": "Sat, 07 Jan 2023 00:21:55 - UK time"
-    },
-    "16288498": {
-        "id": 16288498,
-        "title": "Ciao, Ciao",
-        "author": "Katarina Mala",
-        "thumb": "https:\/\/i.discogs.com\/JNAuAsr6sIdW68j_EdqWjuTcIu3fGeRIQ-FYespGfB8\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE2Mjg4\/NDk4LTE2MDY2Mzg5\/OTktNDE2NC5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/F5FTaqLDKWmj1j_-Soy5BzX-Q4HKV4aZobP7C28eFGk\/rs:fit\/g:sm\/q:90\/h:537\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE2Mjg4\/NDk4LTE2MDY2Mzg5\/OTktNDE2NC5qcGVn.jpeg",
-        "genres": [
-            "Funk \/ Soul",
-            "Pop"
-        ],
-        "release_year": "2015",
-        "barcode": [
-            "3830048042239",
-            "MADE BY WWW.RACMAN.SI KTVCD001 9833",
-            "IFPI HP02",
-            "SAZAS",
-            "BIEM"
-        ],
-        "timestamp": "Sat, 07 Jan 2023 00:21:55 - UK time"
-    },
-    "10658196": {
-        "id": 10658196,
-        "title": "Deciditi \/ Ciao... Ciao... Ciao",
-        "author": "Dino Sarti",
-        "thumb": "https:\/\/i.discogs.com\/-d2wIrWeoQAcgEZGdVYePEdEwi1cwAt24t4Wo0hNMHQ\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEwNjU4\/MTk2LTE2MjAyMTYy\/ODEtNjk5Ni5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/HoMYC4qRxiLqJaLKGWCpBa4rE06sMQMO-osMvxSoOg0\/rs:fit\/g:sm\/q:90\/h:587\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEwNjU4\/MTk2LTE2MjAyMTYy\/ODEtNjk5Ni5qcGVn.jpeg",
-        "genres": [
-            "Jazz",
-            "Rock",
-            "Pop"
-        ],
-        "release_year": "1958",
-        "barcode": [
-            "7X 1143 I 25.9.958",
-            "7X 1144 I 25.9.958",
-            "7 X 1143",
-            "7 X 1144",
-            "BIEM"
-        ],
-        "timestamp": "Sat, 07 Jan 2023 00:21:55 - UK time"
-    },
-    "1410770": {
-        "id": 1410770,
-        "title": "Ciao Ciao Music Publishing",
-        "author": "Ciao Ciao Music Publishing",
-        "thumb": "",
-        "cover_img": "https:\/\/st.discogs.com\/c9ad0a0c08228b865c524cda14eb218c9d34fd51\/images\/spacer.gif",
-        "genres": "",
-        "release_year": "",
-        "barcode": "Nessun codice a barre disponibile",
-        "timestamp": "Sat, 07 Jan 2023 00:21:55 - UK time"
-    },
-    "11663043": {
-        "id": 11663043,
-        "title": "Ciao, Ciao, Amore",
-        "author": "Jean Devos, Juliette (29)",
-        "thumb": "https:\/\/i.discogs.com\/CZ_wyJOmkQUyD2lpJReaB4-LMmllcfiVd5oHzFXCPt8\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTExNjYz\/MDQzLTE1MjAyNTI0\/OTItMTkxNS5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/yHLMYOpxv9ciY2DRsryHFUjVFbfVJ20qJbgmn5gaJGQ\/rs:fit\/g:sm\/q:90\/h:355\/w:348\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTExNjYz\/MDQzLTE1MjAyNTI0\/OTItMTkxNS5qcGVn.jpeg",
-        "genres": [
-            "Pop"
+            "Classical"
         ],
         "release_year": "1983",
         "barcode": [
-            "SABAM TM"
+            "TC-ASD 1077724",
+            "TC-ASD 1077734",
+            "TC-ASD 1077744"
         ],
-        "timestamp": "Sat, 07 Jan 2023 00:21:55 - UK time"
+        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
     },
-    "11048320": {
-        "id": 11048320,
-        "title": "Ciao Ciao Baby Ciao",
-        "author": "Gene Colonnello",
-        "thumb": "https:\/\/i.discogs.com\/g7pZjoQnx6jk8FKMP9nZ4Fut0G1DPhht8PUDx-sgULk\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTExMDQ4\/MzIwLTE1MDg4ODIw\/NjUtMTAxMi5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/4mhRgIuwljZDWwBskS86-HrBR52U9tCD88HmzbVJu6g\/rs:fit\/g:sm\/q:90\/h:337\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTExMDQ4\/MzIwLTE1MDg4ODIw\/NjUtMTAxMi5qcGVn.jpeg",
+    "8239888": {
+        "id": 8239888,
+        "title": "Hildegard Behrens, Jos\u00e9 van Dam, Karl",
+        "author": "Richard Strauss",
+        "thumb": "https:\/\/i.discogs.com\/X81e9mMz_BU1yWdBWKkini0ps2d6bgsuB7sOCycNWXI\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTgyMzk4\/ODgtMTUzNzk1MzE1\/NC0zMDUwLmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/q08P-u9DXo614MnamPEOJEe0AcwYiN2K-pes_kyYsbw\/rs:fit\/g:sm\/q:90\/h:606\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTgyMzk4\/ODgtMTUzNzk1MzE1\/NC0zMDUwLmpwZWc.jpeg",
         "genres": [
-            "Pop"
+            "Classical"
+        ],
+        "release_year": "1978",
+        "barcode": [
+            "TC-ASD 3575",
+            "TC-ASD 3576"
+        ],
+        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
+    },
+    "12114693": {
+        "id": 12114693,
+        "title": "Die Fr\u00fchen Streichquartette Op. 18 = The Early Quartets Op. 18",
+        "author": "Beethoven*, Alban Berg Quartett",
+        "thumb": "https:\/\/i.discogs.com\/TQXH3LSJ2WVLAJh_CrrjQXZYUR7xU-Tc5BXIlePOoPY\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEyMTE0\/NjkzLTE1Mjg1OTI3\/NjQtNjMzMi5qcGVn.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/lEnFoyXRqK4cs_X_twQhtR79S-9mbKwCjV73dADywIY\/rs:fit\/g:sm\/q:90\/h:585\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEyMTE0\/NjkzLTE1Mjg1OTI3\/NjQtNjMzMi5qcGVn.jpeg",
+        "genres": [
+            "Classical"
+        ],
+        "release_year": "1981",
+        "barcode": [
+            "TC-ASD 4141",
+            "TC-ASD 4142",
+            "TC-ASD 4143"
+        ],
+        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
+    },
+    "18782605": {
+        "id": 18782605,
+        "title": "Baptiste Mari, Paris Op\u00e9ra Orchestra*",
+        "author": "Delibes*, Jean",
+        "thumb": "https:\/\/i.discogs.com\/O68_Em87u8G36THpwfTuzgxapMWr4570l7JN6Ty11rQ\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE4Nzgy\/NjA1LTE2MjEzNjMx\/ODAtMTMzNi5qcGVn.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/qXH8-Z8w3-CcIBLSyHDw_rPK_sl4ZKo8852LRfH620M\/rs:fit\/g:sm\/q:90\/h:594\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE4Nzgy\/NjA1LTE2MjEzNjMx\/ODAtMTMzNi5qcGVn.jpeg",
+        "genres": [
+            "Classical",
+            "Stage & Screen"
+        ],
+        "release_year": "1977",
+        "barcode": [
+            "TC-ASD 3386",
+            "TC-ASD 3387"
+        ],
+        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
+    },
+    "990309": {
+        "id": 990309,
+        "title": "Ernest Mercker, Gottlob Frick, Rias",
+        "author": "Pilar Lorengar, Fritz Wunderlich, Karl",
+        "thumb": "https:\/\/i.discogs.com\/tPz8YAvSovjKeTjHQ2IOQb_OJ6LdUNDJkqyQ4vZ2thU\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEwOTk1\/MTQzLTE1MDgwMzIx\/MjEtODQ4NS5qcGVn.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/fl-xojNJQIGPcybGa1AlQDXJsQ56af_gV9tnv-1bbXM\/rs:fit\/g:sm\/q:90\/h:594\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEwOTk1\/MTQzLTE1MDgwMzIx\/MjEtODQ4NS5qcGVn.jpeg",
+        "genres": [
+            "Classical"
+        ],
+        "release_year": "1963",
+        "barcode": [
+            "ASD. 522",
+            "ASD. 523",
+            "ASD. 524"
+        ],
+        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
+    },
+    "10339577": {
+        "id": 10339577,
+        "title": "Gayaneh",
+        "author": "Khachaturian* \u2013 Moscow Radio Symphony Orchestra*, Jansug Kakhidze",
+        "thumb": "https:\/\/i.discogs.com\/tOA5-RiZWwNe28dctpVpHi7L4Jy-7IYQWObe79i8wI8\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEwMzM5\/NTc3LTE0OTU2MTMy\/NjctNTE0MC5qcGVn.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/_cHVaF8cPbGf6TsdNSkrVzSNswhYCNo_f1atBQ3cn94\/rs:fit\/g:sm\/q:90\/h:512\/w:500\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEwMzM5\/NTc3LTE0OTU2MTMy\/NjctNTE0MC5qcGVn.jpeg",
+        "genres": [
+            "Classical"
+        ],
+        "release_year": "1978",
+        "barcode": [
+            "ASD 3615",
+            "ASD 3616",
+            "ASD 3617"
+        ],
+        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
+    },
+    "13903884": {
+        "id": 13903884,
+        "title": "I Don't Know How To Love Him",
+        "author": "Gloria Lynne",
+        "thumb": "https:\/\/i.discogs.com\/cCae2mNSErO0cgiUKoVHOe-Qh1T-h0zar4kdLs7VDB8\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEzOTAz\/ODg0LTE1NjM3MjE1\/MjctNjcxNy5qcGVn.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/lKjqdOxpIIAWjqnpFXYTb8x6p-Nz4Oadr1KQ6rGkF4I\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEzOTAz\/ODg0LTE1NjM3MjE1\/MjctNjcxNy5qcGVn.jpeg",
+        "genres": [
+            "Funk \/ Soul"
+        ],
+        "release_year": "1976",
+        "barcode": [
+            "ASD-9311-A",
+            "ASD-9311-B",
+            "T1 ASD-9311-A \u2460 A",
+            "T1 ASD-9311-B \u2460 A"
+        ],
+        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
+    },
+    "8239896": {
+        "id": 8239896,
+        "title": "Tito Gobbi \ud83d\udf84 Elisabeth Schwarzkopf \ud83d\udf84 Fedora Barbieri \ud83d\udf84 Nan Merriman \ud83d\udf84 Rolando Panerai \ud83d\udf84 Anna Moffo \ud83d\udf84 Luigi Alva",
+        "author": "Verdi*",
+        "thumb": "https:\/\/i.discogs.com\/3gMnfGTMJYScCMqeQFw2ye3Eo2YdO--6RAiepXSm9Vo\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTgyMzk4\/OTYtMTUzODgxNjc3\/Ny01NDM0LmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/CDZrUt7tLp0MT1GKc6T7AR_KO1UzJiKu0wYZLzA6804\/rs:fit\/g:sm\/q:90\/h:602\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTgyMzk4\/OTYtMTUzODgxNjc3\/Ny01NDM0LmpwZWc.jpeg",
+        "genres": [
+            "Classical",
+            "Stage & Screen"
+        ],
+        "release_year": "1981",
+        "barcode": [
+            "TC-ASD 3977",
+            "TC-ASD 3978",
+            "OC"
+        ],
+        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
+    },
+    "10995143": {
+        "id": 10995143,
+        "title": "Ernest Mercker, Gottlob Frick, Rias",
+        "author": "Pilar Lorengar, Fritz Wunderlich, Karl",
+        "thumb": "https:\/\/i.discogs.com\/tPz8YAvSovjKeTjHQ2IOQb_OJ6LdUNDJkqyQ4vZ2thU\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEwOTk1\/MTQzLTE1MDgwMzIx\/MjEtODQ4NS5qcGVn.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/fl-xojNJQIGPcybGa1AlQDXJsQ56af_gV9tnv-1bbXM\/rs:fit\/g:sm\/q:90\/h:594\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEwOTk1\/MTQzLTE1MDgwMzIx\/MjEtODQ4NS5qcGVn.jpeg",
+        "genres": [
+            "Classical"
+        ],
+        "release_year": "1963",
+        "barcode": [
+            "ASD. 522",
+            "ASD. 523",
+            "ASD. 524"
+        ],
+        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
+    },
+    "15123186": {
+        "id": 15123186,
+        "title": "M\u00e1 Vlast (My Country)",
+        "author": "Smetana*, Dvo\u0159\u00e1k*, Staatskapelle Dresden, Paavo Berglund",
+        "thumb": "https:\/\/i.discogs.com\/FNba1ShCI8I_Sohlal-h6MfibtQkP6zqHqwE8diD_0o\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1MTIz\/MTg2LTE1ODY5NzMy\/OTktMzk5Ny5qcGVn.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/3gFzoV4o4TCqcCNWlLOmuBvOVENKATrrLiukmcWC6QA\/rs:fit\/g:sm\/q:90\/h:601\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1MTIz\/MTg2LTE1ODY5NzMy\/OTktMzk5Ny5qcGVn.jpeg",
+        "genres": [
+            "Classical"
+        ],
+        "release_year": "1979",
+        "barcode": [
+            "TC-ASD 3634",
+            "TC-ASD 3635"
+        ],
+        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
+    },
+    "54146": {
+        "id": 54146,
+        "title": "Love In Us All",
+        "author": "Pharoah Sanders",
+        "thumb": "https:\/\/i.discogs.com\/Dt9aS29kCSIsERWZD88HhUV9hT703LqW8-ylSqt3730\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEwMzk5\/ODEtMTY2MjYzMjUx\/OC00OTY3LnBuZw.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/3OLPTwm1bQ36z_cNM0JPXYDE89L9jYnyME5Dn4lfRJU\/rs:fit\/g:sm\/q:90\/h:599\/w:599\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEwMzk5\/ODEtMTY2MjYzMjUx\/OC00OTY3LnBuZw.jpeg",
+        "genres": [
+            "Jazz"
+        ],
+        "release_year": "1974",
+        "barcode": [
+            "BMI",
+            "ASD-9280-A",
+            "ASD-9280-B",
+            "T1 ASD-9280-A 1",
+            "T1 ASD-9280-B 2",
+            "T1 ASD-9280-A \u2460 3 P",
+            "T1 ASD-9280-B \u2460 5 A",
+            "T1 ASD-9280-A \u2460",
+            "T1 ASD-9280-B \u2460"
+        ],
+        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
+    },
+    "1039981": {
+        "id": 1039981,
+        "title": "Love In Us All",
+        "author": "Pharoah Sanders",
+        "thumb": "https:\/\/i.discogs.com\/Dt9aS29kCSIsERWZD88HhUV9hT703LqW8-ylSqt3730\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEwMzk5\/ODEtMTY2MjYzMjUx\/OC00OTY3LnBuZw.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/3OLPTwm1bQ36z_cNM0JPXYDE89L9jYnyME5Dn4lfRJU\/rs:fit\/g:sm\/q:90\/h:599\/w:599\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEwMzk5\/ODEtMTY2MjYzMjUx\/OC00OTY3LnBuZw.jpeg",
+        "genres": [
+            "Jazz"
+        ],
+        "release_year": "1974",
+        "barcode": [
+            "BMI",
+            "ASD-9280-A",
+            "ASD-9280-B",
+            "T1 ASD-9280-A 1",
+            "T1 ASD-9280-B 2",
+            "T1 ASD-9280-A \u2460 3 P",
+            "T1 ASD-9280-B \u2460 5 A",
+            "T1 ASD-9280-A \u2460",
+            "T1 ASD-9280-B \u2460"
+        ],
+        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
+    },
+    "430417": {
+        "id": 430417,
+        "title": "Coincide",
+        "author": "Dewey Redman",
+        "thumb": "https:\/\/i.discogs.com\/X7P6U-dTE9iXCyjijxoiYE0Y3iga0oXTuWyK09KuzwE\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQzMDQx\/Ny0xNTg2MjczNDY1\/LTI5MTAuanBlZw.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/LtViT0Sz0xCRbOUd2RJkXsrTXUVIA0CPKjfh4Vd9iNs\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQzMDQx\/Ny0xNTg2MjczNDY1\/LTI5MTAuanBlZw.jpeg",
+        "genres": [
+            "Jazz"
+        ],
+        "release_year": "1975",
+        "barcode": [
+            "TI  ASD-9300-A-3",
+            "TI  ASD-9300-A-2",
+            "TI  ASD-9300-B-I",
+            "KENDUN.",
+            "ASCAP"
+        ],
+        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
+    },
+    "6068538": {
+        "id": 6068538,
+        "title": "Hard Work",
+        "author": "John Handy",
+        "thumb": "https:\/\/i.discogs.com\/DZogKEbOEYt8FJ-jmt6vTszoAhj0E7AvGI-E98JFyTA\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTYwNjg1\/MzgtMTQxMDI0NDYy\/MC00NzQxLmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/5zOj2YNZuJ9f0Pu_V1XUZh3twolkz_EjBnewIn6rb6Y\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTYwNjg1\/MzgtMTQxMDI0NDYy\/MC00NzQxLmpwZWc.jpeg",
+        "genres": [
+            "Jazz",
+            "Blues"
+        ],
+        "release_year": "1976",
+        "barcode": [
+            "BMI",
+            "ASD-9314-A",
+            "ASD-9314-B",
+            "ASD - 9314-A - \u2466 K",
+            "ASD - 9314-B - \u2466 K",
+            "ASD - 9314-A - \u2466 K",
+            "ASD - 9314-B - \u2467 K"
+        ],
+        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
+    },
+    "11001179": {
+        "id": 11001179,
+        "title": "Tales Of Hoffmann",
+        "author": "Offenbach*, Beverly Sills, Julius Rudel, Stuart Burrows, Susanne Marsee, Nico Castel, London Symphony Orchestra*, John Alldis Choir",
+        "thumb": "https:\/\/i.discogs.com\/IMnuI1kqobrbmoZ-grPwE2F3lbcJLeHomklQjLPFHrY\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTExMDAx\/MTc5LTE1MDc5OTQy\/NzQtNjY5NC5qcGVn.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/Lm14pI4uJo40273FCv8PxAI4TbD7sneRPPC53wviQ8o\/rs:fit\/g:sm\/q:90\/h:539\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTExMDAx\/MTc5LTE1MDc5OTQy\/NzQtNjY5NC5qcGVn.jpeg",
+        "genres": [
+            "Classical"
+        ],
+        "release_year": "1973",
+        "barcode": [
+            "ASD. 2919",
+            "ASD. 2920",
+            "ASD. 2921"
+        ],
+        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
+    },
+    "9698007": {
+        "id": 9698007,
+        "title": "Impulse Energy Essentials (A Developmental And Historical Introduction To The New Music)",
+        "author": "Various",
+        "thumb": "https:\/\/i.discogs.com\/2NOpfV-uWEmWBURSEh2QyiEUWU42mi48c-o1Reb0uWQ\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTk2OTgw\/MDctMTQ4NDk1MjI2\/MS00NDExLmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/aO3CC-Y8Dh7hs8T-7v97CEfKNWjuNn2eJD59Xfq65fg\/rs:fit\/g:sm\/q:90\/h:596\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTk2OTgw\/MDctMTQ4NDk1MjI2\/MS00NDExLmpwZWc.jpeg",
+        "genres": [
+            "Jazz"
+        ],
+        "release_year": "1972",
+        "barcode": [
+            "ASCAP",
+            "BMI",
+            "ASD-9228-A",
+            "ASD-9228-B",
+            "ASD-9228-C",
+            "ASD-9228-D",
+            "ASD-9228-E",
+            "ASD-9228-F",
+            "ASD9228-A TG",
+            "ASD9228-B TG",
+            "ASD-9228-C TG",
+            "ASD-9228-E TG",
+            "ASD-9228-E TG",
+            "AS-9228-F TG"
+        ],
+        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
+    },
+    "21675586": {
+        "id": 21675586,
+        "title": "The Nutcracker (Complete Ballet)",
+        "author": "Tchaikovsky*, London Symphony Orchestra* Conducted By Andr\u00e9 Previn",
+        "thumb": "https:\/\/i.discogs.com\/WJDP9A-Ojdb8DZ2coS-QPSyisHCeHVs9LeGdWL3kwn0\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTIxNjc1\/NTg2LTE2NDE3Nzgz\/MzEtNzgyNC5qcGVn.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/ZsIrL2mlDVgiSwpnK1lOU0ZEOoLSyFKegi3hgbPwcs8\/rs:fit\/g:sm\/q:90\/h:595\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTIxNjc1\/NTg2LTE2NDE3Nzgz\/MzEtNzgyNC5qcGVn.jpeg",
+        "genres": [
+            "Classical"
         ],
         "release_year": "",
         "barcode": [
-            "BIEM"
+            "TC-ASD 2849",
+            "TC-ASD 2850"
         ],
-        "timestamp": "Sat, 07 Jan 2023 00:21:55 - UK time"
+        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
     },
-    "23145533": {
-        "id": 23145533,
-        "title": "Ciao Ciao",
-        "author": "Paolo Tuci",
-        "thumb": "https:\/\/i.discogs.com\/ZXErNm3yyiLJC2Wo4-KR8b1QGvD8Eht7R-P4UAgYQUE\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTIzMTQ1\/NTMzLTE2NTE5MzYx\/MjAtOTA3Mi5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/l_7uQ2lQbz57AuB7K4kE9nnQxRg76dvruz7XROclo5w\/rs:fit\/g:sm\/q:90\/h:593\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTIzMTQ1\/NTMzLTE2NTE5MzYx\/MjAtOTA3Mi5qcGVn.jpeg",
+    "11866456": {
+        "id": 11866456,
+        "title": "Hard Work",
+        "author": "John Handy",
+        "thumb": "https:\/\/i.discogs.com\/OATLdSAjgbUY_YWOUdX_8FvxE5ANJsnMwFOhE8dHcRw\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTExODY2\/NDU2LTE1MjM3NTIw\/MTktNjYyNS5qcGVn.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/OIFaye9Wx0UKw6SCCXcjPNHwJyzF5G2cs8xp5mR18Mk\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTExODY2\/NDU2LTE1MjM3NTIw\/MTktNjYyNS5qcGVn.jpeg",
         "genres": [
-            "Pop",
-            "Children's"
+            "Jazz"
         ],
-        "release_year": "2017",
+        "release_year": "1976",
         "barcode": [
-            "0 700900 746298"
+            "BMI",
+            "ASD-9314-A",
+            "ASD-9314-B",
+            " \\ \u03df",
+            " \\ \u03df ASD-9314-A \u2780",
+            " \\ \u03df ASD-9314-B \u2789 <",
+            " \\ \u03df ASD-9314-A \u24f6",
+            " \\ \u03df ASD-9314-B \u24fd"
         ],
-        "timestamp": "Sat, 07 Jan 2023 00:21:55 - UK time"
+        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
     },
-    "5606159": {
-        "id": 5606159,
-        "title": "Ciao, Ciao, Peppino",
-        "author": "Margie (5)",
-        "thumb": "https:\/\/i.discogs.com\/l1oS_bVY3CeNYiFOo1NkVzM0ZKwugpZb4LEMkIZWXuY\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU2MDYx\/NTktMTY3MjcwNjIw\/OS04NTAwLmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/NvFKf2elfr8skqRQ6JySKvsh-Iz-g4vbRe0nhNpZuuY\/rs:fit\/g:sm\/q:90\/h:593\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTU2MDYx\/NTktMTY3MjcwNjIw\/OS04NTAwLmpwZWc.jpeg",
+    "14625609": {
+        "id": 14625609,
+        "title": "Hildegard Behrens, Jos\u00e9 van Dam, Karl",
+        "author": "Richard Strauss",
+        "thumb": "https:\/\/i.discogs.com\/Zu-88cpHRz1QKfhnINUN-HDwrmHFLHJ7BsrKsEfB1XA\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE0NjI1\/NjA5LTE1Nzg4NTE3\/MzMtMjM3Ny5qcGVn.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/ADMLKjyPSTaCs5uaQZn2_9YvVVnk85G8NxGmCO3FCF4\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE0NjI1\/NjA5LTE1Nzg4NTE3\/MzMtMjM3Ny5qcGVn.jpeg",
         "genres": [
-            "Electronic",
+            "Classical"
+        ],
+        "release_year": "1978",
+        "barcode": [
+            "TC-ASD 3575",
+            "TC-ASD 3576"
+        ],
+        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
+    },
+    "1254614": {
+        "id": 1254614,
+        "title": "Nicolai Gedda, Anneliese Rothenberger, Olivera Miljakovic, Heinz Zednik, Benno Kusche, Bavarian State Opera Chorus*, Bavarian Symphony Orchestra*, Willi Boskovsky",
+        "author": "Franz Leh\u00e1r",
+        "thumb": "https:\/\/i.discogs.com\/9yWb2lgXpFh1_1GU63gfgcR5GTA2ftrlqnNoKWsP1Zs\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTExMDI1\/OTE5LTE1MDg0OTMw\/NDMtNDgzOS5qcGVn.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/DNFpDrJsHjiM6zh0vDMkX3gdbuaKXjxfLliU7NGmOwQ\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTExMDI1\/OTE5LTE1MDg0OTMw\/NDMtNDgzOS5qcGVn.jpeg",
+        "genres": [
+            "Classical",
+            "Stage & Screen"
+        ],
+        "release_year": "1977",
+        "barcode": [
+            "ASD 3507",
+            "ASD 3508"
+        ],
+        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
+    },
+    "1305683": {
+        "id": 1305683,
+        "title": "Piano Duets",
+        "author": "Schubert*, Christoph Eschenbach, Justus Frantz",
+        "thumb": "https:\/\/i.discogs.com\/qaP-mPkXQgnpuyz_cPwBrhg1sTk1uD_HwXRiTqZKACw\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTg1MzI4\/NjAtMTQ2MzUwNzcw\/OC04MzQxLmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/znJS72_54b-PCDbCOCs4VjAXpomxetxv4nJJ96fZkjk\/rs:fit\/g:sm\/q:90\/h:595\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTg1MzI4\/NjAtMTQ2MzUwNzcw\/OC04MzQxLmpwZWc.jpeg",
+        "genres": [
+            "Classical"
+        ],
+        "release_year": "1978",
+        "barcode": [
+            "ASD 3593",
+            "ASD 3594"
+        ],
+        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
+    },
+    "1114711": {
+        "id": 1114711,
+        "title": "The Complete Brandenburg Concertos",
+        "author": "Bach*, Polish Chamber Orchestra, Jerzy Maksymiuk",
+        "thumb": "https:\/\/i.discogs.com\/GkvQMCtSMrJGWGbIe1qNk0iPLu9t8ck7WxFsSVxKJlc\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTc5Njc4\/MjQtMTUwMTE1NzMx\/OC0zNjkzLmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/GReyzOXXROnCTK9YYORO130FXFnsh0JQdIL4-7p1lIA\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTc5Njc4\/MjQtMTUwMTE1NzMx\/OC0zNjkzLmpwZWc.jpeg",
+        "genres": [
+            "Classical"
+        ],
+        "release_year": "1979",
+        "barcode": [
+            "ASD 3658",
+            "ASD 3659"
+        ],
+        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
+    },
+    "17233873": {
+        "id": 17233873,
+        "title": "Sleeping Beauty (Complete Ballet)",
+        "author": "Tchaikovsky*, Andr\u00e9 Previn, London Symphony Orchestra*",
+        "thumb": "https:\/\/i.discogs.com\/GhLJRsohTChvE_xos1saPG3EnCp8C60MG-oigyBo6Nk\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE3MjMz\/ODczLTE2MTIzMzQz\/NTEtNDM5Ny5qcGVn.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/N55TOP7GrsR7D3lkhp2VCRa0BqIN6poYUO1t9KmYHyU\/rs:fit\/g:sm\/q:90\/h:440\/w:450\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE3MjMz\/ODczLTE2MTIzMzQz\/NTEtNDM5Ny5qcGVn.jpeg",
+        "genres": [
+            "Classical"
+        ],
+        "release_year": "1974",
+        "barcode": [
+            "OASD 3040",
+            "OASD 3041",
+            "OASD 3042"
+        ],
+        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
+    },
+    "1735960": {
+        "id": 1735960,
+        "title": "Warm & Sonny",
+        "author": "Sonny Criss",
+        "thumb": "https:\/\/i.discogs.com\/JfGIWI3MWwdWVDVSDRLeylPRt89dnbLuaDHy2K9TZwU\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE3MzU5\/NjAtMTI0MjQ5Nzk2\/MS5qcGVn.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/AuqUQqTfMrN5eKtW0Hzx1kkagf6ArXR8GDOtWMgdNoo\/rs:fit\/g:sm\/q:90\/h:432\/w:432\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE3MzU5\/NjAtMTI0MjQ5Nzk2\/MS5qcGVn.jpeg",
+        "genres": [
+            "Jazz"
+        ],
+        "release_year": "1976",
+        "barcode": [
+            "BMI",
+            "ASCAP",
+            "ASD-9312-A",
+            "ASD-9312-B",
+            "TI ASD-9312-A \u2461 A",
+            "TI ASD-9312-B \u2460 ",
+            "T"
+        ],
+        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
+    },
+    "4849398": {
+        "id": 4849398,
+        "title": "Warm & Sonny",
+        "author": "Sonny Criss",
+        "thumb": "https:\/\/i.discogs.com\/uHyLUa_Yg44s0uCy591nQbt1FLQTz4pcRUtJUKAHHF4\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQ4NDkz\/OTgtMTM3NzQyODA3\/NS04MTkxLmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/Irks2UvbHuRFN7WDITGetjiJrxFtC_ZbIZslhPnMC_I\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQ4NDkz\/OTgtMTM3NzQyODA3\/NS04MTkxLmpwZWc.jpeg",
+        "genres": [
+            "Jazz"
+        ],
+        "release_year": "1976",
+        "barcode": [
+            "T1 ASD-9312-A",
+            "T1 ASD-9312-B"
+        ],
+        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
+    },
+    "493310": {
+        "id": 493310,
+        "title": "Pathways To Unknown Worlds",
+        "author": "Sun Ra And His Astro Infinity Arkestra*",
+        "thumb": "https:\/\/i.discogs.com\/8m-O6h1eKN2m63TFtFa0bXXq5BDdWpY7Z5gdYMa_C88\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQwNDQ2\/MDctMTQxNjUxMjMz\/OC03MTIzLmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/a22j5Rkrcnh2uzZavIxm5SEVAR6oVix7e7r5TEs4epU\/rs:fit\/g:sm\/q:90\/h:597\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQwNDQ2\/MDctMTQxNjUxMjMz\/OC03MTIzLmpwZWc.jpeg",
+        "genres": [
+            "Jazz"
+        ],
+        "release_year": "1975",
+        "barcode": [
+            "BMI",
+            "ASD-9298-A",
+            "ASD-9298-B",
+            "T2 ASD-9298-A \u24d8 KENDUN",
+            "T1 ASD-9298-B \u24d8 KENDUN",
+            "T2 ASD - 9298- A \u2460 KENDUN A 3",
+            "T 1 ASD- 9298- B \u2460 KENDUN C 1"
+        ],
+        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
+    },
+    "8353576": {
+        "id": 8353576,
+        "title": "Siegfried (The Sadler's Wells Opera Production In English)",
+        "author": "Richard Wagner, Alberto Remedios, Norman Bailey, Rita Hunter, Sadler's Wells Opera Orchestra*, Reginald Goodall",
+        "thumb": "https:\/\/i.discogs.com\/8zz6uNDKmnEhf0OIQp7p1HzEIg3pcpTKim0olxy_1wc\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTgzNTM1\/NzYtMTQ1OTk1Mzk1\/NS02OTA5LmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/M0WdAO9SEDQCt4eWYeAd_Q-nDajgGHYFuNVuHy3x3CE\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTgzNTM1\/NzYtMTQ1OTk1Mzk1\/NS02OTA5LmpwZWc.jpeg",
+        "genres": [
+            "Classical"
+        ],
+        "release_year": "1974",
+        "barcode": [
+            "2YEA.4925",
+            "2YEA.4926",
+            "2YEA.4927",
+            "2YEA.4928",
+            "2YEA.4929",
+            "2YEA.4930",
+            "2YEA.4931",
+            "2YEA.4932",
+            "2YEA.4933",
+            "2YEA.4934",
+            "ASD. 2978",
+            "ASD. 2979",
+            "ASD. 2980",
+            "ASD. 2981",
+            "ASD. 2982"
+        ],
+        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
+    },
+    "331337": {
+        "id": 331337,
+        "title": "The Sounds Of Disco",
+        "author": "The Stringfield Family",
+        "thumb": "https:\/\/i.discogs.com\/LrsG9a-JSJOqCAwUbQOCZHSWzQQ7wMIlFXVMq3-peqw\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEwNzYz\/OTEtMTI4NTc3ODIy\/OC5qcGVn.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/z2E9N2_umkm7CHgsRlthfokb-1CjOYNKDZX2kyrMtDg\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEwNzYz\/OTEtMTI4NTc3ODIy\/OC5qcGVn.jpeg",
+        "genres": [
+            "Funk \/ Soul"
+        ],
+        "release_year": "1975",
+        "barcode": [
+            "BMI",
+            "ASD-1000 A",
+            "ASD-1000 B",
+            "ASD-1000-AD F\/W ",
+            "ASD-1000-BD F\/W "
+        ],
+        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
+    },
+    "8047908": {
+        "id": 8047908,
+        "title": "Masterpiece II",
+        "author": "Various",
+        "thumb": "https:\/\/i.discogs.com\/rvqyEKgRtHFQCFPaanHs7-K0PQBGVwJLmLUVLc87Epk\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTgwNDc5\/MDgtMTQ1NDE5NTUx\/MS0yMDE2LmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/zKTEYKPjeEYVqFDcRbc9XScczmch9km3nPz0ORF4xaU\/rs:fit\/g:sm\/q:90\/h:605\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTgwNDc5\/MDgtMTQ1NDE5NTUx\/MS0yMDE2LmpwZWc.jpeg",
+        "genres": [
+            "Classical"
+        ],
+        "release_year": "1979",
+        "barcode": [
+            "ASD 9005 A",
+            "ASD 9005 B",
+            "ASD 9006 A",
+            "ASD 9006 B "
+        ],
+        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
+    },
+    "2014355": {
+        "id": 2014355,
+        "title": "Bad & Beautiful",
+        "author": "Sun Ra And His Arkestra*",
+        "thumb": "https:\/\/i.discogs.com\/B2RkGt6i7RqpOhV8n0Lj27CzKsqqT--SReqWj5IfRTU\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTIwMTQz\/NTUtMTUxNDg2MDI1\/MS03NzA1LmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/1Wv0VSl1zXSxjrzNyAvJAVf-kBSxrw7vcHCHp0Wy_og\/rs:fit\/g:sm\/q:90\/h:597\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTIwMTQz\/NTUtMTUxNDg2MDI1\/MS03NzA1LmpwZWc.jpeg",
+        "genres": [
+            "Jazz"
+        ],
+        "release_year": "1975",
+        "barcode": [
+            "ASD-9276-A",
+            "ASD-9276-B",
+            "T1 ASD-9276-A \u2460 > A I ",
+            "T1 ASD-9276-B \u2461 > A I ",
+            "ASCAP",
+            "BMI"
+        ],
+        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
+    },
+    "4044607": {
+        "id": 4044607,
+        "title": "Pathways To Unknown Worlds",
+        "author": "Sun Ra And His Astro Infinity Arkestra*",
+        "thumb": "https:\/\/i.discogs.com\/8m-O6h1eKN2m63TFtFa0bXXq5BDdWpY7Z5gdYMa_C88\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQwNDQ2\/MDctMTQxNjUxMjMz\/OC03MTIzLmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/a22j5Rkrcnh2uzZavIxm5SEVAR6oVix7e7r5TEs4epU\/rs:fit\/g:sm\/q:90\/h:597\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQwNDQ2\/MDctMTQxNjUxMjMz\/OC03MTIzLmpwZWc.jpeg",
+        "genres": [
+            "Jazz"
+        ],
+        "release_year": "1975",
+        "barcode": [
+            "BMI",
+            "ASD-9298-A",
+            "ASD-9298-B",
+            "T2 ASD-9298-A \u24d8 KENDUN",
+            "T1 ASD-9298-B \u24d8 KENDUN",
+            "T2 ASD - 9298- A \u2460 KENDUN A 3",
+            "T 1 ASD- 9298- B \u2460 KENDUN C 1"
+        ],
+        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
+    },
+    "4096356": {
+        "id": 4096356,
+        "title": "Favoritter",
+        "author": "Birgit Lystager",
+        "thumb": "https:\/\/i.discogs.com\/MR_a-bLkwVjOiq6J4uY-JqM3i7fvgXmehQ2ZgFG8R8A\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQwOTYz\/NTYtMTM1NTEzMDc3\/Ni03OTUyLmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/ie4hn4e_VHkOIkgn6DVbEBeMvxqIUp7cveUPR2RiNes\/rs:fit\/g:sm\/q:90\/h:581\/w:590\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTQwOTYz\/NTYtMTM1NTEzMDc3\/Ni03OTUyLmpwZWc.jpeg",
+        "genres": [
             "Pop"
         ],
-        "release_year": "1985",
-        "barcode": "Nessun codice a barre disponibile",
-        "timestamp": "Sat, 07 Jan 2023 00:21:55 - UK time"
-    },
-    "13506276": {
-        "id": 13506276,
-        "title": "Ciao, Ciao, Bambina",
-        "author": "Georges Gu\u00e9tary",
-        "thumb": "https:\/\/i.discogs.com\/pl3jjN0-8TdyPAZiaHmL6L3fqIkh1EWMx93ZwzYVhtk\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEzNTA2\/Mjc2LTE1NTU0ODUx\/MTAtNzAxMy5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/wuKDlhd22KwxUVWTM8AaCGQI8LJlt7Y-Ga3ye03NOVw\/rs:fit\/g:sm\/q:90\/h:593\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEzNTA2\/Mjc2LTE1NTU0ODUx\/MTAtNzAxMy5qcGVn.jpeg",
-        "genres": [
-            "Pop"
+        "release_year": "1972",
+        "barcode": [
+            "NCB",
+            "Cas-d 108-A",
+            "Cas-d 108-B",
+            "CAS-D-108-A",
+            "CAS-D-108-B"
         ],
-        "release_year": "1959",
-        "barcode": "Nessun codice a barre disponibile",
-        "timestamp": "Sat, 07 Jan 2023 00:21:55 - UK time"
+        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
     },
-    "15265644": {
-        "id": 15265644,
-        "title": "Ciao, Ciao, Bambina",
-        "author": "Caterina Valente",
-        "thumb": "https:\/\/i.discogs.com\/dZTHS7mfVvgMiNAHFMoLhZDGF9_nWJNf3BmjAGDxHjI\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1MjY1\/NjQ0LTE1ODg5MDUz\/MDUtMzgyMy5qcGVn.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/m4rbmpAVzZTHBFCGMQVvh1Y68Rgqmul1o7jFquQI9Ds\/rs:fit\/g:sm\/q:90\/h:605\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1MjY1\/NjQ0LTE1ODg5MDUz\/MDUtMzgyMy5qcGVn.jpeg",
+    "12788086": {
+        "id": 12788086,
+        "title": "Octeto De Buenos Aires",
+        "author": "Nestor Marconi*",
+        "thumb": "https:\/\/i.discogs.com\/42NGgujrsfoCOZgvT11i1IJJC6SWbmp0hLNWTT__0vQ\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEyNzg4\/MDg2LTE1NDE5NTM0\/MzUtNjc4My5qcGVn.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/ZT5ud_to065-kxrKZ1nCMj7UVkt5khuoEu7o1B4Zw1M\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEyNzg4\/MDg2LTE1NDE5NTM0\/MzUtNjc4My5qcGVn.jpeg",
         "genres": [
-            "Pop",
-            "Folk, World, & Country"
+            "Latin"
+        ],
+        "release_year": "1990",
+        "barcode": [
+            "JASRAC",
+            "VICP-101-1-ASD   V"
+        ],
+        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
+    },
+    "8267661": {
+        "id": 8267661,
+        "title": "Klaus Tennstedt, London Philharmonic Orchestra*",
+        "author": "Mahler*",
+        "thumb": "https:\/\/i.discogs.com\/3Oj8INrtBIErZvoRToCEZigB8So3q7ueFygDotWI6FI\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTgyNjc2\/NjEtMTUzODk5ODU2\/OC0zNzcyLmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/n3eUa-jnigq9JD581GqNi1tHleoZqdTfcLlm0JwoISE\/rs:fit\/g:sm\/q:90\/h:609\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTgyNjc2\/NjEtMTUzODk5ODU2\/OC0zNzcyLmpwZWc.jpeg",
+        "genres": [
+            "Classical"
+        ],
+        "release_year": "1983",
+        "barcode": [
+            "TC-ASD 1435744",
+            "TC-ASD 1435754"
+        ],
+        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
+    },
+    "24585617": {
+        "id": 24585617,
+        "title": "Tarandot",
+        "author": "Puccini*, Montserrat Caball\u00e9, Jos\u00e9 Carreras, Mirella Freni, Paul Plishka, Michel S\u00e9n\u00e9chal, Chorus Of L'Op\u00e9ra du Rhin*, Strasbourg Philarmonic Orchestra*, Alain Lombard",
+        "thumb": "https:\/\/i.discogs.com\/19fGwRLUSIR4-xHRUIXUcalZ4Ly0y4X8_9UsFzfGDNY\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI0NTg1\/NjE3LTE2NjM3NzIx\/OTUtNDgyNS5qcGVn.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/y98zksxREtN2MwaRIwFdvNnbllfWFgH2ZE1gaKCPfZo\/rs:fit\/g:sm\/q:90\/h:608\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI0NTg1\/NjE3LTE2NjM3NzIx\/OTUtNDgyNS5qcGVn.jpeg",
+        "genres": [
+            "Classical"
+        ],
+        "release_year": "1978",
+        "barcode": [
+            "ASD 3572",
+            "ASD 3573",
+            "ASD 3574"
+        ],
+        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
+    },
+    "2797273": {
+        "id": 2797273,
+        "title": "A Lot Of Bottle",
+        "author": "Climax Blues Band",
+        "thumb": "https:\/\/i.discogs.com\/4nT3eeM82NLuMftB_tUJJAgcWdA1PPu1JIeRSGOZApA\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI3OTcy\/NzMtMTYyNzYzMTcw\/MC04NDc5LmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/7omjSqA6-h5MWy8C0RLBVCEktxj6C_WYqB45tjoUd24\/rs:fit\/g:sm\/q:90\/h:599\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTI3OTcy\/NzMtMTYyNzYzMTcw\/MC04NDc5LmpwZWc.jpeg",
+        "genres": [
+            "Rock",
+            "Blues"
+        ],
+        "release_year": "1976",
+        "barcode": [
+            "p",
+            "SASD-7518-A",
+            "SASD-7518-B",
+            "SASD 7518-A",
+            "SASD 7518-B",
+            "p STERLING",
+            "ASCAP",
+            "BMI"
+        ],
+        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
+    },
+    "1259069": {
+        "id": 1259069,
+        "title": "Go With The Flow",
+        "author": "Michael White's Magic Music Company",
+        "thumb": "https:\/\/i.discogs.com\/B4fV8YJLKB8hb8M3bUKXuuICrxOL75wYcK-kMwmNhXo\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEyNTkw\/NjktMTUyMDE4Nzky\/Ni0xNjkyLmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/CvWyi77CqK63PpS34aKsb0MdluE8BegiglrQl8kYGeA\/rs:fit\/g:sm\/q:90\/h:599\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEyNTkw\/NjktMTUyMDE4Nzky\/Ni0xNjkyLmpwZWc.jpeg",
+        "genres": [
+            "Jazz"
+        ],
+        "release_year": "1974",
+        "barcode": [
+            "T1 ASD-9281-A 2",
+            "KENDUN",
+            "T1 ASD-9281-B 1",
+            "KENDUN",
+            "ASCAP",
+            "BMI"
+        ],
+        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
+    },
+    "6748142": {
+        "id": 6748142,
+        "title": "Symphony No. 5 With Five R\u00fcckert Songs",
+        "author": "Sir John Barbirolli Conducts Mahler*, Janet Baker, New Philharmonia Orchestra",
+        "thumb": "https:\/\/i.discogs.com\/96-eddPrrPqEDPff6zPuZ82d9p17ltz2xkzGY_lYH8c\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTY3NDgx\/NDItMTQyNTgxNTEx\/NC04MDQ5LmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/ti746xW3tEFsxn7iuFZ_fEJNjJzhXcnqiAkjRz0n9FE\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTY3NDgx\/NDItMTQyNTgxNTEx\/NC04MDQ5LmpwZWc.jpeg",
+        "genres": [
+            "Classical"
+        ],
+        "release_year": "1969",
+        "barcode": [
+            "ASD 2518",
+            "ASD 2519",
+            "ASD. 2518",
+            "ASD. 2519",
+            "2YEA.3841",
+            "2YEA.3842",
+            "2YEA.3843",
+            "2YEA.3844"
+        ],
+        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
+    },
+    "13238855": {
+        "id": 13238855,
+        "title": "Dieskau \/ Christa Ludwig \/ Christa Ludwig \/ Gottlob Frick \/ Otto Wiener",
+        "author": "Wagner* \/ The Vienna Philharmonic Orchestra* \/ Vienna State Opera Chorus* \/ Rudolf Kempe \/ Jess Thomas \/ Elisabeth Gr\u00fcmmer \/ Dietrich Fischer",
+        "thumb": "https:\/\/i.discogs.com\/HXtExCPb1UdcLWo3DfD-5ddMKJSBfsD_yTXhoTXxOfI\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEzMjM4\/ODU1LTE2NTUzNjU4\/NjQtNzY4Ny5qcGVn.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/BTlYyTvNTOtX8fREZT0cWEnfyF19ocJJBvrmckS5zDA\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTEzMjM4\/ODU1LTE2NTUzNjU4\/NjQtNzY4Ny5qcGVn.jpeg",
+        "genres": [
+            "Classical"
         ],
         "release_year": "",
         "barcode": [
-            "ZTSP60297-1A...",
-            "ZTSP60298-1A...."
+            "2YVH.49",
+            "2YVH.50",
+            "2YVH.51",
+            "2YVH.52",
+            "2YVH.53",
+            "2YVH.54",
+            "2YVH.55",
+            "2YVH.56",
+            "2YVH.57",
+            "2YVH.58",
+            "ASD 3278",
+            "ASD 3279",
+            "ASD 3280",
+            "ASD 3281",
+            "ASD 3282"
         ],
-        "timestamp": "Sat, 07 Jan 2023 00:21:55 - UK time"
+        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
     },
-    "527482": {
-        "id": 527482,
-        "title": "Ciao Ciao",
-        "author": "Petula Clark",
-        "thumb": "https:\/\/i.discogs.com\/K7omDguRlOBfg2Z1aXji_WHxJ7EGa6DTUY1Y17zCEdQ\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTUyNzQ4\/Mi0xMjcwNTg0NzY4\/LmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/rlxdYkhUov7WPSOSAzmdmMFeuzn02e0Pgwp8ZcHdZxk\/rs:fit\/g:sm\/q:90\/h:593\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTUyNzQ4\/Mi0xMjcwNTg0NzY4\/LmpwZWc.jpeg",
-        "genres": [
-            "Pop"
-        ],
-        "release_year": "1965",
-        "barcode": [
-            "BIEM",
-            "J 35066 x A",
-            "J 35066 x B",
-            "J-35066X45-A   30-4-65",
-            "J-35066X45-B    30-4-65",
-            "J-35066X45-A\/8   30-4-65",
-            "J-35066X45-B\/9    30-4-65"
-        ],
-        "timestamp": "Sat, 07 Jan 2023 00:21:55 - UK time"
-    },
-    "8117475": {
-        "id": 8117475,
-        "title": "Ciao Ciao",
-        "author": "I Dinamici",
-        "thumb": "https:\/\/i.discogs.com\/DYN6ocZgxTSZqe3CjQgQNOIZpcq6TA275WLpMmChjgM\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTgxMTc0\/NzUtMTQ1NTQ2NTM5\/Mi0xMTM4LmpwZWc.jpeg",
-        "cover_img": "https:\/\/i.discogs.com\/PoUJ4VQb1i6vFGu8kv-1Khu6IgFDM2B43gHCZblyHf8\/rs:fit\/g:sm\/q:90\/h:599\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTgxMTc0\/NzUtMTQ1NTQ2NTM5\/Mi0xMTM4LmpwZWc.jpeg",
+    "6230094": {
+        "id": 6230094,
+        "title": "Coward \/ Bastard",
+        "author": "Another Social Disease",
+        "thumb": "https:\/\/i.discogs.com\/GIeX2RcGY36lg0oIxEiBhWWztoIHLBeG_r0ZjryzmW8\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTYyMzAw\/OTQtMTQxNzU4MTAx\/Mi02MTQ1LmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/ZBy0S4-RkR12FpIHCcQ76yWwm8xVgyqp42CO_mJds-4\/rs:fit\/g:sm\/q:90\/h:590\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTYyMzAw\/OTQtMTQxNzU4MTAx\/Mi02MTQ1LmpwZWc.jpeg",
         "genres": [
             "Rock"
         ],
-        "release_year": "",
+        "release_year": "2014",
         "barcode": [
-            "BIEM",
-            "330.A",
-            "330.B"
+            "(Side A): ASD-02-A",
+            "(Side B): ASD-02-B"
         ],
-        "timestamp": "Sat, 07 Jan 2023 00:21:55 - UK time"
+        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
     },
-    "5090259": {
-        "id": 5090259,
-        "title": "Ciao, Ciao, Bambina",
-        "author": "Roberto Cardinali",
-        "thumb": "",
-        "cover_img": "https:\/\/st.discogs.com\/c9ad0a0c08228b865c524cda14eb218c9d34fd51\/images\/spacer.gif",
+    "18382558": {
+        "id": 18382558,
+        "title": "The Girl Of The Golden West",
+        "author": "Puccini*, Birgit Nilsson, Jo\u00e3o Gibin, Andrea Mongelli, Soloists, Chorus & Orchestra of Teatro alla Scala, Milan* Conducted by Lovro Von Matacic",
+        "thumb": "https:\/\/i.discogs.com\/Dk8vOXaaN-Z0KT3gu0tpaFj98e2-HTilNCiNn82tTMA\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE4Mzgy\/NTU4LTE2MTg5Mzk4\/NzktNjkxOS5qcGVn.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/by4sMcLThiZdR9yNERzosJ6McEOnl71KIcZK8o6wgF8\/rs:fit\/g:sm\/q:90\/h:612\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE4Mzgy\/NTU4LTE2MTg5Mzk4\/NzktNjkxOS5qcGVn.jpeg",
         "genres": [
-            "Pop",
-            "Folk, World, & Country"
+            "Classical"
         ],
-        "release_year": "1959",
-        "barcode": "Nessun codice a barre disponibile",
-        "timestamp": "Sat, 07 Jan 2023 00:21:55 - UK time"
+        "release_year": "1977",
+        "barcode": [
+            "YBX.1",
+            "YBX.2",
+            "YBX.3",
+            "YBX.4",
+            "YBX.5",
+            "YBX.6",
+            "Britico",
+            "ASD 3331",
+            "ASD 3332",
+            "ASD 3333"
+        ],
+        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
+    },
+    "6444756": {
+        "id": 6444756,
+        "title": "Scheherazade And Other Stories",
+        "author": "Renaissance (4)",
+        "thumb": "https:\/\/i.discogs.com\/bNAwIlZqoWiJTyk7gZBtlCxe-17y9088opdeOLW-whc\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTY0NDQ3\/NTYtMTQ3NzI1MTQw\/OS03NjE2LmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/m-D9ZyFWkoejT1THLE3Q09roooXJanJoiY9QFkcRDrQ\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTY0NDQ3\/NTYtMTQ3NzI1MTQw\/OS03NjE2LmpwZWc.jpeg",
+        "genres": [
+            "Rock"
+        ],
+        "release_year": "1975",
+        "barcode": [
+            "SASD-7510-A",
+            "SASD-7510-B",
+            "STERLING",
+            "SASD-7510-A",
+            "SASD-7510-B"
+        ],
+        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
+    },
+    "19296487": {
+        "id": 19296487,
+        "title": "A Lot Of Bottle",
+        "author": "Climax Blues Band",
+        "thumb": "https:\/\/i.discogs.com\/F6YxnI3MUoL3TdmQOJn0oFRZzgWNxOtOibaiZyvL920\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE5Mjk2\/NDg3LTE2MjU5NDk5\/MzItNzc1MS5qcGVn.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/pWFIfCGpvaH1znjxSYfgxSG-r-Bwc4IEaXMHIzuhPEU\/rs:fit\/g:sm\/q:90\/h:599\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE5Mjk2\/NDg3LTE2MjU5NDk5\/MzItNzc1MS5qcGVn.jpeg",
+        "genres": [
+            "Rock",
+            "Blues"
+        ],
+        "release_year": "1976",
+        "barcode": [
+            "SASD-7518-A",
+            "SASD-7518-B",
+            "T1 SASD 7518A-1",
+            "T1 SASD 7518B-2",
+            "STERLING",
+            "ASCAP",
+            "BMI"
+        ],
+        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
+    },
+    "1122267": {
+        "id": 1122267,
+        "title": "Impulse Energy Essentials (A Developmental And Historical Introduction To The New Music)",
+        "author": "Various",
+        "thumb": "https:\/\/i.discogs.com\/2NOpfV-uWEmWBURSEh2QyiEUWU42mi48c-o1Reb0uWQ\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTk2OTgw\/MDctMTQ4NDk1MjI2\/MS00NDExLmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/aO3CC-Y8Dh7hs8T-7v97CEfKNWjuNn2eJD59Xfq65fg\/rs:fit\/g:sm\/q:90\/h:596\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTk2OTgw\/MDctMTQ4NDk1MjI2\/MS00NDExLmpwZWc.jpeg",
+        "genres": [
+            "Jazz"
+        ],
+        "release_year": "1972",
+        "barcode": [
+            "ASCAP",
+            "BMI",
+            "ASD-9228-A",
+            "ASD-9228-B",
+            "ASD-9228-C",
+            "ASD-9228-D",
+            "ASD-9228-E",
+            "ASD-9228-F",
+            "ASD9228-A TG",
+            "ASD9228-B TG",
+            "ASD-9228-C TG",
+            "ASD-9228-E TG",
+            "ASD-9228-E TG",
+            "AS-9228-F TG"
+        ],
+        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
+    },
+    "3383361": {
+        "id": 3383361,
+        "title": "Chapter Four: Alive In New York",
+        "author": "Gato Barbieri",
+        "thumb": "https:\/\/i.discogs.com\/S4OBWOUgb6xtP44oK-UnK9jxOCr4fYKbZeBXVOvi_lI\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTMzODMz\/NjEtMTQyNjY3NjI5\/NC02OTk1LmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/TbwXpQxj9vz_MlGV1S5gkzE3fn3pAW2vBayvpq0ueZk\/rs:fit\/g:sm\/q:90\/h:602\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTMzODMz\/NjEtMTQyNjY3NjI5\/NC02OTk1LmpwZWc.jpeg",
+        "genres": [
+            "Jazz"
+        ],
+        "release_year": "1977",
+        "barcode": [
+            "62 ASD 9303-1L",
+            "62 ASD 9303-2L",
+            "SIAE-DR"
+        ],
+        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
+    },
+    "11967661": {
+        "id": 11967661,
+        "title": "Orpheus In The Underworld",
+        "author": "Jacques Offenbach, Orchestre National Du Capitole De Toulouse",
+        "thumb": "https:\/\/i.discogs.com\/WumBZsH9WiCaqmHB4_joCXSyQwzjmuV2zvWnLF8mUN4\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTExOTY3\/NjYxLTE1MjU2OTEz\/MzAtNTAxNC5qcGVn.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/9vp_synMJK29S3QVL4WqCXEWMnsl_JAidTSeAQ65-4M\/rs:fit\/g:sm\/q:90\/h:600\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTExOTY3\/NjYxLTE1MjU2OTEz\/MzAtNTAxNC5qcGVn.jpeg",
+        "genres": [
+            "Classical"
+        ],
+        "release_year": "1982",
+        "barcode": [
+            "ASD 3737",
+            "ASD 3738",
+            "ASD 3739"
+        ],
+        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
+    },
+    "9571372": {
+        "id": 9571372,
+        "title": "Requiem",
+        "author": "Verdi*, Renata Scotto, Agnes Baltsa, Veriano Luchetti, Evgeny Nesterenko, Ambrosian Chorus*, Philharmonia Orchestra, Riccardo Muti",
+        "thumb": "https:\/\/i.discogs.com\/tL0SYbB_Tn9N8WroHE3yETkJhEpXS82NKe6JsRlZx8U\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTk1NzEz\/NzItMTQ4Mjk0OTY5\/MS01MDM1LmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/HDBwsfBE_HzgVYvBmyxO8RZJMQDp6UKkgQ33Yv7XMYE\/rs:fit\/g:sm\/q:90\/h:565\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTk1NzEz\/NzItMTQ4Mjk0OTY5\/MS01MDM1LmpwZWc.jpeg",
+        "genres": [
+            "Classical"
+        ],
+        "release_year": "1979",
+        "barcode": [
+            "ASD 3808",
+            "ASD 3809"
+        ],
+        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
+    },
+    "1738212": {
+        "id": 1738212,
+        "title": "Impulse Energy Essentials",
+        "author": "Various",
+        "thumb": "https:\/\/i.discogs.com\/fPKzPmIi-nObjbJJ9H_vM3RKkDXdOFrY2uKko3bDcHs\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE3Mzgy\/MTItMTY1NTA1NTY1\/MC03NTQyLmpwZWc.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/bBb6QYJk2Ps4_n2Mx-lAbUcxNByZDdClWk2AFcSWVZ8\/rs:fit\/g:sm\/q:90\/h:596\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE3Mzgy\/MTItMTY1NTA1NTY1\/MC03NTQyLmpwZWc.jpeg",
+        "genres": [
+            "Jazz"
+        ],
+        "release_year": "1972",
+        "barcode": [
+            "T \u01a7 M",
+            "BMI",
+            "ASCAP",
+            "ASD-9228-A",
+            "ASD-9228-B",
+            "ASD-9228-C",
+            "ASD-9228-D",
+            "ASD-9228-E",
+            "ASD-9228-F",
+            "ASD-9228-A X T \u01a7 M",
+            "ASD 9228 B Re1 TSM",
+            "ADS 9228 C Re1 T \u01a7 M",
+            "T \u01a7 M ASD 9228 D Re1 X",
+            "ASD 9228 E Re1 T \u01a7 M X",
+            "ASD 9228 F Re1-1 X T \u01a7 M"
+        ],
+        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
+    },
+    "15548179": {
+        "id": 15548179,
+        "title": "The Orchestral Works Of Percy Grainger, Vol. 4",
+        "author": "Percy Grainger, The Sydney Symphony Orchestra Conducted By John Hopkins (11)",
+        "thumb": "https:\/\/i.discogs.com\/P0-4b4ZvR4G7bUHtln82c2y9zQ5OJyDtUCx6rjrV9ao\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1NTQ4\/MTc5LTE1OTM2NTQ4\/MDItODI4NS5qcGVn.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/WLOSQbv4fcAWta6gIC5h8aF-yIlQyTD0zdEB9Sxltgw\/rs:fit\/g:sm\/q:90\/h:400\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE1NTQ4\/MTc5LTE1OTM2NTQ4\/MDItODI4NS5qcGVn.jpeg",
+        "genres": [
+            "Classical"
+        ],
+        "release_year": "1977",
+        "barcode": [
+            "OASD-7608A",
+            "OASD-7608B"
+        ],
+        "timestamp": "Sat, 07 Jan 2023 00:27:32 - UK time"
     }
 }

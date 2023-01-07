@@ -9,5 +9,20 @@
         "release_year": "",
         "barcode": "Nessun codice a barre disponibile",
         "timestamp": "Sat, 07 Jan 2023 00:21:55 - UK time"
+    },
+    "14446699": {
+        "id": 14446699,
+        "title": "Dragon Ball",
+        "author": "Various",
+        "thumb": "https:\/\/i.discogs.com\/xff8l0smPtl3h6OKadE2AYbsVg_Oa4E93ied1u4aaxE\/rs:fit\/g:sm\/q:40\/h:150\/w:150\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE0NDQ2\/Njk5LTE1NzQ2OTE1\/NzQtODkzNi5qcGVn.jpeg",
+        "cover_img": "https:\/\/i.discogs.com\/pOc9JKYEFB1w2a9ddnKfksn3YeIQZk78CyJU3M_7Egs\/rs:fit\/g:sm\/q:90\/h:800\/w:600\/czM6Ly9kaXNjb2dz\/LWRhdGFiYXNlLWlt\/YWdlcy9SLTE0NDQ2\/Njk5LTE1NzQ2OTE1\/NzQtODkzNi5qcGVn.jpeg",
+        "genres": [
+            "Electronic",
+            "Pop",
+            "Children's"
+        ],
+        "release_year": "1998",
+        "barcode": "Nessun codice a barre disponibile",
+        "timestamp": "Sat, 07 Jan 2023 00:26:50 - UK time"
     }
 }

@@ -1,7 +1,10 @@
 {
     "page": 1,
-    "pages": 1,
+    "pages": 3,
     "per_page": 48,
-    "items": 2,
-    "urls": []
+    "items": 113,
+    "urls": {
+        "last": "https:\/\/api.discogs.com\/database\/search?token=HWiFdStcHwaqgBqEAoEjjvCFhQUNnZHqZFuelXuZ&barcode=&artist=&release_title=the+great+walk&per_page=48&page=3",
+        "next": "https:\/\/api.discogs.com\/database\/search?token=HWiFdStcHwaqgBqEAoEjjvCFhQUNnZHqZFuelXuZ&barcode=&artist=&release_title=the+great+walk&per_page=48&page=2"
+    }
 }

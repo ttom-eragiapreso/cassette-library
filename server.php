@@ -53,7 +53,7 @@ if(isset($cassette_id)){
 
 if($action === 'logout'){
 
-  gettype($user) === 'object' ? $last_login = $user->setLastLogin(getTimestamp()) : $last_login = getTimestamp();
+  gettype($user) === 'object' ? $last_login = $user->setLastLogin(getTimestamp()) : $user['last_login'] = getTimestamp();
 
 
   file_put_contents('users.json', json_encode($users, JSON_PRETTY_PRINT));

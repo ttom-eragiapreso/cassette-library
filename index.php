@@ -19,6 +19,7 @@ if(!isset($user)){header('Location: login.php');};
 
 
 $db = json_decode(file_get_contents("db-$username.json"), true) ?? null;
+
 ?>
 
 <!DOCTYPE html>
@@ -31,6 +32,8 @@ $db = json_decode(file_get_contents("db-$username.json"), true) ?? null;
 
 <!-- Innesto la navbar -->
 <?php require 'components/navbar.php' ?>
+
+
 
 <!-- Faccio un foreach dei records nel db se non è vuoto -->
 <?php if(!empty($db)): ?>

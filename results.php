@@ -24,7 +24,8 @@
 <main class="bg-space-300">
 
 <div class="container mx-auto px-5 flex justify-between">
-  <h2 class="text-bisque-200 text-2xl"><?php echo $currentPagination['items'] ?> Results found for <?php echo ucwords($search)?></h2>
+  <h2 class="text-bisque-200 text-2xl"><?php echo $currentPagination['items'] ?> Results found for - <?php 
+  if(isset($search)){echo ucwords($search);} ?></h2>
   <h2 class="text-bisque-200 text-2xl mb-7">Page: <?php echo $currentPagination['page'] ?> of <?php echo $currentPagination['pages'] ?></h2>
 </div>
   
